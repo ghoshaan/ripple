@@ -1,0 +1,6686 @@
+{
+  "abnormalities": {
+    "senses": [
+      {
+        "label": "an abnormal physical",
+        "probe": "abnormality"
+      },
+      {
+        "label": "retardation sufficient to",
+        "probe": "retardation"
+      },
+      {
+        "label": "marked strangeness as",
+        "probe": "strangeness"
+      }
+    ]
+  },
+  "abnormality": {
+    "senses": [
+      {
+        "label": "an abnormal physical",
+        "probe": "abnormal"
+      },
+      {
+        "label": "retardation sufficient to",
+        "probe": "retardation"
+      },
+      {
+        "label": "marked strangeness as",
+        "probe": "strangeness"
+      }
+    ]
+  },
+  "absorption": {
+    "senses": [
+      {
+        "label": "the social process",
+        "probe": "assimilation"
+      },
+      {
+        "label": "complete attention",
+        "probe": "concentration"
+      }
+    ]
+  },
+  "abstract": {
+    "senses": [
+      {
+        "label": "a concept or",
+        "probe": "abstraction"
+      },
+      {
+        "label": "give an abstract",
+        "probe": "summarize"
+      }
+    ]
+  },
+  "abstracted": {
+    "senses": [
+      {
+        "label": "consider a concept",
+        "probe": "abstract"
+      },
+      {
+        "label": "give an abstract",
+        "probe": "summarize"
+      }
+    ]
+  },
+  "abstraction": {
+    "senses": [
+      {
+        "label": "a concept or",
+        "probe": "abstract"
+      },
+      {
+        "label": "the process of",
+        "probe": "generalization"
+      },
+      {
+        "label": "preoccupation with something",
+        "probe": "absorption"
+      }
+    ]
+  },
+  "abstractions": {
+    "senses": [
+      {
+        "label": "a concept or",
+        "probe": "abstraction"
+      },
+      {
+        "label": "the process of",
+        "probe": "generalization"
+      },
+      {
+        "label": "an abstract painting",
+        "probe": "abstract"
+      },
+      {
+        "label": "preoccupation with something",
+        "probe": "absorption"
+      }
+    ]
+  },
+  "abstracts": {
+    "senses": [
+      {
+        "label": "a concept or",
+        "probe": "abstraction"
+      },
+      {
+        "label": "a sketchy summary",
+        "probe": "abstract"
+      },
+      {
+        "label": "give an abstract",
+        "probe": "summarize"
+      }
+    ]
+  },
+  "academicians": {
+    "senses": [
+      {
+        "label": "someone elected to",
+        "probe": "academician"
+      },
+      {
+        "label": "an educator who",
+        "probe": "pedagogue"
+      }
+    ]
+  },
+  "accelerator": {
+    "senses": [
+      {
+        "label": "a valve that",
+        "probe": "valve"
+      },
+      {
+        "label": "a scientific instrument",
+        "probe": "scientific"
+      }
+    ]
+  },
+  "accelerators": {
+    "senses": [
+      {
+        "label": "a pedal that",
+        "probe": "accelerator"
+      },
+      {
+        "label": "a valve that",
+        "probe": "valve"
+      },
+      {
+        "label": "a scientific instrument",
+        "probe": "scientific"
+      }
+    ]
+  },
+  "acculturation": {
+    "senses": [
+      {
+        "label": "the adoption of",
+        "probe": "socialization"
+      },
+      {
+        "label": "the process of",
+        "probe": "assimilation"
+      }
+    ]
+  },
+  "acids": {
+    "senses": [
+      {
+        "label": "any of various",
+        "probe": "acid"
+      },
+      {
+        "label": "street name for",
+        "probe": "dose"
+      }
+    ]
+  },
+  "acoustics": {
+    "senses": [
+      {
+        "label": "the study of",
+        "probe": "physics"
+      },
+      {
+        "label": "a remedy for",
+        "probe": "therapeutic"
+      }
+    ]
+  },
+  "acrylic": {
+    "senses": [
+      {
+        "label": "used especially by",
+        "probe": "pigment"
+      },
+      {
+        "label": "a synthetic fabric",
+        "probe": "synthetic"
+      }
+    ]
+  },
+  "adhesion": {
+    "senses": [
+      {
+        "label": "abnormal union of",
+        "probe": "abnormal"
+      },
+      {
+        "label": "a fibrous band",
+        "probe": "fibrous"
+      }
+    ]
+  },
+  "aesthetics": {
+    "senses": [
+      {
+        "label": "(art) the branch",
+        "probe": "esthetics"
+      },
+      {
+        "label": "(philosophy) a philosophical",
+        "probe": "aesthetic"
+      }
+    ]
+  },
+  "affinities": {
+    "senses": [
+      {
+        "label": "(immunology) the attraction",
+        "probe": "affinity"
+      },
+      {
+        "label": "(anthropology) kinship by",
+        "probe": "kinship"
+      }
+    ]
+  },
+  "alchemy": {
+    "senses": [
+      {
+        "label": "the way two",
+        "probe": "chemistry"
+      },
+      {
+        "label": "a pseudoscientific forerunner",
+        "probe": "pseudoscientific"
+      }
+    ]
+  },
+  "allegory": {
+    "senses": [
+      {
+        "label": "a short moral",
+        "probe": "parable"
+      },
+      {
+        "label": "an expressive style",
+        "probe": "expressive"
+      }
+    ]
+  },
+  "alloys": {
+    "senses": [
+      {
+        "label": "the state of",
+        "probe": "admixture"
+      },
+      {
+        "label": "make an alloy",
+        "probe": "flux"
+      }
+    ]
+  },
+  "alterations": {
+    "senses": [
+      {
+        "label": "an event that",
+        "probe": "alteration"
+      },
+      {
+        "label": "the act of",
+        "probe": "modification"
+      }
+    ]
+  },
+  "amphibian": {
+    "senses": [
+      {
+        "label": "an airplane designed",
+        "probe": "aeroplane"
+      },
+      {
+        "label": "cold-blooded vertebrate typically",
+        "probe": "vertebrate"
+      }
+    ]
+  },
+  "amphibians": {
+    "senses": [
+      {
+        "label": "a flat-bottomed motor",
+        "probe": "amphibian"
+      },
+      {
+        "label": "an airplane designed",
+        "probe": "aeroplane"
+      },
+      {
+        "label": "cold-blooded vertebrate typically",
+        "probe": "vertebrate"
+      }
+    ]
+  },
+  "amplitude": {
+    "senses": [
+      {
+        "label": "(physics) the maximum",
+        "probe": "displacement"
+      },
+      {
+        "label": "the property of",
+        "probe": "abundance"
+      }
+    ]
+  },
+  "amplitudes": {
+    "senses": [
+      {
+        "label": "(physics) the maximum",
+        "probe": "amplitude"
+      },
+      {
+        "label": "the property of",
+        "probe": "abundance"
+      }
+    ]
+  },
+  "amyloid": {
+    "senses": [
+      {
+        "label": "a non-nitrogenous food",
+        "probe": "starch"
+      },
+      {
+        "label": "(pathology) a waxy",
+        "probe": "protein"
+      }
+    ]
+  },
+  "analysed": {
+    "senses": [
+      {
+        "label": "consider in detail",
+        "probe": "analyze"
+      },
+      {
+        "label": "make a mathematical",
+        "probe": "dissect"
+      }
+    ]
+  },
+  "analyses": {
+    "senses": [
+      {
+        "label": "the abstract separation",
+        "probe": "abstract"
+      },
+      {
+        "label": "a branch of",
+        "probe": "calculus"
+      },
+      {
+        "label": "a set of",
+        "probe": "psychoanalysis"
+      },
+      {
+        "label": "consider in detail",
+        "probe": "analyze"
+      },
+      {
+        "label": "make a mathematical",
+        "probe": "dissect"
+      }
+    ]
+  },
+  "analysing": {
+    "senses": [
+      {
+        "label": "consider in detail",
+        "probe": "analyze"
+      },
+      {
+        "label": "make a mathematical",
+        "probe": "dissect"
+      }
+    ]
+  },
+  "analyze": {
+    "senses": [
+      {
+        "label": "make a mathematical",
+        "probe": "dissect"
+      }
+    ]
+  },
+  "analyzed": {
+    "senses": [
+      {
+        "label": "consider in detail",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "analyzes": {
+    "senses": [
+      {
+        "label": "consider in detail",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "analyzing": {
+    "senses": [
+      {
+        "label": "consider in detail",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "anemia": {
+    "senses": [
+      {
+        "label": "a deficiency of",
+        "probe": "deficiency"
+      },
+      {
+        "label": "genus of terrestrial",
+        "probe": "genus"
+      }
+    ]
+  },
+  "approximation": {
+    "senses": [
+      {
+        "label": "an approximate calculation",
+        "probe": "estimation"
+      },
+      {
+        "label": "the quality of",
+        "probe": "similarity"
+      },
+      {
+        "label": "an imprecise or",
+        "probe": "imprecise"
+      }
+    ]
+  },
+  "approximations": {
+    "senses": [
+      {
+        "label": "an approximate calculation",
+        "probe": "estimation"
+      },
+      {
+        "label": "the quality of",
+        "probe": "approximation"
+      },
+      {
+        "label": "an imprecise or",
+        "probe": "imprecise"
+      }
+    ]
+  },
+  "aroma": {
+    "senses": [
+      {
+        "label": "any property detected",
+        "probe": "smell"
+      },
+      {
+        "label": "a distinctive odor",
+        "probe": "odor"
+      }
+    ]
+  },
+  "assay": {
+    "senses": [
+      {
+        "label": "a quantitative or",
+        "probe": "quantitative"
+      },
+      {
+        "label": "analyze (chemical substances)",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "assays": {
+    "senses": [
+      {
+        "label": "an appraisal of",
+        "probe": "assay"
+      },
+      {
+        "label": "a quantitative or",
+        "probe": "quantitative"
+      },
+      {
+        "label": "analyze (chemical substances)",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "assemblages": {
+    "senses": [
+      {
+        "label": "a group of",
+        "probe": "assemblage"
+      },
+      {
+        "label": "several things grouped",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "assimilation": {
+    "senses": [
+      {
+        "label": "the social process",
+        "probe": "absorption"
+      },
+      {
+        "label": "a linguistic process",
+        "probe": "linguistic"
+      },
+      {
+        "label": "the process of",
+        "probe": "acculturation"
+      },
+      {
+        "label": "in the theories",
+        "probe": "theories"
+      }
+    ]
+  },
+  "atoms": {
+    "senses": [
+      {
+        "label": "(physics and chemistry)",
+        "probe": "atom"
+      },
+      {
+        "label": "(nontechnical usage) a",
+        "probe": "molecule"
+      }
+    ]
+  },
+  "authorship": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "composition"
+      },
+      {
+        "label": "the act of",
+        "probe": "paternity"
+      }
+    ]
+  },
+  "bachelors": {
+    "senses": [
+      {
+        "label": "a man who",
+        "probe": "bachelor"
+      },
+      {
+        "label": "lead a bachelor's",
+        "probe": "bach"
+      }
+    ]
+  },
+  "ballistics": {
+    "senses": [
+      {
+        "label": "the trajectory of",
+        "probe": "trajectory"
+      },
+      {
+        "label": "the science of",
+        "probe": "science"
+      }
+    ]
+  },
+  "batches": {
+    "senses": [
+      {
+        "label": "all the loaves",
+        "probe": "accumulation"
+      },
+      {
+        "label": "a collection of",
+        "probe": "assemblage"
+      }
+    ]
+  },
+  "bearings": {
+    "senses": [
+      {
+        "label": "relevant relation or",
+        "probe": "relatedness"
+      },
+      {
+        "label": "characteristic way of",
+        "probe": "characteristic"
+      },
+      {
+        "label": "heraldry consisting of",
+        "probe": "heraldry"
+      }
+    ]
+  },
+  "bifurcation": {
+    "senses": [
+      {
+        "label": "a bifurcating branch",
+        "probe": "ramification"
+      },
+      {
+        "label": "the act of",
+        "probe": "branching"
+      }
+    ]
+  },
+  "biology": {
+    "senses": [
+      {
+        "label": "the science that",
+        "probe": "science"
+      },
+      {
+        "label": "characteristic life processes",
+        "probe": "characteristic"
+      },
+      {
+        "label": "all the plant",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "blends": {
+    "senses": [
+      {
+        "label": "an occurrence of",
+        "probe": "occurrence"
+      },
+      {
+        "label": "the act of",
+        "probe": "blending"
+      },
+      {
+        "label": "mix together different",
+        "probe": "flux"
+      }
+    ]
+  },
+  "blooms": {
+    "senses": [
+      {
+        "label": "the organic process",
+        "probe": "organic"
+      },
+      {
+        "label": "reproductive organ of",
+        "probe": "reproductive"
+      },
+      {
+        "label": "a powdery deposit",
+        "probe": "crystallization"
+      }
+    ]
+  },
+  "botany": {
+    "senses": [
+      {
+        "label": "all the plant",
+        "probe": "flora"
+      },
+      {
+        "label": "the branch of",
+        "probe": "biology"
+      }
+    ]
+  },
+  "brain": {
+    "senses": [
+      {
+        "label": "that which is",
+        "probe": "cognition"
+      },
+      {
+        "label": "someone who has",
+        "probe": "einstein"
+      }
+    ]
+  },
+  "brains": {
+    "senses": [
+      {
+        "label": "that part of",
+        "probe": "brain"
+      },
+      {
+        "label": "that which is",
+        "probe": "cognition"
+      },
+      {
+        "label": "someone who has",
+        "probe": "einstein"
+      }
+    ]
+  },
+  "breeding": {
+    "senses": [
+      {
+        "label": "helping someone grow",
+        "probe": "rearing"
+      },
+      {
+        "label": "the sexual activity",
+        "probe": "reproduction"
+      }
+    ]
+  },
+  "buoyancy": {
+    "senses": [
+      {
+        "label": "the property of",
+        "probe": "weightlessness"
+      },
+      {
+        "label": "the tendency to",
+        "probe": "inclination"
+      }
+    ]
+  },
+  "cancers": {
+    "senses": [
+      {
+        "label": "any malignant growth",
+        "probe": "malignant"
+      },
+      {
+        "label": "type genus of",
+        "probe": "genus"
+      }
+    ]
+  },
+  "capacitance": {
+    "senses": [
+      {
+        "label": "an electrical phenomenon",
+        "probe": "electrical"
+      },
+      {
+        "label": "an electrical device",
+        "probe": "capacitor"
+      }
+    ]
+  },
+  "capsule": {
+    "senses": [
+      {
+        "label": "a shortened version",
+        "probe": "condensation"
+      },
+      {
+        "label": "a spacecraft designed",
+        "probe": "spacecraft"
+      },
+      {
+        "label": "put in a",
+        "probe": "condense"
+      }
+    ]
+  },
+  "cavities": {
+    "senses": [
+      {
+        "label": "a sizeable hole",
+        "probe": "cavity"
+      },
+      {
+        "label": "soft decayed area",
+        "probe": "caries"
+      }
+    ]
+  },
+  "characteristic": {
+    "senses": [
+      {
+        "label": "a distinguishing quality",
+        "probe": "distinguishing"
+      },
+      {
+        "label": "any measurable property",
+        "probe": "measurable"
+      }
+    ]
+  },
+  "characteristics": {
+    "senses": [
+      {
+        "label": "a prominent attribute",
+        "probe": "characteristic"
+      },
+      {
+        "label": "a distinguishing quality",
+        "probe": "distinguishing"
+      },
+      {
+        "label": "any measurable property",
+        "probe": "measurable"
+      }
+    ]
+  },
+  "characterizes": {
+    "senses": [
+      {
+        "label": "describe or portray",
+        "probe": "characterize"
+      },
+      {
+        "label": "be characteristic of",
+        "probe": "characteristic"
+      }
+    ]
+  },
+  "chemist": {
+    "senses": [
+      {
+        "label": "a scientist who",
+        "probe": "scientist"
+      },
+      {
+        "label": "a health professional",
+        "probe": "pharmacist"
+      }
+    ]
+  },
+  "chemistry": {
+    "senses": [
+      {
+        "label": "the science of",
+        "probe": "science"
+      },
+      {
+        "label": "the chemical composition",
+        "probe": "chemical"
+      },
+      {
+        "label": "the way two",
+        "probe": "alchemy"
+      }
+    ]
+  },
+  "chemists": {
+    "senses": [
+      {
+        "label": "a scientist who",
+        "probe": "chemist"
+      },
+      {
+        "label": "a health professional",
+        "probe": "pharmacist"
+      }
+    ]
+  },
+  "ciphers": {
+    "senses": [
+      {
+        "label": "a mathematical element",
+        "probe": "mathematical"
+      },
+      {
+        "label": "a quantity of",
+        "probe": "quantity"
+      }
+    ]
+  },
+  "civilizations": {
+    "senses": [
+      {
+        "label": "a society in",
+        "probe": "civilisation"
+      },
+      {
+        "label": "the quality of",
+        "probe": "refinement"
+      }
+    ]
+  },
+  "classifications": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "categorization"
+      },
+      {
+        "label": "restriction imposed by",
+        "probe": "confinement"
+      }
+    ]
+  },
+  "clotting": {
+    "senses": [
+      {
+        "label": "the process of",
+        "probe": "coagulation"
+      },
+      {
+        "label": "change from a",
+        "probe": "clot"
+      }
+    ]
+  },
+  "coatings": {
+    "senses": [
+      {
+        "label": "a thin layer",
+        "probe": "coating"
+      },
+      {
+        "label": "a decorative texture",
+        "probe": "decorative"
+      }
+    ]
+  },
+  "coils": {
+    "senses": [
+      {
+        "label": "a structure consisting",
+        "probe": "helix"
+      },
+      {
+        "label": "a transformer that",
+        "probe": "transformer"
+      },
+      {
+        "label": "a contraceptive device",
+        "probe": "preventative"
+      },
+      {
+        "label": "reactor consisting of",
+        "probe": "reactor"
+      }
+    ]
+  },
+  "collages": {
+    "senses": [
+      {
+        "label": "a paste-up made",
+        "probe": "collage"
+      },
+      {
+        "label": "any collection of",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "coma": {
+    "senses": [
+      {
+        "label": "a state of",
+        "probe": "unconsciousness"
+      },
+      {
+        "label": "(astronomy) the luminous",
+        "probe": "luminous"
+      }
+    ]
+  },
+  "complication": {
+    "senses": [
+      {
+        "label": "a development that",
+        "probe": "ramification"
+      },
+      {
+        "label": "puzzling complexity",
+        "probe": "puzzling"
+      }
+    ]
+  },
+  "composition": {
+    "senses": [
+      {
+        "label": "the spatial property",
+        "probe": "spatial"
+      },
+      {
+        "label": "the act of",
+        "probe": "authorship"
+      },
+      {
+        "label": "art and technique",
+        "probe": "typography"
+      }
+    ]
+  },
+  "compositions": {
+    "senses": [
+      {
+        "label": "the spatial property",
+        "probe": "composition"
+      },
+      {
+        "label": "the act of",
+        "probe": "authorship"
+      },
+      {
+        "label": "art and technique",
+        "probe": "typography"
+      }
+    ]
+  },
+  "concentrates": {
+    "senses": [
+      {
+        "label": "a concentrated form",
+        "probe": "foodstuff"
+      },
+      {
+        "label": "a concentrated example",
+        "probe": "paradigm"
+      },
+      {
+        "label": "make more concise",
+        "probe": "condense"
+      }
+    ]
+  },
+  "concentration": {
+    "senses": [
+      {
+        "label": "the spatial property",
+        "probe": "density"
+      },
+      {
+        "label": "complete attention",
+        "probe": "absorption"
+      },
+      {
+        "label": "bringing together military",
+        "probe": "assemblage"
+      },
+      {
+        "label": "great and constant",
+        "probe": "diligence"
+      }
+    ]
+  },
+  "concentrations": {
+    "senses": [
+      {
+        "label": "the strength of",
+        "probe": "concentration"
+      },
+      {
+        "label": "the spatial property",
+        "probe": "density"
+      },
+      {
+        "label": "complete attention",
+        "probe": "absorption"
+      },
+      {
+        "label": "bringing together military",
+        "probe": "assemblage"
+      },
+      {
+        "label": "great and constant",
+        "probe": "diligence"
+      }
+    ]
+  },
+  "conception": {
+    "senses": [
+      {
+        "label": "an abstract or",
+        "probe": "abstract"
+      },
+      {
+        "label": "the creation of",
+        "probe": "invention"
+      }
+    ]
+  },
+  "conceptions": {
+    "senses": [
+      {
+        "label": "an abstract or",
+        "probe": "conception"
+      },
+      {
+        "label": "the creation of",
+        "probe": "invention"
+      }
+    ]
+  },
+  "conceptualization": {
+    "senses": [
+      {
+        "label": "inventing or contriving",
+        "probe": "formulation"
+      },
+      {
+        "label": "an elaborated concept",
+        "probe": "elaborated"
+      }
+    ]
+  },
+  "concoction": {
+    "senses": [
+      {
+        "label": "any foodstuff made",
+        "probe": "foodstuff"
+      },
+      {
+        "label": "an occurrence of",
+        "probe": "occurrence"
+      },
+      {
+        "label": "the invention of",
+        "probe": "invention"
+      }
+    ]
+  },
+  "condensate": {
+    "senses": [
+      {
+        "label": "a product of",
+        "probe": "freshwater"
+      },
+      {
+        "label": "atmospheric moisture that",
+        "probe": "condensation"
+      }
+    ]
+  },
+  "condensation": {
+    "senses": [
+      {
+        "label": "atmospheric moisture that",
+        "probe": "condensate"
+      },
+      {
+        "label": "the process or",
+        "probe": "shrinkage"
+      },
+      {
+        "label": "a shortened version",
+        "probe": "capsule"
+      },
+      {
+        "label": "the act of",
+        "probe": "condensing"
+      }
+    ]
+  },
+  "condensing": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "condensation"
+      },
+      {
+        "label": "undergo condensation",
+        "probe": "condense"
+      }
+    ]
+  },
+  "conformation": {
+    "senses": [
+      {
+        "label": "a symmetrical arrangement",
+        "probe": "equilibrium"
+      },
+      {
+        "label": "any spatial attributes",
+        "probe": "contour"
+      },
+      {
+        "label": "acting according to",
+        "probe": "conformity"
+      }
+    ]
+  },
+  "conformity": {
+    "senses": [
+      {
+        "label": "correspondence in form",
+        "probe": "conformance"
+      },
+      {
+        "label": "acting according to",
+        "probe": "conformation"
+      }
+    ]
+  },
+  "conjecture": {
+    "senses": [
+      {
+        "label": "a hypothesis that",
+        "probe": "hypothesis"
+      },
+      {
+        "label": "reasoning that involves",
+        "probe": "reasoning"
+      },
+      {
+        "label": "to believe especially",
+        "probe": "theorize"
+      }
+    ]
+  },
+  "conservatories": {
+    "senses": [
+      {
+        "label": "the faculty and",
+        "probe": "conservatory"
+      },
+      {
+        "label": "a schoolhouse with",
+        "probe": "conservatoire"
+      },
+      {
+        "label": "a greenhouse in",
+        "probe": "hothouse"
+      }
+    ]
+  },
+  "conservatory": {
+    "senses": [
+      {
+        "label": "a schoolhouse with",
+        "probe": "conservatoire"
+      },
+      {
+        "label": "a greenhouse in",
+        "probe": "hothouse"
+      }
+    ]
+  },
+  "constructions": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "constructing"
+      },
+      {
+        "label": "a thing constructed",
+        "probe": "artifact"
+      }
+    ]
+  },
+  "constructs": {
+    "senses": [
+      {
+        "label": "an abstract or",
+        "probe": "conception"
+      },
+      {
+        "label": "reassemble mentally",
+        "probe": "theorize"
+      }
+    ]
+  },
+  "contamination": {
+    "senses": [
+      {
+        "label": "the state of",
+        "probe": "impurity"
+      },
+      {
+        "label": "a substance that",
+        "probe": "contaminant"
+      }
+    ]
+  },
+  "contour": {
+    "senses": [
+      {
+        "label": "any spatial attributes",
+        "probe": "conformation"
+      },
+      {
+        "label": "a feature (or",
+        "probe": "characteristic"
+      }
+    ]
+  },
+  "cores": {
+    "senses": [
+      {
+        "label": "a small group",
+        "probe": "nucleus"
+      },
+      {
+        "label": "the choicest or",
+        "probe": "gist"
+      },
+      {
+        "label": "a cylindrical sample",
+        "probe": "cylindrical"
+      },
+      {
+        "label": "(computer science) a",
+        "probe": "torus"
+      },
+      {
+        "label": "a bar of",
+        "probe": "magnetic"
+      }
+    ]
+  },
+  "correlates": {
+    "senses": [
+      {
+        "label": "either of two",
+        "probe": "correlate"
+      },
+      {
+        "label": "to bear a",
+        "probe": "correspond"
+      }
+    ]
+  },
+  "correspondences": {
+    "senses": [
+      {
+        "label": "(mathematics) an attribute",
+        "probe": "symmetry"
+      },
+      {
+        "label": "similarity by virtue",
+        "probe": "similarity"
+      }
+    ]
+  },
+  "cosmology": {
+    "senses": [
+      {
+        "label": "the metaphysical study",
+        "probe": "metaphysical"
+      },
+      {
+        "label": "the branch of",
+        "probe": "astrophysics"
+      }
+    ]
+  },
+  "creep": {
+    "senses": [
+      {
+        "label": "a slow mode",
+        "probe": "locomotion"
+      },
+      {
+        "label": "grow or spread",
+        "probe": "diffuse"
+      }
+    ]
+  },
+  "crossbreeding": {
+    "senses": [
+      {
+        "label": "(genetics) the act",
+        "probe": "hybridization"
+      },
+      {
+        "label": "reproduction by parents",
+        "probe": "reproduction"
+      }
+    ]
+  },
+  "cryptography": {
+    "senses": [
+      {
+        "label": "the science of",
+        "probe": "cryptanalysis"
+      },
+      {
+        "label": "act of writing",
+        "probe": "coding"
+      }
+    ]
+  },
+  "crystals": {
+    "senses": [
+      {
+        "label": "a crystalline element",
+        "probe": "crystalline"
+      },
+      {
+        "label": "a rock formed",
+        "probe": "crystallization"
+      },
+      {
+        "label": "colorless glass made",
+        "probe": "colorless"
+      },
+      {
+        "label": "glassware made of",
+        "probe": "glassware"
+      }
+    ]
+  },
+  "cultures": {
+    "senses": [
+      {
+        "label": "a particular society",
+        "probe": "civilisation"
+      },
+      {
+        "label": "all the knowledge",
+        "probe": "acculturation"
+      },
+      {
+        "label": "(biology) the growing",
+        "probe": "maturation"
+      },
+      {
+        "label": "a highly developed",
+        "probe": "refinement"
+      }
+    ]
+  },
+  "curiosities": {
+    "senses": [
+      {
+        "label": "a state in",
+        "probe": "curiosity"
+      },
+      {
+        "label": "something unusual --",
+        "probe": "oddity"
+      }
+    ]
+  },
+  "curvature": {
+    "senses": [
+      {
+        "label": "the rate of",
+        "probe": "derivative"
+      },
+      {
+        "label": "the property possessed",
+        "probe": "contour"
+      }
+    ]
+  },
+  "curves": {
+    "senses": [
+      {
+        "label": "the property possessed",
+        "probe": "curvature"
+      },
+      {
+        "label": "form an arch",
+        "probe": "arc"
+      }
+    ]
+  },
+  "cycles": {
+    "senses": [
+      {
+        "label": "an interval during",
+        "probe": "interval"
+      },
+      {
+        "label": "a single complete",
+        "probe": "oscillation"
+      }
+    ]
+  },
+  "decay": {
+    "senses": [
+      {
+        "label": "the organic phenomenon",
+        "probe": "decomposition"
+      },
+      {
+        "label": "the spontaneous disintegration",
+        "probe": "spontaneous"
+      },
+      {
+        "label": "lose a stored",
+        "probe": "decompose"
+      }
+    ]
+  },
+  "decays": {
+    "senses": [
+      {
+        "label": "the process of",
+        "probe": "decay"
+      },
+      {
+        "label": "the organic phenomenon",
+        "probe": "decomposition"
+      },
+      {
+        "label": "the spontaneous disintegration",
+        "probe": "spontaneous"
+      },
+      {
+        "label": "lose a stored",
+        "probe": "decompose"
+      }
+    ]
+  },
+  "decompose": {
+    "senses": [
+      {
+        "label": "lose a stored",
+        "probe": "decay"
+      },
+      {
+        "label": "break down",
+        "probe": "rot"
+      }
+    ]
+  },
+  "decomposed": {
+    "senses": [
+      {
+        "label": "separate (substances) into",
+        "probe": "decompose"
+      },
+      {
+        "label": "lose a stored",
+        "probe": "decay"
+      },
+      {
+        "label": "break down",
+        "probe": "rot"
+      }
+    ]
+  },
+  "decomposes": {
+    "senses": [
+      {
+        "label": "separate (substances) into",
+        "probe": "decompose"
+      },
+      {
+        "label": "lose a stored",
+        "probe": "decay"
+      },
+      {
+        "label": "break down",
+        "probe": "rot"
+      }
+    ]
+  },
+  "decomposing": {
+    "senses": [
+      {
+        "label": "separate (substances) into",
+        "probe": "decompose"
+      },
+      {
+        "label": "lose a stored",
+        "probe": "decay"
+      },
+      {
+        "label": "break down",
+        "probe": "rot"
+      }
+    ]
+  },
+  "decomposition": {
+    "senses": [
+      {
+        "label": "in a decomposed",
+        "probe": "decomposed"
+      },
+      {
+        "label": "(biology) the process",
+        "probe": "rot"
+      },
+      {
+        "label": "the organic phenomenon",
+        "probe": "decay"
+      }
+    ]
+  },
+  "deduced": {
+    "senses": [
+      {
+        "label": "reason by deduction",
+        "probe": "deduce"
+      },
+      {
+        "label": "conclude by reasoning",
+        "probe": "infer"
+      }
+    ]
+  },
+  "degeneration": {
+    "senses": [
+      {
+        "label": "the state of",
+        "probe": "degeneracy"
+      },
+      {
+        "label": "passing from a",
+        "probe": "transmutation"
+      }
+    ]
+  },
+  "dehydration": {
+    "senses": [
+      {
+        "label": "depletion of bodily",
+        "probe": "depletion"
+      },
+      {
+        "label": "the process of",
+        "probe": "evaporation"
+      }
+    ]
+  },
+  "densities": {
+    "senses": [
+      {
+        "label": "the amount per",
+        "probe": "density"
+      },
+      {
+        "label": "the spatial property",
+        "probe": "concentration"
+      }
+    ]
+  },
+  "depths": {
+    "senses": [
+      {
+        "label": "degree of psychological",
+        "probe": "psychological"
+      },
+      {
+        "label": "(usually plural) a",
+        "probe": "degradation"
+      }
+    ]
+  },
+  "derivation": {
+    "senses": [
+      {
+        "label": "(historical linguistics) an",
+        "probe": "deriving"
+      },
+      {
+        "label": "a line of",
+        "probe": "inference"
+      },
+      {
+        "label": "inherited properties shared",
+        "probe": "lineage"
+      }
+    ]
+  },
+  "derived": {
+    "senses": [
+      {
+        "label": "reason by deduction",
+        "probe": "deduce"
+      },
+      {
+        "label": "obtain",
+        "probe": "derive"
+      }
+    ]
+  },
+  "deriving": {
+    "senses": [
+      {
+        "label": "(historical linguistics) an",
+        "probe": "derivation"
+      },
+      {
+        "label": "reason by deduction",
+        "probe": "deduce"
+      },
+      {
+        "label": "obtain",
+        "probe": "derive"
+      }
+    ]
+  },
+  "detachment": {
+    "senses": [
+      {
+        "label": "the state of",
+        "probe": "insulation"
+      },
+      {
+        "label": "coming apart",
+        "probe": "alteration"
+      }
+    ]
+  },
+  "detection": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "detecting"
+      },
+      {
+        "label": "a police investigation",
+        "probe": "sleuthing"
+      }
+    ]
+  },
+  "deviance": {
+    "senses": [
+      {
+        "label": "a state or",
+        "probe": "abnormality"
+      },
+      {
+        "label": "deviate behavior",
+        "probe": "deviation"
+      }
+    ]
+  },
+  "deviation": {
+    "senses": [
+      {
+        "label": "a variation that",
+        "probe": "divergence"
+      },
+      {
+        "label": "deviate behavior",
+        "probe": "deviance"
+      }
+    ]
+  },
+  "deviations": {
+    "senses": [
+      {
+        "label": "a variation that",
+        "probe": "deviation"
+      },
+      {
+        "label": "deviate behavior",
+        "probe": "deviance"
+      }
+    ]
+  },
+  "diagnose": {
+    "senses": [
+      {
+        "label": "determine or distinguish",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "diagnoses": {
+    "senses": [
+      {
+        "label": "identifying the nature",
+        "probe": "diagnosis"
+      },
+      {
+        "label": "determine or distinguish",
+        "probe": "diagnose"
+      },
+      {
+        "label": "subject to a",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "diagnosing": {
+    "senses": [
+      {
+        "label": "identifying the nature",
+        "probe": "diagnosis"
+      },
+      {
+        "label": "determine or distinguish",
+        "probe": "diagnose"
+      },
+      {
+        "label": "subject to a",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "differentiated": {
+    "senses": [
+      {
+        "label": "be a distinctive",
+        "probe": "characterize"
+      },
+      {
+        "label": "evolve so as",
+        "probe": "specialise"
+      }
+    ]
+  },
+  "differentiation": {
+    "senses": [
+      {
+        "label": "the mathematical process",
+        "probe": "mathematical"
+      },
+      {
+        "label": "(biology) the structural",
+        "probe": "specialization"
+      }
+    ]
+  },
+  "diffuse": {
+    "senses": [
+      {
+        "label": "spread or diffuse",
+        "probe": "permeate"
+      },
+      {
+        "label": "cause to become",
+        "probe": "propagate"
+      }
+    ]
+  },
+  "diffusion": {
+    "senses": [
+      {
+        "label": "the property of",
+        "probe": "dissemination"
+      },
+      {
+        "label": "the act of",
+        "probe": "dispersion"
+      }
+    ]
+  },
+  "digestion": {
+    "senses": [
+      {
+        "label": "the process of",
+        "probe": "decomposing"
+      },
+      {
+        "label": "the organic process",
+        "probe": "organic"
+      }
+    ]
+  },
+  "discharges": {
+    "senses": [
+      {
+        "label": "the sudden giving",
+        "probe": "occurrence"
+      },
+      {
+        "label": "the act of",
+        "probe": "emission"
+      },
+      {
+        "label": "electrical conduction through",
+        "probe": "arc"
+      }
+    ]
+  },
+  "dispersion": {
+    "senses": [
+      {
+        "label": "spreading widely or",
+        "probe": "scattering"
+      },
+      {
+        "label": "the spatial or",
+        "probe": "spatial"
+      },
+      {
+        "label": "the act of",
+        "probe": "dissemination"
+      }
+    ]
+  },
+  "dissected": {
+    "senses": [
+      {
+        "label": "cut open or",
+        "probe": "dissect"
+      },
+      {
+        "label": "make a mathematical",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "dissecting": {
+    "senses": [
+      {
+        "label": "cut open or",
+        "probe": "dissect"
+      },
+      {
+        "label": "make a mathematical",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "dissemination": {
+    "senses": [
+      {
+        "label": "the property of",
+        "probe": "diffusion"
+      },
+      {
+        "label": "the act of",
+        "probe": "dispersion"
+      }
+    ]
+  },
+  "distillation": {
+    "senses": [
+      {
+        "label": "the process of",
+        "probe": "purifying"
+      },
+      {
+        "label": "a purified liquid",
+        "probe": "distillate"
+      }
+    ]
+  },
+  "distilling": {
+    "senses": [
+      {
+        "label": "undergo condensation",
+        "probe": "condense"
+      },
+      {
+        "label": "extract by the",
+        "probe": "extract"
+      }
+    ]
+  },
+  "divergence": {
+    "senses": [
+      {
+        "label": "a variation that",
+        "probe": "deviation"
+      },
+      {
+        "label": "an infinite series",
+        "probe": "infinite"
+      },
+      {
+        "label": "a difference between",
+        "probe": "variance"
+      }
+    ]
+  },
+  "divination": {
+    "senses": [
+      {
+        "label": "successful conjecture by",
+        "probe": "conjecture"
+      },
+      {
+        "label": "a prediction uttered",
+        "probe": "prophecy"
+      }
+    ]
+  },
+  "dosage": {
+    "senses": [
+      {
+        "label": "the quantity of",
+        "probe": "dose"
+      },
+      {
+        "label": "a measured portion",
+        "probe": "medicine"
+      }
+    ]
+  },
+  "dosages": {
+    "senses": [
+      {
+        "label": "the quantity of",
+        "probe": "dose"
+      },
+      {
+        "label": "a measured portion",
+        "probe": "dosage"
+      }
+    ]
+  },
+  "dose": {
+    "senses": [
+      {
+        "label": "a measured portion",
+        "probe": "dosage"
+      },
+      {
+        "label": "the quantity of",
+        "probe": "quantity"
+      },
+      {
+        "label": "a communicable infection",
+        "probe": "communicable"
+      },
+      {
+        "label": "street name for",
+        "probe": "acid"
+      },
+      {
+        "label": "administer a drug",
+        "probe": "medicine"
+      }
+    ]
+  },
+  "doses": {
+    "senses": [
+      {
+        "label": "a measured portion",
+        "probe": "dose"
+      },
+      {
+        "label": "the quantity of",
+        "probe": "dosage"
+      },
+      {
+        "label": "a communicable infection",
+        "probe": "communicable"
+      },
+      {
+        "label": "street name for",
+        "probe": "acid"
+      },
+      {
+        "label": "administer a drug",
+        "probe": "medicine"
+      }
+    ]
+  },
+  "dosing": {
+    "senses": [
+      {
+        "label": "treat with an",
+        "probe": "dose"
+      },
+      {
+        "label": "administer a drug",
+        "probe": "medicine"
+      }
+    ]
+  },
+  "drift": {
+    "senses": [
+      {
+        "label": "a process of",
+        "probe": "linguistic"
+      },
+      {
+        "label": "a general tendency",
+        "probe": "inclination"
+      }
+    ]
+  },
+  "dyeing": {
+    "senses": [
+      {
+        "label": "the use of",
+        "probe": "coloring"
+      },
+      {
+        "label": "color with dye",
+        "probe": "dye"
+      }
+    ]
+  },
+  "educations": {
+    "senses": [
+      {
+        "label": "the activities of",
+        "probe": "pedagogy"
+      },
+      {
+        "label": "the result of",
+        "probe": "breeding"
+      }
+    ]
+  },
+  "einstein": {
+    "senses": [
+      {
+        "label": "physicist born in",
+        "probe": "physicist"
+      },
+      {
+        "label": "someone who has",
+        "probe": "brain"
+      }
+    ]
+  },
+  "elaborated": {
+    "senses": [
+      {
+        "label": "add details",
+        "probe": "elucidate"
+      },
+      {
+        "label": "make more complex",
+        "probe": "refine"
+      }
+    ]
+  },
+  "elaboration": {
+    "senses": [
+      {
+        "label": "addition of extra",
+        "probe": "amplification"
+      },
+      {
+        "label": "the result of",
+        "probe": "refinement"
+      },
+      {
+        "label": "a discussion that",
+        "probe": "discourse"
+      },
+      {
+        "label": "marked by elaborately",
+        "probe": "complexity"
+      }
+    ]
+  },
+  "electromagnetism": {
+    "senses": [
+      {
+        "label": "magnetism produced by",
+        "probe": "magnetism"
+      },
+      {
+        "label": "the branch of",
+        "probe": "electromagnetics"
+      }
+    ]
+  },
+  "elicit": {
+    "senses": [
+      {
+        "label": "deduce (a principle)",
+        "probe": "extract"
+      },
+      {
+        "label": "derive by reason",
+        "probe": "derive"
+      }
+    ]
+  },
+  "elixir": {
+    "senses": [
+      {
+        "label": "hypothetical substance that",
+        "probe": "hypothetical"
+      },
+      {
+        "label": "a substance believed",
+        "probe": "potion"
+      }
+    ]
+  },
+  "elucidated": {
+    "senses": [
+      {
+        "label": "make clear and",
+        "probe": "elucidate"
+      },
+      {
+        "label": "make free from",
+        "probe": "illuminate"
+      }
+    ]
+  },
+  "elucidating": {
+    "senses": [
+      {
+        "label": "make clear and",
+        "probe": "elucidate"
+      },
+      {
+        "label": "make free from",
+        "probe": "illuminate"
+      }
+    ]
+  },
+  "embryo": {
+    "senses": [
+      {
+        "label": "(botany) a minute",
+        "probe": "flora"
+      },
+      {
+        "label": "an animal organism",
+        "probe": "organism"
+      }
+    ]
+  },
+  "embryos": {
+    "senses": [
+      {
+        "label": "(botany) a minute",
+        "probe": "embryo"
+      },
+      {
+        "label": "an animal organism",
+        "probe": "organism"
+      }
+    ]
+  },
+  "emission": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "emitting"
+      },
+      {
+        "label": "the occurrence of",
+        "probe": "occurrence"
+      }
+    ]
+  },
+  "emulsion": {
+    "senses": [
+      {
+        "label": "(chemistry) a colloid",
+        "probe": "colloid"
+      },
+      {
+        "label": "a light-sensitive coating",
+        "probe": "coating"
+      }
+    ]
+  },
+  "enamel": {
+    "senses": [
+      {
+        "label": "a paint that",
+        "probe": "pigment"
+      },
+      {
+        "label": "any smooth glossy",
+        "probe": "coating"
+      }
+    ]
+  },
+  "endocrine": {
+    "senses": [
+      {
+        "label": "the secretion of",
+        "probe": "hormone"
+      },
+      {
+        "label": "any of the",
+        "probe": "gland"
+      }
+    ]
+  },
+  "engravings": {
+    "senses": [
+      {
+        "label": "a print made",
+        "probe": "engraving"
+      },
+      {
+        "label": "making engraved or",
+        "probe": "etching"
+      }
+    ]
+  },
+  "entropy": {
+    "senses": [
+      {
+        "label": "(communication theory) a",
+        "probe": "numerical"
+      },
+      {
+        "label": "(thermodynamics) a thermodynamic",
+        "probe": "randomness"
+      }
+    ]
+  },
+  "equation": {
+    "senses": [
+      {
+        "label": "a mathematical statement",
+        "probe": "mathematical"
+      },
+      {
+        "label": "a state of",
+        "probe": "equivalence"
+      }
+    ]
+  },
+  "equations": {
+    "senses": [
+      {
+        "label": "a mathematical statement",
+        "probe": "equation"
+      },
+      {
+        "label": "a state of",
+        "probe": "equivalence"
+      }
+    ]
+  },
+  "equilibrium": {
+    "senses": [
+      {
+        "label": "a chemical reaction",
+        "probe": "chemical"
+      },
+      {
+        "label": "a sensory system",
+        "probe": "sensory"
+      }
+    ]
+  },
+  "essays": {
+    "senses": [
+      {
+        "label": "an analytic or",
+        "probe": "analytic"
+      },
+      {
+        "label": "make an effort",
+        "probe": "assay"
+      }
+    ]
+  },
+  "esthetics": {
+    "senses": [
+      {
+        "label": "(art) the branch",
+        "probe": "aesthetics"
+      },
+      {
+        "label": "(philosophy) a philosophical",
+        "probe": "aesthetic"
+      }
+    ]
+  },
+  "etching": {
+    "senses": [
+      {
+        "label": "an impression made",
+        "probe": "engraving"
+      },
+      {
+        "label": "making engraved or",
+        "probe": "printmaking"
+      }
+    ]
+  },
+  "etchings": {
+    "senses": [
+      {
+        "label": "an impression made",
+        "probe": "etching"
+      },
+      {
+        "label": "an etched plate",
+        "probe": "engraving"
+      },
+      {
+        "label": "making engraved or",
+        "probe": "printmaking"
+      }
+    ]
+  },
+  "ether": {
+    "senses": [
+      {
+        "label": "the fifth and",
+        "probe": "quintessence"
+      },
+      {
+        "label": "a medium that",
+        "probe": "aether"
+      },
+      {
+        "label": "a colorless volatile",
+        "probe": "colorless"
+      }
+    ]
+  },
+  "evaporation": {
+    "senses": [
+      {
+        "label": "the process of",
+        "probe": "vapor"
+      },
+      {
+        "label": "the process of",
+        "probe": "dehydration"
+      }
+    ]
+  },
+  "excavation": {
+    "senses": [
+      {
+        "label": "a hole in",
+        "probe": "artifact"
+      },
+      {
+        "label": "the act of",
+        "probe": "extracting"
+      }
+    ]
+  },
+  "excavations": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "excavation"
+      },
+      {
+        "label": "a hole in",
+        "probe": "artifact"
+      },
+      {
+        "label": "the act of",
+        "probe": "extracting"
+      }
+    ]
+  },
+  "excitation": {
+    "senses": [
+      {
+        "label": "the state of",
+        "probe": "inflammation"
+      },
+      {
+        "label": "the neural or",
+        "probe": "neural"
+      },
+      {
+        "label": "something that agitates",
+        "probe": "arousal"
+      }
+    ]
+  },
+  "excitations": {
+    "senses": [
+      {
+        "label": "the state of",
+        "probe": "excitation"
+      },
+      {
+        "label": "the neural or",
+        "probe": "neural"
+      },
+      {
+        "label": "something that agitates",
+        "probe": "arousal"
+      }
+    ]
+  },
+  "experiment": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "experimentation"
+      },
+      {
+        "label": "the testing of",
+        "probe": "research"
+      }
+    ]
+  },
+  "experiments": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "experiment"
+      },
+      {
+        "label": "the testing of",
+        "probe": "experimentation"
+      }
+    ]
+  },
+  "explorations": {
+    "senses": [
+      {
+        "label": "to travel for",
+        "probe": "exploration"
+      },
+      {
+        "label": "a systematic consideration",
+        "probe": "systematic"
+      }
+    ]
+  },
+  "explored": {
+    "senses": [
+      {
+        "label": "inquire into",
+        "probe": "research"
+      },
+      {
+        "label": "examine minutely",
+        "probe": "diagnose"
+      }
+    ]
+  },
+  "explores": {
+    "senses": [
+      {
+        "label": "inquire into",
+        "probe": "research"
+      },
+      {
+        "label": "examine minutely",
+        "probe": "diagnose"
+      }
+    ]
+  },
+  "exponent": {
+    "senses": [
+      {
+        "label": "someone who expounds",
+        "probe": "intellect"
+      },
+      {
+        "label": "a mathematical notation",
+        "probe": "mathematical"
+      }
+    ]
+  },
+  "exponents": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "exponent"
+      },
+      {
+        "label": "someone who expounds",
+        "probe": "intellect"
+      },
+      {
+        "label": "a mathematical notation",
+        "probe": "mathematical"
+      }
+    ]
+  },
+  "expositions": {
+    "senses": [
+      {
+        "label": "a systematic interpretation",
+        "probe": "systematic"
+      },
+      {
+        "label": "a collection of",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "extracted": {
+    "senses": [
+      {
+        "label": "remove",
+        "probe": "extract"
+      },
+      {
+        "label": "deduce (a principle)",
+        "probe": "elicit"
+      }
+    ]
+  },
+  "extracting": {
+    "senses": [
+      {
+        "label": "remove",
+        "probe": "extract"
+      },
+      {
+        "label": "deduce (a principle)",
+        "probe": "elicit"
+      }
+    ]
+  },
+  "extracts": {
+    "senses": [
+      {
+        "label": "a solution obtained",
+        "probe": "extract"
+      },
+      {
+        "label": "deduce (a principle)",
+        "probe": "elicit"
+      }
+    ]
+  },
+  "extrapolated": {
+    "senses": [
+      {
+        "label": "draw from specific",
+        "probe": "generalize"
+      },
+      {
+        "label": "gain knowledge of",
+        "probe": "deduce"
+      }
+    ]
+  },
+  "fabrication": {
+    "senses": [
+      {
+        "label": "writing in a",
+        "probe": "authorship"
+      },
+      {
+        "label": "the act of",
+        "probe": "constructing"
+      }
+    ]
+  },
+  "fauna": {
+    "senses": [
+      {
+        "label": "all the animal",
+        "probe": "zoology"
+      },
+      {
+        "label": "a living organism",
+        "probe": "organism"
+      }
+    ]
+  },
+  "fertilisation": {
+    "senses": [
+      {
+        "label": "creation by the",
+        "probe": "fertilization"
+      },
+      {
+        "label": "making fertile as",
+        "probe": "enrichment"
+      }
+    ]
+  },
+  "fertilization": {
+    "senses": [
+      {
+        "label": "creation by the",
+        "probe": "fertilisation"
+      },
+      {
+        "label": "making fertile as",
+        "probe": "enrichment"
+      }
+    ]
+  },
+  "fibers": {
+    "senses": [
+      {
+        "label": "coarse",
+        "probe": "foodstuff"
+      },
+      {
+        "label": "the inherent complex",
+        "probe": "trait"
+      }
+    ]
+  },
+  "flora": {
+    "senses": [
+      {
+        "label": "all the plant",
+        "probe": "botany"
+      },
+      {
+        "label": "(botany) a living",
+        "probe": "organism"
+      }
+    ]
+  },
+  "flowering": {
+    "senses": [
+      {
+        "label": "the time and",
+        "probe": "inflorescence"
+      },
+      {
+        "label": "a developmental process",
+        "probe": "developmental"
+      }
+    ]
+  },
+  "flux": {
+    "senses": [
+      {
+        "label": "a substance added",
+        "probe": "chemical"
+      },
+      {
+        "label": "excessive discharge of",
+        "probe": "pathology"
+      },
+      {
+        "label": "(physics) the number",
+        "probe": "density"
+      },
+      {
+        "label": "mix together different",
+        "probe": "fuse"
+      }
+    ]
+  },
+  "fluxes": {
+    "senses": [
+      {
+        "label": "the rate of",
+        "probe": "flux"
+      },
+      {
+        "label": "a substance added",
+        "probe": "chemical"
+      },
+      {
+        "label": "excessive discharge of",
+        "probe": "pathology"
+      },
+      {
+        "label": "(physics) the number",
+        "probe": "density"
+      },
+      {
+        "label": "mix together different",
+        "probe": "fuse"
+      }
+    ]
+  },
+  "foodstuffs": {
+    "senses": [
+      {
+        "label": "(usually plural) consumer",
+        "probe": "foodstuff"
+      },
+      {
+        "label": "a substance that",
+        "probe": "nutrient"
+      }
+    ]
+  },
+  "formalism": {
+    "senses": [
+      {
+        "label": "the doctrine that",
+        "probe": "philosophy"
+      },
+      {
+        "label": "(philosophy) the philosophical",
+        "probe": "philosophical"
+      }
+    ]
+  },
+  "formulations": {
+    "senses": [
+      {
+        "label": "a substance prepared",
+        "probe": "formulation"
+      },
+      {
+        "label": "inventing or contriving",
+        "probe": "conceptualization"
+      }
+    ]
+  },
+  "fractions": {
+    "senses": [
+      {
+        "label": "a component of",
+        "probe": "chemical"
+      },
+      {
+        "label": "the quotient of",
+        "probe": "quotient"
+      }
+    ]
+  },
+  "fragmentation": {
+    "senses": [
+      {
+        "label": "the disintegration of",
+        "probe": "decomposition"
+      },
+      {
+        "label": "the scattering of",
+        "probe": "scattering"
+      }
+    ]
+  },
+  "freemasonry": {
+    "senses": [
+      {
+        "label": "a natural or",
+        "probe": "fellowship"
+      },
+      {
+        "label": "freemasons collectively",
+        "probe": "masonry"
+      }
+    ]
+  },
+  "fumes": {
+    "senses": [
+      {
+        "label": "gases ejected from",
+        "probe": "gases"
+      },
+      {
+        "label": "a cloud of",
+        "probe": "aerosol"
+      }
+    ]
+  },
+  "functionalism": {
+    "senses": [
+      {
+        "label": "a psychology based",
+        "probe": "psychology"
+      },
+      {
+        "label": "any doctrine that",
+        "probe": "philosophy"
+      }
+    ]
+  },
+  "fungi": {
+    "senses": [
+      {
+        "label": "the taxonomic kingdom",
+        "probe": "taxonomic"
+      },
+      {
+        "label": "an organism of",
+        "probe": "fungus"
+      }
+    ]
+  },
+  "fuse": {
+    "senses": [
+      {
+        "label": "an electrical device",
+        "probe": "electrical"
+      },
+      {
+        "label": "any igniter that",
+        "probe": "primer"
+      },
+      {
+        "label": "mix together different",
+        "probe": "flux"
+      },
+      {
+        "label": "make liquid or",
+        "probe": "melt"
+      }
+    ]
+  },
+  "fused": {
+    "senses": [
+      {
+        "label": "mix together different",
+        "probe": "flux"
+      },
+      {
+        "label": "become plastic or",
+        "probe": "fuse"
+      },
+      {
+        "label": "make liquid or",
+        "probe": "melt"
+      }
+    ]
+  },
+  "fuses": {
+    "senses": [
+      {
+        "label": "an electrical device",
+        "probe": "fuse"
+      },
+      {
+        "label": "any igniter that",
+        "probe": "primer"
+      },
+      {
+        "label": "mix together different",
+        "probe": "flux"
+      },
+      {
+        "label": "make liquid or",
+        "probe": "melt"
+      }
+    ]
+  },
+  "fusing": {
+    "senses": [
+      {
+        "label": "mix together different",
+        "probe": "flux"
+      },
+      {
+        "label": "become plastic or",
+        "probe": "fuse"
+      },
+      {
+        "label": "make liquid or",
+        "probe": "melt"
+      }
+    ]
+  },
+  "fusion": {
+    "senses": [
+      {
+        "label": "an occurrence that",
+        "probe": "occurrence"
+      },
+      {
+        "label": "the act of",
+        "probe": "fusing"
+      }
+    ]
+  },
+  "galaxies": {
+    "senses": [
+      {
+        "label": "a splendid assemblage",
+        "probe": "accumulation"
+      },
+      {
+        "label": "(astronomy) a collection",
+        "probe": "assemblage"
+      }
+    ]
+  },
+  "gangrene": {
+    "senses": [
+      {
+        "label": "necrotic tissue",
+        "probe": "pathology"
+      },
+      {
+        "label": "undergo necrosis",
+        "probe": "rot"
+      }
+    ]
+  },
+  "gases": {
+    "senses": [
+      {
+        "label": "a fluid in",
+        "probe": "fluid"
+      },
+      {
+        "label": "a pedal that",
+        "probe": "accelerator"
+      },
+      {
+        "label": "a fossil fuel",
+        "probe": "fossil"
+      }
+    ]
+  },
+  "gasses": {
+    "senses": [
+      {
+        "label": "a fluid in",
+        "probe": "fluid"
+      },
+      {
+        "label": "a pedal that",
+        "probe": "accelerator"
+      },
+      {
+        "label": "a fossil fuel",
+        "probe": "fossil"
+      }
+    ]
+  },
+  "gel": {
+    "senses": [
+      {
+        "label": "a colloid in",
+        "probe": "colloid"
+      },
+      {
+        "label": "a thin translucent",
+        "probe": "membrane"
+      }
+    ]
+  },
+  "genera": {
+    "senses": [
+      {
+        "label": "a general kind",
+        "probe": "genus"
+      },
+      {
+        "label": "(biology) taxonomic group",
+        "probe": "taxonomic"
+      }
+    ]
+  },
+  "generalization": {
+    "senses": [
+      {
+        "label": "reasoning from detailed",
+        "probe": "reasoning"
+      },
+      {
+        "label": "the process of",
+        "probe": "abstraction"
+      }
+    ]
+  },
+  "generalizations": {
+    "senses": [
+      {
+        "label": "reasoning from detailed",
+        "probe": "generalization"
+      },
+      {
+        "label": "the process of",
+        "probe": "abstraction"
+      }
+    ]
+  },
+  "germs": {
+    "senses": [
+      {
+        "label": "anything that provides",
+        "probe": "germ"
+      },
+      {
+        "label": "a minute life",
+        "probe": "microbe"
+      }
+    ]
+  },
+  "gouache": {
+    "senses": [
+      {
+        "label": "an opaque watercolor",
+        "probe": "watercolor"
+      },
+      {
+        "label": "a watercolor executed",
+        "probe": "watercolour"
+      }
+    ]
+  },
+  "grains": {
+    "senses": [
+      {
+        "label": "a relatively small",
+        "probe": "atom"
+      },
+      {
+        "label": "foodstuff prepared from",
+        "probe": "foodstuff"
+      },
+      {
+        "label": "the direction",
+        "probe": "texture"
+      },
+      {
+        "label": "the physical composition",
+        "probe": "composition"
+      }
+    ]
+  },
+  "graphing": {
+    "senses": [
+      {
+        "label": "represent by means",
+        "probe": "graph"
+      },
+      {
+        "label": "plot upon a",
+        "probe": "diagram"
+      }
+    ]
+  },
+  "graphs": {
+    "senses": [
+      {
+        "label": "a visual representation",
+        "probe": "graph"
+      },
+      {
+        "label": "plot upon a",
+        "probe": "diagram"
+      }
+    ]
+  },
+  "gravitation": {
+    "senses": [
+      {
+        "label": "(physics) the force",
+        "probe": "gravity"
+      },
+      {
+        "label": "a figurative movement",
+        "probe": "figurative"
+      }
+    ]
+  },
+  "gravity": {
+    "senses": [
+      {
+        "label": "(physics) the force",
+        "probe": "gravitation"
+      },
+      {
+        "label": "a manner that",
+        "probe": "sobriety"
+      }
+    ]
+  },
+  "guesses": {
+    "senses": [
+      {
+        "label": "a message expressing",
+        "probe": "conjecture"
+      },
+      {
+        "label": "an estimate based",
+        "probe": "guesswork"
+      },
+      {
+        "label": "guess correctly",
+        "probe": "infer"
+      }
+    ]
+  },
+  "hairs": {
+    "senses": [
+      {
+        "label": "any of the",
+        "probe": "cylindrical"
+      },
+      {
+        "label": "a filamentous projection",
+        "probe": "outgrowth"
+      }
+    ]
+  },
+  "hallucination": {
+    "senses": [
+      {
+        "label": "illusory perception",
+        "probe": "illusory"
+      },
+      {
+        "label": "a mistaken or",
+        "probe": "delusion"
+      }
+    ]
+  },
+  "hallucinations": {
+    "senses": [
+      {
+        "label": "illusory perception",
+        "probe": "hallucination"
+      },
+      {
+        "label": "a mistaken or",
+        "probe": "delusion"
+      }
+    ]
+  },
+  "harmonics": {
+    "senses": [
+      {
+        "label": "the study of",
+        "probe": "acoustics"
+      },
+      {
+        "label": "a tone that",
+        "probe": "harmonic"
+      }
+    ]
+  },
+  "herpes": {
+    "senses": [
+      {
+        "label": "viral diseases causing",
+        "probe": "viral"
+      },
+      {
+        "label": "any of the",
+        "probe": "viruses"
+      }
+    ]
+  },
+  "historiography": {
+    "senses": [
+      {
+        "label": "a body of",
+        "probe": "literature"
+      },
+      {
+        "label": "the writing of",
+        "probe": "authorship"
+      }
+    ]
+  },
+  "humanities": {
+    "senses": [
+      {
+        "label": "studies intended to",
+        "probe": "studies"
+      },
+      {
+        "label": "all of the",
+        "probe": "humankind"
+      }
+    ]
+  },
+  "humans": {
+    "senses": [
+      {
+        "label": "all of the",
+        "probe": "humankind"
+      },
+      {
+        "label": "any living or",
+        "probe": "homo"
+      }
+    ]
+  },
+  "hypotheses": {
+    "senses": [
+      {
+        "label": "a proposal intended",
+        "probe": "hypothesis"
+      },
+      {
+        "label": "a tentative insight",
+        "probe": "theory"
+      },
+      {
+        "label": "a message expressing",
+        "probe": "conjecture"
+      }
+    ]
+  },
+  "hypothesis": {
+    "senses": [
+      {
+        "label": "a tentative insight",
+        "probe": "theory"
+      },
+      {
+        "label": "a message expressing",
+        "probe": "conjecture"
+      }
+    ]
+  },
+  "illuminates": {
+    "senses": [
+      {
+        "label": "make lighter or",
+        "probe": "illuminate"
+      },
+      {
+        "label": "make free from",
+        "probe": "elucidate"
+      }
+    ]
+  },
+  "illuminating": {
+    "senses": [
+      {
+        "label": "make lighter or",
+        "probe": "illuminate"
+      },
+      {
+        "label": "make free from",
+        "probe": "elucidate"
+      }
+    ]
+  },
+  "illumination": {
+    "senses": [
+      {
+        "label": "an interpretation that",
+        "probe": "elucidation"
+      },
+      {
+        "label": "the luminous flux",
+        "probe": "luminous"
+      }
+    ]
+  },
+  "imaging": {
+    "senses": [
+      {
+        "label": "(medicine) obtaining pictures",
+        "probe": "tomography"
+      },
+      {
+        "label": "render visible",
+        "probe": "visualize"
+      }
+    ]
+  },
+  "immersion": {
+    "senses": [
+      {
+        "label": "complete attention",
+        "probe": "concentration"
+      },
+      {
+        "label": "a form of",
+        "probe": "baptism"
+      }
+    ]
+  },
+  "implantation": {
+    "senses": [
+      {
+        "label": "(embryology) the organic",
+        "probe": "organic"
+      },
+      {
+        "label": "a surgical procedure",
+        "probe": "surgical"
+      }
+    ]
+  },
+  "impulses": {
+    "senses": [
+      {
+        "label": "an instinctive motive",
+        "probe": "instinctive"
+      },
+      {
+        "label": "the electrical discharge",
+        "probe": "electrical"
+      }
+    ]
+  },
+  "inclination": {
+    "senses": [
+      {
+        "label": "an attitude of",
+        "probe": "disposition"
+      },
+      {
+        "label": "a characteristic likelihood",
+        "probe": "characteristic"
+      },
+      {
+        "label": "the act of",
+        "probe": "motility"
+      }
+    ]
+  },
+  "incubation": {
+    "senses": [
+      {
+        "label": "maintaining something at",
+        "probe": "tending"
+      },
+      {
+        "label": "sitting on eggs",
+        "probe": "birthing"
+      }
+    ]
+  },
+  "inducing": {
+    "senses": [
+      {
+        "label": "act of bringing",
+        "probe": "causation"
+      },
+      {
+        "label": "cause to arise",
+        "probe": "induce"
+      }
+    ]
+  },
+  "infection": {
+    "senses": [
+      {
+        "label": "the pathological state",
+        "probe": "pathological"
+      },
+      {
+        "label": "(phonetics) the alteration",
+        "probe": "alteration"
+      }
+    ]
+  },
+  "infections": {
+    "senses": [
+      {
+        "label": "the pathological state",
+        "probe": "infection"
+      },
+      {
+        "label": "(phonetics) the alteration",
+        "probe": "alteration"
+      }
+    ]
+  },
+  "infer": {
+    "senses": [
+      {
+        "label": "reason by deduction",
+        "probe": "deduce"
+      },
+      {
+        "label": "draw from specific",
+        "probe": "generalize"
+      }
+    ]
+  },
+  "inferred": {
+    "senses": [
+      {
+        "label": "reason by deduction",
+        "probe": "deduce"
+      },
+      {
+        "label": "draw from specific",
+        "probe": "generalize"
+      },
+      {
+        "label": "conclude by reasoning",
+        "probe": "infer"
+      }
+    ]
+  },
+  "inflammation": {
+    "senses": [
+      {
+        "label": "the state of",
+        "probe": "excitation"
+      },
+      {
+        "label": "arousal to violent",
+        "probe": "arousal"
+      },
+      {
+        "label": "the act of",
+        "probe": "combustion"
+      }
+    ]
+  },
+  "inhalation": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "intake"
+      },
+      {
+        "label": "a medication to",
+        "probe": "medicine"
+      }
+    ]
+  },
+  "insights": {
+    "senses": [
+      {
+        "label": "a feeling of",
+        "probe": "sensibility"
+      },
+      {
+        "label": "grasping the inner",
+        "probe": "intuition"
+      }
+    ]
+  },
+  "instilled": {
+    "senses": [
+      {
+        "label": "impart gradually",
+        "probe": "impart"
+      },
+      {
+        "label": "teach and impress",
+        "probe": "inculcate"
+      }
+    ]
+  },
+  "instrumentation": {
+    "senses": [
+      {
+        "label": "an artifact (or",
+        "probe": "artifact"
+      },
+      {
+        "label": "the act of",
+        "probe": "orchestration"
+      }
+    ]
+  },
+  "intake": {
+    "senses": [
+      {
+        "label": "the process of",
+        "probe": "ingestion"
+      },
+      {
+        "label": "an opening through",
+        "probe": "inlet"
+      },
+      {
+        "label": "the act of",
+        "probe": "inhalation"
+      }
+    ]
+  },
+  "intakes": {
+    "senses": [
+      {
+        "label": "the process of",
+        "probe": "ingestion"
+      },
+      {
+        "label": "an opening through",
+        "probe": "intake"
+      },
+      {
+        "label": "the act of",
+        "probe": "inhalation"
+      }
+    ]
+  },
+  "inversion": {
+    "senses": [
+      {
+        "label": "abnormal condition in",
+        "probe": "abnormal"
+      },
+      {
+        "label": "a chemical process",
+        "probe": "chemical"
+      },
+      {
+        "label": "(genetics) a kind",
+        "probe": "mutation"
+      },
+      {
+        "label": "(counterpoint) a variation",
+        "probe": "variation"
+      },
+      {
+        "label": "turning upside down",
+        "probe": "motility"
+      }
+    ]
+  },
+  "irradiation": {
+    "senses": [
+      {
+        "label": "(pavolvian conditioning) the",
+        "probe": "generalization"
+      },
+      {
+        "label": "(medicine) the treatment",
+        "probe": "radiotherapy"
+      }
+    ]
+  },
+  "jaws": {
+    "senses": [
+      {
+        "label": "the part of",
+        "probe": "skull"
+      },
+      {
+        "label": "talk socially without",
+        "probe": "discourse"
+      }
+    ]
+  },
+  "jurisprudence": {
+    "senses": [
+      {
+        "label": "the branch of",
+        "probe": "philosophy"
+      },
+      {
+        "label": "the collection of",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "kabbalah": {
+    "senses": [
+      {
+        "label": "an esoteric or",
+        "probe": "esoteric"
+      },
+      {
+        "label": "an esoteric theosophy",
+        "probe": "theosophy"
+      }
+    ]
+  },
+  "kinship": {
+    "senses": [
+      {
+        "label": "a close connection",
+        "probe": "affinity"
+      },
+      {
+        "label": "(anthropology) relatedness or",
+        "probe": "relatedness"
+      }
+    ]
+  },
+  "laboratories": {
+    "senses": [
+      {
+        "label": "a workplace for",
+        "probe": "lab"
+      },
+      {
+        "label": "a region resembling",
+        "probe": "laboratory"
+      }
+    ]
+  },
+  "landers": {
+    "senses": [
+      {
+        "label": "a town in",
+        "probe": "lander"
+      },
+      {
+        "label": "a space vehicle",
+        "probe": "spacecraft"
+      }
+    ]
+  },
+  "layers": {
+    "senses": [
+      {
+        "label": "single thickness of",
+        "probe": "artifact"
+      },
+      {
+        "label": "an abstract place",
+        "probe": "stratum"
+      }
+    ]
+  },
+  "learners": {
+    "senses": [
+      {
+        "label": "someone (especially a",
+        "probe": "learner"
+      },
+      {
+        "label": "works for an",
+        "probe": "beginner"
+      }
+    ]
+  },
+  "lecturer": {
+    "senses": [
+      {
+        "label": "a public lecturer",
+        "probe": "pedagogue"
+      },
+      {
+        "label": "someone who lectures",
+        "probe": "lectures"
+      }
+    ]
+  },
+  "lecturers": {
+    "senses": [
+      {
+        "label": "a public lecturer",
+        "probe": "lecturer"
+      },
+      {
+        "label": "someone who lectures",
+        "probe": "lectures"
+      }
+    ]
+  },
+  "leeches": {
+    "senses": [
+      {
+        "label": "carnivorous or bloodsucking",
+        "probe": "carnivorous"
+      },
+      {
+        "label": "a follower who",
+        "probe": "parasite"
+      }
+    ]
+  },
+  "lepidoptera": {
+    "senses": [
+      {
+        "label": "moths and butterflies",
+        "probe": "moths"
+      },
+      {
+        "label": "insect that in",
+        "probe": "insect"
+      }
+    ]
+  },
+  "lineage": {
+    "senses": [
+      {
+        "label": "the descendants of",
+        "probe": "parentage"
+      },
+      {
+        "label": "the kinship relation",
+        "probe": "kinship"
+      },
+      {
+        "label": "inherited properties shared",
+        "probe": "derivation"
+      }
+    ]
+  },
+  "lineages": {
+    "senses": [
+      {
+        "label": "the descendants of",
+        "probe": "lineage"
+      },
+      {
+        "label": "the kinship relation",
+        "probe": "kinship"
+      },
+      {
+        "label": "inherited properties shared",
+        "probe": "derivation"
+      }
+    ]
+  },
+  "linguistics": {
+    "senses": [
+      {
+        "label": "the scientific study",
+        "probe": "scientific"
+      },
+      {
+        "label": "the humanistic study",
+        "probe": "philology"
+      }
+    ]
+  },
+  "linkage": {
+    "senses": [
+      {
+        "label": "an associative relation",
+        "probe": "connectedness"
+      },
+      {
+        "label": "(genetics) traits that",
+        "probe": "traits"
+      },
+      {
+        "label": "a mechanical system",
+        "probe": "mechanical"
+      }
+    ]
+  },
+  "linkages": {
+    "senses": [
+      {
+        "label": "an associative relation",
+        "probe": "linkage"
+      },
+      {
+        "label": "(genetics) traits that",
+        "probe": "traits"
+      },
+      {
+        "label": "a mechanical system",
+        "probe": "mechanical"
+      }
+    ]
+  },
+  "liquids": {
+    "senses": [
+      {
+        "label": "a substance that",
+        "probe": "fluid"
+      },
+      {
+        "label": "a frictionless continuant",
+        "probe": "consonant"
+      }
+    ]
+  },
+  "literatures": {
+    "senses": [
+      {
+        "label": "creative writing of",
+        "probe": "literature"
+      },
+      {
+        "label": "the humanistic study",
+        "probe": "humanistic"
+      }
+    ]
+  },
+  "logics": {
+    "senses": [
+      {
+        "label": "the branch of",
+        "probe": "philosophy"
+      },
+      {
+        "label": "reasoned and reasonable",
+        "probe": "reasoned"
+      }
+    ]
+  },
+  "markers": {
+    "senses": [
+      {
+        "label": "some conspicuous object",
+        "probe": "artifact"
+      },
+      {
+        "label": "a distinguishing symbol",
+        "probe": "distinguishing"
+      }
+    ]
+  },
+  "marrow": {
+    "senses": [
+      {
+        "label": "the fatty network",
+        "probe": "fatty"
+      },
+      {
+        "label": "the choicest or",
+        "probe": "gist"
+      }
+    ]
+  },
+  "matrices": {
+    "senses": [
+      {
+        "label": "(mathematics) a rectangular",
+        "probe": "matrix"
+      },
+      {
+        "label": "the formative tissue",
+        "probe": "formative"
+      }
+    ]
+  },
+  "mechanics": {
+    "senses": [
+      {
+        "label": "the branch of",
+        "probe": "physics"
+      },
+      {
+        "label": "a craftsman skilled",
+        "probe": "machinist"
+      }
+    ]
+  },
+  "mechanisms": {
+    "senses": [
+      {
+        "label": "the atomic process",
+        "probe": "atomic"
+      },
+      {
+        "label": "the technical aspects",
+        "probe": "mechanics"
+      },
+      {
+        "label": "(philosophy) the philosophical",
+        "probe": "philosophical"
+      }
+    ]
+  },
+  "meditations": {
+    "senses": [
+      {
+        "label": "continuous and profound",
+        "probe": "meditation"
+      },
+      {
+        "label": "(religion) contemplation of",
+        "probe": "contemplation"
+      }
+    ]
+  },
+  "melt": {
+    "senses": [
+      {
+        "label": "the process whereby",
+        "probe": "melting"
+      },
+      {
+        "label": "become or cause",
+        "probe": "flux"
+      }
+    ]
+  },
+  "melting": {
+    "senses": [
+      {
+        "label": "the process whereby",
+        "probe": "melt"
+      },
+      {
+        "label": "become or cause",
+        "probe": "flux"
+      }
+    ]
+  },
+  "metabolism": {
+    "senses": [
+      {
+        "label": "the marked and",
+        "probe": "metamorphosis"
+      },
+      {
+        "label": "the organic processes",
+        "probe": "organic"
+      }
+    ]
+  },
+  "metamorphosis": {
+    "senses": [
+      {
+        "label": "the marked and",
+        "probe": "metabolism"
+      },
+      {
+        "label": "a striking change",
+        "probe": "alteration"
+      }
+    ]
+  },
+  "metathesis": {
+    "senses": [
+      {
+        "label": "a linguistic process",
+        "probe": "linguistic"
+      },
+      {
+        "label": "a chemical reaction",
+        "probe": "chemical"
+      }
+    ]
+  },
+  "mimic": {
+    "senses": [
+      {
+        "label": "someone who mimics",
+        "probe": "mimics"
+      },
+      {
+        "label": "imitate (a person",
+        "probe": "simulate"
+      }
+    ]
+  },
+  "mimics": {
+    "senses": [
+      {
+        "label": "someone who mimics",
+        "probe": "mimic"
+      },
+      {
+        "label": "imitate (a person",
+        "probe": "simulate"
+      }
+    ]
+  },
+  "mixtures": {
+    "senses": [
+      {
+        "label": "any foodstuff made",
+        "probe": "concoction"
+      },
+      {
+        "label": "a collection containing",
+        "probe": "accumulation"
+      },
+      {
+        "label": "the act of",
+        "probe": "admixture"
+      }
+    ]
+  },
+  "modalities": {
+    "senses": [
+      {
+        "label": "a classification of",
+        "probe": "modality"
+      },
+      {
+        "label": "verb inflections that",
+        "probe": "verb"
+      },
+      {
+        "label": "a particular sense",
+        "probe": "sentience"
+      }
+    ]
+  },
+  "modality": {
+    "senses": [
+      {
+        "label": "verb inflections that",
+        "probe": "verb"
+      },
+      {
+        "label": "a particular sense",
+        "probe": "sentience"
+      }
+    ]
+  },
+  "modelling": {
+    "senses": [
+      {
+        "label": "a preliminary sculpture",
+        "probe": "sculpture"
+      },
+      {
+        "label": "plan or create",
+        "probe": "simulate"
+      }
+    ]
+  },
+  "modification": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "alteration"
+      },
+      {
+        "label": "the grammatical relation",
+        "probe": "grammatical"
+      },
+      {
+        "label": "an event that",
+        "probe": "occurrence"
+      }
+    ]
+  },
+  "modules": {
+    "senses": [
+      {
+        "label": "one of the",
+        "probe": "module"
+      },
+      {
+        "label": "detachable compartment of",
+        "probe": "compartment"
+      }
+    ]
+  },
+  "molds": {
+    "senses": [
+      {
+        "label": "a fungus that",
+        "probe": "fungus"
+      },
+      {
+        "label": "sculpture produced by",
+        "probe": "sculpture"
+      }
+    ]
+  },
+  "molecule": {
+    "senses": [
+      {
+        "label": "(physics and chemistry)",
+        "probe": "simplest"
+      },
+      {
+        "label": "(nontechnical usage) a",
+        "probe": "atom"
+      }
+    ]
+  },
+  "molecules": {
+    "senses": [
+      {
+        "label": "(physics and chemistry)",
+        "probe": "molecule"
+      },
+      {
+        "label": "(nontechnical usage) a",
+        "probe": "atom"
+      }
+    ]
+  },
+  "molten": {
+    "senses": [
+      {
+        "label": "reduce or cause",
+        "probe": "melt"
+      },
+      {
+        "label": "become or cause",
+        "probe": "flux"
+      }
+    ]
+  },
+  "morphology": {
+    "senses": [
+      {
+        "label": "the branch of",
+        "probe": "biology"
+      },
+      {
+        "label": "studies of the",
+        "probe": "studies"
+      },
+      {
+        "label": "the admissible arrangement",
+        "probe": "admissible"
+      },
+      {
+        "label": "the branch of",
+        "probe": "geomorphology"
+      }
+    ]
+  },
+  "munition": {
+    "senses": [
+      {
+        "label": "weapons considered collectively",
+        "probe": "instrumentation"
+      },
+      {
+        "label": "military supplies",
+        "probe": "ordnance"
+      }
+    ]
+  },
+  "munitions": {
+    "senses": [
+      {
+        "label": "weapons considered collectively",
+        "probe": "munition"
+      },
+      {
+        "label": "military supplies",
+        "probe": "ordnance"
+      }
+    ]
+  },
+  "mutation": {
+    "senses": [
+      {
+        "label": "(biology) an organism",
+        "probe": "mutant"
+      },
+      {
+        "label": "(genetics) any event",
+        "probe": "alteration"
+      },
+      {
+        "label": "a change or",
+        "probe": "modification"
+      }
+    ]
+  },
+  "mutations": {
+    "senses": [
+      {
+        "label": "(biology) an organism",
+        "probe": "mutant"
+      },
+      {
+        "label": "(genetics) any event",
+        "probe": "mutation"
+      },
+      {
+        "label": "a change or",
+        "probe": "alteration"
+      }
+    ]
+  },
+  "naturalist": {
+    "senses": [
+      {
+        "label": "an advocate of",
+        "probe": "philosopher"
+      },
+      {
+        "label": "a biologist knowledgeable",
+        "probe": "biologist"
+      }
+    ]
+  },
+  "naturalists": {
+    "senses": [
+      {
+        "label": "an advocate of",
+        "probe": "naturalist"
+      },
+      {
+        "label": "a biologist knowledgeable",
+        "probe": "biologist"
+      }
+    ]
+  },
+  "notations": {
+    "senses": [
+      {
+        "label": "a technical system",
+        "probe": "notation"
+      },
+      {
+        "label": "a comment or",
+        "probe": "annotation"
+      }
+    ]
+  },
+  "nourishment": {
+    "senses": [
+      {
+        "label": "a source of",
+        "probe": "nutrition"
+      },
+      {
+        "label": "the act of",
+        "probe": "tending"
+      }
+    ]
+  },
+  "nutrition": {
+    "senses": [
+      {
+        "label": "(physiology) the organic",
+        "probe": "organic"
+      },
+      {
+        "label": "a source of",
+        "probe": "nourishment"
+      },
+      {
+        "label": "the scientific study",
+        "probe": "scientific"
+      }
+    ]
+  },
+  "oddities": {
+    "senses": [
+      {
+        "label": "eccentricity that is",
+        "probe": "oddity"
+      },
+      {
+        "label": "a strange attitude",
+        "probe": "strangeness"
+      },
+      {
+        "label": "something unusual --",
+        "probe": "curiosity"
+      }
+    ]
+  },
+  "oddity": {
+    "senses": [
+      {
+        "label": "eccentricity that is",
+        "probe": "eccentricity"
+      },
+      {
+        "label": "a strange attitude",
+        "probe": "strangeness"
+      },
+      {
+        "label": "something unusual --",
+        "probe": "curiosity"
+      }
+    ]
+  },
+  "odors": {
+    "senses": [
+      {
+        "label": "any property detected",
+        "probe": "smell"
+      },
+      {
+        "label": "the sensation that",
+        "probe": "odor"
+      }
+    ]
+  },
+  "ontologies": {
+    "senses": [
+      {
+        "label": "(computer science) a",
+        "probe": "ontology"
+      },
+      {
+        "label": "the metaphysical study",
+        "probe": "metaphysical"
+      }
+    ]
+  },
+  "ontology": {
+    "senses": [
+      {
+        "label": "(computer science) a",
+        "probe": "rigorous"
+      },
+      {
+        "label": "the metaphysical study",
+        "probe": "metaphysical"
+      }
+    ]
+  },
+  "optics": {
+    "senses": [
+      {
+        "label": "the branch of",
+        "probe": "physics"
+      },
+      {
+        "label": "optical properties",
+        "probe": "optical"
+      },
+      {
+        "label": "the organ of",
+        "probe": "receptor"
+      }
+    ]
+  },
+  "orbits": {
+    "senses": [
+      {
+        "label": "a particular environment",
+        "probe": "sphere"
+      },
+      {
+        "label": "the bony cavity",
+        "probe": "cavity"
+      }
+    ]
+  },
+  "orchestration": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "instrumentation"
+      },
+      {
+        "label": "an arrangement of",
+        "probe": "transcription"
+      }
+    ]
+  },
+  "ordnance": {
+    "senses": [
+      {
+        "label": "military supplies",
+        "probe": "munition"
+      },
+      {
+        "label": "large but transportable",
+        "probe": "armament"
+      }
+    ]
+  },
+  "ores": {
+    "senses": [
+      {
+        "label": "a mineral that",
+        "probe": "mineral"
+      },
+      {
+        "label": "a monetary subunit",
+        "probe": "subunit"
+      }
+    ]
+  },
+  "oscillation": {
+    "senses": [
+      {
+        "label": "the process of",
+        "probe": "oscillating"
+      },
+      {
+        "label": "(physics) a regular",
+        "probe": "vibration"
+      }
+    ]
+  },
+  "oscillations": {
+    "senses": [
+      {
+        "label": "the process of",
+        "probe": "oscillation"
+      },
+      {
+        "label": "(physics) a regular",
+        "probe": "vibration"
+      }
+    ]
+  },
+  "parameters": {
+    "senses": [
+      {
+        "label": "a constant in",
+        "probe": "parameter"
+      },
+      {
+        "label": "a quantity (such",
+        "probe": "quantity"
+      }
+    ]
+  },
+  "parentage": {
+    "senses": [
+      {
+        "label": "the state of",
+        "probe": "adulthood"
+      },
+      {
+        "label": "the kinship relation",
+        "probe": "kinship"
+      },
+      {
+        "label": "the descendants of",
+        "probe": "lineage"
+      }
+    ]
+  },
+  "particles": {
+    "senses": [
+      {
+        "label": "(nontechnical usage) a",
+        "probe": "atom"
+      },
+      {
+        "label": "a body having",
+        "probe": "particle"
+      }
+    ]
+  },
+  "passages": {
+    "senses": [
+      {
+        "label": "a short section",
+        "probe": "composition"
+      },
+      {
+        "label": "a bodily reaction",
+        "probe": "bodily"
+      }
+    ]
+  },
+  "paternity": {
+    "senses": [
+      {
+        "label": "the kinship relation",
+        "probe": "kinship"
+      },
+      {
+        "label": "the act of",
+        "probe": "authorship"
+      }
+    ]
+  },
+  "pathologies": {
+    "senses": [
+      {
+        "label": "the branch of",
+        "probe": "pathology"
+      },
+      {
+        "label": "any deviation from",
+        "probe": "deviation"
+      }
+    ]
+  },
+  "patterning": {
+    "senses": [
+      {
+        "label": "plan or create",
+        "probe": "simulate"
+      },
+      {
+        "label": "form a pattern",
+        "probe": "correspond"
+      }
+    ]
+  },
+  "payloads": {
+    "senses": [
+      {
+        "label": "the front part",
+        "probe": "warhead"
+      },
+      {
+        "label": "goods carried by",
+        "probe": "payload"
+      }
+    ]
+  },
+  "pencils": {
+    "senses": [
+      {
+        "label": "a thin cylindrical",
+        "probe": "pencil"
+      },
+      {
+        "label": "graphite (or a",
+        "probe": "graphite"
+      }
+    ]
+  },
+  "percolating": {
+    "senses": [
+      {
+        "label": "permeate or penetrate",
+        "probe": "permeate"
+      },
+      {
+        "label": "spread gradually",
+        "probe": "diffuse"
+      }
+    ]
+  },
+  "percolation": {
+    "senses": [
+      {
+        "label": "the slow passage",
+        "probe": "filtration"
+      },
+      {
+        "label": "the act of",
+        "probe": "cookery"
+      }
+    ]
+  },
+  "peroxide": {
+    "senses": [
+      {
+        "label": "a viscous liquid",
+        "probe": "viscous"
+      },
+      {
+        "label": "an inorganic compound",
+        "probe": "inorganic"
+      }
+    ]
+  },
+  "pharmaceutics": {
+    "senses": [
+      {
+        "label": "the art and",
+        "probe": "science"
+      },
+      {
+        "label": "drug or medicine",
+        "probe": "medicine"
+      }
+    ]
+  },
+  "physics": {
+    "senses": [
+      {
+        "label": "the science of",
+        "probe": "science"
+      },
+      {
+        "label": "a purging medicine",
+        "probe": "physic"
+      }
+    ]
+  },
+  "physiology": {
+    "senses": [
+      {
+        "label": "the branch of",
+        "probe": "biology"
+      },
+      {
+        "label": "processes and functions",
+        "probe": "processes"
+      }
+    ]
+  },
+  "pigment": {
+    "senses": [
+      {
+        "label": "dry coloring material",
+        "probe": "coloring"
+      },
+      {
+        "label": "a substance used",
+        "probe": "coating"
+      }
+    ]
+  },
+  "pigments": {
+    "senses": [
+      {
+        "label": "dry coloring material",
+        "probe": "pigment"
+      },
+      {
+        "label": "a substance used",
+        "probe": "coating"
+      }
+    ]
+  },
+  "planetarium": {
+    "senses": [
+      {
+        "label": "an optical device",
+        "probe": "optical"
+      },
+      {
+        "label": "an apparatus or",
+        "probe": "simulation"
+      }
+    ]
+  },
+  "plasmodium": {
+    "senses": [
+      {
+        "label": "multinucleate sheet of",
+        "probe": "cytoplasm"
+      },
+      {
+        "label": "parasitic protozoan of",
+        "probe": "parasitic"
+      }
+    ]
+  },
+  "pods": {
+    "senses": [
+      {
+        "label": "the vessel that",
+        "probe": "pod"
+      },
+      {
+        "label": "a group of",
+        "probe": "aquatic"
+      }
+    ]
+  },
+  "poisoning": {
+    "senses": [
+      {
+        "label": "the physiological state",
+        "probe": "physiological"
+      },
+      {
+        "label": "administer poison to",
+        "probe": "dose"
+      }
+    ]
+  },
+  "popper": {
+    "senses": [
+      {
+        "label": "british philosopher (born",
+        "probe": "philosopher"
+      },
+      {
+        "label": "a container for",
+        "probe": "cooker"
+      }
+    ]
+  },
+  "popularisation": {
+    "senses": [
+      {
+        "label": "an interpretation that",
+        "probe": "popularization"
+      },
+      {
+        "label": "the act of",
+        "probe": "degradation"
+      }
+    ]
+  },
+  "popularization": {
+    "senses": [
+      {
+        "label": "an interpretation that",
+        "probe": "popularisation"
+      },
+      {
+        "label": "the act of",
+        "probe": "degradation"
+      }
+    ]
+  },
+  "pores": {
+    "senses": [
+      {
+        "label": "any small opening",
+        "probe": "duct"
+      },
+      {
+        "label": "a minute epidermal",
+        "probe": "aperture"
+      }
+    ]
+  },
+  "posited": {
+    "senses": [
+      {
+        "label": "put (something somewhere)",
+        "probe": "posit"
+      },
+      {
+        "label": "take as a",
+        "probe": "postulate"
+      }
+    ]
+  },
+  "positing": {
+    "senses": [
+      {
+        "label": "put (something somewhere)",
+        "probe": "posit"
+      },
+      {
+        "label": "take as a",
+        "probe": "postulate"
+      }
+    ]
+  },
+  "posits": {
+    "senses": [
+      {
+        "label": "(logic) a proposition",
+        "probe": "postulate"
+      },
+      {
+        "label": "put (something somewhere)",
+        "probe": "posit"
+      }
+    ]
+  },
+  "postulated": {
+    "senses": [
+      {
+        "label": "maintain or assert",
+        "probe": "postulate"
+      },
+      {
+        "label": "take as a",
+        "probe": "posit"
+      }
+    ]
+  },
+  "postulates": {
+    "senses": [
+      {
+        "label": "(logic) a proposition",
+        "probe": "postulate"
+      },
+      {
+        "label": "take as a",
+        "probe": "posit"
+      }
+    ]
+  },
+  "powders": {
+    "senses": [
+      {
+        "label": "a mixture of",
+        "probe": "gunpowder"
+      },
+      {
+        "label": "any of various",
+        "probe": "medicine"
+      }
+    ]
+  },
+  "predisposition": {
+    "senses": [
+      {
+        "label": "susceptibility to a",
+        "probe": "sensitivity"
+      },
+      {
+        "label": "an inclination beforehand",
+        "probe": "inclination"
+      },
+      {
+        "label": "a disposition in",
+        "probe": "disposition"
+      }
+    ]
+  },
+  "primer": {
+    "senses": [
+      {
+        "label": "an introductory textbook",
+        "probe": "introductory"
+      },
+      {
+        "label": "any igniter that",
+        "probe": "fuse"
+      }
+    ]
+  },
+  "primers": {
+    "senses": [
+      {
+        "label": "an introductory textbook",
+        "probe": "primer"
+      },
+      {
+        "label": "any igniter that",
+        "probe": "fuse"
+      }
+    ]
+  },
+  "processes": {
+    "senses": [
+      {
+        "label": "(psychology) the performance",
+        "probe": "cognition"
+      },
+      {
+        "label": "a natural prolongation",
+        "probe": "outgrowth"
+      }
+    ]
+  },
+  "proficiency": {
+    "senses": [
+      {
+        "label": "the quality of",
+        "probe": "competency"
+      },
+      {
+        "label": "skillfulness in the",
+        "probe": "technique"
+      }
+    ]
+  },
+  "proofs": {
+    "senses": [
+      {
+        "label": "a measure of",
+        "probe": "quantity"
+      },
+      {
+        "label": "the act of",
+        "probe": "validation"
+      }
+    ]
+  },
+  "propagated": {
+    "senses": [
+      {
+        "label": "transmit from one",
+        "probe": "propagate"
+      },
+      {
+        "label": "cause to become",
+        "probe": "diffuse"
+      }
+    ]
+  },
+  "propagation": {
+    "senses": [
+      {
+        "label": "the spreading of",
+        "probe": "dissemination"
+      },
+      {
+        "label": "the act of",
+        "probe": "reproduction"
+      }
+    ]
+  },
+  "propensity": {
+    "senses": [
+      {
+        "label": "an inclination to",
+        "probe": "inclination"
+      },
+      {
+        "label": "a natural inclination",
+        "probe": "disposition"
+      }
+    ]
+  },
+  "psychopathology": {
+    "senses": [
+      {
+        "label": "the branch of",
+        "probe": "psychology"
+      },
+      {
+        "label": "the branch of",
+        "probe": "psychiatry"
+      }
+    ]
+  },
+  "psychotherapy": {
+    "senses": [
+      {
+        "label": "the branch of",
+        "probe": "psychiatry"
+      },
+      {
+        "label": "the treatment of",
+        "probe": "therapy"
+      }
+    ]
+  },
+  "quadratic": {
+    "senses": [
+      {
+        "label": "an equation in",
+        "probe": "equation"
+      },
+      {
+        "label": "a polynomial of",
+        "probe": "polynomial"
+      }
+    ]
+  },
+  "quantities": {
+    "senses": [
+      {
+        "label": "how much there",
+        "probe": "quantity"
+      },
+      {
+        "label": "the concept that",
+        "probe": "conception"
+      }
+    ]
+  },
+  "quantity": {
+    "senses": [
+      {
+        "label": "how much there",
+        "probe": "abstraction"
+      },
+      {
+        "label": "the concept that",
+        "probe": "conception"
+      }
+    ]
+  },
+  "quantum": {
+    "senses": [
+      {
+        "label": "a discrete amount",
+        "probe": "discrete"
+      },
+      {
+        "label": "(physics) the smallest",
+        "probe": "quantity"
+      }
+    ]
+  },
+  "quill": {
+    "senses": [
+      {
+        "label": "a stiff hollow",
+        "probe": "spine"
+      },
+      {
+        "label": "any of the",
+        "probe": "plume"
+      }
+    ]
+  },
+  "radiation": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "emission"
+      },
+      {
+        "label": "the spontaneous emission",
+        "probe": "radioactivity"
+      },
+      {
+        "label": "a radial arrangement",
+        "probe": "radial"
+      },
+      {
+        "label": "(medicine) the treatment",
+        "probe": "radiotherapy"
+      }
+    ]
+  },
+  "ramification": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "branching"
+      },
+      {
+        "label": "a development that",
+        "probe": "complication"
+      }
+    ]
+  },
+  "rat": {
+    "senses": [
+      {
+        "label": "any of various",
+        "probe": "rodent"
+      },
+      {
+        "label": "a person who",
+        "probe": "skunk"
+      }
+    ]
+  },
+  "rationalism": {
+    "senses": [
+      {
+        "label": "the theological doctrine",
+        "probe": "theological"
+      },
+      {
+        "label": "the doctrine that",
+        "probe": "philosophy"
+      }
+    ]
+  },
+  "rationalization": {
+    "senses": [
+      {
+        "label": "the cognitive process",
+        "probe": "cognitive"
+      },
+      {
+        "label": "systematic organization",
+        "probe": "systematic"
+      }
+    ]
+  },
+  "rats": {
+    "senses": [
+      {
+        "label": "any of various",
+        "probe": "rat"
+      },
+      {
+        "label": "a person who",
+        "probe": "skunk"
+      }
+    ]
+  },
+  "reactivity": {
+    "senses": [
+      {
+        "label": "responsive to stimulation",
+        "probe": "sensitivity"
+      },
+      {
+        "label": "ready susceptibility to",
+        "probe": "susceptibility"
+      }
+    ]
+  },
+  "realism": {
+    "senses": [
+      {
+        "label": "the attribute of",
+        "probe": "practicality"
+      },
+      {
+        "label": "the state of",
+        "probe": "actuality"
+      },
+      {
+        "label": "(philosophy) the philosophical",
+        "probe": "philosophical"
+      },
+      {
+        "label": "an artistic movement",
+        "probe": "naturalism"
+      }
+    ]
+  },
+  "recapitulation": {
+    "senses": [
+      {
+        "label": "emergence during embryonic",
+        "probe": "maturation"
+      },
+      {
+        "label": "(music) the repetition",
+        "probe": "composition"
+      }
+    ]
+  },
+  "refinement": {
+    "senses": [
+      {
+        "label": "the result of",
+        "probe": "elaboration"
+      },
+      {
+        "label": "the process of",
+        "probe": "purification"
+      },
+      {
+        "label": "a subtle difference",
+        "probe": "subtlety"
+      },
+      {
+        "label": "the quality of",
+        "probe": "civilisation"
+      }
+    ]
+  },
+  "refinements": {
+    "senses": [
+      {
+        "label": "a highly developed",
+        "probe": "refinement"
+      },
+      {
+        "label": "the result of",
+        "probe": "elaboration"
+      },
+      {
+        "label": "the process of",
+        "probe": "purification"
+      },
+      {
+        "label": "a subtle difference",
+        "probe": "subtlety"
+      },
+      {
+        "label": "the quality of",
+        "probe": "civilisation"
+      }
+    ]
+  },
+  "reflections": {
+    "senses": [
+      {
+        "label": "a calm",
+        "probe": "contemplation"
+      },
+      {
+        "label": "expression without words",
+        "probe": "manifestation"
+      },
+      {
+        "label": "a remark expressing",
+        "probe": "observation"
+      },
+      {
+        "label": "the ability to",
+        "probe": "reflectivity"
+      }
+    ]
+  },
+  "replication": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "reproduction"
+      },
+      {
+        "label": "the repetition of",
+        "probe": "reflectivity"
+      }
+    ]
+  },
+  "reproduction": {
+    "senses": [
+      {
+        "label": "recall that is",
+        "probe": "recollection"
+      },
+      {
+        "label": "copy that is",
+        "probe": "replication"
+      },
+      {
+        "label": "the sexual activity",
+        "probe": "breeding"
+      }
+    ]
+  },
+  "residues": {
+    "senses": [
+      {
+        "label": "matter that remains",
+        "probe": "residue"
+      },
+      {
+        "label": "something left after",
+        "probe": "residual"
+      }
+    ]
+  },
+  "resiliency": {
+    "senses": [
+      {
+        "label": "an occurrence of",
+        "probe": "occurrence"
+      },
+      {
+        "label": "the physical property",
+        "probe": "elasticity"
+      }
+    ]
+  },
+  "resonance": {
+    "senses": [
+      {
+        "label": "a vibration of",
+        "probe": "vibration"
+      },
+      {
+        "label": "a relationship of",
+        "probe": "affinity"
+      },
+      {
+        "label": "the quality imparted",
+        "probe": "imparted"
+      }
+    ]
+  },
+  "resonances": {
+    "senses": [
+      {
+        "label": "an excited state",
+        "probe": "resonance"
+      },
+      {
+        "label": "a vibration of",
+        "probe": "vibration"
+      },
+      {
+        "label": "a relationship of",
+        "probe": "affinity"
+      },
+      {
+        "label": "the quality imparted",
+        "probe": "imparted"
+      }
+    ]
+  },
+  "respiration": {
+    "senses": [
+      {
+        "label": "the metabolic processes",
+        "probe": "metabolic"
+      },
+      {
+        "label": "the bodily process",
+        "probe": "ventilation"
+      }
+    ]
+  },
+  "restorations": {
+    "senses": [
+      {
+        "label": "some artifact that",
+        "probe": "artifact"
+      },
+      {
+        "label": "a model that",
+        "probe": "simulation"
+      }
+    ]
+  },
+  "richness": {
+    "senses": [
+      {
+        "label": "the property of",
+        "probe": "abundance"
+      },
+      {
+        "label": "the property of",
+        "probe": "fertility"
+      }
+    ]
+  },
+  "riddle": {
+    "senses": [
+      {
+        "label": "a coarse sieve",
+        "probe": "sieve"
+      },
+      {
+        "label": "spread or diffuse",
+        "probe": "permeate"
+      }
+    ]
+  },
+  "rods": {
+    "senses": [
+      {
+        "label": "any rod-shaped bacterium",
+        "probe": "bacteria"
+      },
+      {
+        "label": "a linear measure",
+        "probe": "linear"
+      }
+    ]
+  },
+  "romanticism": {
+    "senses": [
+      {
+        "label": "impractical romantic ideals",
+        "probe": "idealism"
+      },
+      {
+        "label": "a movement in",
+        "probe": "idiom"
+      }
+    ]
+  },
+  "rot": {
+    "senses": [
+      {
+        "label": "a state of",
+        "probe": "decay"
+      },
+      {
+        "label": "(biology) the process",
+        "probe": "decomposition"
+      },
+      {
+        "label": "break down",
+        "probe": "decompose"
+      },
+      {
+        "label": "become physically weaker",
+        "probe": "degenerate"
+      }
+    ]
+  },
+  "sacs": {
+    "senses": [
+      {
+        "label": "an enclosed space",
+        "probe": "sac"
+      },
+      {
+        "label": "a structure resembling",
+        "probe": "cavity"
+      }
+    ]
+  },
+  "sailplane": {
+    "senses": [
+      {
+        "label": "aircraft supported only",
+        "probe": "glider"
+      },
+      {
+        "label": "fly a plane",
+        "probe": "glide"
+      }
+    ]
+  },
+  "salts": {
+    "senses": [
+      {
+        "label": "the taste experience",
+        "probe": "salinity"
+      }
+    ]
+  },
+  "schooling": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "pedagogy"
+      },
+      {
+        "label": "teach or refine",
+        "probe": "refine"
+      }
+    ]
+  },
+  "secretion": {
+    "senses": [
+      {
+        "label": "the organic process",
+        "probe": "organic"
+      },
+      {
+        "label": "a functionally specialized",
+        "probe": "functionally"
+      }
+    ]
+  },
+  "sediments": {
+    "senses": [
+      {
+        "label": "matter that has",
+        "probe": "sediment"
+      },
+      {
+        "label": "deposit as a",
+        "probe": "posit"
+      }
+    ]
+  },
+  "seminaries": {
+    "senses": [
+      {
+        "label": "a private place",
+        "probe": "seminary"
+      },
+      {
+        "label": "a theological school",
+        "probe": "theological"
+      }
+    ]
+  },
+  "senses": {
+    "senses": [
+      {
+        "label": "a general conscious",
+        "probe": "consciousness"
+      },
+      {
+        "label": "the faculty through",
+        "probe": "sentience"
+      },
+      {
+        "label": "street names for",
+        "probe": "skunk"
+      },
+      {
+        "label": "become aware of",
+        "probe": "smell"
+      }
+    ]
+  },
+  "sensibility": {
+    "senses": [
+      {
+        "label": "mental responsiveness and",
+        "probe": "consciousness"
+      },
+      {
+        "label": "refined sensitivity to",
+        "probe": "refined"
+      },
+      {
+        "label": "(physiology) responsiveness to",
+        "probe": "sensitivity"
+      }
+    ]
+  },
+  "sensitivity": {
+    "senses": [
+      {
+        "label": "(physiology) responsiveness to",
+        "probe": "sensibility"
+      },
+      {
+        "label": "susceptibility to a",
+        "probe": "predisposition"
+      }
+    ]
+  },
+  "sentience": {
+    "senses": [
+      {
+        "label": "state of elementary",
+        "probe": "consciousness"
+      },
+      {
+        "label": "the faculty through",
+        "probe": "module"
+      }
+    ]
+  },
+  "shafts": {
+    "senses": [
+      {
+        "label": "a column of",
+        "probe": "irradiation"
+      },
+      {
+        "label": "the hollow spine",
+        "probe": "quill"
+      }
+    ]
+  },
+  "siamese": {
+    "senses": [
+      {
+        "label": "an inlet with",
+        "probe": "inlet"
+      }
+    ]
+  },
+  "sieves": {
+    "senses": [
+      {
+        "label": "a strainer for",
+        "probe": "sieve"
+      },
+      {
+        "label": "check and sort",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "simulation": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "modelling"
+      },
+      {
+        "label": "(computer science) the",
+        "probe": "technique"
+      }
+    ]
+  },
+  "simulations": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "simulation"
+      },
+      {
+        "label": "(computer science) the",
+        "probe": "technique"
+      }
+    ]
+  },
+  "singularities": {
+    "senses": [
+      {
+        "label": "the quality of",
+        "probe": "singularity"
+      },
+      {
+        "label": "strangeness by virtue",
+        "probe": "strangeness"
+      }
+    ]
+  },
+  "singularity": {
+    "senses": [
+      {
+        "label": "the quality of",
+        "probe": "uniqueness"
+      },
+      {
+        "label": "strangeness by virtue",
+        "probe": "strangeness"
+      }
+    ]
+  },
+  "skunk": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "rat"
+      },
+      {
+        "label": "street names for",
+        "probe": "cannabis"
+      }
+    ]
+  },
+  "smell": {
+    "senses": [
+      {
+        "label": "the sensation that",
+        "probe": "odor"
+      },
+      {
+        "label": "any property detected",
+        "probe": "aroma"
+      },
+      {
+        "label": "the faculty that",
+        "probe": "olfaction"
+      },
+      {
+        "label": "the act of",
+        "probe": "smelling"
+      }
+    ]
+  },
+  "solitary": {
+    "senses": [
+      {
+        "label": "confinement of a",
+        "probe": "confinement"
+      },
+      {
+        "label": "one who lives",
+        "probe": "loner"
+      }
+    ]
+  },
+  "sophistication": {
+    "senses": [
+      {
+        "label": "uplifting enlightenment",
+        "probe": "enlightenment"
+      },
+      {
+        "label": "a deliberately invalid",
+        "probe": "fallacy"
+      }
+    ]
+  },
+  "specialisation": {
+    "senses": [
+      {
+        "label": "(biology) the structural",
+        "probe": "specialization"
+      },
+      {
+        "label": "the special line",
+        "probe": "vocation"
+      }
+    ]
+  },
+  "specialisms": {
+    "senses": [
+      {
+        "label": "the concentration of",
+        "probe": "concentration"
+      },
+      {
+        "label": "the special line",
+        "probe": "specialization"
+      }
+    ]
+  },
+  "specialities": {
+    "senses": [
+      {
+        "label": "a distinguishing trait",
+        "probe": "distinguishing"
+      },
+      {
+        "label": "the special line",
+        "probe": "specialization"
+      }
+    ]
+  },
+  "specialization": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "specialisation"
+      },
+      {
+        "label": "the special line",
+        "probe": "vocation"
+      },
+      {
+        "label": "(biology) the structural",
+        "probe": "differentiation"
+      }
+    ]
+  },
+  "specializations": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "specialization"
+      },
+      {
+        "label": "the special line",
+        "probe": "specialisation"
+      },
+      {
+        "label": "(biology) the structural",
+        "probe": "differentiation"
+      }
+    ]
+  },
+  "specialties": {
+    "senses": [
+      {
+        "label": "a distinguishing trait",
+        "probe": "distinguishing"
+      },
+      {
+        "label": "the special line",
+        "probe": "specialization"
+      }
+    ]
+  },
+  "specimens": {
+    "senses": [
+      {
+        "label": "an example regarded",
+        "probe": "specimen"
+      },
+      {
+        "label": "a bit of",
+        "probe": "tissue"
+      }
+    ]
+  },
+  "spheres": {
+    "senses": [
+      {
+        "label": "a particular environment",
+        "probe": "sphere"
+      },
+      {
+        "label": "any spherically shaped",
+        "probe": "artifact"
+      }
+    ]
+  },
+  "spines": {
+    "senses": [
+      {
+        "label": "the series of",
+        "probe": "spine"
+      },
+      {
+        "label": "a sharp rigid",
+        "probe": "outgrowth"
+      }
+    ]
+  },
+  "sponges": {
+    "senses": [
+      {
+        "label": "someone able to",
+        "probe": "learner"
+      },
+      {
+        "label": "a follower who",
+        "probe": "parasite"
+      },
+      {
+        "label": "primitive multicellular marine",
+        "probe": "primitive"
+      }
+    ]
+  },
+  "sprays": {
+    "senses": [
+      {
+        "label": "a pesticide in",
+        "probe": "pesticide"
+      },
+      {
+        "label": "a quantity of",
+        "probe": "quantity"
+      },
+      {
+        "label": "a jet of",
+        "probe": "vapor"
+      }
+    ]
+  },
+  "staining": {
+    "senses": [
+      {
+        "label": "(histology) the use",
+        "probe": "dyeing"
+      },
+      {
+        "label": "color with a",
+        "probe": "dye"
+      },
+      {
+        "label": "make dirty or",
+        "probe": "blob"
+      }
+    ]
+  },
+  "standardisation": {
+    "senses": [
+      {
+        "label": "the condition in",
+        "probe": "standardization"
+      },
+      {
+        "label": "the act of",
+        "probe": "calibration"
+      }
+    ]
+  },
+  "standardization": {
+    "senses": [
+      {
+        "label": "the condition in",
+        "probe": "standardisation"
+      },
+      {
+        "label": "the act of",
+        "probe": "calibration"
+      }
+    ]
+  },
+  "statistician": {
+    "senses": [
+      {
+        "label": "a mathematician who",
+        "probe": "mathematician"
+      },
+      {
+        "label": "someone versed in",
+        "probe": "versed"
+      }
+    ]
+  },
+  "statisticians": {
+    "senses": [
+      {
+        "label": "a mathematician who",
+        "probe": "statistician"
+      },
+      {
+        "label": "someone versed in",
+        "probe": "versed"
+      }
+    ]
+  },
+  "stimulated": {
+    "senses": [
+      {
+        "label": "cause to do",
+        "probe": "induce"
+      },
+      {
+        "label": "stir the feelings",
+        "probe": "elicit"
+      }
+    ]
+  },
+  "stool": {
+    "senses": [
+      {
+        "label": "solid excretory product",
+        "probe": "feces"
+      },
+      {
+        "label": "a plumbing fixture",
+        "probe": "potty"
+      }
+    ]
+  },
+  "strains": {
+    "senses": [
+      {
+        "label": "(physics) deformation of",
+        "probe": "deformation"
+      },
+      {
+        "label": "(biology) a group",
+        "probe": "organisms"
+      },
+      {
+        "label": "separate by passing",
+        "probe": "sieve"
+      }
+    ]
+  },
+  "strand": {
+    "senses": [
+      {
+        "label": "a very slender",
+        "probe": "filament"
+      },
+      {
+        "label": "a poetic term",
+        "probe": "poetic"
+      }
+    ]
+  },
+  "strands": {
+    "senses": [
+      {
+        "label": "a pattern forming",
+        "probe": "strand"
+      },
+      {
+        "label": "a very slender",
+        "probe": "filament"
+      },
+      {
+        "label": "a poetic term",
+        "probe": "poetic"
+      }
+    ]
+  },
+  "strata": {
+    "senses": [
+      {
+        "label": "one of several",
+        "probe": "stratum"
+      },
+      {
+        "label": "an abstract place",
+        "probe": "abstract"
+      }
+    ]
+  },
+  "stratification": {
+    "senses": [
+      {
+        "label": "the act or",
+        "probe": "categorization"
+      },
+      {
+        "label": "a layered configuration",
+        "probe": "layered"
+      }
+    ]
+  },
+  "structuralism": {
+    "senses": [
+      {
+        "label": "linguistics defined as",
+        "probe": "linguistics"
+      },
+      {
+        "label": "an anthropological theory",
+        "probe": "anthropological"
+      },
+      {
+        "label": "a sociological theory",
+        "probe": "sociological"
+      }
+    ]
+  },
+  "studies": {
+    "senses": [
+      {
+        "label": "a state of",
+        "probe": "concentration"
+      },
+      {
+        "label": "attentive consideration and",
+        "probe": "contemplation"
+      },
+      {
+        "label": "a composition intended",
+        "probe": "composition"
+      },
+      {
+        "label": "consider in detail",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "subgroups": {
+    "senses": [
+      {
+        "label": "a distinct and",
+        "probe": "subgroup"
+      },
+      {
+        "label": "(mathematics) a subset",
+        "probe": "subset"
+      }
+    ]
+  },
+  "sublimation": {
+    "senses": [
+      {
+        "label": "(chemistry) a change",
+        "probe": "transmutation"
+      },
+      {
+        "label": "(psychology) modifying the",
+        "probe": "alteration"
+      }
+    ]
+  },
+  "summation": {
+    "senses": [
+      {
+        "label": "the final aggregate",
+        "probe": "accumulation"
+      },
+      {
+        "label": "the arithmetic operation",
+        "probe": "arithmetic"
+      }
+    ]
+  },
+  "surfaces": {
+    "senses": [
+      {
+        "label": "the outer boundary",
+        "probe": "artifact"
+      },
+      {
+        "label": "a superficial aspect",
+        "probe": "superficial"
+      }
+    ]
+  },
+  "surveying": {
+    "senses": [
+      {
+        "label": "the practice of",
+        "probe": "measurement"
+      },
+      {
+        "label": "consider in a",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "surveyor": {
+    "senses": [
+      {
+        "label": "an engineer who",
+        "probe": "technologist"
+      },
+      {
+        "label": "someone who conducts",
+        "probe": "statistician"
+      }
+    ]
+  },
+  "surveyors": {
+    "senses": [
+      {
+        "label": "an engineer who",
+        "probe": "surveyor"
+      },
+      {
+        "label": "someone who conducts",
+        "probe": "statistician"
+      }
+    ]
+  },
+  "symmetries": {
+    "senses": [
+      {
+        "label": "(mathematics) an attribute",
+        "probe": "symmetry"
+      },
+      {
+        "label": "balance among the",
+        "probe": "equilibrium"
+      }
+    ]
+  },
+  "syntax": {
+    "senses": [
+      {
+        "label": "the grammatical arrangement",
+        "probe": "grammatical"
+      },
+      {
+        "label": "a systematic orderly",
+        "probe": "systematic"
+      },
+      {
+        "label": "studies of the",
+        "probe": "studies"
+      }
+    ]
+  },
+  "syntheses": {
+    "senses": [
+      {
+        "label": "the process of",
+        "probe": "synthesis"
+      },
+      {
+        "label": "the combination of",
+        "probe": "reasoning"
+      }
+    ]
+  },
+  "taxonomy": {
+    "senses": [
+      {
+        "label": "(biology) study of",
+        "probe": "systematics"
+      },
+      {
+        "label": "practice of classifying",
+        "probe": "categorization"
+      }
+    ]
+  },
+  "teachings": {
+    "senses": [
+      {
+        "label": "the profession of",
+        "probe": "pedagogy"
+      },
+      {
+        "label": "a doctrine that",
+        "probe": "philosophy"
+      }
+    ]
+  },
+  "techniques": {
+    "senses": [
+      {
+        "label": "a practical method",
+        "probe": "technique"
+      },
+      {
+        "label": "skillfulness in the",
+        "probe": "proficiency"
+      }
+    ]
+  },
+  "tectonics": {
+    "senses": [
+      {
+        "label": "the science of",
+        "probe": "science"
+      },
+      {
+        "label": "the branch of",
+        "probe": "morphology"
+      }
+    ]
+  },
+  "telescopes": {
+    "senses": [
+      {
+        "label": "a magnifier of",
+        "probe": "telescope"
+      },
+      {
+        "label": "make smaller or",
+        "probe": "condense"
+      }
+    ]
+  },
+  "texture": {
+    "senses": [
+      {
+        "label": "the characteristic appearance",
+        "probe": "characteristic"
+      },
+      {
+        "label": "the physical composition",
+        "probe": "composition"
+      }
+    ]
+  },
+  "textures": {
+    "senses": [
+      {
+        "label": "the feel of",
+        "probe": "texture"
+      },
+      {
+        "label": "the characteristic appearance",
+        "probe": "characteristic"
+      },
+      {
+        "label": "the physical composition",
+        "probe": "composition"
+      }
+    ]
+  },
+  "theories": {
+    "senses": [
+      {
+        "label": "a well-substantiated explanation",
+        "probe": "theory"
+      },
+      {
+        "label": "a tentative insight",
+        "probe": "hypothesis"
+      }
+    ]
+  },
+  "therapeutics": {
+    "senses": [
+      {
+        "label": "branch of medicine",
+        "probe": "medicine"
+      },
+      {
+        "label": "a medicine or",
+        "probe": "therapeutic"
+      }
+    ]
+  },
+  "theses": {
+    "senses": [
+      {
+        "label": "an unproved statement",
+        "probe": "thesis"
+      },
+      {
+        "label": "a treatise advancing",
+        "probe": "dissertation"
+      }
+    ]
+  },
+  "thinkers": {
+    "senses": [
+      {
+        "label": "an important intellectual",
+        "probe": "thinker"
+      },
+      {
+        "label": "someone who exercises",
+        "probe": "intellect"
+      }
+    ]
+  },
+  "tolerances": {
+    "senses": [
+      {
+        "label": "a disposition to",
+        "probe": "disposition"
+      },
+      {
+        "label": "a permissible difference",
+        "probe": "divergence"
+      }
+    ]
+  },
+  "topography": {
+    "senses": [
+      {
+        "label": "the configuration of",
+        "probe": "contour"
+      },
+      {
+        "label": "precise detailed study",
+        "probe": "geography"
+      }
+    ]
+  },
+  "topology": {
+    "senses": [
+      {
+        "label": "topographic study of",
+        "probe": "topographic"
+      },
+      {
+        "label": "the study of",
+        "probe": "anatomy"
+      }
+    ]
+  },
+  "traces": {
+    "senses": [
+      {
+        "label": "a drawing created",
+        "probe": "tracing"
+      },
+      {
+        "label": "follow",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "tracing": {
+    "senses": [
+      {
+        "label": "the discovery and",
+        "probe": "uncovering"
+      },
+      {
+        "label": "follow",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "transcription": {
+    "senses": [
+      {
+        "label": "(genetics) the organic",
+        "probe": "organic"
+      },
+      {
+        "label": "the act of",
+        "probe": "composition"
+      }
+    ]
+  },
+  "transformations": {
+    "senses": [
+      {
+        "label": "a qualitative change",
+        "probe": "transmutation"
+      },
+      {
+        "label": "(genetics) modification of",
+        "probe": "modification"
+      }
+    ]
+  },
+  "transmutation": {
+    "senses": [
+      {
+        "label": "a qualitative change",
+        "probe": "qualitative"
+      },
+      {
+        "label": "(physics) the change",
+        "probe": "alteration"
+      }
+    ]
+  },
+  "transplants": {
+    "senses": [
+      {
+        "label": "(surgery) tissue or",
+        "probe": "tissue"
+      },
+      {
+        "label": "an operation moving",
+        "probe": "transplantation"
+      },
+      {
+        "label": "the act of",
+        "probe": "transplanting"
+      }
+    ]
+  },
+  "treatments": {
+    "senses": [
+      {
+        "label": "care provided to",
+        "probe": "tending"
+      },
+      {
+        "label": "a manner of",
+        "probe": "idiom"
+      },
+      {
+        "label": "an extended communication",
+        "probe": "discourse"
+      }
+    ]
+  },
+  "triangulation": {
+    "senses": [
+      {
+        "label": "a trigonometric method",
+        "probe": "trigonometry"
+      },
+      {
+        "label": "a method of",
+        "probe": "surveying"
+      }
+    ]
+  },
+  "understandings": {
+    "senses": [
+      {
+        "label": "the cognitive condition",
+        "probe": "cognitive"
+      },
+      {
+        "label": "an inclination to",
+        "probe": "inclination"
+      },
+      {
+        "label": "the capacity for",
+        "probe": "intellect"
+      }
+    ]
+  },
+  "universals": {
+    "senses": [
+      {
+        "label": "(linguistics) a grammatical",
+        "probe": "grammatical"
+      },
+      {
+        "label": "a behavioral convention",
+        "probe": "behavioral"
+      },
+      {
+        "label": "coupling that connects",
+        "probe": "coupling"
+      }
+    ]
+  },
+  "vapor": {
+    "senses": [
+      {
+        "label": "a visible suspension",
+        "probe": "vapour"
+      },
+      {
+        "label": "the process of",
+        "probe": "evaporation"
+      }
+    ]
+  },
+  "vapors": {
+    "senses": [
+      {
+        "label": "a visible suspension",
+        "probe": "vapor"
+      },
+      {
+        "label": "the process of",
+        "probe": "vapour"
+      }
+    ]
+  },
+  "vapour": {
+    "senses": [
+      {
+        "label": "a visible suspension",
+        "probe": "vapor"
+      },
+      {
+        "label": "the process of",
+        "probe": "evaporation"
+      }
+    ]
+  },
+  "variance": {
+    "senses": [
+      {
+        "label": "an event that",
+        "probe": "deviation"
+      },
+      {
+        "label": "a difference between",
+        "probe": "divergence"
+      },
+      {
+        "label": "the quality of",
+        "probe": "variability"
+      },
+      {
+        "label": "an activity that",
+        "probe": "variation"
+      }
+    ]
+  },
+  "variation": {
+    "senses": [
+      {
+        "label": "an instance of",
+        "probe": "fluctuation"
+      },
+      {
+        "label": "an activity that",
+        "probe": "variance"
+      },
+      {
+        "label": "an artifact that",
+        "probe": "artifact"
+      },
+      {
+        "label": "(astronomy) any perturbation",
+        "probe": "perturbation"
+      },
+      {
+        "label": "(biology) an organism",
+        "probe": "mutant"
+      }
+    ]
+  },
+  "variations": {
+    "senses": [
+      {
+        "label": "an instance of",
+        "probe": "variation"
+      },
+      {
+        "label": "an activity that",
+        "probe": "variance"
+      },
+      {
+        "label": "an artifact that",
+        "probe": "artifact"
+      },
+      {
+        "label": "(astronomy) any perturbation",
+        "probe": "perturbation"
+      },
+      {
+        "label": "(biology) an organism",
+        "probe": "mutant"
+      }
+    ]
+  },
+  "varieties": {
+    "senses": [
+      {
+        "label": "a collection containing",
+        "probe": "accumulation"
+      },
+      {
+        "label": "noticeable heterogeneity",
+        "probe": "heterogeneity"
+      },
+      {
+        "label": "(biology) a taxonomic",
+        "probe": "taxonomic"
+      }
+    ]
+  },
+  "ventilation": {
+    "senses": [
+      {
+        "label": "a mechanical system",
+        "probe": "mechanical"
+      },
+      {
+        "label": "the bodily process",
+        "probe": "respiration"
+      }
+    ]
+  },
+  "vibration": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "motility"
+      },
+      {
+        "label": "(physics) a regular",
+        "probe": "oscillation"
+      }
+    ]
+  },
+  "vibrations": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "vibration"
+      },
+      {
+        "label": "(physics) a regular",
+        "probe": "oscillation"
+      }
+    ]
+  },
+  "wastes": {
+    "senses": [
+      {
+        "label": "the trait of",
+        "probe": "trait"
+      },
+      {
+        "label": "become physically weaker",
+        "probe": "rot"
+      }
+    ]
+  },
+  "watercolor": {
+    "senses": [
+      {
+        "label": "a painting produced",
+        "probe": "watercolour"
+      },
+      {
+        "label": "water-soluble pigment",
+        "probe": "pigment"
+      },
+      {
+        "label": "the art or",
+        "probe": "technique"
+      }
+    ]
+  },
+  "watercolors": {
+    "senses": [
+      {
+        "label": "a painting produced",
+        "probe": "watercolor"
+      },
+      {
+        "label": "a water-base paint",
+        "probe": "watercolour"
+      },
+      {
+        "label": "water-soluble pigment",
+        "probe": "pigment"
+      },
+      {
+        "label": "the art or",
+        "probe": "technique"
+      }
+    ]
+  },
+  "watercolour": {
+    "senses": [
+      {
+        "label": "water-soluble pigment",
+        "probe": "watercolor"
+      },
+      {
+        "label": "the art or",
+        "probe": "technique"
+      }
+    ]
+  },
+  "watercolours": {
+    "senses": [
+      {
+        "label": "water-soluble pigment",
+        "probe": "watercolor"
+      },
+      {
+        "label": "a water-base paint",
+        "probe": "watercolour"
+      },
+      {
+        "label": "the art or",
+        "probe": "technique"
+      }
+    ]
+  },
+  "worms": {
+    "senses": [
+      {
+        "label": "any of numerous",
+        "probe": "invertebrate"
+      },
+      {
+        "label": "a person who",
+        "probe": "insect"
+      }
+    ]
+  },
+  "zoology": {
+    "senses": [
+      {
+        "label": "all the animal",
+        "probe": "fauna"
+      },
+      {
+        "label": "the branch of",
+        "probe": "biology"
+      }
+    ]
+  }
+}

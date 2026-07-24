@@ -1,0 +1,10649 @@
+{
+  "abode": {
+    "senses": [
+      {
+        "label": "housing that someone",
+        "probe": "dwelling"
+      },
+      {
+        "label": "dwell",
+        "probe": "dwell"
+      }
+    ]
+  },
+  "abodes": {
+    "senses": [
+      {
+        "label": "any address at",
+        "probe": "abode"
+      },
+      {
+        "label": "housing that someone",
+        "probe": "dwelling"
+      }
+    ]
+  },
+  "abomination": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "loathsome"
+      },
+      {
+        "label": "hate coupled with",
+        "probe": "loathing"
+      },
+      {
+        "label": "an action that",
+        "probe": "transgression"
+      }
+    ]
+  },
+  "absurdity": {
+    "senses": [
+      {
+        "label": "a message whose",
+        "probe": "bunk"
+      },
+      {
+        "label": "a ludicrous folly",
+        "probe": "silliness"
+      }
+    ]
+  },
+  "alien": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "traveller"
+      },
+      {
+        "label": "anyone who does",
+        "probe": "stranger"
+      },
+      {
+        "label": "a form of",
+        "probe": "extraterrestrial"
+      }
+    ]
+  },
+  "aliens": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "alien"
+      },
+      {
+        "label": "anyone who does",
+        "probe": "stranger"
+      },
+      {
+        "label": "a form of",
+        "probe": "extraterrestrial"
+      }
+    ]
+  },
+  "annihilation": {
+    "senses": [
+      {
+        "label": "destruction by annihilating",
+        "probe": "devastation"
+      },
+      {
+        "label": "total destruction",
+        "probe": "wipeout"
+      }
+    ]
+  },
+  "antics": {
+    "senses": [
+      {
+        "label": "a ludicrous or",
+        "probe": "caper"
+      },
+      {
+        "label": "act as or",
+        "probe": "clown"
+      }
+    ]
+  },
+  "ape": {
+    "senses": [
+      {
+        "label": "someone who copies",
+        "probe": "copycat"
+      },
+      {
+        "label": "person who resembles",
+        "probe": "misfit"
+      },
+      {
+        "label": "represent in or",
+        "probe": "caricature"
+      }
+    ]
+  },
+  "apes": {
+    "senses": [
+      {
+        "label": "any of various",
+        "probe": "ape"
+      },
+      {
+        "label": "someone who copies",
+        "probe": "copycat"
+      },
+      {
+        "label": "person who resembles",
+        "probe": "misfit"
+      },
+      {
+        "label": "represent in or",
+        "probe": "caricature"
+      }
+    ]
+  },
+  "apostles": {
+    "senses": [
+      {
+        "label": "an ardent early",
+        "probe": "apostle"
+      },
+      {
+        "label": "(new testament) one",
+        "probe": "disciple"
+      }
+    ]
+  },
+  "apparition": {
+    "senses": [
+      {
+        "label": "a ghostly appearing",
+        "probe": "phantom"
+      },
+      {
+        "label": "something existing in",
+        "probe": "phantasm"
+      }
+    ]
+  },
+  "apparitions": {
+    "senses": [
+      {
+        "label": "a ghostly appearing",
+        "probe": "apparition"
+      },
+      {
+        "label": "something existing in",
+        "probe": "phantom"
+      }
+    ]
+  },
+  "ass": {
+    "senses": [
+      {
+        "label": "a pompous fool",
+        "probe": "pompous"
+      },
+      {
+        "label": "slang for sexual",
+        "probe": "fuck"
+      }
+    ]
+  },
+  "atrocity": {
+    "senses": [
+      {
+        "label": "the quality of",
+        "probe": "barbarity"
+      },
+      {
+        "label": "an act of",
+        "probe": "inhumanity"
+      }
+    ]
+  },
+  "aura": {
+    "senses": [
+      {
+        "label": "a sensation (as",
+        "probe": "symptom"
+      },
+      {
+        "label": "an indication of",
+        "probe": "halo"
+      }
+    ]
+  },
+  "avatar": {
+    "senses": [
+      {
+        "label": "a new personification",
+        "probe": "embodiment"
+      },
+      {
+        "label": "the manifestation of",
+        "probe": "manifestation"
+      }
+    ]
+  },
+  "awakened": {
+    "senses": [
+      {
+        "label": "cause to become",
+        "probe": "awaken"
+      },
+      {
+        "label": "stop sleeping",
+        "probe": "awake"
+      }
+    ]
+  },
+  "awakens": {
+    "senses": [
+      {
+        "label": "cause to become",
+        "probe": "awaken"
+      },
+      {
+        "label": "stop sleeping",
+        "probe": "awake"
+      }
+    ]
+  },
+  "awe": {
+    "senses": [
+      {
+        "label": "an overwhelming feeling",
+        "probe": "wonderment"
+      },
+      {
+        "label": "a feeling of",
+        "probe": "reverence"
+      },
+      {
+        "label": "inspire awe in",
+        "probe": "frighten"
+      }
+    ]
+  },
+  "baffled": {
+    "senses": [
+      {
+        "label": "be a mystery",
+        "probe": "mystery"
+      },
+      {
+        "label": "hinder or prevent",
+        "probe": "queer"
+      }
+    ]
+  },
+  "baffling": {
+    "senses": [
+      {
+        "label": "be a mystery",
+        "probe": "mystery"
+      },
+      {
+        "label": "hinder or prevent",
+        "probe": "queer"
+      }
+    ]
+  },
+  "baiting": {
+    "senses": [
+      {
+        "label": "harass with persistent",
+        "probe": "tease"
+      },
+      {
+        "label": "lure",
+        "probe": "tempt"
+      }
+    ]
+  },
+  "ballads": {
+    "senses": [
+      {
+        "label": "a narrative song",
+        "probe": "ballad"
+      },
+      {
+        "label": "a narrative poem",
+        "probe": "poem"
+      }
+    ]
+  },
+  "bangs": {
+    "senses": [
+      {
+        "label": "a sudden very",
+        "probe": "eruption"
+      },
+      {
+        "label": "the swift release",
+        "probe": "thrill"
+      },
+      {
+        "label": "have sexual intercourse",
+        "probe": "fuck"
+      }
+    ]
+  },
+  "barbarian": {
+    "senses": [
+      {
+        "label": "a member of",
+        "probe": "savage"
+      },
+      {
+        "label": "a crude uncouth",
+        "probe": "goth"
+      }
+    ]
+  },
+  "barbarity": {
+    "senses": [
+      {
+        "label": "the quality of",
+        "probe": "atrocity"
+      },
+      {
+        "label": "a brutal barbarous",
+        "probe": "barbarism"
+      }
+    ]
+  },
+  "barking": {
+    "senses": [
+      {
+        "label": "speak in an",
+        "probe": "bark"
+      },
+      {
+        "label": "make barking sounds",
+        "probe": "utter"
+      }
+    ]
+  },
+  "barks": {
+    "senses": [
+      {
+        "label": "tough protective covering",
+        "probe": "bark"
+      },
+      {
+        "label": "speak in an",
+        "probe": "utter"
+      }
+    ]
+  },
+  "bastard": {
+    "senses": [
+      {
+        "label": "insulting terms of",
+        "probe": "shit"
+      },
+      {
+        "label": "derogatory term for",
+        "probe": "mongrel"
+      }
+    ]
+  },
+  "bastards": {
+    "senses": [
+      {
+        "label": "insulting terms of",
+        "probe": "bastard"
+      },
+      {
+        "label": "derogatory term for",
+        "probe": "mongrel"
+      }
+    ]
+  },
+  "beast": {
+    "senses": [
+      {
+        "label": "a living organism",
+        "probe": "brute"
+      },
+      {
+        "label": "a cruelly rapacious",
+        "probe": "savage"
+      }
+    ]
+  },
+  "beasts": {
+    "senses": [
+      {
+        "label": "a living organism",
+        "probe": "beast"
+      },
+      {
+        "label": "a cruelly rapacious",
+        "probe": "savage"
+      }
+    ]
+  },
+  "bedlam": {
+    "senses": [
+      {
+        "label": "a state of",
+        "probe": "pandemonium"
+      },
+      {
+        "label": "pejorative terms for",
+        "probe": "madhouse"
+      }
+    ]
+  },
+  "betrayals": {
+    "senses": [
+      {
+        "label": "an act of",
+        "probe": "treachery"
+      },
+      {
+        "label": "the quality of",
+        "probe": "betrayal"
+      }
+    ]
+  },
+  "betrayer": {
+    "senses": [
+      {
+        "label": "one who reveals",
+        "probe": "rat"
+      },
+      {
+        "label": "a person who",
+        "probe": "traitor"
+      }
+    ]
+  },
+  "betrays": {
+    "senses": [
+      {
+        "label": "be sexually unfaithful",
+        "probe": "wander"
+      },
+      {
+        "label": "give away information",
+        "probe": "rat"
+      }
+    ]
+  },
+  "bewitched": {
+    "senses": [
+      {
+        "label": "attract",
+        "probe": "trance"
+      },
+      {
+        "label": "attract strongly",
+        "probe": "tempt"
+      },
+      {
+        "label": "cast a spell",
+        "probe": "witch"
+      }
+    ]
+  },
+  "bewitching": {
+    "senses": [
+      {
+        "label": "attract",
+        "probe": "trance"
+      },
+      {
+        "label": "attract strongly",
+        "probe": "tempt"
+      },
+      {
+        "label": "cast a spell",
+        "probe": "witch"
+      }
+    ]
+  },
+  "bitch": {
+    "senses": [
+      {
+        "label": "an unpleasant difficulty",
+        "probe": "unpleasant"
+      },
+      {
+        "label": "a person (usually",
+        "probe": "cunt"
+      },
+      {
+        "label": "female of any",
+        "probe": "canine"
+      },
+      {
+        "label": "complain",
+        "probe": "grouse"
+      }
+    ]
+  },
+  "bitches": {
+    "senses": [
+      {
+        "label": "an unpleasant difficulty",
+        "probe": "bitch"
+      },
+      {
+        "label": "a person (usually",
+        "probe": "cunt"
+      },
+      {
+        "label": "female of any",
+        "probe": "canine"
+      },
+      {
+        "label": "complain",
+        "probe": "grouse"
+      }
+    ]
+  },
+  "bite": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "gripping"
+      },
+      {
+        "label": "cause a sharp",
+        "probe": "ache"
+      }
+    ]
+  },
+  "bites": {
+    "senses": [
+      {
+        "label": "a wound resulting",
+        "probe": "bite"
+      },
+      {
+        "label": "the act of",
+        "probe": "gripping"
+      },
+      {
+        "label": "cause a sharp",
+        "probe": "ache"
+      }
+    ]
+  },
+  "bitten": {
+    "senses": [
+      {
+        "label": "to grip",
+        "probe": "bite"
+      },
+      {
+        "label": "cause a sharp",
+        "probe": "ache"
+      }
+    ]
+  },
+  "bittersweet": {
+    "senses": [
+      {
+        "label": "poisonous perennial old",
+        "probe": "poisonous"
+      },
+      {
+        "label": "twining shrub of",
+        "probe": "vine"
+      }
+    ]
+  },
+  "blazes": {
+    "senses": [
+      {
+        "label": "a strong flame",
+        "probe": "blazing"
+      },
+      {
+        "label": "a cause of",
+        "probe": "hell"
+      },
+      {
+        "label": "noisy and unrestrained",
+        "probe": "mischief"
+      }
+    ]
+  },
+  "bleed": {
+    "senses": [
+      {
+        "label": "lose blood from",
+        "probe": "hemorrhage"
+      },
+      {
+        "label": "be diffused",
+        "probe": "diffuse"
+      }
+    ]
+  },
+  "bleeding": {
+    "senses": [
+      {
+        "label": "the flow of",
+        "probe": "hemorrhage"
+      },
+      {
+        "label": "lose blood from",
+        "probe": "bleed"
+      },
+      {
+        "label": "be diffused",
+        "probe": "diffuse"
+      }
+    ]
+  },
+  "bleeds": {
+    "senses": [
+      {
+        "label": "lose blood from",
+        "probe": "bleed"
+      },
+      {
+        "label": "be diffused",
+        "probe": "diffuse"
+      }
+    ]
+  },
+  "blight": {
+    "senses": [
+      {
+        "label": "a state or",
+        "probe": "devastation"
+      },
+      {
+        "label": "cause to suffer",
+        "probe": "plague"
+      }
+    ]
+  },
+  "blink": {
+    "senses": [
+      {
+        "label": "a reflex that",
+        "probe": "blinking"
+      },
+      {
+        "label": "gleam or glow",
+        "probe": "twinkle"
+      }
+    ]
+  },
+  "blinking": {
+    "senses": [
+      {
+        "label": "a reflex that",
+        "probe": "blink"
+      },
+      {
+        "label": "gleam or glow",
+        "probe": "twinkle"
+      }
+    ]
+  },
+  "blizzards": {
+    "senses": [
+      {
+        "label": "a storm with",
+        "probe": "snowstorm"
+      },
+      {
+        "label": "a series of",
+        "probe": "rash"
+      }
+    ]
+  },
+  "blobs": {
+    "senses": [
+      {
+        "label": "an indistinct shapeless",
+        "probe": "blob"
+      },
+      {
+        "label": "make a spot",
+        "probe": "blot"
+      }
+    ]
+  },
+  "bloods": {
+    "senses": [
+      {
+        "label": "a dissolute man",
+        "probe": "libertine"
+      },
+      {
+        "label": "the descendants of",
+        "probe": "bloodline"
+      }
+    ]
+  },
+  "blooms": {
+    "senses": [
+      {
+        "label": "a rosy color",
+        "probe": "blush"
+      },
+      {
+        "label": "a powdery deposit",
+        "probe": "powdery"
+      }
+    ]
+  },
+  "blot": {
+    "senses": [
+      {
+        "label": "an act that",
+        "probe": "stain"
+      },
+      {
+        "label": "dry (ink) with",
+        "probe": "suck"
+      },
+      {
+        "label": "make a spot",
+        "probe": "blob"
+      }
+    ]
+  },
+  "blushes": {
+    "senses": [
+      {
+        "label": "a rosy color",
+        "probe": "blush"
+      },
+      {
+        "label": "sudden reddening of",
+        "probe": "reflex"
+      }
+    ]
+  },
+  "boobs": {
+    "senses": [
+      {
+        "label": "an ignorant or",
+        "probe": "simpleton"
+      },
+      {
+        "label": "either of two",
+        "probe": "bosom"
+      },
+      {
+        "label": "commit a faux",
+        "probe": "sin"
+      }
+    ]
+  },
+  "brahman": {
+    "senses": [
+      {
+        "label": "a member of",
+        "probe": "aristocrat"
+      },
+      {
+        "label": "any of several",
+        "probe": "bovine"
+      }
+    ]
+  },
+  "bride": {
+    "senses": [
+      {
+        "label": "a woman who",
+        "probe": "newlywed"
+      }
+    ]
+  },
+  "brides": {
+    "senses": [
+      {
+        "label": "a woman who",
+        "probe": "bride"
+      }
+    ]
+  },
+  "brooding": {
+    "senses": [
+      {
+        "label": "sitting on eggs",
+        "probe": "birthing"
+      },
+      {
+        "label": "persistent morbid meditation",
+        "probe": "melancholy"
+      },
+      {
+        "label": "think moodily or",
+        "probe": "brood"
+      }
+    ]
+  },
+  "brute": {
+    "senses": [
+      {
+        "label": "a cruelly rapacious",
+        "probe": "beast"
+      },
+      {
+        "label": "a living organism",
+        "probe": "creature"
+      }
+    ]
+  },
+  "bubbles": {
+    "senses": [
+      {
+        "label": "a hollow globule",
+        "probe": "hollow"
+      },
+      {
+        "label": "an impracticable and",
+        "probe": "illusion"
+      },
+      {
+        "label": "flow in an",
+        "probe": "babble"
+      }
+    ]
+  },
+  "bucolic": {
+    "senses": [
+      {
+        "label": "a country person",
+        "probe": "rustic"
+      },
+      {
+        "label": "a short poem",
+        "probe": "idyll"
+      }
+    ]
+  },
+  "buddhas": {
+    "senses": [
+      {
+        "label": "founder of buddhism",
+        "probe": "buddha"
+      },
+      {
+        "label": "one who has",
+        "probe": "angel"
+      }
+    ]
+  },
+  "buffoon": {
+    "senses": [
+      {
+        "label": "a rude or",
+        "probe": "clown"
+      },
+      {
+        "label": "a person who",
+        "probe": "goofball"
+      }
+    ]
+  },
+  "buffoons": {
+    "senses": [
+      {
+        "label": "a rude or",
+        "probe": "clown"
+      },
+      {
+        "label": "a person who",
+        "probe": "buffoon"
+      }
+    ]
+  },
+  "bugbear": {
+    "senses": [
+      {
+        "label": "an imaginary monster",
+        "probe": "bogeyman"
+      },
+      {
+        "label": "an object of",
+        "probe": "hobgoblin"
+      }
+    ]
+  },
+  "bugs": {
+    "senses": [
+      {
+        "label": "general term for",
+        "probe": "insect"
+      },
+      {
+        "label": "insects with sucking",
+        "probe": "insects"
+      },
+      {
+        "label": "a minute life",
+        "probe": "microbe"
+      },
+      {
+        "label": "annoy persistently",
+        "probe": "tease"
+      }
+    ]
+  },
+  "bullies": {
+    "senses": [
+      {
+        "label": "a cruel and",
+        "probe": "cruel"
+      },
+      {
+        "label": "a hired thug",
+        "probe": "hoodlum"
+      }
+    ]
+  },
+  "bullshit": {
+    "senses": [
+      {
+        "label": "obscene words for",
+        "probe": "shit"
+      },
+      {
+        "label": "speak insincerely or",
+        "probe": "feign"
+      }
+    ]
+  },
+  "bumbling": {
+    "senses": [
+      {
+        "label": "make a mess",
+        "probe": "bollocks"
+      },
+      {
+        "label": "speak haltingly",
+        "probe": "utter"
+      }
+    ]
+  },
+  "bums": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "rat"
+      },
+      {
+        "label": "a disreputable vagrant",
+        "probe": "tramp"
+      },
+      {
+        "label": "the fleshy part",
+        "probe": "ass"
+      },
+      {
+        "label": "ask for and",
+        "probe": "grub"
+      },
+      {
+        "label": "be lazy or",
+        "probe": "lazy"
+      }
+    ]
+  },
+  "bunk": {
+    "senses": [
+      {
+        "label": "unacceptable behavior (especially",
+        "probe": "rot"
+      },
+      {
+        "label": "a message that",
+        "probe": "hokum"
+      }
+    ]
+  },
+  "bunnies": {
+    "senses": [
+      {
+        "label": "a young waitress",
+        "probe": "bunny"
+      },
+      {
+        "label": "(usually informal) especially",
+        "probe": "rabbit"
+      }
+    ]
+  },
+  "burlesque": {
+    "senses": [
+      {
+        "label": "a composition that",
+        "probe": "parody"
+      },
+      {
+        "label": "make a parody",
+        "probe": "spoof"
+      }
+    ]
+  },
+  "burnt": {
+    "senses": [
+      {
+        "label": "shine intensely",
+        "probe": "glow"
+      },
+      {
+        "label": "cause a sharp",
+        "probe": "bite"
+      },
+      {
+        "label": "feel hot or",
+        "probe": "ache"
+      }
+    ]
+  },
+  "buster": {
+    "senses": [
+      {
+        "label": "an informal form",
+        "probe": "dude"
+      },
+      {
+        "label": "a person who",
+        "probe": "horseman"
+      }
+    ]
+  },
+  "busters": {
+    "senses": [
+      {
+        "label": "an informal form",
+        "probe": "dude"
+      },
+      {
+        "label": "a robust child",
+        "probe": "buster"
+      },
+      {
+        "label": "a person who",
+        "probe": "horseman"
+      }
+    ]
+  },
+  "butchery": {
+    "senses": [
+      {
+        "label": "a building where",
+        "probe": "slaughterhouse"
+      },
+      {
+        "label": "the savage and",
+        "probe": "slaughter"
+      }
+    ]
+  },
+  "butterflies": {
+    "senses": [
+      {
+        "label": "diurnal insect typically",
+        "probe": "diurnal"
+      },
+      {
+        "label": "cut and spread",
+        "probe": "unfold"
+      },
+      {
+        "label": "talk or behave",
+        "probe": "flirt"
+      }
+    ]
+  },
+  "calypso": {
+    "senses": [
+      {
+        "label": "rare north temperate",
+        "probe": "orchid"
+      },
+      {
+        "label": "(greek mythology) the",
+        "probe": "nymph"
+      }
+    ]
+  },
+  "caper": {
+    "senses": [
+      {
+        "label": "a playful leap",
+        "probe": "playful"
+      },
+      {
+        "label": "gay or light-hearted",
+        "probe": "frolic"
+      },
+      {
+        "label": "a ludicrous or",
+        "probe": "ludicrous"
+      }
+    ]
+  },
+  "caricature": {
+    "senses": [
+      {
+        "label": "a representation of",
+        "probe": "imitation"
+      },
+      {
+        "label": "represent in or",
+        "probe": "ape"
+      }
+    ]
+  },
+  "castaway": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "outcast"
+      },
+      {
+        "label": "a shipwrecked person",
+        "probe": "shipwrecked"
+      }
+    ]
+  },
+  "castaways": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "outcast"
+      },
+      {
+        "label": "a shipwrecked person",
+        "probe": "castaway"
+      }
+    ]
+  },
+  "cat": {
+    "senses": [
+      {
+        "label": "feline mammal usually",
+        "probe": "feline"
+      },
+      {
+        "label": "a spiteful woman",
+        "probe": "spiteful"
+      },
+      {
+        "label": "eject the contents",
+        "probe": "vomit"
+      }
+    ]
+  },
+  "catastrophes": {
+    "senses": [
+      {
+        "label": "an event resulting",
+        "probe": "calamity"
+      },
+      {
+        "label": "a sudden violent",
+        "probe": "cataclysm"
+      }
+    ]
+  },
+  "cats": {
+    "senses": [
+      {
+        "label": "feline mammal usually",
+        "probe": "cat"
+      },
+      {
+        "label": "a spiteful woman",
+        "probe": "spiteful"
+      },
+      {
+        "label": "any of several",
+        "probe": "feline"
+      },
+      {
+        "label": "eject the contents",
+        "probe": "vomit"
+      }
+    ]
+  },
+  "caves": {
+    "senses": [
+      {
+        "label": "a geological formation",
+        "probe": "cave"
+      },
+      {
+        "label": "hollow out as",
+        "probe": "hollow"
+      }
+    ]
+  },
+  "chameleon": {
+    "senses": [
+      {
+        "label": "a faint constellation",
+        "probe": "faint"
+      },
+      {
+        "label": "lizard of africa",
+        "probe": "lizard"
+      }
+    ]
+  },
+  "charades": {
+    "senses": [
+      {
+        "label": "a composition that",
+        "probe": "parody"
+      },
+      {
+        "label": "a word acted",
+        "probe": "charade"
+      }
+    ]
+  },
+  "charmed": {
+    "senses": [
+      {
+        "label": "attract",
+        "probe": "trance"
+      },
+      {
+        "label": "induce into action",
+        "probe": "tempt"
+      }
+    ]
+  },
+  "charmer": {
+    "senses": [
+      {
+        "label": "someone with an",
+        "probe": "hypocrite"
+      },
+      {
+        "label": "a person who",
+        "probe": "charms"
+      }
+    ]
+  },
+  "charming": {
+    "senses": [
+      {
+        "label": "attract",
+        "probe": "trance"
+      },
+      {
+        "label": "induce into action",
+        "probe": "tempt"
+      }
+    ]
+  },
+  "charms": {
+    "senses": [
+      {
+        "label": "attract",
+        "probe": "trance"
+      },
+      {
+        "label": "induce into action",
+        "probe": "tempt"
+      }
+    ]
+  },
+  "chickens": {
+    "senses": [
+      {
+        "label": "the flesh of",
+        "probe": "flesh"
+      },
+      {
+        "label": "a domestic fowl",
+        "probe": "fowl"
+      },
+      {
+        "label": "a person who",
+        "probe": "wimp"
+      },
+      {
+        "label": "a foolhardy competition",
+        "probe": "foolhardy"
+      }
+    ]
+  },
+  "chicks": {
+    "senses": [
+      {
+        "label": "young bird especially",
+        "probe": "chick"
+      },
+      {
+        "label": "informal terms for",
+        "probe": "wench"
+      }
+    ]
+  },
+  "chills": {
+    "senses": [
+      {
+        "label": "an almost pleasurable",
+        "probe": "frisson"
+      },
+      {
+        "label": "a sensation of",
+        "probe": "shivering"
+      },
+      {
+        "label": "a sudden numbing",
+        "probe": "apprehension"
+      }
+    ]
+  },
+  "chimeras": {
+    "senses": [
+      {
+        "label": "(greek mythology) fire-breathing",
+        "probe": "chimera"
+      },
+      {
+        "label": "a grotesque product",
+        "probe": "grotesque"
+      }
+    ]
+  },
+  "choking": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "suffocating"
+      },
+      {
+        "label": "pass from physical",
+        "probe": "perish"
+      }
+    ]
+  },
+  "chopper": {
+    "senses": [
+      {
+        "label": "a grounder that",
+        "probe": "hopper"
+      },
+      {
+        "label": "informal terms for",
+        "probe": "tooth"
+      }
+    ]
+  },
+  "cliffhangers": {
+    "senses": [
+      {
+        "label": "a contest whose",
+        "probe": "cliffhanger"
+      },
+      {
+        "label": "an episode that",
+        "probe": "instalment"
+      }
+    ]
+  },
+  "clones": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "clone"
+      },
+      {
+        "label": "an unauthorized copy",
+        "probe": "knockoff"
+      }
+    ]
+  },
+  "clouded": {
+    "senses": [
+      {
+        "label": "make less visible",
+        "probe": "mist"
+      },
+      {
+        "label": "billow up in",
+        "probe": "wallow"
+      },
+      {
+        "label": "make milky or",
+        "probe": "dull"
+      }
+    ]
+  },
+  "clown": {
+    "senses": [
+      {
+        "label": "a rude or",
+        "probe": "buffoon"
+      },
+      {
+        "label": "a person who",
+        "probe": "goofball"
+      }
+    ]
+  },
+  "clowns": {
+    "senses": [
+      {
+        "label": "a rude or",
+        "probe": "clown"
+      },
+      {
+        "label": "a person who",
+        "probe": "buffoon"
+      }
+    ]
+  },
+  "cock": {
+    "senses": [
+      {
+        "label": "adult male chicken",
+        "probe": "rooster"
+      }
+    ]
+  },
+  "collaborator": {
+    "senses": [
+      {
+        "label": "someone who assists",
+        "probe": "henchman"
+      },
+      {
+        "label": "someone who collaborates",
+        "probe": "traitor"
+      }
+    ]
+  },
+  "coma": {
+    "senses": [
+      {
+        "label": "a state of",
+        "probe": "unconsciousness"
+      },
+      {
+        "label": "(astronomy) the luminous",
+        "probe": "luminous"
+      }
+    ]
+  },
+  "comforts": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "solace"
+      },
+      {
+        "label": "a freedom from",
+        "probe": "affluence"
+      },
+      {
+        "label": "bedding made of",
+        "probe": "quilt"
+      }
+    ]
+  },
+  "commotion": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "ruckus"
+      },
+      {
+        "label": "confused movement",
+        "probe": "whirl"
+      }
+    ]
+  },
+  "companions": {
+    "senses": [
+      {
+        "label": "a traveler who",
+        "probe": "traveller"
+      },
+      {
+        "label": "be a companion",
+        "probe": "consort"
+      }
+    ]
+  },
+  "confection": {
+    "senses": [
+      {
+        "label": "a food rich",
+        "probe": "delicacy"
+      },
+      {
+        "label": "the act of",
+        "probe": "concoction"
+      }
+    ]
+  },
+  "contemplation": {
+    "senses": [
+      {
+        "label": "a long and",
+        "probe": "stare"
+      },
+      {
+        "label": "a calm",
+        "probe": "rumination"
+      }
+    ]
+  },
+  "contrivance": {
+    "senses": [
+      {
+        "label": "a device or",
+        "probe": "contraption"
+      },
+      {
+        "label": "an elaborate or",
+        "probe": "stratagem"
+      }
+    ]
+  },
+  "cop": {
+    "senses": [
+      {
+        "label": "uncomplimentary terms for",
+        "probe": "pig"
+      },
+      {
+        "label": "take by theft",
+        "probe": "snitch"
+      },
+      {
+        "label": "take into custody",
+        "probe": "apprehend"
+      }
+    ]
+  },
+  "cough": {
+    "senses": [
+      {
+        "label": "a sudden noisy",
+        "probe": "coughing"
+      },
+      {
+        "label": "exhale abruptly",
+        "probe": "exhale"
+      }
+    ]
+  },
+  "coughing": {
+    "senses": [
+      {
+        "label": "a sudden noisy",
+        "probe": "cough"
+      },
+      {
+        "label": "exhale abruptly",
+        "probe": "exhale"
+      }
+    ]
+  },
+  "coughs": {
+    "senses": [
+      {
+        "label": "a sudden noisy",
+        "probe": "cough"
+      },
+      {
+        "label": "exhale abruptly",
+        "probe": "exhale"
+      }
+    ]
+  },
+  "cranks": {
+    "senses": [
+      {
+        "label": "a bad-tempered person",
+        "probe": "grouch"
+      },
+      {
+        "label": "a whimsically eccentric",
+        "probe": "fruitcake"
+      }
+    ]
+  },
+  "crap": {
+    "senses": [
+      {
+        "label": "obscene terms for",
+        "probe": "shit"
+      },
+      {
+        "label": "obscene words for",
+        "probe": "bullshit"
+      }
+    ]
+  },
+  "crawl": {
+    "senses": [
+      {
+        "label": "a slow mode",
+        "probe": "crawling"
+      },
+      {
+        "label": "move slowly",
+        "probe": "creep"
+      },
+      {
+        "label": "show submission or",
+        "probe": "cringe"
+      }
+    ]
+  },
+  "crawling": {
+    "senses": [
+      {
+        "label": "a slow mode",
+        "probe": "crawl"
+      },
+      {
+        "label": "move slowly",
+        "probe": "creep"
+      },
+      {
+        "label": "show submission or",
+        "probe": "cringe"
+      }
+    ]
+  },
+  "crawls": {
+    "senses": [
+      {
+        "label": "a very slow",
+        "probe": "crawl"
+      },
+      {
+        "label": "a slow mode",
+        "probe": "crawling"
+      },
+      {
+        "label": "move slowly",
+        "probe": "creep"
+      },
+      {
+        "label": "show submission or",
+        "probe": "cringe"
+      }
+    ]
+  },
+  "craziness": {
+    "senses": [
+      {
+        "label": "informal terms for",
+        "probe": "insanity"
+      },
+      {
+        "label": "the quality of",
+        "probe": "folly"
+      },
+      {
+        "label": "foolish or senseless",
+        "probe": "lunacy"
+      }
+    ]
+  },
+  "creatures": {
+    "senses": [
+      {
+        "label": "a living organism",
+        "probe": "beast"
+      },
+      {
+        "label": "a human being",
+        "probe": "creature"
+      }
+    ]
+  },
+  "creep": {
+    "senses": [
+      {
+        "label": "someone unpleasantly strange",
+        "probe": "weirdo"
+      },
+      {
+        "label": "a slow mode",
+        "probe": "crawl"
+      },
+      {
+        "label": "grow or spread",
+        "probe": "diffuse"
+      },
+      {
+        "label": "show submission or",
+        "probe": "cringe"
+      }
+    ]
+  },
+  "creepers": {
+    "senses": [
+      {
+        "label": "any plant (as",
+        "probe": "creeper"
+      },
+      {
+        "label": "a person who",
+        "probe": "crawls"
+      }
+    ]
+  },
+  "creeping": {
+    "senses": [
+      {
+        "label": "a slow mode",
+        "probe": "crawl"
+      },
+      {
+        "label": "move slowly",
+        "probe": "creep"
+      },
+      {
+        "label": "grow or spread",
+        "probe": "diffuse"
+      },
+      {
+        "label": "show submission or",
+        "probe": "cringe"
+      }
+    ]
+  },
+  "creeps": {
+    "senses": [
+      {
+        "label": "a feeling of",
+        "probe": "fright"
+      },
+      {
+        "label": "someone unpleasantly strange",
+        "probe": "creep"
+      },
+      {
+        "label": "a slow mode",
+        "probe": "crawl"
+      },
+      {
+        "label": "grow or spread",
+        "probe": "diffuse"
+      },
+      {
+        "label": "show submission or",
+        "probe": "cringe"
+      }
+    ]
+  },
+  "cries": {
+    "senses": [
+      {
+        "label": "a fit of",
+        "probe": "weeping"
+      },
+      {
+        "label": "utter a sudden",
+        "probe": "scream"
+      },
+      {
+        "label": "shed tears because",
+        "probe": "weep"
+      },
+      {
+        "label": "utter aloud",
+        "probe": "utter"
+      }
+    ]
+  },
+  "cringe": {
+    "senses": [
+      {
+        "label": "draw back",
+        "probe": "quail"
+      },
+      {
+        "label": "show submission or",
+        "probe": "crawl"
+      }
+    ]
+  },
+  "crucified": {
+    "senses": [
+      {
+        "label": "treat cruelly",
+        "probe": "torment"
+      },
+      {
+        "label": "criticize harshly or",
+        "probe": "savage"
+      }
+    ]
+  },
+  "cruelties": {
+    "senses": [
+      {
+        "label": "a cruel act",
+        "probe": "cruelty"
+      },
+      {
+        "label": "the quality of",
+        "probe": "malevolence"
+      }
+    ]
+  },
+  "cruelty": {
+    "senses": [
+      {
+        "label": "a cruel act",
+        "probe": "cruel"
+      },
+      {
+        "label": "the quality of",
+        "probe": "malevolence"
+      }
+    ]
+  },
+  "crumb": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "rat"
+      },
+      {
+        "label": "small piece of",
+        "probe": "bite"
+      }
+    ]
+  },
+  "crushes": {
+    "senses": [
+      {
+        "label": "temporary love of",
+        "probe": "infatuation"
+      },
+      {
+        "label": "to compress with",
+        "probe": "mash"
+      },
+      {
+        "label": "come out better",
+        "probe": "vanquish"
+      }
+    ]
+  },
+  "crying": {
+    "senses": [
+      {
+        "label": "the process of",
+        "probe": "weeping"
+      },
+      {
+        "label": "a fit of",
+        "probe": "blowup"
+      },
+      {
+        "label": "utter a sudden",
+        "probe": "scream"
+      },
+      {
+        "label": "shed tears because",
+        "probe": "weep"
+      },
+      {
+        "label": "utter aloud",
+        "probe": "utter"
+      }
+    ]
+  },
+  "cults": {
+    "senses": [
+      {
+        "label": "followers of an",
+        "probe": "cult"
+      },
+      {
+        "label": "an interest followed",
+        "probe": "fad"
+      }
+    ]
+  },
+  "cunt": {
+    "senses": [
+      {
+        "label": "a person (usually",
+        "probe": "bitch"
+      },
+      {
+        "label": "obscene terms for",
+        "probe": "puss"
+      }
+    ]
+  },
+  "curse": {
+    "senses": [
+      {
+        "label": "profane or obscene",
+        "probe": "profanity"
+      },
+      {
+        "label": "an evil spell",
+        "probe": "whammy"
+      },
+      {
+        "label": "something causing misery",
+        "probe": "bane"
+      },
+      {
+        "label": "a severe affliction",
+        "probe": "torment"
+      },
+      {
+        "label": "utter obscenities or",
+        "probe": "utter"
+      },
+      {
+        "label": "wish harm upon",
+        "probe": "conjure"
+      }
+    ]
+  },
+  "cursed": {
+    "senses": [
+      {
+        "label": "utter obscenities or",
+        "probe": "curse"
+      },
+      {
+        "label": "wish harm upon",
+        "probe": "conjure"
+      }
+    ]
+  },
+  "curses": {
+    "senses": [
+      {
+        "label": "profane or obscene",
+        "probe": "curse"
+      },
+      {
+        "label": "an evil spell",
+        "probe": "whammy"
+      },
+      {
+        "label": "something causing misery",
+        "probe": "bane"
+      },
+      {
+        "label": "a severe affliction",
+        "probe": "torment"
+      },
+      {
+        "label": "utter obscenities or",
+        "probe": "utter"
+      },
+      {
+        "label": "wish harm upon",
+        "probe": "conjure"
+      }
+    ]
+  },
+  "dark": {
+    "senses": [
+      {
+        "label": "absence of light",
+        "probe": "darkness"
+      },
+      {
+        "label": "absence of moral",
+        "probe": "iniquity"
+      },
+      {
+        "label": "the time after",
+        "probe": "nighttime"
+      }
+    ]
+  },
+  "darkness": {
+    "senses": [
+      {
+        "label": "absence of light",
+        "probe": "dark"
+      },
+      {
+        "label": "absence of moral",
+        "probe": "iniquity"
+      }
+    ]
+  },
+  "daydreaming": {
+    "senses": [
+      {
+        "label": "absentminded dreaming while",
+        "probe": "reverie"
+      },
+      {
+        "label": "have a daydream",
+        "probe": "daydream"
+      }
+    ]
+  },
+  "daydreams": {
+    "senses": [
+      {
+        "label": "absentminded dreaming while",
+        "probe": "reverie"
+      },
+      {
+        "label": "have a daydream",
+        "probe": "daydream"
+      }
+    ]
+  },
+  "daze": {
+    "senses": [
+      {
+        "label": "the feeling of",
+        "probe": "stupor"
+      },
+      {
+        "label": "confusion characterized by",
+        "probe": "haze"
+      }
+    ]
+  },
+  "decoy": {
+    "senses": [
+      {
+        "label": "a beguiler who",
+        "probe": "accomplice"
+      },
+      {
+        "label": "lure or entrap",
+        "probe": "tempt"
+      }
+    ]
+  },
+  "decoys": {
+    "senses": [
+      {
+        "label": "a beguiler who",
+        "probe": "decoy"
+      },
+      {
+        "label": "lure or entrap",
+        "probe": "tempt"
+      }
+    ]
+  },
+  "delusion": {
+    "senses": [
+      {
+        "label": "a mistaken or",
+        "probe": "hallucination"
+      },
+      {
+        "label": "the act of",
+        "probe": "illusion"
+      }
+    ]
+  },
+  "delusions": {
+    "senses": [
+      {
+        "label": "(psychology) an erroneous",
+        "probe": "delusion"
+      },
+      {
+        "label": "a mistaken or",
+        "probe": "hallucination"
+      },
+      {
+        "label": "the act of",
+        "probe": "illusion"
+      }
+    ]
+  },
+  "demigod": {
+    "senses": [
+      {
+        "label": "a person with",
+        "probe": "superman"
+      },
+      {
+        "label": "a person who",
+        "probe": "mortal"
+      }
+    ]
+  },
+  "demigods": {
+    "senses": [
+      {
+        "label": "a person with",
+        "probe": "demigod"
+      },
+      {
+        "label": "a person who",
+        "probe": "mortal"
+      }
+    ]
+  },
+  "demon": {
+    "senses": [
+      {
+        "label": "an evil supernatural",
+        "probe": "devil"
+      },
+      {
+        "label": "a cruel wicked",
+        "probe": "monster"
+      }
+    ]
+  },
+  "demons": {
+    "senses": [
+      {
+        "label": "an evil supernatural",
+        "probe": "devil"
+      },
+      {
+        "label": "a cruel wicked",
+        "probe": "monster"
+      },
+      {
+        "label": "someone extremely diligent",
+        "probe": "demon"
+      }
+    ]
+  },
+  "dens": {
+    "senses": [
+      {
+        "label": "the habitation of",
+        "probe": "lair"
+      },
+      {
+        "label": "a hiding place",
+        "probe": "hideout"
+      }
+    ]
+  },
+  "depictions": {
+    "senses": [
+      {
+        "label": "a graphic or",
+        "probe": "depiction"
+      },
+      {
+        "label": "representation by drawing",
+        "probe": "picturing"
+      }
+    ]
+  },
+  "depravity": {
+    "senses": [
+      {
+        "label": "moral perversion",
+        "probe": "immorality"
+      },
+      {
+        "label": "a corrupt or",
+        "probe": "transgression"
+      }
+    ]
+  },
+  "desolation": {
+    "senses": [
+      {
+        "label": "the state of",
+        "probe": "devastation"
+      },
+      {
+        "label": "a bleak and",
+        "probe": "gloom"
+      },
+      {
+        "label": "sadness resulting from",
+        "probe": "loneliness"
+      }
+    ]
+  },
+  "desperation": {
+    "senses": [
+      {
+        "label": "a state in",
+        "probe": "despair"
+      },
+      {
+        "label": "desperate recklessness",
+        "probe": "recklessness"
+      }
+    ]
+  },
+  "devastation": {
+    "senses": [
+      {
+        "label": "the state of",
+        "probe": "desolation"
+      },
+      {
+        "label": "plundering with excessive",
+        "probe": "ravaging"
+      }
+    ]
+  },
+  "devil": {
+    "senses": [
+      {
+        "label": "an evil supernatural",
+        "probe": "fiend"
+      },
+      {
+        "label": "a word used",
+        "probe": "dickens"
+      },
+      {
+        "label": "a rowdy or",
+        "probe": "troublemaker"
+      },
+      {
+        "label": "a cruel wicked",
+        "probe": "monster"
+      }
+    ]
+  },
+  "devoured": {
+    "senses": [
+      {
+        "label": "destroy completely",
+        "probe": "devour"
+      },
+      {
+        "label": "eat greedily",
+        "probe": "raven"
+      }
+    ]
+  },
+  "devouring": {
+    "senses": [
+      {
+        "label": "destroy completely",
+        "probe": "devour"
+      },
+      {
+        "label": "eat greedily",
+        "probe": "raven"
+      }
+    ]
+  },
+  "dies": {
+    "senses": [
+      {
+        "label": "pass from physical",
+        "probe": "perish"
+      },
+      {
+        "label": "languish as with",
+        "probe": "ache"
+      }
+    ]
+  },
+  "donkey": {
+    "senses": [
+      {
+        "label": "the symbol of",
+        "probe": "allegory"
+      },
+      {
+        "label": "domestic beast of",
+        "probe": "ass"
+      }
+    ]
+  },
+  "doves": {
+    "senses": [
+      {
+        "label": "any of numerous",
+        "probe": "pigeon"
+      },
+      {
+        "label": "flesh of a",
+        "probe": "flesh"
+      },
+      {
+        "label": "an emblem of",
+        "probe": "allegory"
+      }
+    ]
+  },
+  "draco": {
+    "senses": [
+      {
+        "label": "a faint constellation",
+        "probe": "dragon"
+      },
+      {
+        "label": "a reptile genus",
+        "probe": "reptile"
+      }
+    ]
+  },
+  "dragon": {
+    "senses": [
+      {
+        "label": "a creature of",
+        "probe": "creature"
+      },
+      {
+        "label": "a faint constellation",
+        "probe": "draco"
+      }
+    ]
+  },
+  "drags": {
+    "senses": [
+      {
+        "label": "something tedious and",
+        "probe": "tedious"
+      },
+      {
+        "label": "a slow inhalation",
+        "probe": "puff"
+      },
+      {
+        "label": "force into some",
+        "probe": "tangle"
+      },
+      {
+        "label": "suck in or",
+        "probe": "suck"
+      }
+    ]
+  },
+  "dreamer": {
+    "senses": [
+      {
+        "label": "someone who is",
+        "probe": "dreaming"
+      },
+      {
+        "label": "someone guided more",
+        "probe": "idealist"
+      },
+      {
+        "label": "a person who",
+        "probe": "escapist"
+      }
+    ]
+  },
+  "dreamers": {
+    "senses": [
+      {
+        "label": "someone who is",
+        "probe": "dreamer"
+      },
+      {
+        "label": "someone guided more",
+        "probe": "idealist"
+      },
+      {
+        "label": "a person who",
+        "probe": "escapist"
+      }
+    ]
+  },
+  "drowned": {
+    "senses": [
+      {
+        "label": "cover completely or",
+        "probe": "drown"
+      },
+      {
+        "label": "die from being",
+        "probe": "perish"
+      }
+    ]
+  },
+  "drowning": {
+    "senses": [
+      {
+        "label": "cover completely or",
+        "probe": "drown"
+      },
+      {
+        "label": "die from being",
+        "probe": "perish"
+      }
+    ]
+  },
+  "drowns": {
+    "senses": [
+      {
+        "label": "cover completely or",
+        "probe": "drown"
+      },
+      {
+        "label": "die from being",
+        "probe": "perish"
+      }
+    ]
+  },
+  "dud": {
+    "senses": [
+      {
+        "label": "an explosion that",
+        "probe": "misfire"
+      },
+      {
+        "label": "an event that",
+        "probe": "fizzle"
+      }
+    ]
+  },
+  "dude": {
+    "senses": [
+      {
+        "label": "an informal form",
+        "probe": "buster"
+      },
+      {
+        "label": "a man who",
+        "probe": "dandy"
+      }
+    ]
+  },
+  "dudes": {
+    "senses": [
+      {
+        "label": "an informal form",
+        "probe": "dude"
+      },
+      {
+        "label": "a man who",
+        "probe": "dandy"
+      }
+    ]
+  },
+  "dull": {
+    "senses": [
+      {
+        "label": "deaden (a sound",
+        "probe": "mute"
+      },
+      {
+        "label": "make numb or",
+        "probe": "numb"
+      }
+    ]
+  },
+  "dwarfs": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "dwarf"
+      },
+      {
+        "label": "a legendary creature",
+        "probe": "fairy"
+      }
+    ]
+  },
+  "dwarves": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "dwarf"
+      },
+      {
+        "label": "a legendary creature",
+        "probe": "fairy"
+      }
+    ]
+  },
+  "dwell": {
+    "senses": [
+      {
+        "label": "think moodily or",
+        "probe": "brood"
+      },
+      {
+        "label": "inhabit or live",
+        "probe": "populate"
+      },
+      {
+        "label": "exist or be",
+        "probe": "inhabit"
+      }
+    ]
+  },
+  "dwelling": {
+    "senses": [
+      {
+        "label": "housing that someone",
+        "probe": "abode"
+      },
+      {
+        "label": "think moodily or",
+        "probe": "brood"
+      },
+      {
+        "label": "originate (in)",
+        "probe": "dwell"
+      },
+      {
+        "label": "inhabit or live",
+        "probe": "populate"
+      },
+      {
+        "label": "exist or be",
+        "probe": "inhabit"
+      }
+    ]
+  },
+  "dying": {
+    "senses": [
+      {
+        "label": "pass from physical",
+        "probe": "perish"
+      },
+      {
+        "label": "languish as with",
+        "probe": "ache"
+      }
+    ]
+  },
+  "eccentrics": {
+    "senses": [
+      {
+        "label": "a person with",
+        "probe": "oddball"
+      },
+      {
+        "label": "a person of",
+        "probe": "grownup"
+      }
+    ]
+  },
+  "elephants": {
+    "senses": [
+      {
+        "label": "five-toed pachyderm",
+        "probe": "elephant"
+      },
+      {
+        "label": "the symbol of",
+        "probe": "allegory"
+      }
+    ]
+  },
+  "enchanted": {
+    "senses": [
+      {
+        "label": "attract",
+        "probe": "trance"
+      },
+      {
+        "label": "cast a spell",
+        "probe": "witch"
+      }
+    ]
+  },
+  "enchanting": {
+    "senses": [
+      {
+        "label": "attract",
+        "probe": "trance"
+      },
+      {
+        "label": "cast a spell",
+        "probe": "witch"
+      }
+    ]
+  },
+  "enchantment": {
+    "senses": [
+      {
+        "label": "a feeling of",
+        "probe": "fascination"
+      },
+      {
+        "label": "a psychological state",
+        "probe": "trance"
+      },
+      {
+        "label": "a magical spell",
+        "probe": "magical"
+      }
+    ]
+  },
+  "enchantress": {
+    "senses": [
+      {
+        "label": "a woman who",
+        "probe": "temptress"
+      },
+      {
+        "label": "a female sorcerer",
+        "probe": "witch"
+      }
+    ]
+  },
+  "enigma": {
+    "senses": [
+      {
+        "label": "something that baffles",
+        "probe": "mystery"
+      },
+      {
+        "label": "a difficult problem",
+        "probe": "conundrum"
+      }
+    ]
+  },
+  "enormity": {
+    "senses": [
+      {
+        "label": "the quality of",
+        "probe": "wickedness"
+      },
+      {
+        "label": "an act of",
+        "probe": "atrocity"
+      }
+    ]
+  },
+  "eruptions": {
+    "senses": [
+      {
+        "label": "the sudden occurrence",
+        "probe": "eruption"
+      },
+      {
+        "label": "symptom consisting of",
+        "probe": "symptom"
+      }
+    ]
+  },
+  "escapades": {
+    "senses": [
+      {
+        "label": "a wild and",
+        "probe": "escapade"
+      },
+      {
+        "label": "any carefree episode",
+        "probe": "lark"
+      }
+    ]
+  },
+  "escapees": {
+    "senses": [
+      {
+        "label": "someone who escapes",
+        "probe": "escapee"
+      },
+      {
+        "label": "be incomprehensible to",
+        "probe": "incomprehensible"
+      },
+      {
+        "label": "flee",
+        "probe": "bunk"
+      }
+    ]
+  },
+  "escapes": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "escaping"
+      },
+      {
+        "label": "an inclination to",
+        "probe": "escapism"
+      },
+      {
+        "label": "be incomprehensible to",
+        "probe": "incomprehensible"
+      },
+      {
+        "label": "flee",
+        "probe": "bunk"
+      }
+    ]
+  },
+  "escaping": {
+    "senses": [
+      {
+        "label": "be incomprehensible to",
+        "probe": "incomprehensible"
+      },
+      {
+        "label": "flee",
+        "probe": "bunk"
+      }
+    ]
+  },
+  "evils": {
+    "senses": [
+      {
+        "label": "morally objectionable behavior",
+        "probe": "evil"
+      },
+      {
+        "label": "the quality of",
+        "probe": "immorality"
+      }
+    ]
+  },
+  "evoked": {
+    "senses": [
+      {
+        "label": "call forth (emotions",
+        "probe": "evoke"
+      },
+      {
+        "label": "summon into action",
+        "probe": "conjure"
+      }
+    ]
+  },
+  "evokes": {
+    "senses": [
+      {
+        "label": "call forth (emotions",
+        "probe": "evoke"
+      },
+      {
+        "label": "summon into action",
+        "probe": "conjure"
+      }
+    ]
+  },
+  "evoking": {
+    "senses": [
+      {
+        "label": "call forth (emotions",
+        "probe": "evoke"
+      },
+      {
+        "label": "summon into action",
+        "probe": "conjure"
+      }
+    ]
+  },
+  "exalted": {
+    "senses": [
+      {
+        "label": "praise",
+        "probe": "glorify"
+      },
+      {
+        "label": "fill with sublime",
+        "probe": "thrill"
+      }
+    ]
+  },
+  "extermination": {
+    "senses": [
+      {
+        "label": "complete annihilation",
+        "probe": "annihilation"
+      },
+      {
+        "label": "the act of",
+        "probe": "devastation"
+      }
+    ]
+  },
+  "fable": {
+    "senses": [
+      {
+        "label": "a deliberately false",
+        "probe": "falsehood"
+      },
+      {
+        "label": "a short moral",
+        "probe": "parable"
+      }
+    ]
+  },
+  "fables": {
+    "senses": [
+      {
+        "label": "a deliberately false",
+        "probe": "fable"
+      },
+      {
+        "label": "a short moral",
+        "probe": "parable"
+      }
+    ]
+  },
+  "faerie": {
+    "senses": [
+      {
+        "label": "a small being",
+        "probe": "fairy"
+      },
+      {
+        "label": "the enchanted realm",
+        "probe": "fairyland"
+      }
+    ]
+  },
+  "faggots": {
+    "senses": [
+      {
+        "label": "offensive term for",
+        "probe": "fag"
+      },
+      {
+        "label": "ornament or join",
+        "probe": "ornament"
+      }
+    ]
+  },
+  "fairies": {
+    "senses": [
+      {
+        "label": "a small being",
+        "probe": "fairy"
+      },
+      {
+        "label": "offensive term for",
+        "probe": "fag"
+      }
+    ]
+  },
+  "fairy": {
+    "senses": [
+      {
+        "label": "a small being",
+        "probe": "faerie"
+      },
+      {
+        "label": "offensive term for",
+        "probe": "fag"
+      }
+    ]
+  },
+  "fairyland": {
+    "senses": [
+      {
+        "label": "something existing solely",
+        "probe": "fantasy"
+      },
+      {
+        "label": "the enchanted realm",
+        "probe": "faerie"
+      }
+    ]
+  },
+  "fairytale": {
+    "senses": [
+      {
+        "label": "a story about",
+        "probe": "narration"
+      },
+      {
+        "label": "an interesting but",
+        "probe": "tale"
+      }
+    ]
+  },
+  "fairytales": {
+    "senses": [
+      {
+        "label": "a story about",
+        "probe": "fairytale"
+      },
+      {
+        "label": "an interesting but",
+        "probe": "tale"
+      }
+    ]
+  },
+  "fangs": {
+    "senses": [
+      {
+        "label": "canine tooth of",
+        "probe": "canine"
+      },
+      {
+        "label": "hollow or grooved",
+        "probe": "hollow"
+      }
+    ]
+  },
+  "fantasies": {
+    "senses": [
+      {
+        "label": "imagination unrestricted by",
+        "probe": "fantasy"
+      },
+      {
+        "label": "something many people",
+        "probe": "illusion"
+      },
+      {
+        "label": "indulge in fantasies",
+        "probe": "indulge"
+      }
+    ]
+  },
+  "fantasy": {
+    "senses": [
+      {
+        "label": "something many people",
+        "probe": "illusion"
+      },
+      {
+        "label": "indulge in fantasies",
+        "probe": "indulge"
+      }
+    ]
+  },
+  "fascinated": {
+    "senses": [
+      {
+        "label": "cause to be",
+        "probe": "intrigue"
+      },
+      {
+        "label": "attract",
+        "probe": "trance"
+      }
+    ]
+  },
+  "ferret": {
+    "senses": [
+      {
+        "label": "domesticated albino variety",
+        "probe": "domesticated"
+      },
+      {
+        "label": "hound or harry",
+        "probe": "hound"
+      }
+    ]
+  },
+  "ferrets": {
+    "senses": [
+      {
+        "label": "musteline mammal of",
+        "probe": "ferret"
+      },
+      {
+        "label": "domesticated albino variety",
+        "probe": "domesticated"
+      },
+      {
+        "label": "hound or harry",
+        "probe": "hound"
+      }
+    ]
+  },
+  "fiend": {
+    "senses": [
+      {
+        "label": "a cruel wicked",
+        "probe": "monster"
+      },
+      {
+        "label": "an evil supernatural",
+        "probe": "devil"
+      },
+      {
+        "label": "a person motivated",
+        "probe": "fanatic"
+      }
+    ]
+  },
+  "fiends": {
+    "senses": [
+      {
+        "label": "a cruel wicked",
+        "probe": "monster"
+      },
+      {
+        "label": "an evil supernatural",
+        "probe": "devil"
+      },
+      {
+        "label": "a person motivated",
+        "probe": "fanatic"
+      }
+    ]
+  },
+  "filth": {
+    "senses": [
+      {
+        "label": "any substance considered",
+        "probe": "crud"
+      },
+      {
+        "label": "the state of",
+        "probe": "grime"
+      },
+      {
+        "label": "a state characterized",
+        "probe": "nastiness"
+      },
+      {
+        "label": "an offensive or",
+        "probe": "profanity"
+      }
+    ]
+  },
+  "fireballs": {
+    "senses": [
+      {
+        "label": "an especially luminous",
+        "probe": "fireball"
+      },
+      {
+        "label": "the luminous center",
+        "probe": "luminous"
+      }
+    ]
+  },
+  "fireflies": {
+    "senses": [
+      {
+        "label": "tropical american click",
+        "probe": "firefly"
+      },
+      {
+        "label": "nocturnal beetle common",
+        "probe": "nocturnal"
+      }
+    ]
+  },
+  "fixation": {
+    "senses": [
+      {
+        "label": "an abnormal state",
+        "probe": "abnormal"
+      },
+      {
+        "label": "an unhealthy and",
+        "probe": "obsession"
+      }
+    ]
+  },
+  "flashbacks": {
+    "senses": [
+      {
+        "label": "a transition (in",
+        "probe": "flashback"
+      },
+      {
+        "label": "an unexpected but",
+        "probe": "recurrence"
+      }
+    ]
+  },
+  "flashes": {
+    "senses": [
+      {
+        "label": "a momentary brightness",
+        "probe": "momentary"
+      },
+      {
+        "label": "a very short",
+        "probe": "heartbeat"
+      },
+      {
+        "label": "gleam or glow",
+        "probe": "blink"
+      }
+    ]
+  },
+  "flick": {
+    "senses": [
+      {
+        "label": "flash intermittently",
+        "probe": "flicker"
+      },
+      {
+        "label": "look through a",
+        "probe": "riff"
+      },
+      {
+        "label": "twitch or flutter",
+        "probe": "twitch"
+      }
+    ]
+  },
+  "flicker": {
+    "senses": [
+      {
+        "label": "a momentary flash",
+        "probe": "glint"
+      },
+      {
+        "label": "north american woodpecker",
+        "probe": "woodpecker"
+      },
+      {
+        "label": "shine unsteadily",
+        "probe": "flick"
+      },
+      {
+        "label": "flash intermittently",
+        "probe": "blink"
+      }
+    ]
+  },
+  "flickering": {
+    "senses": [
+      {
+        "label": "move back and",
+        "probe": "flicker"
+      },
+      {
+        "label": "shine unsteadily",
+        "probe": "flick"
+      },
+      {
+        "label": "flash intermittently",
+        "probe": "blink"
+      }
+    ]
+  },
+  "flicks": {
+    "senses": [
+      {
+        "label": "a light sharp",
+        "probe": "flick"
+      },
+      {
+        "label": "flash intermittently",
+        "probe": "flicker"
+      },
+      {
+        "label": "look through a",
+        "probe": "riff"
+      },
+      {
+        "label": "twitch or flutter",
+        "probe": "twitch"
+      }
+    ]
+  },
+  "fling": {
+    "senses": [
+      {
+        "label": "a usually brief",
+        "probe": "whirl"
+      },
+      {
+        "label": "indulge oneself",
+        "probe": "indulge"
+      }
+    ]
+  },
+  "flirt": {
+    "senses": [
+      {
+        "label": "a seductive woman",
+        "probe": "vamp"
+      },
+      {
+        "label": "playful behavior intended",
+        "probe": "playful"
+      },
+      {
+        "label": "talk or behave",
+        "probe": "romance"
+      }
+    ]
+  },
+  "flushed": {
+    "senses": [
+      {
+        "label": "turn red",
+        "probe": "blush"
+      },
+      {
+        "label": "glow or cause",
+        "probe": "glow"
+      }
+    ]
+  },
+  "follies": {
+    "senses": [
+      {
+        "label": "the trait of",
+        "probe": "folly"
+      },
+      {
+        "label": "a stupid mistake",
+        "probe": "stupidity"
+      },
+      {
+        "label": "the quality of",
+        "probe": "foolishness"
+      },
+      {
+        "label": "foolish or senseless",
+        "probe": "craziness"
+      }
+    ]
+  },
+  "folly": {
+    "senses": [
+      {
+        "label": "the trait of",
+        "probe": "foolishness"
+      },
+      {
+        "label": "a stupid mistake",
+        "probe": "stupidity"
+      },
+      {
+        "label": "the quality of",
+        "probe": "craziness"
+      },
+      {
+        "label": "foolish or senseless",
+        "probe": "lunacy"
+      }
+    ]
+  },
+  "fondness": {
+    "senses": [
+      {
+        "label": "a positive feeling",
+        "probe": "tenderness"
+      },
+      {
+        "label": "a quality proceeding",
+        "probe": "warmth"
+      }
+    ]
+  },
+  "foolishness": {
+    "senses": [
+      {
+        "label": "the trait of",
+        "probe": "folly"
+      },
+      {
+        "label": "the quality of",
+        "probe": "craziness"
+      },
+      {
+        "label": "a stupid mistake",
+        "probe": "stupidity"
+      }
+    ]
+  },
+  "fools": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "simpleton"
+      },
+      {
+        "label": "a person who",
+        "probe": "sucker"
+      },
+      {
+        "label": "a professional clown",
+        "probe": "jester"
+      },
+      {
+        "label": "indulge in horseplay",
+        "probe": "indulge"
+      }
+    ]
+  },
+  "foreboding": {
+    "senses": [
+      {
+        "label": "a feeling of",
+        "probe": "premonition"
+      },
+      {
+        "label": "an unfavorable omen",
+        "probe": "omen"
+      }
+    ]
+  },
+  "fowl": {
+    "senses": [
+      {
+        "label": "a domesticated gallinaceous",
+        "probe": "domesticated"
+      },
+      {
+        "label": "the flesh of",
+        "probe": "flesh"
+      }
+    ]
+  },
+  "foxes": {
+    "senses": [
+      {
+        "label": "alert carnivorous mammal",
+        "probe": "canine"
+      },
+      {
+        "label": "a shifty deceptive",
+        "probe": "shifty"
+      }
+    ]
+  },
+  "freak": {
+    "senses": [
+      {
+        "label": "a person or",
+        "probe": "monster"
+      },
+      {
+        "label": "someone who is",
+        "probe": "addict"
+      }
+    ]
+  },
+  "freaks": {
+    "senses": [
+      {
+        "label": "a person or",
+        "probe": "freak"
+      },
+      {
+        "label": "someone who is",
+        "probe": "addict"
+      }
+    ]
+  },
+  "frolic": {
+    "senses": [
+      {
+        "label": "gay or light-hearted",
+        "probe": "romp"
+      },
+      {
+        "label": "play boisterously",
+        "probe": "lark"
+      }
+    ]
+  },
+  "furies": {
+    "senses": [
+      {
+        "label": "a feeling of",
+        "probe": "fury"
+      },
+      {
+        "label": "state of violent",
+        "probe": "delirium"
+      },
+      {
+        "label": "the property of",
+        "probe": "ferocity"
+      },
+      {
+        "label": "(classical mythology) the",
+        "probe": "hideous"
+      }
+    ]
+  },
+  "fury": {
+    "senses": [
+      {
+        "label": "a feeling of",
+        "probe": "rage"
+      },
+      {
+        "label": "state of violent",
+        "probe": "delirium"
+      },
+      {
+        "label": "the property of",
+        "probe": "ferocity"
+      },
+      {
+        "label": "(classical mythology) the",
+        "probe": "hideous"
+      }
+    ]
+  },
+  "gags": {
+    "senses": [
+      {
+        "label": "prevent from speaking",
+        "probe": "hush"
+      }
+    ]
+  },
+  "gargoyles": {
+    "senses": [
+      {
+        "label": "a spout that",
+        "probe": "gargoyle"
+      },
+      {
+        "label": "an ornament consisting",
+        "probe": "ornament"
+      }
+    ]
+  },
+  "gasp": {
+    "senses": [
+      {
+        "label": "a short labored",
+        "probe": "inhalation"
+      },
+      {
+        "label": "breathe noisily",
+        "probe": "puff"
+      }
+    ]
+  },
+  "gasps": {
+    "senses": [
+      {
+        "label": "a short labored",
+        "probe": "gasp"
+      },
+      {
+        "label": "breathe noisily",
+        "probe": "puff"
+      }
+    ]
+  },
+  "geniuses": {
+    "senses": [
+      {
+        "label": "someone who has",
+        "probe": "brainiac"
+      },
+      {
+        "label": "someone who is",
+        "probe": "whizz"
+      }
+    ]
+  },
+  "ghost": {
+    "senses": [
+      {
+        "label": "a mental representation",
+        "probe": "spook"
+      },
+      {
+        "label": "a writer who",
+        "probe": "ghostwriter"
+      },
+      {
+        "label": "the visible disembodied",
+        "probe": "soul"
+      },
+      {
+        "label": "haunt like a",
+        "probe": "haunt"
+      }
+    ]
+  },
+  "ghosts": {
+    "senses": [
+      {
+        "label": "a mental representation",
+        "probe": "ghost"
+      },
+      {
+        "label": "a writer who",
+        "probe": "ghostwriter"
+      },
+      {
+        "label": "the visible disembodied",
+        "probe": "soul"
+      },
+      {
+        "label": "haunt like a",
+        "probe": "haunt"
+      }
+    ]
+  },
+  "ghoul": {
+    "senses": [
+      {
+        "label": "someone who takes",
+        "probe": "thief"
+      },
+      {
+        "label": "an evil spirit",
+        "probe": "evil"
+      }
+    ]
+  },
+  "ghouls": {
+    "senses": [
+      {
+        "label": "someone who takes",
+        "probe": "ghoul"
+      },
+      {
+        "label": "an evil spirit",
+        "probe": "evil"
+      }
+    ]
+  },
+  "gleam": {
+    "senses": [
+      {
+        "label": "an appearance of",
+        "probe": "glow"
+      },
+      {
+        "label": "a flash of",
+        "probe": "glimmer"
+      },
+      {
+        "label": "be shiny",
+        "probe": "glitter"
+      }
+    ]
+  },
+  "glee": {
+    "senses": [
+      {
+        "label": "great merriment",
+        "probe": "hilarity"
+      },
+      {
+        "label": "malicious satisfaction",
+        "probe": "gloating"
+      }
+    ]
+  },
+  "glint": {
+    "senses": [
+      {
+        "label": "a momentary flash",
+        "probe": "flicker"
+      },
+      {
+        "label": "be shiny",
+        "probe": "glitter"
+      }
+    ]
+  },
+  "glitter": {
+    "senses": [
+      {
+        "label": "the quality of",
+        "probe": "sparkle"
+      },
+      {
+        "label": "be shiny",
+        "probe": "glint"
+      }
+    ]
+  },
+  "gloating": {
+    "senses": [
+      {
+        "label": "malicious satisfaction",
+        "probe": "glee"
+      },
+      {
+        "label": "dwell on with",
+        "probe": "dwell"
+      },
+      {
+        "label": "gaze at or",
+        "probe": "gaze"
+      }
+    ]
+  },
+  "glow": {
+    "senses": [
+      {
+        "label": "the amount of",
+        "probe": "radiance"
+      },
+      {
+        "label": "an appearance of",
+        "probe": "gleam"
+      }
+    ]
+  },
+  "gnawing": {
+    "senses": [
+      {
+        "label": "bite or chew",
+        "probe": "bite"
+      },
+      {
+        "label": "become ground down",
+        "probe": "decay"
+      }
+    ]
+  },
+  "gods": {
+    "senses": [
+      {
+        "label": "the supernatural being",
+        "probe": "supernatural"
+      },
+      {
+        "label": "any supernatural being",
+        "probe": "deity"
+      }
+    ]
+  },
+  "goofball": {
+    "senses": [
+      {
+        "label": "a man who",
+        "probe": "jackass"
+      },
+      {
+        "label": "a person who",
+        "probe": "clown"
+      }
+    ]
+  },
+  "goons": {
+    "senses": [
+      {
+        "label": "an awkward stupid",
+        "probe": "goon"
+      },
+      {
+        "label": "an aggressive and",
+        "probe": "hoodlum"
+      }
+    ]
+  },
+  "goose": {
+    "senses": [
+      {
+        "label": "a man who",
+        "probe": "goofball"
+      },
+      {
+        "label": "flesh of a",
+        "probe": "flesh"
+      }
+    ]
+  },
+  "goth": {
+    "senses": [
+      {
+        "label": "a crude uncouth",
+        "probe": "barbarian"
+      }
+    ]
+  },
+  "grannies": {
+    "senses": [
+      {
+        "label": "the mother of",
+        "probe": "grandma"
+      },
+      {
+        "label": "an old woman",
+        "probe": "granny"
+      }
+    ]
+  },
+  "grief": {
+    "senses": [
+      {
+        "label": "intense sorrow caused",
+        "probe": "heartache"
+      },
+      {
+        "label": "something that causes",
+        "probe": "sorrow"
+      }
+    ]
+  },
+  "grieving": {
+    "senses": [
+      {
+        "label": "feel grief",
+        "probe": "sorrow"
+      },
+      {
+        "label": "cause to feel",
+        "probe": "afflict"
+      }
+    ]
+  },
+  "grinding": {
+    "senses": [
+      {
+        "label": "work hard",
+        "probe": "fag"
+      },
+      {
+        "label": "reduce to small",
+        "probe": "mash"
+      }
+    ]
+  },
+  "groom": {
+    "senses": [
+      {
+        "label": "a man participant",
+        "probe": "bridegroom"
+      },
+      {
+        "label": "a man who",
+        "probe": "newlywed"
+      }
+    ]
+  },
+  "grouse": {
+    "senses": [
+      {
+        "label": "flesh of any",
+        "probe": "flesh"
+      },
+      {
+        "label": "hunt grouse",
+        "probe": "fowl"
+      },
+      {
+        "label": "complain",
+        "probe": "bitch"
+      }
+    ]
+  },
+  "grub": {
+    "senses": [
+      {
+        "label": "informal terms for",
+        "probe": "eats"
+      },
+      {
+        "label": "a soft thick",
+        "probe": "larva"
+      },
+      {
+        "label": "ask for and",
+        "probe": "sponge"
+      }
+    ]
+  },
+  "gutter": {
+    "senses": [
+      {
+        "label": "misfortune resulting in",
+        "probe": "misfortune"
+      },
+      {
+        "label": "burn unsteadily",
+        "probe": "glow"
+      }
+    ]
+  },
+  "gypsies": {
+    "senses": [
+      {
+        "label": "a laborer who",
+        "probe": "itinerant"
+      },
+      {
+        "label": "a member of",
+        "probe": "gypsy"
+      }
+    ]
+  },
+  "hades": {
+    "senses": [
+      {
+        "label": "(greek mythology) the",
+        "probe": "underworld"
+      },
+      {
+        "label": "(religion) the world",
+        "probe": "hell"
+      }
+    ]
+  },
+  "hallucination": {
+    "senses": [
+      {
+        "label": "illusory perception",
+        "probe": "illusory"
+      },
+      {
+        "label": "a mistaken or",
+        "probe": "delusion"
+      }
+    ]
+  },
+  "hallucinations": {
+    "senses": [
+      {
+        "label": "illusory perception",
+        "probe": "hallucination"
+      },
+      {
+        "label": "a mistaken or",
+        "probe": "delusion"
+      }
+    ]
+  },
+  "halos": {
+    "senses": [
+      {
+        "label": "an indication of",
+        "probe": "aura"
+      },
+      {
+        "label": "a toroidal shape",
+        "probe": "halo"
+      }
+    ]
+  },
+  "hanged": {
+    "senses": [
+      {
+        "label": "be menacing",
+        "probe": "menacing"
+      },
+      {
+        "label": "decorate or furnish",
+        "probe": "ornament"
+      },
+      {
+        "label": "suspend (meat) in",
+        "probe": "rot"
+      }
+    ]
+  },
+  "hares": {
+    "senses": [
+      {
+        "label": "swift timid long-eared",
+        "probe": "hare"
+      },
+      {
+        "label": "flesh of any",
+        "probe": "rabbit"
+      }
+    ]
+  },
+  "harried": {
+    "senses": [
+      {
+        "label": "annoy continually or",
+        "probe": "plague"
+      },
+      {
+        "label": "make a pillaging",
+        "probe": "ravage"
+      }
+    ]
+  },
+  "hatches": {
+    "senses": [
+      {
+        "label": "the production of",
+        "probe": "hatching"
+      },
+      {
+        "label": "sit on (eggs)",
+        "probe": "brood"
+      }
+    ]
+  },
+  "hatching": {
+    "senses": [
+      {
+        "label": "the production of",
+        "probe": "birthing"
+      },
+      {
+        "label": "sit on (eggs)",
+        "probe": "brood"
+      }
+    ]
+  },
+  "haunt": {
+    "senses": [
+      {
+        "label": "follow stealthily or",
+        "probe": "stalk"
+      },
+      {
+        "label": "haunt like a",
+        "probe": "ghost"
+      }
+    ]
+  },
+  "haunted": {
+    "senses": [
+      {
+        "label": "follow stealthily or",
+        "probe": "haunt"
+      },
+      {
+        "label": "haunt like a",
+        "probe": "ghost"
+      }
+    ]
+  },
+  "haunting": {
+    "senses": [
+      {
+        "label": "follow stealthily or",
+        "probe": "haunt"
+      },
+      {
+        "label": "haunt like a",
+        "probe": "ghost"
+      }
+    ]
+  },
+  "haunts": {
+    "senses": [
+      {
+        "label": "a frequently visited",
+        "probe": "haunt"
+      },
+      {
+        "label": "follow stealthily or",
+        "probe": "stalk"
+      },
+      {
+        "label": "haunt like a",
+        "probe": "ghost"
+      }
+    ]
+  },
+  "heartbeat": {
+    "senses": [
+      {
+        "label": "a very short",
+        "probe": "twinkling"
+      },
+      {
+        "label": "an animating or",
+        "probe": "animating"
+      }
+    ]
+  },
+  "heartbeats": {
+    "senses": [
+      {
+        "label": "the rhythmic contraction",
+        "probe": "heartbeat"
+      },
+      {
+        "label": "a very short",
+        "probe": "twinkling"
+      },
+      {
+        "label": "an animating or",
+        "probe": "animating"
+      }
+    ]
+  },
+  "heaven": {
+    "senses": [
+      {
+        "label": "any place of",
+        "probe": "paradise"
+      },
+      {
+        "label": "the abode of",
+        "probe": "abode"
+      }
+    ]
+  },
+  "heavens": {
+    "senses": [
+      {
+        "label": "any place of",
+        "probe": "paradise"
+      },
+      {
+        "label": "the abode of",
+        "probe": "heaven"
+      }
+    ]
+  },
+  "hell": {
+    "senses": [
+      {
+        "label": "any place of",
+        "probe": "inferno"
+      },
+      {
+        "label": "(christianity) the abode",
+        "probe": "perdition"
+      },
+      {
+        "label": "(religion) the world",
+        "probe": "hades"
+      },
+      {
+        "label": "violent and excited",
+        "probe": "sin"
+      },
+      {
+        "label": "noisy and unrestrained",
+        "probe": "mischief"
+      }
+    ]
+  },
+  "hells": {
+    "senses": [
+      {
+        "label": "any place of",
+        "probe": "hell"
+      },
+      {
+        "label": "(christianity) the abode",
+        "probe": "perdition"
+      },
+      {
+        "label": "(religion) the world",
+        "probe": "hades"
+      },
+      {
+        "label": "violent and excited",
+        "probe": "sin"
+      },
+      {
+        "label": "noisy and unrestrained",
+        "probe": "mischief"
+      }
+    ]
+  },
+  "hemorrhage": {
+    "senses": [
+      {
+        "label": "the flow of",
+        "probe": "bleeding"
+      },
+      {
+        "label": "lose blood from",
+        "probe": "bleed"
+      }
+    ]
+  },
+  "heros": {
+    "senses": [
+      {
+        "label": "greek mathematician and",
+        "probe": "heron"
+      },
+      {
+        "label": "(greek mythology) priestess",
+        "probe": "priestess"
+      }
+    ]
+  },
+  "hid": {
+    "senses": [
+      {
+        "label": "cover as if",
+        "probe": "shroud"
+      },
+      {
+        "label": "make undecipherable or",
+        "probe": "veil"
+      }
+    ]
+  },
+  "hides": {
+    "senses": [
+      {
+        "label": "cover as if",
+        "probe": "shroud"
+      },
+      {
+        "label": "make undecipherable or",
+        "probe": "veil"
+      }
+    ]
+  },
+  "hiss": {
+    "senses": [
+      {
+        "label": "a fricative sound",
+        "probe": "fizzle"
+      },
+      {
+        "label": "a cry or",
+        "probe": "hoot"
+      },
+      {
+        "label": "make a sharp",
+        "probe": "utter"
+      }
+    ]
+  },
+  "hives": {
+    "senses": [
+      {
+        "label": "an itchy skin",
+        "probe": "itchy"
+      },
+      {
+        "label": "a teeming multitude",
+        "probe": "hive"
+      }
+    ]
+  },
+  "hobgoblin": {
+    "senses": [
+      {
+        "label": "(folklore) a small",
+        "probe": "goblin"
+      },
+      {
+        "label": "an object of",
+        "probe": "bugbear"
+      }
+    ]
+  },
+  "holler": {
+    "senses": [
+      {
+        "label": "a small valley",
+        "probe": "hollow"
+      },
+      {
+        "label": "utter a sudden",
+        "probe": "scream"
+      },
+      {
+        "label": "complain",
+        "probe": "bitch"
+      }
+    ]
+  },
+  "hollows": {
+    "senses": [
+      {
+        "label": "a cavity or",
+        "probe": "hollow"
+      },
+      {
+        "label": "a small valley",
+        "probe": "holler"
+      }
+    ]
+  },
+  "hoot": {
+    "senses": [
+      {
+        "label": "a cry or",
+        "probe": "hiss"
+      },
+      {
+        "label": "something of little",
+        "probe": "darn"
+      },
+      {
+        "label": "to utter a",
+        "probe": "utter"
+      }
+    ]
+  },
+  "horror": {
+    "senses": [
+      {
+        "label": "intense and profound",
+        "probe": "fright"
+      },
+      {
+        "label": "intense aversion",
+        "probe": "revulsion"
+      }
+    ]
+  },
+  "horrors": {
+    "senses": [
+      {
+        "label": "intense and profound",
+        "probe": "horror"
+      },
+      {
+        "label": "intense aversion",
+        "probe": "revulsion"
+      }
+    ]
+  },
+  "hothead": {
+    "senses": [
+      {
+        "label": "a belligerent grouch",
+        "probe": "grouch"
+      },
+      {
+        "label": "a reckless impetuous",
+        "probe": "daredevil"
+      }
+    ]
+  },
+  "hounds": {
+    "senses": [
+      {
+        "label": "any of several",
+        "probe": "hound"
+      },
+      {
+        "label": "someone who is",
+        "probe": "villain"
+      }
+    ]
+  },
+  "howl": {
+    "senses": [
+      {
+        "label": "a long loud",
+        "probe": "howling"
+      },
+      {
+        "label": "cry loudly",
+        "probe": "utter"
+      }
+    ]
+  },
+  "howler": {
+    "senses": [
+      {
+        "label": "a joke that",
+        "probe": "scream"
+      },
+      {
+        "label": "monkey of tropical",
+        "probe": "monkey"
+      },
+      {
+        "label": "a glaring blunder",
+        "probe": "blooper"
+      }
+    ]
+  },
+  "howling": {
+    "senses": [
+      {
+        "label": "a long loud",
+        "probe": "howl"
+      },
+      {
+        "label": "cry loudly",
+        "probe": "utter"
+      }
+    ]
+  },
+  "howls": {
+    "senses": [
+      {
+        "label": "a long loud",
+        "probe": "howl"
+      },
+      {
+        "label": "cry loudly",
+        "probe": "utter"
+      }
+    ]
+  },
+  "humbug": {
+    "senses": [
+      {
+        "label": "pretentious or silly",
+        "probe": "baloney"
+      },
+      {
+        "label": "something intended to",
+        "probe": "hoax"
+      }
+    ]
+  },
+  "hutch": {
+    "senses": [
+      {
+        "label": "a cage (usually",
+        "probe": "cage"
+      },
+      {
+        "label": "small crude shelter",
+        "probe": "shanty"
+      }
+    ]
+  },
+  "hydra": {
+    "senses": [
+      {
+        "label": "(greek mythology) monster",
+        "probe": "monster"
+      },
+      {
+        "label": "a long faint",
+        "probe": "snake"
+      }
+    ]
+  },
+  "hysteria": {
+    "senses": [
+      {
+        "label": "state of violent",
+        "probe": "delirium"
+      },
+      {
+        "label": "excessive or uncontrollable",
+        "probe": "fright"
+      },
+      {
+        "label": "neurotic disorder characterized",
+        "probe": "neurotic"
+      }
+    ]
+  },
+  "illusion": {
+    "senses": [
+      {
+        "label": "something many people",
+        "probe": "fantasy"
+      },
+      {
+        "label": "the act of",
+        "probe": "delusion"
+      },
+      {
+        "label": "an illusory feat",
+        "probe": "illusory"
+      }
+    ]
+  },
+  "illusions": {
+    "senses": [
+      {
+        "label": "an erroneous mental",
+        "probe": "illusion"
+      },
+      {
+        "label": "something many people",
+        "probe": "fantasy"
+      },
+      {
+        "label": "the act of",
+        "probe": "delusion"
+      },
+      {
+        "label": "an illusory feat",
+        "probe": "illusory"
+      }
+    ]
+  },
+  "imagines": {
+    "senses": [
+      {
+        "label": "(psychoanalysis) an idealized",
+        "probe": "idealized"
+      },
+      {
+        "label": "an adult insect",
+        "probe": "insect"
+      }
+    ]
+  },
+  "imitations": {
+    "senses": [
+      {
+        "label": "the doctrine that",
+        "probe": "imitation"
+      },
+      {
+        "label": "a representation of",
+        "probe": "caricature"
+      }
+    ]
+  },
+  "imitators": {
+    "senses": [
+      {
+        "label": "someone who (fraudulently)",
+        "probe": "deceiver"
+      },
+      {
+        "label": "someone who copies",
+        "probe": "copycat"
+      }
+    ]
+  },
+  "immortals": {
+    "senses": [
+      {
+        "label": "a person (such",
+        "probe": "immortal"
+      },
+      {
+        "label": "any supernatural being",
+        "probe": "deity"
+      }
+    ]
+  },
+  "impersonation": {
+    "senses": [
+      {
+        "label": "a representation of",
+        "probe": "caricature"
+      },
+      {
+        "label": "imitating the mannerisms",
+        "probe": "imitating"
+      }
+    ]
+  },
+  "impulses": {
+    "senses": [
+      {
+        "label": "an instinctive motive",
+        "probe": "instinctive"
+      },
+      {
+        "label": "(electronics) a sharp",
+        "probe": "pulsing"
+      }
+    ]
+  },
+  "incarnation": {
+    "senses": [
+      {
+        "label": "a new personification",
+        "probe": "embodiment"
+      },
+      {
+        "label": "the act of",
+        "probe": "personification"
+      }
+    ]
+  },
+  "incarnations": {
+    "senses": [
+      {
+        "label": "a new personification",
+        "probe": "embodiment"
+      },
+      {
+        "label": "(christianity) the christian",
+        "probe": "incarnation"
+      },
+      {
+        "label": "the act of",
+        "probe": "personification"
+      }
+    ]
+  },
+  "indulgence": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "indulging"
+      },
+      {
+        "label": "foolish or senseless",
+        "probe": "folly"
+      },
+      {
+        "label": "the remission by",
+        "probe": "absolution"
+      }
+    ]
+  },
+  "indulging": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "indulgence"
+      },
+      {
+        "label": "give free rein",
+        "probe": "indulge"
+      }
+    ]
+  },
+  "infamy": {
+    "senses": [
+      {
+        "label": "a state of",
+        "probe": "dishonor"
+      },
+      {
+        "label": "evil fame or",
+        "probe": "evil"
+      }
+    ]
+  },
+  "inferno": {
+    "senses": [
+      {
+        "label": "any place of",
+        "probe": "hell"
+      },
+      {
+        "label": "a very intense",
+        "probe": "conflagration"
+      },
+      {
+        "label": "(christianity) the abode",
+        "probe": "perdition"
+      }
+    ]
+  },
+  "infestation": {
+    "senses": [
+      {
+        "label": "the state of",
+        "probe": "fullness"
+      },
+      {
+        "label": "a swarm of",
+        "probe": "plague"
+      }
+    ]
+  },
+  "infestations": {
+    "senses": [
+      {
+        "label": "the state of",
+        "probe": "infestation"
+      },
+      {
+        "label": "a swarm of",
+        "probe": "plague"
+      }
+    ]
+  },
+  "inhabit": {
+    "senses": [
+      {
+        "label": "inhabit or live",
+        "probe": "populate"
+      },
+      {
+        "label": "exist or be",
+        "probe": "dwell"
+      }
+    ]
+  },
+  "inhabiting": {
+    "senses": [
+      {
+        "label": "inhabit or live",
+        "probe": "populate"
+      },
+      {
+        "label": "be present in",
+        "probe": "inhabit"
+      },
+      {
+        "label": "exist or be",
+        "probe": "dwell"
+      }
+    ]
+  },
+  "iniquity": {
+    "senses": [
+      {
+        "label": "absence of moral",
+        "probe": "wickedness"
+      },
+      {
+        "label": "morally objectionable behavior",
+        "probe": "evil"
+      }
+    ]
+  },
+  "insects": {
+    "senses": [
+      {
+        "label": "small air-breathing arthropod",
+        "probe": "insect"
+      },
+      {
+        "label": "a person who",
+        "probe": "worm"
+      }
+    ]
+  },
+  "intrigue": {
+    "senses": [
+      {
+        "label": "a crafty and",
+        "probe": "crafty"
+      },
+      {
+        "label": "a clandestine love",
+        "probe": "romance"
+      },
+      {
+        "label": "form intrigues (for)",
+        "probe": "intrigues"
+      }
+    ]
+  },
+  "intrigues": {
+    "senses": [
+      {
+        "label": "a crafty and",
+        "probe": "intrigue"
+      },
+      {
+        "label": "a clandestine love",
+        "probe": "romance"
+      }
+    ]
+  },
+  "irritations": {
+    "senses": [
+      {
+        "label": "(pathology) abnormal sensitivity",
+        "probe": "abnormal"
+      },
+      {
+        "label": "the act of",
+        "probe": "annoying"
+      }
+    ]
+  },
+  "itch": {
+    "senses": [
+      {
+        "label": "a contagious skin",
+        "probe": "contagious"
+      },
+      {
+        "label": "an irritating cutaneous",
+        "probe": "itching"
+      },
+      {
+        "label": "have or perceive",
+        "probe": "ache"
+      }
+    ]
+  },
+  "itching": {
+    "senses": [
+      {
+        "label": "an irritating cutaneous",
+        "probe": "itch"
+      },
+      {
+        "label": "have or perceive",
+        "probe": "ache"
+      }
+    ]
+  },
+  "jackass": {
+    "senses": [
+      {
+        "label": "a man who",
+        "probe": "goofball"
+      },
+      {
+        "label": "male donkey",
+        "probe": "ass"
+      }
+    ]
+  },
+  "jaded": {
+    "senses": [
+      {
+        "label": "lose interest or",
+        "probe": "degenerate"
+      },
+      {
+        "label": "exhaust or get",
+        "probe": "fag"
+      }
+    ]
+  },
+  "jaws": {
+    "senses": [
+      {
+        "label": "the part of",
+        "probe": "skull"
+      },
+      {
+        "label": "the bones of",
+        "probe": "bones"
+      },
+      {
+        "label": "talk incessantly and",
+        "probe": "utter"
+      }
+    ]
+  },
+  "jubilation": {
+    "senses": [
+      {
+        "label": "a joyful occasion",
+        "probe": "joyful"
+      },
+      {
+        "label": "the utterance of",
+        "probe": "rejoicing"
+      }
+    ]
+  },
+  "judas": {
+    "senses": [
+      {
+        "label": "(new testament) the",
+        "probe": "apostle"
+      },
+      {
+        "label": "someone who betrays",
+        "probe": "betrays"
+      }
+    ]
+  },
+  "junkie": {
+    "senses": [
+      {
+        "label": "a narcotics addict",
+        "probe": "addict"
+      },
+      {
+        "label": "someone who is",
+        "probe": "freak"
+      }
+    ]
+  },
+  "junkies": {
+    "senses": [
+      {
+        "label": "a narcotics addict",
+        "probe": "junkie"
+      },
+      {
+        "label": "someone who is",
+        "probe": "addict"
+      }
+    ]
+  },
+  "killer": {
+    "senses": [
+      {
+        "label": "someone who causes",
+        "probe": "slayer"
+      },
+      {
+        "label": "predatory black-and-white toothed",
+        "probe": "orca"
+      }
+    ]
+  },
+  "killers": {
+    "senses": [
+      {
+        "label": "someone who causes",
+        "probe": "killer"
+      },
+      {
+        "label": "predatory black-and-white toothed",
+        "probe": "orca"
+      }
+    ]
+  },
+  "kills": {
+    "senses": [
+      {
+        "label": "the destruction of",
+        "probe": "devastation"
+      },
+      {
+        "label": "be the source",
+        "probe": "ache"
+      }
+    ]
+  },
+  "kindling": {
+    "senses": [
+      {
+        "label": "material for starting",
+        "probe": "spunk"
+      },
+      {
+        "label": "call forth (emotions",
+        "probe": "evoke"
+      }
+    ]
+  },
+  "kissing": {
+    "senses": [
+      {
+        "label": "affectionate play (or",
+        "probe": "affectionate"
+      },
+      {
+        "label": "touch with the",
+        "probe": "kiss"
+      }
+    ]
+  },
+  "knocks": {
+    "senses": [
+      {
+        "label": "negative criticism",
+        "probe": "roast"
+      },
+      {
+        "label": "a bad experience",
+        "probe": "misfortune"
+      }
+    ]
+  },
+  "labors": {
+    "senses": [
+      {
+        "label": "concluding state of",
+        "probe": "birthing"
+      },
+      {
+        "label": "work hard",
+        "probe": "fag"
+      }
+    ]
+  },
+  "lament": {
+    "senses": [
+      {
+        "label": "a cry of",
+        "probe": "lamentation"
+      },
+      {
+        "label": "a song or",
+        "probe": "requiem"
+      },
+      {
+        "label": "a mournful poem",
+        "probe": "elegy"
+      }
+    ]
+  },
+  "lamentation": {
+    "senses": [
+      {
+        "label": "a cry of",
+        "probe": "lament"
+      },
+      {
+        "label": "the passionate and",
+        "probe": "manifestation"
+      }
+    ]
+  },
+  "laments": {
+    "senses": [
+      {
+        "label": "a cry of",
+        "probe": "lament"
+      },
+      {
+        "label": "a song or",
+        "probe": "requiem"
+      },
+      {
+        "label": "a mournful poem",
+        "probe": "elegy"
+      }
+    ]
+  },
+  "lark": {
+    "senses": [
+      {
+        "label": "any carefree episode",
+        "probe": "escapade"
+      },
+      {
+        "label": "play boisterously",
+        "probe": "frolic"
+      }
+    ]
+  },
+  "laughs": {
+    "senses": [
+      {
+        "label": "the sound of",
+        "probe": "laughter"
+      }
+    ]
+  },
+  "leeches": {
+    "senses": [
+      {
+        "label": "carnivorous or bloodsucking",
+        "probe": "bloodsucker"
+      },
+      {
+        "label": "a follower who",
+        "probe": "parasite"
+      },
+      {
+        "label": "draw blood",
+        "probe": "bleed"
+      }
+    ]
+  },
+  "leper": {
+    "senses": [
+      {
+        "label": "a person afflicted",
+        "probe": "afflicted"
+      },
+      {
+        "label": "a pariah who",
+        "probe": "outcast"
+      }
+    ]
+  },
+  "lepers": {
+    "senses": [
+      {
+        "label": "a person afflicted",
+        "probe": "leper"
+      },
+      {
+        "label": "a pariah who",
+        "probe": "outcast"
+      }
+    ]
+  },
+  "lethargy": {
+    "senses": [
+      {
+        "label": "a state of",
+        "probe": "comatose"
+      },
+      {
+        "label": "inactivity",
+        "probe": "inactivity"
+      }
+    ]
+  },
+  "leviathan": {
+    "senses": [
+      {
+        "label": "the largest or",
+        "probe": "freak"
+      },
+      {
+        "label": "monstrous sea creature",
+        "probe": "monstrous"
+      }
+    ]
+  },
+  "lice": {
+    "senses": [
+      {
+        "label": "wingless usually flattened",
+        "probe": "louse"
+      },
+      {
+        "label": "a person who",
+        "probe": "worm"
+      },
+      {
+        "label": "wingless insect with",
+        "probe": "wingless"
+      }
+    ]
+  },
+  "lizards": {
+    "senses": [
+      {
+        "label": "relatively long-bodied reptile",
+        "probe": "lizard"
+      },
+      {
+        "label": "a man who",
+        "probe": "gigolo"
+      }
+    ]
+  },
+  "loathing": {
+    "senses": [
+      {
+        "label": "hate coupled with",
+        "probe": "abomination"
+      },
+      {
+        "label": "find repugnant",
+        "probe": "loathe"
+      }
+    ]
+  },
+  "looting": {
+    "senses": [
+      {
+        "label": "plundering during riots",
+        "probe": "plundering"
+      },
+      {
+        "label": "take illegally",
+        "probe": "loot"
+      }
+    ]
+  },
+  "louse": {
+    "senses": [
+      {
+        "label": "wingless usually flattened",
+        "probe": "wingless"
+      },
+      {
+        "label": "a person who",
+        "probe": "worm"
+      },
+      {
+        "label": "wingless insect with",
+        "probe": "insect"
+      }
+    ]
+  },
+  "lovers": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "lover"
+      },
+      {
+        "label": "an ardent follower",
+        "probe": "devotee"
+      }
+    ]
+  },
+  "lull": {
+    "senses": [
+      {
+        "label": "become quiet or",
+        "probe": "hush"
+      },
+      {
+        "label": "make calm or",
+        "probe": "solace"
+      }
+    ]
+  },
+  "lulled": {
+    "senses": [
+      {
+        "label": "calm by deception",
+        "probe": "lull"
+      },
+      {
+        "label": "become quiet or",
+        "probe": "hush"
+      },
+      {
+        "label": "make calm or",
+        "probe": "solace"
+      }
+    ]
+  },
+  "lunacy": {
+    "senses": [
+      {
+        "label": "obsolete terms for",
+        "probe": "madness"
+      },
+      {
+        "label": "foolish or senseless",
+        "probe": "folly"
+      }
+    ]
+  },
+  "lunatic": {
+    "senses": [
+      {
+        "label": "an insane person",
+        "probe": "madman"
+      },
+      {
+        "label": "a reckless impetuous",
+        "probe": "daredevil"
+      }
+    ]
+  },
+  "lunatics": {
+    "senses": [
+      {
+        "label": "an insane person",
+        "probe": "lunatic"
+      },
+      {
+        "label": "a reckless impetuous",
+        "probe": "daredevil"
+      }
+    ]
+  },
+  "madness": {
+    "senses": [
+      {
+        "label": "obsolete terms for",
+        "probe": "lunacy"
+      },
+      {
+        "label": "an acute viral",
+        "probe": "rabies"
+      },
+      {
+        "label": "a feeling of",
+        "probe": "fury"
+      },
+      {
+        "label": "the quality of",
+        "probe": "folly"
+      },
+      {
+        "label": "unrestrained excitement or",
+        "probe": "exuberance"
+      }
+    ]
+  },
+  "magician": {
+    "senses": [
+      {
+        "label": "someone who performs",
+        "probe": "illusionist"
+      },
+      {
+        "label": "one who practices",
+        "probe": "sorcerer"
+      }
+    ]
+  },
+  "magicians": {
+    "senses": [
+      {
+        "label": "someone who performs",
+        "probe": "magician"
+      },
+      {
+        "label": "one who practices",
+        "probe": "sorcerer"
+      }
+    ]
+  },
+  "magpie": {
+    "senses": [
+      {
+        "label": "someone who collects",
+        "probe": "scavenger"
+      },
+      {
+        "label": "an obnoxious and",
+        "probe": "obnoxious"
+      }
+    ]
+  },
+  "maladies": {
+    "senses": [
+      {
+        "label": "any unwholesome or",
+        "probe": "malady"
+      },
+      {
+        "label": "impairment of normal",
+        "probe": "sickness"
+      }
+    ]
+  },
+  "malice": {
+    "senses": [
+      {
+        "label": "feeling a need",
+        "probe": "venom"
+      },
+      {
+        "label": "the quality of",
+        "probe": "malevolence"
+      }
+    ]
+  },
+  "malignancy": {
+    "senses": [
+      {
+        "label": "(medicine) a malignant",
+        "probe": "malignant"
+      },
+      {
+        "label": "quality of being",
+        "probe": "evil"
+      }
+    ]
+  },
+  "maniac": {
+    "senses": [
+      {
+        "label": "an insane person",
+        "probe": "lunatic"
+      },
+      {
+        "label": "a person who",
+        "probe": "obsession"
+      }
+    ]
+  },
+  "maniacs": {
+    "senses": [
+      {
+        "label": "an insane person",
+        "probe": "lunatic"
+      },
+      {
+        "label": "a person who",
+        "probe": "maniac"
+      }
+    ]
+  },
+  "martyr": {
+    "senses": [
+      {
+        "label": "one who suffers",
+        "probe": "sufferer"
+      },
+      {
+        "label": "torture and torment",
+        "probe": "torment"
+      }
+    ]
+  },
+  "martyred": {
+    "senses": [
+      {
+        "label": "kill as a",
+        "probe": "martyr"
+      },
+      {
+        "label": "torture and torment",
+        "probe": "torment"
+      }
+    ]
+  },
+  "martyrs": {
+    "senses": [
+      {
+        "label": "one who suffers",
+        "probe": "martyr"
+      },
+      {
+        "label": "torture and torment",
+        "probe": "torment"
+      }
+    ]
+  },
+  "masquerade": {
+    "senses": [
+      {
+        "label": "a party of",
+        "probe": "masque"
+      },
+      {
+        "label": "a costume worn",
+        "probe": "disguise"
+      }
+    ]
+  },
+  "mayhem": {
+    "senses": [
+      {
+        "label": "the willful and",
+        "probe": "willful"
+      },
+      {
+        "label": "violent and needless",
+        "probe": "havoc"
+      }
+    ]
+  },
+  "maze": {
+    "senses": [
+      {
+        "label": "complex system of",
+        "probe": "labyrinth"
+      },
+      {
+        "label": "something jumbled or",
+        "probe": "tangle"
+      }
+    ]
+  },
+  "mazes": {
+    "senses": [
+      {
+        "label": "complex system of",
+        "probe": "maze"
+      },
+      {
+        "label": "something jumbled or",
+        "probe": "tangle"
+      }
+    ]
+  },
+  "meditations": {
+    "senses": [
+      {
+        "label": "continuous and profound",
+        "probe": "contemplation"
+      },
+      {
+        "label": "(religion) contemplation of",
+        "probe": "rumination"
+      }
+    ]
+  },
+  "messiah": {
+    "senses": [
+      {
+        "label": "any expected deliverer",
+        "probe": "savior"
+      },
+      {
+        "label": "an oratorio composed",
+        "probe": "oratorio"
+      }
+    ]
+  },
+  "metamorphoses": {
+    "senses": [
+      {
+        "label": "the marked and",
+        "probe": "metamorphosis"
+      },
+      {
+        "label": "a striking change",
+        "probe": "transfiguration"
+      }
+    ]
+  },
+  "miseries": {
+    "senses": [
+      {
+        "label": "a state of",
+        "probe": "misery"
+      },
+      {
+        "label": "a feeling of",
+        "probe": "sadness"
+      }
+    ]
+  },
+  "mites": {
+    "senses": [
+      {
+        "label": "a slight but",
+        "probe": "tinge"
+      },
+      {
+        "label": "any of numerous",
+        "probe": "mite"
+      }
+    ]
+  },
+  "molds": {
+    "senses": [
+      {
+        "label": "the process of",
+        "probe": "mildew"
+      },
+      {
+        "label": "a fungus that",
+        "probe": "fungus"
+      }
+    ]
+  },
+  "mongrel": {
+    "senses": [
+      {
+        "label": "derogatory term for",
+        "probe": "bastard"
+      },
+      {
+        "label": "an inferior dog",
+        "probe": "mutt"
+      }
+    ]
+  },
+  "mongrels": {
+    "senses": [
+      {
+        "label": "derogatory term for",
+        "probe": "bastard"
+      },
+      {
+        "label": "an inferior dog",
+        "probe": "mongrel"
+      }
+    ]
+  },
+  "monkeys": {
+    "senses": [
+      {
+        "label": "any of various",
+        "probe": "monkey"
+      },
+      {
+        "label": "one who is",
+        "probe": "scamp"
+      }
+    ]
+  },
+  "monologues": {
+    "senses": [
+      {
+        "label": "speech you make",
+        "probe": "soliloquy"
+      },
+      {
+        "label": "a long utterance",
+        "probe": "monologue"
+      }
+    ]
+  },
+  "monster": {
+    "senses": [
+      {
+        "label": "an imaginary creature",
+        "probe": "imaginary"
+      },
+      {
+        "label": "someone or something",
+        "probe": "goliath"
+      },
+      {
+        "label": "a person or",
+        "probe": "freak"
+      },
+      {
+        "label": "a cruel wicked",
+        "probe": "fiend"
+      }
+    ]
+  },
+  "monsters": {
+    "senses": [
+      {
+        "label": "an imaginary creature",
+        "probe": "monster"
+      },
+      {
+        "label": "someone or something",
+        "probe": "goliath"
+      },
+      {
+        "label": "a person or",
+        "probe": "freak"
+      },
+      {
+        "label": "a cruel wicked",
+        "probe": "fiend"
+      }
+    ]
+  },
+  "monstrosity": {
+    "senses": [
+      {
+        "label": "a person or",
+        "probe": "freak"
+      },
+      {
+        "label": "something hideous or",
+        "probe": "hideous"
+      }
+    ]
+  },
+  "muck": {
+    "senses": [
+      {
+        "label": "any thick",
+        "probe": "slime"
+      },
+      {
+        "label": "fecal matter of",
+        "probe": "droppings"
+      },
+      {
+        "label": "soil with mud",
+        "probe": "grime"
+      }
+    ]
+  },
+  "mummies": {
+    "senses": [
+      {
+        "label": "informal terms for",
+        "probe": "mama"
+      },
+      {
+        "label": "a body embalmed",
+        "probe": "mummy"
+      }
+    ]
+  },
+  "murders": {
+    "senses": [
+      {
+        "label": "unlawful premeditated killing",
+        "probe": "homicide"
+      },
+      {
+        "label": "kill intentionally and",
+        "probe": "slay"
+      }
+    ]
+  },
+  "mush": {
+    "senses": [
+      {
+        "label": "writing or music",
+        "probe": "slop"
+      },
+      {
+        "label": "travel with a",
+        "probe": "sleigh"
+      }
+    ]
+  },
+  "mushroom": {
+    "senses": [
+      {
+        "label": "mushrooms and related",
+        "probe": "mushrooms"
+      },
+      {
+        "label": "any of various",
+        "probe": "basidiomycete"
+      },
+      {
+        "label": "fleshy body of",
+        "probe": "veggie"
+      }
+    ]
+  },
+  "mushrooms": {
+    "senses": [
+      {
+        "label": "common name for",
+        "probe": "mushroom"
+      },
+      {
+        "label": "any of various",
+        "probe": "basidiomycete"
+      },
+      {
+        "label": "fleshy body of",
+        "probe": "veggie"
+      }
+    ]
+  },
+  "mutants": {
+    "senses": [
+      {
+        "label": "(biology) an organism",
+        "probe": "mutant"
+      },
+      {
+        "label": "an animal that",
+        "probe": "beast"
+      }
+    ]
+  },
+  "mysteries": {
+    "senses": [
+      {
+        "label": "something that baffles",
+        "probe": "mystery"
+      },
+      {
+        "label": "a story about",
+        "probe": "whodunit"
+      }
+    ]
+  },
+  "mystery": {
+    "senses": [
+      {
+        "label": "something that baffles",
+        "probe": "enigma"
+      },
+      {
+        "label": "a story about",
+        "probe": "whodunit"
+      }
+    ]
+  },
+  "mystified": {
+    "senses": [
+      {
+        "label": "be a mystery",
+        "probe": "mystery"
+      },
+      {
+        "label": "make mysterious",
+        "probe": "veil"
+      }
+    ]
+  },
+  "mystifying": {
+    "senses": [
+      {
+        "label": "be a mystery",
+        "probe": "mystery"
+      },
+      {
+        "label": "make mysterious",
+        "probe": "veil"
+      }
+    ]
+  },
+  "nastiness": {
+    "senses": [
+      {
+        "label": "a state characterized",
+        "probe": "filth"
+      },
+      {
+        "label": "malevolence by virtue",
+        "probe": "malevolence"
+      }
+    ]
+  },
+  "nebula": {
+    "senses": [
+      {
+        "label": "cloudiness of the",
+        "probe": "symptom"
+      },
+      {
+        "label": "(pathology) a faint",
+        "probe": "faint"
+      }
+    ]
+  },
+  "nebulae": {
+    "senses": [
+      {
+        "label": "a medicinal liquid",
+        "probe": "nebula"
+      },
+      {
+        "label": "cloudiness of the",
+        "probe": "symptom"
+      },
+      {
+        "label": "(pathology) a faint",
+        "probe": "faint"
+      }
+    ]
+  },
+  "nemesis": {
+    "senses": [
+      {
+        "label": "(greek mythology) the",
+        "probe": "goddess"
+      },
+      {
+        "label": "something causing misery",
+        "probe": "bane"
+      }
+    ]
+  },
+  "nightmares": {
+    "senses": [
+      {
+        "label": "a situation resembling",
+        "probe": "nightmare"
+      },
+      {
+        "label": "a terrifying or",
+        "probe": "terrifying"
+      }
+    ]
+  },
+  "nip": {
+    "senses": [
+      {
+        "label": "squeeze tightly between",
+        "probe": "twitch"
+      },
+      {
+        "label": "give a small",
+        "probe": "bite"
+      }
+    ]
+  },
+  "noses": {
+    "senses": [
+      {
+        "label": "the sense of",
+        "probe": "smell"
+      },
+      {
+        "label": "catch the scent",
+        "probe": "scent"
+      }
+    ]
+  },
+  "nymphs": {
+    "senses": [
+      {
+        "label": "(classical mythology) a",
+        "probe": "nymph"
+      },
+      {
+        "label": "a larva of",
+        "probe": "larva"
+      }
+    ]
+  },
+  "obliterated": {
+    "senses": [
+      {
+        "label": "make undecipherable or",
+        "probe": "veil"
+      },
+      {
+        "label": "remove completely from",
+        "probe": "dim"
+      }
+    ]
+  },
+  "obscured": {
+    "senses": [
+      {
+        "label": "make less visible",
+        "probe": "mist"
+      },
+      {
+        "label": "make undecipherable or",
+        "probe": "veil"
+      }
+    ]
+  },
+  "obsession": {
+    "senses": [
+      {
+        "label": "an irrational motive",
+        "probe": "compulsion"
+      },
+      {
+        "label": "an unhealthy and",
+        "probe": "fixation"
+      }
+    ]
+  },
+  "obsessions": {
+    "senses": [
+      {
+        "label": "an irrational motive",
+        "probe": "compulsion"
+      },
+      {
+        "label": "an unhealthy and",
+        "probe": "obsession"
+      }
+    ]
+  },
+  "oddities": {
+    "senses": [
+      {
+        "label": "eccentricity that is",
+        "probe": "oddity"
+      },
+      {
+        "label": "a strange attitude",
+        "probe": "strange"
+      }
+    ]
+  },
+  "oddity": {
+    "senses": [
+      {
+        "label": "eccentricity that is",
+        "probe": "eccentricity"
+      },
+      {
+        "label": "a strange attitude",
+        "probe": "strange"
+      }
+    ]
+  },
+  "ogres": {
+    "senses": [
+      {
+        "label": "a cruel wicked",
+        "probe": "monster"
+      },
+      {
+        "label": "(folklore) a giant",
+        "probe": "ogre"
+      }
+    ]
+  },
+  "ooze": {
+    "senses": [
+      {
+        "label": "any thick",
+        "probe": "slime"
+      },
+      {
+        "label": "the process of",
+        "probe": "oozing"
+      }
+    ]
+  },
+  "ordeals": {
+    "senses": [
+      {
+        "label": "a severe or",
+        "probe": "ordeal"
+      },
+      {
+        "label": "a primitive method",
+        "probe": "primitive"
+      }
+    ]
+  },
+  "orgies": {
+    "senses": [
+      {
+        "label": "a wild gathering",
+        "probe": "revelry"
+      }
+    ]
+  },
+  "outrages": {
+    "senses": [
+      {
+        "label": "a feeling of",
+        "probe": "indignation"
+      },
+      {
+        "label": "a wantonly cruel",
+        "probe": "atrocity"
+      },
+      {
+        "label": "a disgraceful event",
+        "probe": "disgraceful"
+      },
+      {
+        "label": "force (someone) to",
+        "probe": "dishonor"
+      }
+    ]
+  },
+  "pagans": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "heathen"
+      },
+      {
+        "label": "a person who",
+        "probe": "pagan"
+      }
+    ]
+  },
+  "panicking": {
+    "senses": [
+      {
+        "label": "be overcome by",
+        "probe": "dread"
+      },
+      {
+        "label": "cause sudden fear",
+        "probe": "terrorize"
+      }
+    ]
+  },
+  "panics": {
+    "senses": [
+      {
+        "label": "an overwhelming feeling",
+        "probe": "fright"
+      },
+      {
+        "label": "be overcome by",
+        "probe": "dread"
+      },
+      {
+        "label": "cause sudden fear",
+        "probe": "terrorize"
+      }
+    ]
+  },
+  "panther": {
+    "senses": [
+      {
+        "label": "a large spotted",
+        "probe": "cat"
+      },
+      {
+        "label": "a leopard in",
+        "probe": "leopard"
+      }
+    ]
+  },
+  "parables": {
+    "senses": [
+      {
+        "label": "a short moral",
+        "probe": "fable"
+      },
+      {
+        "label": "(new testament) any",
+        "probe": "parable"
+      }
+    ]
+  },
+  "paradise": {
+    "senses": [
+      {
+        "label": "any place of",
+        "probe": "heaven"
+      },
+      {
+        "label": "(christianity) the abode",
+        "probe": "abode"
+      }
+    ]
+  },
+  "parasites": {
+    "senses": [
+      {
+        "label": "an animal or",
+        "probe": "parasite"
+      },
+      {
+        "label": "a follower who",
+        "probe": "sponge"
+      }
+    ]
+  },
+  "parodied": {
+    "senses": [
+      {
+        "label": "make a spoof",
+        "probe": "parody"
+      },
+      {
+        "label": "make a parody",
+        "probe": "spoof"
+      }
+    ]
+  },
+  "parodies": {
+    "senses": [
+      {
+        "label": "a composition that",
+        "probe": "parody"
+      },
+      {
+        "label": "make a parody",
+        "probe": "spoof"
+      }
+    ]
+  },
+  "parody": {
+    "senses": [
+      {
+        "label": "a composition that",
+        "probe": "spoof"
+      },
+      {
+        "label": "make a parody",
+        "probe": "burlesque"
+      }
+    ]
+  },
+  "parodying": {
+    "senses": [
+      {
+        "label": "make a spoof",
+        "probe": "parody"
+      },
+      {
+        "label": "make a parody",
+        "probe": "spoof"
+      }
+    ]
+  },
+  "partridge": {
+    "senses": [
+      {
+        "label": "flesh of either",
+        "probe": "flesh"
+      },
+      {
+        "label": "a popular north",
+        "probe": "quail"
+      },
+      {
+        "label": "valued as a",
+        "probe": "grouse"
+      }
+    ]
+  },
+  "partridges": {
+    "senses": [
+      {
+        "label": "flesh of either",
+        "probe": "partridge"
+      },
+      {
+        "label": "a popular north",
+        "probe": "quail"
+      },
+      {
+        "label": "valued as a",
+        "probe": "grouse"
+      }
+    ]
+  },
+  "pathos": {
+    "senses": [
+      {
+        "label": "a quality that",
+        "probe": "poignancy"
+      },
+      {
+        "label": "a feeling of",
+        "probe": "pity"
+      }
+    ]
+  },
+  "peeping": {
+    "senses": [
+      {
+        "label": "look furtively",
+        "probe": "peep"
+      },
+      {
+        "label": "make high-pitched sounds",
+        "probe": "utter"
+      }
+    ]
+  },
+  "penance": {
+    "senses": [
+      {
+        "label": "remorse for your",
+        "probe": "penitence"
+      },
+      {
+        "label": "a catholic sacrament",
+        "probe": "sacrament"
+      }
+    ]
+  },
+  "peopled": {
+    "senses": [
+      {
+        "label": "fill with people",
+        "probe": "populate"
+      },
+      {
+        "label": "furnish with people",
+        "probe": "dwell"
+      }
+    ]
+  },
+  "peril": {
+    "senses": [
+      {
+        "label": "pose a threat",
+        "probe": "menace"
+      },
+      {
+        "label": "put in a",
+        "probe": "queer"
+      }
+    ]
+  },
+  "perils": {
+    "senses": [
+      {
+        "label": "a source of",
+        "probe": "peril"
+      },
+      {
+        "label": "pose a threat",
+        "probe": "menace"
+      },
+      {
+        "label": "put in a",
+        "probe": "queer"
+      }
+    ]
+  },
+  "pestilence": {
+    "senses": [
+      {
+        "label": "a serious (sometimes",
+        "probe": "plague"
+      },
+      {
+        "label": "a pernicious and",
+        "probe": "pernicious"
+      }
+    ]
+  },
+  "pests": {
+    "senses": [
+      {
+        "label": "a serious (sometimes",
+        "probe": "plague"
+      },
+      {
+        "label": "any epidemic disease",
+        "probe": "pestilence"
+      },
+      {
+        "label": "any unwanted and",
+        "probe": "beast"
+      }
+    ]
+  },
+  "phantasm": {
+    "senses": [
+      {
+        "label": "a ghostly appearing",
+        "probe": "apparition"
+      },
+      {
+        "label": "something existing in",
+        "probe": "phantom"
+      }
+    ]
+  },
+  "phantom": {
+    "senses": [
+      {
+        "label": "a ghostly appearing",
+        "probe": "apparition"
+      },
+      {
+        "label": "something existing in",
+        "probe": "phantasm"
+      }
+    ]
+  },
+  "pheasants": {
+    "senses": [
+      {
+        "label": "large long-tailed gallinaceous",
+        "probe": "pheasant"
+      },
+      {
+        "label": "flesh of a",
+        "probe": "flesh"
+      }
+    ]
+  },
+  "pig": {
+    "senses": [
+      {
+        "label": "a coarse obnoxious",
+        "probe": "slob"
+      },
+      {
+        "label": "uncomplimentary terms for",
+        "probe": "cop"
+      },
+      {
+        "label": "eat greedily",
+        "probe": "devour"
+      }
+    ]
+  },
+  "pigs": {
+    "senses": [
+      {
+        "label": "domestic swine",
+        "probe": "pig"
+      },
+      {
+        "label": "a coarse obnoxious",
+        "probe": "slob"
+      },
+      {
+        "label": "uncomplimentary terms for",
+        "probe": "cop"
+      },
+      {
+        "label": "eat greedily",
+        "probe": "devour"
+      }
+    ]
+  },
+  "pillaging": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "plundering"
+      },
+      {
+        "label": "steal goods",
+        "probe": "loot"
+      }
+    ]
+  },
+  "pining": {
+    "senses": [
+      {
+        "label": "a feeling of",
+        "probe": "longing"
+      },
+      {
+        "label": "have a desire",
+        "probe": "ache"
+      },
+      {
+        "label": "pierce with a",
+        "probe": "spike"
+      }
+    ]
+  },
+  "piss": {
+    "senses": [
+      {
+        "label": "liquid excretory product",
+        "probe": "excrement"
+      },
+      {
+        "label": "eliminate urine",
+        "probe": "puddle"
+      }
+    ]
+  },
+  "pity": {
+    "senses": [
+      {
+        "label": "a feeling of",
+        "probe": "pathos"
+      },
+      {
+        "label": "an unfortunate development",
+        "probe": "misfortune"
+      },
+      {
+        "label": "share the suffering",
+        "probe": "sorrow"
+      }
+    ]
+  },
+  "pixie": {
+    "senses": [
+      {
+        "label": "(folklore) fairies that",
+        "probe": "fairies"
+      },
+      {
+        "label": "creeping evergreen shrub",
+        "probe": "creeping"
+      }
+    ]
+  },
+  "pixies": {
+    "senses": [
+      {
+        "label": "(folklore) fairies that",
+        "probe": "pixie"
+      },
+      {
+        "label": "creeping evergreen shrub",
+        "probe": "creeping"
+      }
+    ]
+  },
+  "plague": {
+    "senses": [
+      {
+        "label": "a serious (sometimes",
+        "probe": "pestilence"
+      },
+      {
+        "label": "a swarm of",
+        "probe": "infestation"
+      },
+      {
+        "label": "any large scale",
+        "probe": "calamity"
+      },
+      {
+        "label": "cause to suffer",
+        "probe": "blight"
+      }
+    ]
+  },
+  "plagues": {
+    "senses": [
+      {
+        "label": "a serious (sometimes",
+        "probe": "plague"
+      },
+      {
+        "label": "any epidemic disease",
+        "probe": "pestilence"
+      },
+      {
+        "label": "a swarm of",
+        "probe": "infestation"
+      },
+      {
+        "label": "any large scale",
+        "probe": "calamity"
+      },
+      {
+        "label": "cause to suffer",
+        "probe": "blight"
+      }
+    ]
+  },
+  "playfulness": {
+    "senses": [
+      {
+        "label": "a festive merry",
+        "probe": "levity"
+      },
+      {
+        "label": "a disposition to",
+        "probe": "frivolity"
+      }
+    ]
+  },
+  "plundering": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "pillaging"
+      },
+      {
+        "label": "take illegally",
+        "probe": "loot"
+      }
+    ]
+  },
+  "poignancy": {
+    "senses": [
+      {
+        "label": "a state of",
+        "probe": "sadness"
+      },
+      {
+        "label": "a quality that",
+        "probe": "pathos"
+      }
+    ]
+  },
+  "poisons": {
+    "senses": [
+      {
+        "label": "any substance that",
+        "probe": "poison"
+      },
+      {
+        "label": "spoil as if",
+        "probe": "pervert"
+      }
+    ]
+  },
+  "pokes": {
+    "senses": [
+      {
+        "label": "a sharp hand",
+        "probe": "poking"
+      },
+      {
+        "label": "poke or thrust",
+        "probe": "stab"
+      }
+    ]
+  },
+  "poop": {
+    "senses": [
+      {
+        "label": "obscene terms for",
+        "probe": "crap"
+      },
+      {
+        "label": "a stupid foolish",
+        "probe": "simpleton"
+      }
+    ]
+  },
+  "portrayals": {
+    "senses": [
+      {
+        "label": "a word picture",
+        "probe": "depiction"
+      },
+      {
+        "label": "representation by drawing",
+        "probe": "picturing"
+      }
+    ]
+  },
+  "possum": {
+    "senses": [
+      {
+        "label": "nocturnal arboreal marsupial",
+        "probe": "nocturnal"
+      },
+      {
+        "label": "small furry australian",
+        "probe": "marsupial"
+      }
+    ]
+  },
+  "pranks": {
+    "senses": [
+      {
+        "label": "acting like a",
+        "probe": "frivolity"
+      },
+      {
+        "label": "a ludicrous or",
+        "probe": "caper"
+      },
+      {
+        "label": "dress or decorate",
+        "probe": "ornament"
+      }
+    ]
+  },
+  "predation": {
+    "senses": [
+      {
+        "label": "an act of",
+        "probe": "plundering"
+      },
+      {
+        "label": "the act of",
+        "probe": "preying"
+      }
+    ]
+  },
+  "predator": {
+    "senses": [
+      {
+        "label": "someone who attacks",
+        "probe": "vulture"
+      },
+      {
+        "label": "any animal that",
+        "probe": "beast"
+      }
+    ]
+  },
+  "premonitions": {
+    "senses": [
+      {
+        "label": "a feeling of",
+        "probe": "foreboding"
+      },
+      {
+        "label": "an early warning",
+        "probe": "premonition"
+      }
+    ]
+  },
+  "pretender": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "imposter"
+      },
+      {
+        "label": "a person who",
+        "probe": "hypocrite"
+      }
+    ]
+  },
+  "pretenders": {
+    "senses": [
+      {
+        "label": "a claimant to",
+        "probe": "pretender"
+      },
+      {
+        "label": "a person who",
+        "probe": "imposter"
+      },
+      {
+        "label": "a person who",
+        "probe": "hypocrite"
+      }
+    ]
+  },
+  "prey": {
+    "senses": [
+      {
+        "label": "animal hunted or",
+        "probe": "hunted"
+      },
+      {
+        "label": "prey on or",
+        "probe": "raven"
+      }
+    ]
+  },
+  "preyed": {
+    "senses": [
+      {
+        "label": "profit from in",
+        "probe": "prey"
+      },
+      {
+        "label": "prey on or",
+        "probe": "raven"
+      }
+    ]
+  },
+  "preying": {
+    "senses": [
+      {
+        "label": "profit from in",
+        "probe": "prey"
+      },
+      {
+        "label": "prey on or",
+        "probe": "raven"
+      }
+    ]
+  },
+  "preys": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "prey"
+      },
+      {
+        "label": "animal hunted or",
+        "probe": "hunted"
+      },
+      {
+        "label": "prey on or",
+        "probe": "raven"
+      }
+    ]
+  },
+  "provokes": {
+    "senses": [
+      {
+        "label": "call forth (emotions",
+        "probe": "evoke"
+      },
+      {
+        "label": "annoy continually or",
+        "probe": "plague"
+      }
+    ]
+  },
+  "puddle": {
+    "senses": [
+      {
+        "label": "make a puddle",
+        "probe": "splatter"
+      },
+      {
+        "label": "mix up or",
+        "probe": "jumble"
+      },
+      {
+        "label": "eliminate urine",
+        "probe": "piss"
+      }
+    ]
+  },
+  "puff": {
+    "senses": [
+      {
+        "label": "a short light",
+        "probe": "whiff"
+      },
+      {
+        "label": "bedding made of",
+        "probe": "quilt"
+      },
+      {
+        "label": "a slow inhalation",
+        "probe": "inhalation"
+      },
+      {
+        "label": "suck in or",
+        "probe": "suck"
+      },
+      {
+        "label": "breathe noisily",
+        "probe": "gasp"
+      }
+    ]
+  },
+  "pulps": {
+    "senses": [
+      {
+        "label": "any soft or",
+        "probe": "mush"
+      },
+      {
+        "label": "a soft moist",
+        "probe": "flesh"
+      },
+      {
+        "label": "reduce to pulp",
+        "probe": "mash"
+      }
+    ]
+  },
+  "punks": {
+    "senses": [
+      {
+        "label": "an aggressive and",
+        "probe": "hoodlum"
+      },
+      {
+        "label": "material for starting",
+        "probe": "kindling"
+      },
+      {
+        "label": "a teenager or",
+        "probe": "adolescent"
+      }
+    ]
+  },
+  "puppets": {
+    "senses": [
+      {
+        "label": "a small figure",
+        "probe": "marionette"
+      },
+      {
+        "label": "a person who",
+        "probe": "creature"
+      }
+    ]
+  },
+  "puppies": {
+    "senses": [
+      {
+        "label": "a young dog",
+        "probe": "puppy"
+      },
+      {
+        "label": "an inexperienced young",
+        "probe": "pup"
+      }
+    ]
+  },
+  "pups": {
+    "senses": [
+      {
+        "label": "young of any",
+        "probe": "pup"
+      },
+      {
+        "label": "an inexperienced young",
+        "probe": "puppy"
+      }
+    ]
+  },
+  "pusher": {
+    "senses": [
+      {
+        "label": "one who intrudes",
+        "probe": "intruder"
+      },
+      {
+        "label": "a sandal attached",
+        "probe": "sandal"
+      }
+    ]
+  },
+  "puss": {
+    "senses": [
+      {
+        "label": "obscene terms for",
+        "probe": "cunt"
+      },
+      {
+        "label": "informal terms referring",
+        "probe": "pussy"
+      }
+    ]
+  },
+  "pussy": {
+    "senses": [
+      {
+        "label": "obscene terms for",
+        "probe": "cunt"
+      },
+      {
+        "label": "informal terms referring",
+        "probe": "puss"
+      }
+    ]
+  },
+  "quail": {
+    "senses": [
+      {
+        "label": "flesh of quail",
+        "probe": "flesh"
+      },
+      {
+        "label": "draw back",
+        "probe": "cringe"
+      }
+    ]
+  },
+  "quails": {
+    "senses": [
+      {
+        "label": "flesh of quail",
+        "probe": "quail"
+      },
+      {
+        "label": "draw back",
+        "probe": "cringe"
+      }
+    ]
+  },
+  "queer": {
+    "senses": [
+      {
+        "label": "offensive term for",
+        "probe": "fag"
+      },
+      {
+        "label": "put in a",
+        "probe": "peril"
+      }
+    ]
+  },
+  "quilt": {
+    "senses": [
+      {
+        "label": "bedding made of",
+        "probe": "comforter"
+      },
+      {
+        "label": "stitch or sew",
+        "probe": "stitch"
+      }
+    ]
+  },
+  "rabbit": {
+    "senses": [
+      {
+        "label": "any of various",
+        "probe": "coney"
+      },
+      {
+        "label": "flesh of any",
+        "probe": "hare"
+      }
+    ]
+  },
+  "rabbits": {
+    "senses": [
+      {
+        "label": "any of various",
+        "probe": "rabbit"
+      },
+      {
+        "label": "flesh of any",
+        "probe": "hare"
+      }
+    ]
+  },
+  "rage": {
+    "senses": [
+      {
+        "label": "a feeling of",
+        "probe": "fury"
+      },
+      {
+        "label": "an interest followed",
+        "probe": "fad"
+      }
+    ]
+  },
+  "rages": {
+    "senses": [
+      {
+        "label": "a feeling of",
+        "probe": "fury"
+      },
+      {
+        "label": "a state of",
+        "probe": "rage"
+      },
+      {
+        "label": "an interest followed",
+        "probe": "fad"
+      },
+      {
+        "label": "treat cruelly",
+        "probe": "torment"
+      },
+      {
+        "label": "cause annoyance in",
+        "probe": "devil"
+      },
+      {
+        "label": "harass with persistent",
+        "probe": "tease"
+      }
+    ]
+  },
+  "ragged": {
+    "senses": [
+      {
+        "label": "treat cruelly",
+        "probe": "torment"
+      },
+      {
+        "label": "cause annoyance in",
+        "probe": "devil"
+      },
+      {
+        "label": "harass with persistent",
+        "probe": "tease"
+      }
+    ]
+  },
+  "raging": {
+    "senses": [
+      {
+        "label": "behave violently",
+        "probe": "rage"
+      },
+      {
+        "label": "treat cruelly",
+        "probe": "torment"
+      },
+      {
+        "label": "cause annoyance in",
+        "probe": "devil"
+      },
+      {
+        "label": "harass with persistent",
+        "probe": "tease"
+      }
+    ]
+  },
+  "rags": {
+    "senses": [
+      {
+        "label": "treat cruelly",
+        "probe": "torment"
+      },
+      {
+        "label": "cause annoyance in",
+        "probe": "devil"
+      },
+      {
+        "label": "harass with persistent",
+        "probe": "tease"
+      }
+    ]
+  },
+  "rants": {
+    "senses": [
+      {
+        "label": "a loud bombastic",
+        "probe": "ranting"
+      },
+      {
+        "label": "pompous or pretentious",
+        "probe": "pompous"
+      },
+      {
+        "label": "talk in a",
+        "probe": "utter"
+      }
+    ]
+  },
+  "rapes": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "plundering"
+      },
+      {
+        "label": "force (someone) to",
+        "probe": "dishonor"
+      }
+    ]
+  },
+  "rascal": {
+    "senses": [
+      {
+        "label": "a deceitful and",
+        "probe": "knave"
+      },
+      {
+        "label": "one who is",
+        "probe": "scamp"
+      }
+    ]
+  },
+  "rascals": {
+    "senses": [
+      {
+        "label": "a deceitful and",
+        "probe": "knave"
+      },
+      {
+        "label": "one who is",
+        "probe": "scamp"
+      }
+    ]
+  },
+  "rat": {
+    "senses": [
+      {
+        "label": "any of various",
+        "probe": "rodent"
+      },
+      {
+        "label": "a person who",
+        "probe": "skunk"
+      },
+      {
+        "label": "one who reveals",
+        "probe": "betrayer"
+      },
+      {
+        "label": "give away information",
+        "probe": "shit"
+      }
+    ]
+  },
+  "rats": {
+    "senses": [
+      {
+        "label": "any of various",
+        "probe": "rat"
+      },
+      {
+        "label": "a person who",
+        "probe": "skunk"
+      },
+      {
+        "label": "one who reveals",
+        "probe": "betrayer"
+      },
+      {
+        "label": "give away information",
+        "probe": "shit"
+      }
+    ]
+  },
+  "ravage": {
+    "senses": [
+      {
+        "label": "(usually plural) a",
+        "probe": "wipeout"
+      },
+      {
+        "label": "cause extensive destruction",
+        "probe": "desolate"
+      }
+    ]
+  },
+  "ravages": {
+    "senses": [
+      {
+        "label": "(usually plural) a",
+        "probe": "ravage"
+      },
+      {
+        "label": "cause extensive destruction",
+        "probe": "desolate"
+      }
+    ]
+  },
+  "ravaging": {
+    "senses": [
+      {
+        "label": "plundering with excessive",
+        "probe": "devastation"
+      },
+      {
+        "label": "make a pillaging",
+        "probe": "ravage"
+      },
+      {
+        "label": "cause extensive destruction",
+        "probe": "desolate"
+      }
+    ]
+  },
+  "raven": {
+    "senses": [
+      {
+        "label": "prey on or",
+        "probe": "prey"
+      },
+      {
+        "label": "eat greedily",
+        "probe": "devour"
+      }
+    ]
+  },
+  "rebirth": {
+    "senses": [
+      {
+        "label": "a second or",
+        "probe": "reincarnation"
+      },
+      {
+        "label": "a spiritual enlightenment",
+        "probe": "redemption"
+      }
+    ]
+  },
+  "recollection": {
+    "senses": [
+      {
+        "label": "the ability to",
+        "probe": "remembrance"
+      },
+      {
+        "label": "the process of",
+        "probe": "remembering"
+      }
+    ]
+  },
+  "recollections": {
+    "senses": [
+      {
+        "label": "the ability to",
+        "probe": "remembrance"
+      },
+      {
+        "label": "the process of",
+        "probe": "recollection"
+      }
+    ]
+  },
+  "reels": {
+    "senses": [
+      {
+        "label": "walk as if",
+        "probe": "swag"
+      },
+      {
+        "label": "revolve quickly and",
+        "probe": "whirl"
+      }
+    ]
+  },
+  "reflections": {
+    "senses": [
+      {
+        "label": "a calm",
+        "probe": "contemplation"
+      },
+      {
+        "label": "expression without words",
+        "probe": "manifestation"
+      }
+    ]
+  },
+  "reincarnation": {
+    "senses": [
+      {
+        "label": "embodiment in a",
+        "probe": "embodiment"
+      },
+      {
+        "label": "a second or",
+        "probe": "rebirth"
+      }
+    ]
+  },
+  "rejoicing": {
+    "senses": [
+      {
+        "label": "the utterance of",
+        "probe": "jubilation"
+      },
+      {
+        "label": "feel happiness or",
+        "probe": "rejoice"
+      },
+      {
+        "label": "be ecstatic with",
+        "probe": "wallow"
+      }
+    ]
+  },
+  "reliving": {
+    "senses": [
+      {
+        "label": "a recurrence of",
+        "probe": "recurrence"
+      },
+      {
+        "label": "experience again",
+        "probe": "relive"
+      }
+    ]
+  },
+  "roach": {
+    "senses": [
+      {
+        "label": "any of numerous",
+        "probe": "cockroach"
+      },
+      {
+        "label": "comb (hair) into",
+        "probe": "comb"
+      }
+    ]
+  },
+  "roaches": {
+    "senses": [
+      {
+        "label": "a roll of",
+        "probe": "roach"
+      },
+      {
+        "label": "any of numerous",
+        "probe": "cockroach"
+      },
+      {
+        "label": "comb (hair) into",
+        "probe": "comb"
+      }
+    ]
+  },
+  "romance": {
+    "senses": [
+      {
+        "label": "an exciting and",
+        "probe": "romanticism"
+      },
+      {
+        "label": "a novel dealing",
+        "probe": "novel"
+      },
+      {
+        "label": "talk or behave",
+        "probe": "flirt"
+      }
+    ]
+  },
+  "romances": {
+    "senses": [
+      {
+        "label": "a relationship between",
+        "probe": "romance"
+      },
+      {
+        "label": "an exciting and",
+        "probe": "romanticism"
+      },
+      {
+        "label": "a novel dealing",
+        "probe": "novel"
+      },
+      {
+        "label": "talk or behave",
+        "probe": "flirt"
+      }
+    ]
+  },
+  "romancing": {
+    "senses": [
+      {
+        "label": "make amorous advances",
+        "probe": "romance"
+      },
+      {
+        "label": "talk or behave",
+        "probe": "flirt"
+      }
+    ]
+  },
+  "romp": {
+    "senses": [
+      {
+        "label": "an easy victory",
+        "probe": "runaway"
+      },
+      {
+        "label": "a girl who",
+        "probe": "tomboy"
+      },
+      {
+        "label": "gay or light-hearted",
+        "probe": "frolic"
+      },
+      {
+        "label": "play boisterously",
+        "probe": "lark"
+      }
+    ]
+  },
+  "romping": {
+    "senses": [
+      {
+        "label": "play boisterously",
+        "probe": "frolic"
+      },
+      {
+        "label": "run easily and",
+        "probe": "romp"
+      }
+    ]
+  },
+  "rot": {
+    "senses": [
+      {
+        "label": "a state of",
+        "probe": "decay"
+      },
+      {
+        "label": "(biology) the process",
+        "probe": "rotting"
+      },
+      {
+        "label": "unacceptable behavior (especially",
+        "probe": "bunk"
+      },
+      {
+        "label": "become physically weaker",
+        "probe": "degenerate"
+      }
+    ]
+  },
+  "rotting": {
+    "senses": [
+      {
+        "label": "(biology) the process",
+        "probe": "rot"
+      },
+      {
+        "label": "break down",
+        "probe": "decay"
+      },
+      {
+        "label": "become physically weaker",
+        "probe": "degenerate"
+      }
+    ]
+  },
+  "roving": {
+    "senses": [
+      {
+        "label": "travelling about without",
+        "probe": "wandering"
+      },
+      {
+        "label": "move about aimlessly",
+        "probe": "wander"
+      }
+    ]
+  },
+  "ruins": {
+    "senses": [
+      {
+        "label": "an irrecoverable state",
+        "probe": "devastation"
+      },
+      {
+        "label": "the process of",
+        "probe": "decay"
+      },
+      {
+        "label": "an event that",
+        "probe": "wipeout"
+      },
+      {
+        "label": "destroy or cause",
+        "probe": "queer"
+      },
+      {
+        "label": "reduce to ruins",
+        "probe": "desolate"
+      }
+    ]
+  },
+  "rumbles": {
+    "senses": [
+      {
+        "label": "a loud low",
+        "probe": "rumbling"
+      },
+      {
+        "label": "to utter or",
+        "probe": "growl"
+      }
+    ]
+  },
+  "rumination": {
+    "senses": [
+      {
+        "label": "a calm",
+        "probe": "contemplation"
+      },
+      {
+        "label": "regurgitation of small",
+        "probe": "vomit"
+      }
+    ]
+  },
+  "runaway": {
+    "senses": [
+      {
+        "label": "an easy victory",
+        "probe": "romp"
+      },
+      {
+        "label": "someone who flees",
+        "probe": "flees"
+      }
+    ]
+  },
+  "runaways": {
+    "senses": [
+      {
+        "label": "an easy victory",
+        "probe": "runaway"
+      },
+      {
+        "label": "someone who flees",
+        "probe": "flees"
+      }
+    ]
+  },
+  "runes": {
+    "senses": [
+      {
+        "label": "flee",
+        "probe": "bunk"
+      },
+      {
+        "label": "be diffused",
+        "probe": "bleed"
+      },
+      {
+        "label": "keep company",
+        "probe": "consort"
+      },
+      {
+        "label": "travel a route",
+        "probe": "jaunt"
+      }
+    ]
+  },
+  "rut": {
+    "senses": [
+      {
+        "label": "applies to nonhuman",
+        "probe": "estrus"
+      },
+      {
+        "label": "hollow out in",
+        "probe": "hollow"
+      }
+    ]
+  },
+  "saboteurs": {
+    "senses": [
+      {
+        "label": "someone who commits",
+        "probe": "saboteur"
+      },
+      {
+        "label": "a member of",
+        "probe": "traitor"
+      }
+    ]
+  },
+  "savage": {
+    "senses": [
+      {
+        "label": "a member of",
+        "probe": "barbarian"
+      },
+      {
+        "label": "a cruelly rapacious",
+        "probe": "beast"
+      }
+    ]
+  },
+  "savagery": {
+    "senses": [
+      {
+        "label": "the property of",
+        "probe": "ferocity"
+      },
+      {
+        "label": "the trait of",
+        "probe": "viciousness"
+      },
+      {
+        "label": "a brutal barbarous",
+        "probe": "barbarity"
+      }
+    ]
+  },
+  "savages": {
+    "senses": [
+      {
+        "label": "a member of",
+        "probe": "savage"
+      },
+      {
+        "label": "a cruelly rapacious",
+        "probe": "beast"
+      }
+    ]
+  },
+  "savior": {
+    "senses": [
+      {
+        "label": "a teacher and",
+        "probe": "saviour"
+      },
+      {
+        "label": "a person who",
+        "probe": "rescues"
+      }
+    ]
+  },
+  "saviour": {
+    "senses": [
+      {
+        "label": "a teacher and",
+        "probe": "savior"
+      },
+      {
+        "label": "a person who",
+        "probe": "rescues"
+      }
+    ]
+  },
+  "scared": {
+    "senses": [
+      {
+        "label": "cause fear in",
+        "probe": "frighten"
+      },
+      {
+        "label": "mark with a",
+        "probe": "scar"
+      }
+    ]
+  },
+  "scares": {
+    "senses": [
+      {
+        "label": "a sudden attack",
+        "probe": "fright"
+      },
+      {
+        "label": "cause fear in",
+        "probe": "frighten"
+      },
+      {
+        "label": "mark with a",
+        "probe": "scar"
+      }
+    ]
+  },
+  "scaring": {
+    "senses": [
+      {
+        "label": "cause fear in",
+        "probe": "frighten"
+      },
+      {
+        "label": "mark with a",
+        "probe": "scar"
+      }
+    ]
+  },
+  "scavenger": {
+    "senses": [
+      {
+        "label": "someone who collects",
+        "probe": "magpie"
+      },
+      {
+        "label": "any animal that",
+        "probe": "beast"
+      }
+    ]
+  },
+  "scavengers": {
+    "senses": [
+      {
+        "label": "a chemical agent",
+        "probe": "scavenger"
+      },
+      {
+        "label": "someone who collects",
+        "probe": "magpie"
+      },
+      {
+        "label": "any animal that",
+        "probe": "beast"
+      }
+    ]
+  },
+  "scent": {
+    "senses": [
+      {
+        "label": "a distinctive odor",
+        "probe": "smell"
+      },
+      {
+        "label": "an odor left",
+        "probe": "odor"
+      },
+      {
+        "label": "apply perfume to",
+        "probe": "groom"
+      }
+    ]
+  },
+  "scourge": {
+    "senses": [
+      {
+        "label": "something causing misery",
+        "probe": "bane"
+      },
+      {
+        "label": "a person who",
+        "probe": "inspires"
+      },
+      {
+        "label": "cause extensive destruction",
+        "probe": "desolate"
+      }
+    ]
+  },
+  "scourges": {
+    "senses": [
+      {
+        "label": "a whip used",
+        "probe": "scourge"
+      },
+      {
+        "label": "something causing misery",
+        "probe": "bane"
+      },
+      {
+        "label": "a person who",
+        "probe": "inspires"
+      },
+      {
+        "label": "cause extensive destruction",
+        "probe": "desolate"
+      }
+    ]
+  },
+  "scream": {
+    "senses": [
+      {
+        "label": "sharp piercing cry",
+        "probe": "screaming"
+      },
+      {
+        "label": "a high-pitched noise",
+        "probe": "shriek"
+      },
+      {
+        "label": "a joke that",
+        "probe": "howler"
+      },
+      {
+        "label": "utter a sudden",
+        "probe": "holler"
+      },
+      {
+        "label": "utter or declare",
+        "probe": "utter"
+      }
+    ]
+  },
+  "screaming": {
+    "senses": [
+      {
+        "label": "sharp piercing cry",
+        "probe": "scream"
+      },
+      {
+        "label": "a high-pitched noise",
+        "probe": "shriek"
+      },
+      {
+        "label": "utter a sudden",
+        "probe": "holler"
+      },
+      {
+        "label": "utter or declare",
+        "probe": "utter"
+      }
+    ]
+  },
+  "screams": {
+    "senses": [
+      {
+        "label": "sharp piercing cry",
+        "probe": "scream"
+      },
+      {
+        "label": "a high-pitched noise",
+        "probe": "shriek"
+      },
+      {
+        "label": "a joke that",
+        "probe": "howler"
+      },
+      {
+        "label": "utter a sudden",
+        "probe": "holler"
+      },
+      {
+        "label": "utter or declare",
+        "probe": "utter"
+      }
+    ]
+  },
+  "seduced": {
+    "senses": [
+      {
+        "label": "induce to have",
+        "probe": "seduce"
+      },
+      {
+        "label": "lure or entice",
+        "probe": "tempt"
+      }
+    ]
+  },
+  "seduces": {
+    "senses": [
+      {
+        "label": "induce to have",
+        "probe": "seduce"
+      },
+      {
+        "label": "lure or entice",
+        "probe": "tempt"
+      }
+    ]
+  },
+  "seducing": {
+    "senses": [
+      {
+        "label": "induce to have",
+        "probe": "seduce"
+      },
+      {
+        "label": "lure or entice",
+        "probe": "tempt"
+      }
+    ]
+  },
+  "senses": {
+    "senses": [
+      {
+        "label": "street names for",
+        "probe": "skunk"
+      },
+      {
+        "label": "become aware of",
+        "probe": "smell"
+      }
+    ]
+  },
+  "serenity": {
+    "senses": [
+      {
+        "label": "a disposition free",
+        "probe": "tranquillity"
+      },
+      {
+        "label": "the absence of",
+        "probe": "tranquility"
+      }
+    ]
+  },
+  "serpents": {
+    "senses": [
+      {
+        "label": "limbless scaly elongate",
+        "probe": "snake"
+      },
+      {
+        "label": "a firework that",
+        "probe": "serpent"
+      }
+    ]
+  },
+  "shadows": {
+    "senses": [
+      {
+        "label": "an unilluminated area",
+        "probe": "darkness"
+      },
+      {
+        "label": "something existing in",
+        "probe": "apparition"
+      },
+      {
+        "label": "a premonition of",
+        "probe": "premonition"
+      },
+      {
+        "label": "an indication that",
+        "probe": "vestige"
+      },
+      {
+        "label": "make appear small",
+        "probe": "dwarf"
+      }
+    ]
+  },
+  "sheep": {
+    "senses": [
+      {
+        "label": "woolly usually horned",
+        "probe": "woolly"
+      },
+      {
+        "label": "a timid defenseless",
+        "probe": "simpleton"
+      }
+    ]
+  },
+  "shenanigans": {
+    "senses": [
+      {
+        "label": "reckless or malicious",
+        "probe": "mischief"
+      },
+      {
+        "label": "the use of",
+        "probe": "chicanery"
+      }
+    ]
+  },
+  "shining": {
+    "senses": [
+      {
+        "label": "be shiny",
+        "probe": "glitter"
+      },
+      {
+        "label": "have a complexion",
+        "probe": "glow"
+      }
+    ]
+  },
+  "shit": {
+    "senses": [
+      {
+        "label": "obscene terms for",
+        "probe": "crap"
+      },
+      {
+        "label": "obscene words for",
+        "probe": "bullshit"
+      },
+      {
+        "label": "insulting terms of",
+        "probe": "bastard"
+      },
+      {
+        "label": "something of little",
+        "probe": "darn"
+      },
+      {
+        "label": "give away information",
+        "probe": "rat"
+      }
+    ]
+  },
+  "shiver": {
+    "senses": [
+      {
+        "label": "a reflex motion",
+        "probe": "reflex"
+      },
+      {
+        "label": "an almost pleasurable",
+        "probe": "frisson"
+      },
+      {
+        "label": "tremble convulsively",
+        "probe": "shudder"
+      }
+    ]
+  },
+  "shivering": {
+    "senses": [
+      {
+        "label": "a sensation of",
+        "probe": "symptom"
+      },
+      {
+        "label": "tremble convulsively",
+        "probe": "shudder"
+      },
+      {
+        "label": "shake",
+        "probe": "shiver"
+      }
+    ]
+  },
+  "shivers": {
+    "senses": [
+      {
+        "label": "a reflex motion",
+        "probe": "shiver"
+      },
+      {
+        "label": "an almost pleasurable",
+        "probe": "frisson"
+      },
+      {
+        "label": "tremble convulsively",
+        "probe": "shudder"
+      }
+    ]
+  },
+  "shoots": {
+    "senses": [
+      {
+        "label": "hit with a",
+        "probe": "pip"
+      },
+      {
+        "label": "cause a sharp",
+        "probe": "ache"
+      },
+      {
+        "label": "utter fast and",
+        "probe": "utter"
+      }
+    ]
+  },
+  "shouts": {
+    "senses": [
+      {
+        "label": "utter in a",
+        "probe": "utter"
+      },
+      {
+        "label": "utter a sudden",
+        "probe": "scream"
+      }
+    ]
+  },
+  "shriek": {
+    "senses": [
+      {
+        "label": "sharp piercing cry",
+        "probe": "scream"
+      },
+      {
+        "label": "a high-pitched noise",
+        "probe": "shrieking"
+      },
+      {
+        "label": "utter a shrill",
+        "probe": "shrill"
+      }
+    ]
+  },
+  "shrieking": {
+    "senses": [
+      {
+        "label": "sharp piercing cry",
+        "probe": "scream"
+      },
+      {
+        "label": "a high-pitched noise",
+        "probe": "shriek"
+      },
+      {
+        "label": "utter a shrill",
+        "probe": "shrill"
+      }
+    ]
+  },
+  "shtick": {
+    "senses": [
+      {
+        "label": "(yiddish) a contrived",
+        "probe": "contrived"
+      },
+      {
+        "label": "(yiddish) a prank",
+        "probe": "frivolity"
+      },
+      {
+        "label": "(yiddish) a devious",
+        "probe": "devious"
+      }
+    ]
+  },
+  "shudder": {
+    "senses": [
+      {
+        "label": "an almost pleasurable",
+        "probe": "frisson"
+      },
+      {
+        "label": "shake",
+        "probe": "shiver"
+      },
+      {
+        "label": "tremble convulsively",
+        "probe": "thrill"
+      }
+    ]
+  },
+  "sickness": {
+    "senses": [
+      {
+        "label": "impairment of normal",
+        "probe": "malady"
+      },
+      {
+        "label": "the state that",
+        "probe": "nausea"
+      }
+    ]
+  },
+  "silliness": {
+    "senses": [
+      {
+        "label": "a ludicrous folly",
+        "probe": "absurdity"
+      },
+      {
+        "label": "an impulsive scatterbrained",
+        "probe": "impulsive"
+      }
+    ]
+  },
+  "sin": {
+    "senses": [
+      {
+        "label": "estrangement from god",
+        "probe": "wickedness"
+      },
+      {
+        "label": "an act that",
+        "probe": "transgression"
+      },
+      {
+        "label": "violent and excited",
+        "probe": "hell"
+      }
+    ]
+  },
+  "sings": {
+    "senses": [
+      {
+        "label": "produce tones with",
+        "probe": "utter"
+      },
+      {
+        "label": "divulge confidential information",
+        "probe": "babble"
+      }
+    ]
+  },
+  "sins": {
+    "senses": [
+      {
+        "label": "estrangement from god",
+        "probe": "sin"
+      },
+      {
+        "label": "an act that",
+        "probe": "transgression"
+      },
+      {
+        "label": "violent and excited",
+        "probe": "hell"
+      }
+    ]
+  },
+  "siren": {
+    "senses": [
+      {
+        "label": "a sea nymph",
+        "probe": "nymph"
+      },
+      {
+        "label": "a woman who",
+        "probe": "enchantress"
+      }
+    ]
+  },
+  "sleep": {
+    "senses": [
+      {
+        "label": "a natural and",
+        "probe": "slumber"
+      },
+      {
+        "label": "be asleep",
+        "probe": "asleep"
+      }
+    ]
+  },
+  "sleepers": {
+    "senses": [
+      {
+        "label": "a rester who",
+        "probe": "sleeper"
+      },
+      {
+        "label": "a spy or",
+        "probe": "saboteur"
+      }
+    ]
+  },
+  "sleeping": {
+    "senses": [
+      {
+        "label": "the state of",
+        "probe": "sleep"
+      },
+      {
+        "label": "be asleep",
+        "probe": "slumber"
+      }
+    ]
+  },
+  "sleeps": {
+    "senses": [
+      {
+        "label": "a natural and",
+        "probe": "sleep"
+      },
+      {
+        "label": "be asleep",
+        "probe": "slumber"
+      }
+    ]
+  },
+  "sleuths": {
+    "senses": [
+      {
+        "label": "a detective who",
+        "probe": "sleuth"
+      },
+      {
+        "label": "watch",
+        "probe": "stag"
+      }
+    ]
+  },
+  "slime": {
+    "senses": [
+      {
+        "label": "any thick",
+        "probe": "muck"
+      },
+      {
+        "label": "cover or stain",
+        "probe": "grime"
+      }
+    ]
+  },
+  "slop": {
+    "senses": [
+      {
+        "label": "writing or music",
+        "probe": "mush"
+      },
+      {
+        "label": "cause or allow",
+        "probe": "splatter"
+      }
+    ]
+  },
+  "slumber": {
+    "senses": [
+      {
+        "label": "a natural and",
+        "probe": "sleep"
+      },
+      {
+        "label": "be asleep",
+        "probe": "asleep"
+      }
+    ]
+  },
+  "smears": {
+    "senses": [
+      {
+        "label": "a blemish made",
+        "probe": "blot"
+      },
+      {
+        "label": "an act that",
+        "probe": "stain"
+      },
+      {
+        "label": "stain by smearing",
+        "probe": "grime"
+      }
+    ]
+  },
+  "smell": {
+    "senses": [
+      {
+        "label": "the sensation that",
+        "probe": "odor"
+      },
+      {
+        "label": "any property detected",
+        "probe": "scent"
+      },
+      {
+        "label": "the act of",
+        "probe": "smelling"
+      },
+      {
+        "label": "have an element",
+        "probe": "evoke"
+      }
+    ]
+  },
+  "smelled": {
+    "senses": [
+      {
+        "label": "inhale the odor",
+        "probe": "smell"
+      },
+      {
+        "label": "have an element",
+        "probe": "evoke"
+      }
+    ]
+  },
+  "smelling": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "smell"
+      },
+      {
+        "label": "have an element",
+        "probe": "evoke"
+      }
+    ]
+  },
+  "smells": {
+    "senses": [
+      {
+        "label": "the sensation that",
+        "probe": "smell"
+      },
+      {
+        "label": "any property detected",
+        "probe": "odor"
+      },
+      {
+        "label": "the act of",
+        "probe": "smelling"
+      },
+      {
+        "label": "have an element",
+        "probe": "evoke"
+      }
+    ]
+  },
+  "smitten": {
+    "senses": [
+      {
+        "label": "inflict a heavy",
+        "probe": "inflict"
+      },
+      {
+        "label": "cause physical pain",
+        "probe": "afflict"
+      }
+    ]
+  },
+  "snake": {
+    "senses": [
+      {
+        "label": "limbless scaly elongate",
+        "probe": "serpent"
+      },
+      {
+        "label": "a long faint",
+        "probe": "hydra"
+      }
+    ]
+  },
+  "snakes": {
+    "senses": [
+      {
+        "label": "limbless scaly elongate",
+        "probe": "snake"
+      },
+      {
+        "label": "a long faint",
+        "probe": "hydra"
+      }
+    ]
+  },
+  "snarling": {
+    "senses": [
+      {
+        "label": "utter in an",
+        "probe": "utter"
+      },
+      {
+        "label": "twist together or",
+        "probe": "tangle"
+      }
+    ]
+  },
+  "snatchers": {
+    "senses": [
+      {
+        "label": "a thief who",
+        "probe": "thief"
+      },
+      {
+        "label": "someone who unlawfully",
+        "probe": "crook"
+      }
+    ]
+  },
+  "sneaks": {
+    "senses": [
+      {
+        "label": "someone who prowls",
+        "probe": "stalker"
+      },
+      {
+        "label": "someone acting as",
+        "probe": "snitch"
+      },
+      {
+        "label": "to go stealthily",
+        "probe": "creep"
+      }
+    ]
+  },
+  "sniff": {
+    "senses": [
+      {
+        "label": "sensing an odor",
+        "probe": "smell"
+      },
+      {
+        "label": "perceive by inhaling",
+        "probe": "whiff"
+      }
+    ]
+  },
+  "snipes": {
+    "senses": [
+      {
+        "label": "a gunshot from",
+        "probe": "gunshot"
+      },
+      {
+        "label": "sever or remove",
+        "probe": "nip"
+      }
+    ]
+  },
+  "snitch": {
+    "senses": [
+      {
+        "label": "someone acting as",
+        "probe": "betrayer"
+      },
+      {
+        "label": "take by theft",
+        "probe": "cop"
+      },
+      {
+        "label": "give away information",
+        "probe": "rat"
+      }
+    ]
+  },
+  "snooze": {
+    "senses": [
+      {
+        "label": "sleeping for a",
+        "probe": "sleeping"
+      },
+      {
+        "label": "sleep lightly or",
+        "probe": "sleep"
+      }
+    ]
+  },
+  "sob": {
+    "senses": [
+      {
+        "label": "insulting terms of",
+        "probe": "bastard"
+      },
+      {
+        "label": "convulsive gasp made",
+        "probe": "crying"
+      },
+      {
+        "label": "weep convulsively",
+        "probe": "weep"
+      }
+    ]
+  },
+  "sorrow": {
+    "senses": [
+      {
+        "label": "an emotion of",
+        "probe": "sadness"
+      },
+      {
+        "label": "something that causes",
+        "probe": "grief"
+      }
+    ]
+  },
+  "sorrows": {
+    "senses": [
+      {
+        "label": "an emotion of",
+        "probe": "sorrow"
+      },
+      {
+        "label": "sadness associated with",
+        "probe": "sadness"
+      },
+      {
+        "label": "something that causes",
+        "probe": "grief"
+      }
+    ]
+  },
+  "soul": {
+    "senses": [
+      {
+        "label": "the immaterial part",
+        "probe": "psyche"
+      },
+      {
+        "label": "a human being",
+        "probe": "mortal"
+      },
+      {
+        "label": "the human embodiment",
+        "probe": "embodiment"
+      }
+    ]
+  },
+  "souls": {
+    "senses": [
+      {
+        "label": "the immaterial part",
+        "probe": "soul"
+      },
+      {
+        "label": "a human being",
+        "probe": "mortal"
+      },
+      {
+        "label": "the human embodiment",
+        "probe": "embodiment"
+      }
+    ]
+  },
+  "spangled": {
+    "senses": [
+      {
+        "label": "glitter as if",
+        "probe": "glitter"
+      },
+      {
+        "label": "decorate with spangles",
+        "probe": "ornament"
+      }
+    ]
+  },
+  "sparkle": {
+    "senses": [
+      {
+        "label": "merriment expressed by",
+        "probe": "twinkle"
+      },
+      {
+        "label": "the occurrence of",
+        "probe": "glitter"
+      },
+      {
+        "label": "the quality of",
+        "probe": "shining"
+      }
+    ]
+  },
+  "spattered": {
+    "senses": [
+      {
+        "label": "dash a liquid",
+        "probe": "splatter"
+      },
+      {
+        "label": "spot",
+        "probe": "blob"
+      }
+    ]
+  },
+  "specks": {
+    "senses": [
+      {
+        "label": "a very small",
+        "probe": "speck"
+      },
+      {
+        "label": "a slight but",
+        "probe": "tinge"
+      }
+    ]
+  },
+  "specters": {
+    "senses": [
+      {
+        "label": "a mental representation",
+        "probe": "ghost"
+      },
+      {
+        "label": "a ghostly appearing",
+        "probe": "apparition"
+      }
+    ]
+  },
+  "spiders": {
+    "senses": [
+      {
+        "label": "predatory arachnid with",
+        "probe": "spider"
+      },
+      {
+        "label": "a computer program",
+        "probe": "wanderer"
+      }
+    ]
+  },
+  "spike": {
+    "senses": [
+      {
+        "label": "a transient variation",
+        "probe": "transient"
+      },
+      {
+        "label": "stand in the",
+        "probe": "banish"
+      }
+    ]
+  },
+  "spiral": {
+    "senses": [
+      {
+        "label": "ornament consisting of",
+        "probe": "ornament"
+      },
+      {
+        "label": "move in a",
+        "probe": "corkscrew"
+      }
+    ]
+  },
+  "spiraling": {
+    "senses": [
+      {
+        "label": "to wind or",
+        "probe": "spiral"
+      },
+      {
+        "label": "move in a",
+        "probe": "corkscrew"
+      }
+    ]
+  },
+  "spiralling": {
+    "senses": [
+      {
+        "label": "to wind or",
+        "probe": "spiral"
+      },
+      {
+        "label": "move in a",
+        "probe": "corkscrew"
+      }
+    ]
+  },
+  "spirals": {
+    "senses": [
+      {
+        "label": "a plane curve",
+        "probe": "spiral"
+      },
+      {
+        "label": "ornament consisting of",
+        "probe": "ornament"
+      },
+      {
+        "label": "move in a",
+        "probe": "corkscrew"
+      }
+    ]
+  },
+  "splatter": {
+    "senses": [
+      {
+        "label": "the noise of",
+        "probe": "splattering"
+      },
+      {
+        "label": "cause or allow",
+        "probe": "slop"
+      },
+      {
+        "label": "dash a liquid",
+        "probe": "dust"
+      }
+    ]
+  },
+  "splattered": {
+    "senses": [
+      {
+        "label": "cause or allow",
+        "probe": "slop"
+      },
+      {
+        "label": "dash a liquid",
+        "probe": "splatter"
+      }
+    ]
+  },
+  "splattering": {
+    "senses": [
+      {
+        "label": "the noise of",
+        "probe": "splatter"
+      },
+      {
+        "label": "cause or allow",
+        "probe": "slop"
+      },
+      {
+        "label": "dash a liquid",
+        "probe": "dust"
+      }
+    ]
+  },
+  "sponge": {
+    "senses": [
+      {
+        "label": "a follower who",
+        "probe": "parasite"
+      },
+      {
+        "label": "primitive multicellular marine",
+        "probe": "primitive"
+      },
+      {
+        "label": "ask for and",
+        "probe": "grub"
+      },
+      {
+        "label": "soak up with",
+        "probe": "mop"
+      }
+    ]
+  },
+  "spoof": {
+    "senses": [
+      {
+        "label": "a composition that",
+        "probe": "parody"
+      },
+      {
+        "label": "make a parody",
+        "probe": "burlesque"
+      }
+    ]
+  },
+  "spoofs": {
+    "senses": [
+      {
+        "label": "a composition that",
+        "probe": "parody"
+      },
+      {
+        "label": "make a parody",
+        "probe": "spoof"
+      }
+    ]
+  },
+  "spook": {
+    "senses": [
+      {
+        "label": "someone unpleasantly strange",
+        "probe": "creep"
+      },
+      {
+        "label": "a mental representation",
+        "probe": "ghost"
+      },
+      {
+        "label": "frighten or scare",
+        "probe": "frighten"
+      }
+    ]
+  },
+  "spooks": {
+    "senses": [
+      {
+        "label": "someone unpleasantly strange",
+        "probe": "creep"
+      },
+      {
+        "label": "a mental representation",
+        "probe": "ghost"
+      },
+      {
+        "label": "frighten or scare",
+        "probe": "spook"
+      }
+    ]
+  },
+  "sprees": {
+    "senses": [
+      {
+        "label": "a brief indulgence",
+        "probe": "fling"
+      },
+      {
+        "label": "engage without restraint",
+        "probe": "indulge"
+      }
+    ]
+  },
+  "squall": {
+    "senses": [
+      {
+        "label": "make high-pitched",
+        "probe": "howl"
+      },
+      {
+        "label": "utter a sudden",
+        "probe": "scream"
+      }
+    ]
+  },
+  "stag": {
+    "senses": [
+      {
+        "label": "give away information",
+        "probe": "rat"
+      },
+      {
+        "label": "watch",
+        "probe": "sleuth"
+      }
+    ]
+  },
+  "stain": {
+    "senses": [
+      {
+        "label": "the state of",
+        "probe": "filth"
+      },
+      {
+        "label": "a symbol of",
+        "probe": "stigma"
+      },
+      {
+        "label": "an act that",
+        "probe": "blot"
+      },
+      {
+        "label": "make dirty or",
+        "probe": "blob"
+      }
+    ]
+  },
+  "stains": {
+    "senses": [
+      {
+        "label": "a soiled or",
+        "probe": "stain"
+      },
+      {
+        "label": "the state of",
+        "probe": "filth"
+      },
+      {
+        "label": "a symbol of",
+        "probe": "stigma"
+      },
+      {
+        "label": "an act that",
+        "probe": "blot"
+      },
+      {
+        "label": "make dirty or",
+        "probe": "blob"
+      }
+    ]
+  },
+  "stalk": {
+    "senses": [
+      {
+        "label": "a hunt for",
+        "probe": "stalking"
+      },
+      {
+        "label": "follow stealthily or",
+        "probe": "haunt"
+      }
+    ]
+  },
+  "stalked": {
+    "senses": [
+      {
+        "label": "walk stiffly",
+        "probe": "stalk"
+      },
+      {
+        "label": "follow stealthily or",
+        "probe": "haunt"
+      }
+    ]
+  },
+  "stalker": {
+    "senses": [
+      {
+        "label": "someone who stalks",
+        "probe": "stalks"
+      },
+      {
+        "label": "someone who prowls",
+        "probe": "intruder"
+      }
+    ]
+  },
+  "stalkers": {
+    "senses": [
+      {
+        "label": "someone who walks",
+        "probe": "stalker"
+      },
+      {
+        "label": "someone who stalks",
+        "probe": "stalks"
+      },
+      {
+        "label": "someone who prowls",
+        "probe": "intruder"
+      }
+    ]
+  },
+  "stalking": {
+    "senses": [
+      {
+        "label": "a hunt for",
+        "probe": "stalk"
+      },
+      {
+        "label": "follow stealthily or",
+        "probe": "haunt"
+      }
+    ]
+  },
+  "stalks": {
+    "senses": [
+      {
+        "label": "material consisting of",
+        "probe": "stalk"
+      },
+      {
+        "label": "a hunt for",
+        "probe": "stalking"
+      },
+      {
+        "label": "follow stealthily or",
+        "probe": "haunt"
+      }
+    ]
+  },
+  "stares": {
+    "senses": [
+      {
+        "label": "a fixed look",
+        "probe": "stare"
+      },
+      {
+        "label": "look at with",
+        "probe": "gaze"
+      }
+    ]
+  },
+  "staring": {
+    "senses": [
+      {
+        "label": "look at with",
+        "probe": "gaze"
+      },
+      {
+        "label": "fixate one's eyes",
+        "probe": "stare"
+      }
+    ]
+  },
+  "starve": {
+    "senses": [
+      {
+        "label": "die of food",
+        "probe": "perish"
+      },
+      {
+        "label": "have a craving",
+        "probe": "thirst"
+      }
+    ]
+  },
+  "starving": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "starvation"
+      },
+      {
+        "label": "be hungry",
+        "probe": "starve"
+      },
+      {
+        "label": "die of food",
+        "probe": "perish"
+      },
+      {
+        "label": "have a craving",
+        "probe": "thirst"
+      }
+    ]
+  },
+  "stigmata": {
+    "senses": [
+      {
+        "label": "the apical end",
+        "probe": "stigma"
+      },
+      {
+        "label": "a symbol of",
+        "probe": "stain"
+      }
+    ]
+  },
+  "stings": {
+    "senses": [
+      {
+        "label": "a painful wound",
+        "probe": "bite"
+      },
+      {
+        "label": "a swindle in",
+        "probe": "swindle"
+      },
+      {
+        "label": "cause a sharp",
+        "probe": "ache"
+      }
+    ]
+  },
+  "stink": {
+    "senses": [
+      {
+        "label": "a distinctive odor",
+        "probe": "stench"
+      },
+      {
+        "label": "smell badly and",
+        "probe": "smell"
+      }
+    ]
+  },
+  "stinker": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "rat"
+      },
+      {
+        "label": "an artifact (especially",
+        "probe": "artifact"
+      }
+    ]
+  },
+  "stinkers": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "rat"
+      },
+      {
+        "label": "anything that gives",
+        "probe": "stinker"
+      },
+      {
+        "label": "an artifact (especially",
+        "probe": "artifact"
+      }
+    ]
+  },
+  "stinking": {
+    "senses": [
+      {
+        "label": "be extremely bad",
+        "probe": "stink"
+      },
+      {
+        "label": "smell badly and",
+        "probe": "smell"
+      }
+    ]
+  },
+  "stinks": {
+    "senses": [
+      {
+        "label": "a distinctive odor",
+        "probe": "stench"
+      },
+      {
+        "label": "be extremely bad",
+        "probe": "stink"
+      },
+      {
+        "label": "smell badly and",
+        "probe": "smell"
+      }
+    ]
+  },
+  "stirs": {
+    "senses": [
+      {
+        "label": "a prominent or",
+        "probe": "commotion"
+      },
+      {
+        "label": "a rapid active",
+        "probe": "bustle"
+      },
+      {
+        "label": "summon into action",
+        "probe": "conjure"
+      }
+    ]
+  },
+  "storytellers": {
+    "senses": [
+      {
+        "label": "someone who tells",
+        "probe": "narrator"
+      },
+      {
+        "label": "someone who tells",
+        "probe": "storyteller"
+      }
+    ]
+  },
+  "strays": {
+    "senses": [
+      {
+        "label": "an animal that",
+        "probe": "stray"
+      },
+      {
+        "label": "move about aimlessly",
+        "probe": "wander"
+      }
+    ]
+  },
+  "stupor": {
+    "senses": [
+      {
+        "label": "the feeling of",
+        "probe": "daze"
+      },
+      {
+        "label": "marginal consciousness",
+        "probe": "unconsciousness"
+      }
+    ]
+  },
+  "submerged": {
+    "senses": [
+      {
+        "label": "cover completely or",
+        "probe": "drown"
+      },
+      {
+        "label": "fill or cover",
+        "probe": "deluge"
+      }
+    ]
+  },
+  "succumbed": {
+    "senses": [
+      {
+        "label": "consent reluctantly",
+        "probe": "succumb"
+      },
+      {
+        "label": "be fatally overwhelmed",
+        "probe": "perish"
+      }
+    ]
+  },
+  "succumbing": {
+    "senses": [
+      {
+        "label": "consent reluctantly",
+        "probe": "succumb"
+      },
+      {
+        "label": "be fatally overwhelmed",
+        "probe": "perish"
+      }
+    ]
+  },
+  "suckers": {
+    "senses": [
+      {
+        "label": "a person who",
+        "probe": "sucker"
+      },
+      {
+        "label": "flesh of any",
+        "probe": "flesh"
+      }
+    ]
+  },
+  "sucks": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "sucking"
+      },
+      {
+        "label": "draw into the",
+        "probe": "suck"
+      }
+    ]
+  },
+  "sufferers": {
+    "senses": [
+      {
+        "label": "a person suffering",
+        "probe": "sufferer"
+      },
+      {
+        "label": "one who suffers",
+        "probe": "martyr"
+      }
+    ]
+  },
+  "sufferings": {
+    "senses": [
+      {
+        "label": "a state of",
+        "probe": "agony"
+      },
+      {
+        "label": "misery resulting from",
+        "probe": "woe"
+      }
+    ]
+  },
+  "supermen": {
+    "senses": [
+      {
+        "label": "a person with",
+        "probe": "demigod"
+      },
+      {
+        "label": "street name for",
+        "probe": "superman"
+      }
+    ]
+  },
+  "swallowed": {
+    "senses": [
+      {
+        "label": "engulf and destroy",
+        "probe": "engulf"
+      },
+      {
+        "label": "utter indistinctly",
+        "probe": "utter"
+      }
+    ]
+  },
+  "swallowing": {
+    "senses": [
+      {
+        "label": "engulf and destroy",
+        "probe": "engulf"
+      },
+      {
+        "label": "utter indistinctly",
+        "probe": "utter"
+      }
+    ]
+  },
+  "swarms": {
+    "senses": [
+      {
+        "label": "a moving crowd",
+        "probe": "horde"
+      },
+      {
+        "label": "be teeming",
+        "probe": "teeming"
+      }
+    ]
+  },
+  "sweethearts": {
+    "senses": [
+      {
+        "label": "a person loved",
+        "probe": "sweetie"
+      },
+      {
+        "label": "a very attractive",
+        "probe": "stunner"
+      }
+    ]
+  },
+  "syndromes": {
+    "senses": [
+      {
+        "label": "a complex of",
+        "probe": "syndrome"
+      },
+      {
+        "label": "a pattern of",
+        "probe": "symptom"
+      }
+    ]
+  },
+  "tales": {
+    "senses": [
+      {
+        "label": "a message that",
+        "probe": "narration"
+      },
+      {
+        "label": "a trivial lie",
+        "probe": "tale"
+      }
+    ]
+  },
+  "tangle": {
+    "senses": [
+      {
+        "label": "a twisted and",
+        "probe": "twisted"
+      },
+      {
+        "label": "something jumbled or",
+        "probe": "maze"
+      }
+    ]
+  },
+  "taunts": {
+    "senses": [
+      {
+        "label": "aggravation by deriding",
+        "probe": "taunt"
+      },
+      {
+        "label": "harass with persistent",
+        "probe": "tease"
+      }
+    ]
+  },
+  "tease": {
+    "senses": [
+      {
+        "label": "a seductive woman",
+        "probe": "flirt"
+      },
+      {
+        "label": "the act of",
+        "probe": "teasing"
+      },
+      {
+        "label": "annoy persistently",
+        "probe": "badger"
+      },
+      {
+        "label": "harass with persistent",
+        "probe": "taunt"
+      },
+      {
+        "label": "mock or make",
+        "probe": "roast"
+      },
+      {
+        "label": "ruffle (one's hair)",
+        "probe": "comb"
+      }
+    ]
+  },
+  "teases": {
+    "senses": [
+      {
+        "label": "someone given to",
+        "probe": "tease"
+      },
+      {
+        "label": "a seductive woman",
+        "probe": "flirt"
+      },
+      {
+        "label": "the act of",
+        "probe": "teasing"
+      },
+      {
+        "label": "annoy persistently",
+        "probe": "badger"
+      },
+      {
+        "label": "harass with persistent",
+        "probe": "taunt"
+      },
+      {
+        "label": "mock or make",
+        "probe": "roast"
+      },
+      {
+        "label": "ruffle (one's hair)",
+        "probe": "comb"
+      }
+    ]
+  },
+  "teasing": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "tease"
+      },
+      {
+        "label": "playful vexation",
+        "probe": "playful"
+      },
+      {
+        "label": "the act of",
+        "probe": "comb"
+      },
+      {
+        "label": "annoy persistently",
+        "probe": "badger"
+      },
+      {
+        "label": "harass with persistent",
+        "probe": "taunt"
+      },
+      {
+        "label": "mock or make",
+        "probe": "roast"
+      }
+    ]
+  },
+  "terrorized": {
+    "senses": [
+      {
+        "label": "coerce by violence",
+        "probe": "terrorize"
+      },
+      {
+        "label": "fill with terror",
+        "probe": "frighten"
+      }
+    ]
+  },
+  "terrorizing": {
+    "senses": [
+      {
+        "label": "coerce by violence",
+        "probe": "terrorize"
+      },
+      {
+        "label": "fill with terror",
+        "probe": "frighten"
+      }
+    ]
+  },
+  "terrors": {
+    "senses": [
+      {
+        "label": "an overwhelming feeling",
+        "probe": "fright"
+      },
+      {
+        "label": "a person who",
+        "probe": "scourge"
+      },
+      {
+        "label": "a very troublesome",
+        "probe": "scamp"
+      }
+    ]
+  },
+  "thieves": {
+    "senses": [
+      {
+        "label": "a criminal who",
+        "probe": "thief"
+      },
+      {
+        "label": "take by theft",
+        "probe": "snitch"
+      }
+    ]
+  },
+  "thirst": {
+    "senses": [
+      {
+        "label": "feel the need",
+        "probe": "ache"
+      },
+      {
+        "label": "have a craving",
+        "probe": "starve"
+      }
+    ]
+  },
+  "thirsting": {
+    "senses": [
+      {
+        "label": "feel the need",
+        "probe": "thirst"
+      },
+      {
+        "label": "have a craving",
+        "probe": "starve"
+      }
+    ]
+  },
+  "thrill": {
+    "senses": [
+      {
+        "label": "the swift release",
+        "probe": "exhilaration"
+      },
+      {
+        "label": "an almost pleasurable",
+        "probe": "frisson"
+      },
+      {
+        "label": "feel sudden intense",
+        "probe": "tickle"
+      },
+      {
+        "label": "tremble convulsively",
+        "probe": "shudder"
+      }
+    ]
+  },
+  "thrills": {
+    "senses": [
+      {
+        "label": "the swift release",
+        "probe": "thrill"
+      },
+      {
+        "label": "an almost pleasurable",
+        "probe": "frisson"
+      },
+      {
+        "label": "feel sudden intense",
+        "probe": "tickle"
+      },
+      {
+        "label": "tremble convulsively",
+        "probe": "shudder"
+      }
+    ]
+  },
+  "throbbing": {
+    "senses": [
+      {
+        "label": "an instance of",
+        "probe": "heartbeat"
+      },
+      {
+        "label": "pulsate or pound",
+        "probe": "ache"
+      },
+      {
+        "label": "tremble convulsively",
+        "probe": "shudder"
+      }
+    ]
+  },
+  "tickle": {
+    "senses": [
+      {
+        "label": "a cutaneous sensation",
+        "probe": "cutaneous"
+      },
+      {
+        "label": "the act of",
+        "probe": "tickling"
+      },
+      {
+        "label": "touch (a body",
+        "probe": "itch"
+      },
+      {
+        "label": "feel sudden intense",
+        "probe": "thrill"
+      }
+    ]
+  },
+  "tickled": {
+    "senses": [
+      {
+        "label": "touch (a body",
+        "probe": "tickle"
+      },
+      {
+        "label": "feel sudden intense",
+        "probe": "thrill"
+      }
+    ]
+  },
+  "tickling": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "tickle"
+      },
+      {
+        "label": "touch (a body",
+        "probe": "itch"
+      },
+      {
+        "label": "feel sudden intense",
+        "probe": "thrill"
+      }
+    ]
+  },
+  "ticks": {
+    "senses": [
+      {
+        "label": "a metallic tapping",
+        "probe": "tick"
+      },
+      {
+        "label": "sew",
+        "probe": "stitch"
+      }
+    ]
+  },
+  "tinge": {
+    "senses": [
+      {
+        "label": "a slight but",
+        "probe": "mite"
+      },
+      {
+        "label": "a pale or",
+        "probe": "undertone"
+      }
+    ]
+  },
+  "torment": {
+    "senses": [
+      {
+        "label": "unbearable physical pain",
+        "probe": "unbearable"
+      },
+      {
+        "label": "extreme mental distress",
+        "probe": "anguish"
+      },
+      {
+        "label": "intense feelings of",
+        "probe": "agony"
+      },
+      {
+        "label": "a severe affliction",
+        "probe": "curse"
+      }
+    ]
+  },
+  "torments": {
+    "senses": [
+      {
+        "label": "unbearable physical pain",
+        "probe": "torment"
+      },
+      {
+        "label": "extreme mental distress",
+        "probe": "anguish"
+      },
+      {
+        "label": "intense feelings of",
+        "probe": "agony"
+      },
+      {
+        "label": "a severe affliction",
+        "probe": "curse"
+      }
+    ]
+  },
+  "tortures": {
+    "senses": [
+      {
+        "label": "extreme mental distress",
+        "probe": "anguish"
+      },
+      {
+        "label": "unbearable physical pain",
+        "probe": "torment"
+      },
+      {
+        "label": "intense feelings of",
+        "probe": "agony"
+      },
+      {
+        "label": "the deliberate",
+        "probe": "torturing"
+      }
+    ]
+  },
+  "tragedies": {
+    "senses": [
+      {
+        "label": "an event resulting",
+        "probe": "calamity"
+      },
+      {
+        "label": "drama in which",
+        "probe": "tragedy"
+      }
+    ]
+  },
+  "traitor": {
+    "senses": [
+      {
+        "label": "someone who betrays",
+        "probe": "betrays"
+      },
+      {
+        "label": "a person who",
+        "probe": "betrayer"
+      }
+    ]
+  },
+  "traitors": {
+    "senses": [
+      {
+        "label": "someone who betrays",
+        "probe": "traitor"
+      },
+      {
+        "label": "a person who",
+        "probe": "betrayer"
+      }
+    ]
+  },
+  "tramp": {
+    "senses": [
+      {
+        "label": "a disreputable vagrant",
+        "probe": "hobo"
+      },
+      {
+        "label": "a person who",
+        "probe": "libertine"
+      },
+      {
+        "label": "a foot traveler",
+        "probe": "hiker"
+      },
+      {
+        "label": "move about aimlessly",
+        "probe": "wander"
+      }
+    ]
+  },
+  "trance": {
+    "senses": [
+      {
+        "label": "a psychological state",
+        "probe": "enchantment"
+      },
+      {
+        "label": "a state of",
+        "probe": "unconsciousness"
+      }
+    ]
+  },
+  "tranquility": {
+    "senses": [
+      {
+        "label": "a disposition free",
+        "probe": "serenity"
+      },
+      {
+        "label": "an untroubled state",
+        "probe": "tranquillity"
+      }
+    ]
+  },
+  "tranquillity": {
+    "senses": [
+      {
+        "label": "an untroubled state",
+        "probe": "tranquility"
+      },
+      {
+        "label": "a disposition free",
+        "probe": "serenity"
+      }
+    ]
+  },
+  "travails": {
+    "senses": [
+      {
+        "label": "concluding state of",
+        "probe": "birthing"
+      },
+      {
+        "label": "work hard",
+        "probe": "fag"
+      }
+    ]
+  },
+  "travesty": {
+    "senses": [
+      {
+        "label": "a comedy characterized",
+        "probe": "farce"
+      },
+      {
+        "label": "a composition that",
+        "probe": "parody"
+      },
+      {
+        "label": "make a travesty",
+        "probe": "spoof"
+      }
+    ]
+  },
+  "tremors": {
+    "senses": [
+      {
+        "label": "an involuntary vibration",
+        "probe": "shudder"
+      },
+      {
+        "label": "shaking or trembling",
+        "probe": "trembling"
+      }
+    ]
+  },
+  "trickster": {
+    "senses": [
+      {
+        "label": "someone who plays",
+        "probe": "prankster"
+      },
+      {
+        "label": "someone who leads",
+        "probe": "deceiver"
+      },
+      {
+        "label": "a mischievous supernatural",
+        "probe": "mischievous"
+      }
+    ]
+  },
+  "triumphing": {
+    "senses": [
+      {
+        "label": "be ecstatic with",
+        "probe": "wallow"
+      },
+      {
+        "label": "dwell on with",
+        "probe": "dwell"
+      },
+      {
+        "label": "to express great",
+        "probe": "rejoice"
+      }
+    ]
+  },
+  "truffle": {
+    "senses": [
+      {
+        "label": "any of various",
+        "probe": "fungus"
+      },
+      {
+        "label": "edible subterranean fungus",
+        "probe": "veggie"
+      }
+    ]
+  },
+  "truffles": {
+    "senses": [
+      {
+        "label": "any of various",
+        "probe": "truffle"
+      },
+      {
+        "label": "edible subterranean fungus",
+        "probe": "veggie"
+      }
+    ]
+  },
+  "turkeys": {
+    "senses": [
+      {
+        "label": "large gallinaceous bird",
+        "probe": "fowl"
+      },
+      {
+        "label": "a person who",
+        "probe": "joker"
+      },
+      {
+        "label": "flesh of large",
+        "probe": "flesh"
+      },
+      {
+        "label": "an event that",
+        "probe": "dud"
+      }
+    ]
+  },
+  "twinkle": {
+    "senses": [
+      {
+        "label": "merriment expressed by",
+        "probe": "sparkle"
+      },
+      {
+        "label": "gleam or glow",
+        "probe": "blink"
+      }
+    ]
+  },
+  "twinkling": {
+    "senses": [
+      {
+        "label": "a very short",
+        "probe": "heartbeat"
+      },
+      {
+        "label": "gleam or glow",
+        "probe": "blink"
+      },
+      {
+        "label": "emit or reflect",
+        "probe": "twinkle"
+      }
+    ]
+  },
+  "twisted": {
+    "senses": [
+      {
+        "label": "to move in",
+        "probe": "worm"
+      },
+      {
+        "label": "practice sophistry",
+        "probe": "pervert"
+      }
+    ]
+  },
+  "twists": {
+    "senses": [
+      {
+        "label": "the act of",
+        "probe": "whirl"
+      },
+      {
+        "label": "a circular segment",
+        "probe": "crook"
+      },
+      {
+        "label": "a jerky pulling",
+        "probe": "jerky"
+      },
+      {
+        "label": "to move in",
+        "probe": "worm"
+      },
+      {
+        "label": "practice sophistry",
+        "probe": "pervert"
+      }
+    ]
+  },
+  "twitch": {
+    "senses": [
+      {
+        "label": "a sudden muscle",
+        "probe": "spasm"
+      },
+      {
+        "label": "squeeze tightly between",
+        "probe": "nip"
+      }
+    ]
+  },
+  "twitches": {
+    "senses": [
+      {
+        "label": "a sudden muscle",
+        "probe": "twitch"
+      },
+      {
+        "label": "squeeze tightly between",
+        "probe": "nip"
+      }
+    ]
+  },
+  "undertone": {
+    "senses": [
+      {
+        "label": "a subdued emotional",
+        "probe": "undercurrent"
+      },
+      {
+        "label": "a pale or",
+        "probe": "tinge"
+      }
+    ]
+  },
+  "undertones": {
+    "senses": [
+      {
+        "label": "a quiet or",
+        "probe": "undertone"
+      },
+      {
+        "label": "a subdued emotional",
+        "probe": "undercurrent"
+      },
+      {
+        "label": "a pale or",
+        "probe": "tinge"
+      }
+    ]
+  },
+  "vagabond": {
+    "senses": [
+      {
+        "label": "a wanderer who",
+        "probe": "vagrant"
+      },
+      {
+        "label": "move about aimlessly",
+        "probe": "wander"
+      }
+    ]
+  },
+  "vanities": {
+    "senses": [
+      {
+        "label": "feelings of excessive",
+        "probe": "conceit"
+      },
+      {
+        "label": "the quality of",
+        "probe": "emptiness"
+      }
+    ]
+  },
+  "varmints": {
+    "senses": [
+      {
+        "label": "an irritating or",
+        "probe": "vermin"
+      },
+      {
+        "label": "any usually predatory",
+        "probe": "beast"
+      }
+    ]
+  },
+  "veneration": {
+    "senses": [
+      {
+        "label": "a feeling of",
+        "probe": "reverence"
+      },
+      {
+        "label": "religious zeal",
+        "probe": "idolatry"
+      }
+    ]
+  },
+  "venom": {
+    "senses": [
+      {
+        "label": "toxin secreted by",
+        "probe": "toxin"
+      },
+      {
+        "label": "feeling a need",
+        "probe": "malice"
+      }
+    ]
+  },
+  "venoms": {
+    "senses": [
+      {
+        "label": "toxin secreted by",
+        "probe": "venom"
+      },
+      {
+        "label": "feeling a need",
+        "probe": "malice"
+      }
+    ]
+  },
+  "vibrations": {
+    "senses": [
+      {
+        "label": "a shaky motion",
+        "probe": "trembling"
+      },
+      {
+        "label": "a distinctive emotional",
+        "probe": "aura"
+      }
+    ]
+  },
+  "vices": {
+    "senses": [
+      {
+        "label": "moral weakness",
+        "probe": "frailty"
+      },
+      {
+        "label": "a specific form",
+        "probe": "transgression"
+      }
+    ]
+  },
+  "villainy": {
+    "senses": [
+      {
+        "label": "the quality of",
+        "probe": "evil"
+      },
+      {
+        "label": "a criminal or",
+        "probe": "transgression"
+      }
+    ]
+  },
+  "visitations": {
+    "senses": [
+      {
+        "label": "an annoying or",
+        "probe": "annoying"
+      },
+      {
+        "label": "any disaster or",
+        "probe": "calamity"
+      }
+    ]
+  },
+  "vomit": {
+    "senses": [
+      {
+        "label": "the matter ejected",
+        "probe": "excrement"
+      },
+      {
+        "label": "a medicine that",
+        "probe": "cure"
+      },
+      {
+        "label": "the reflex act",
+        "probe": "vomiting"
+      },
+      {
+        "label": "eject the contents",
+        "probe": "cat"
+      }
+    ]
+  },
+  "vomiting": {
+    "senses": [
+      {
+        "label": "the reflex act",
+        "probe": "vomit"
+      },
+      {
+        "label": "eject the contents",
+        "probe": "cat"
+      }
+    ]
+  },
+  "voodoo": {
+    "senses": [
+      {
+        "label": "a charm superstitiously",
+        "probe": "hoodoo"
+      },
+      {
+        "label": "(haiti) followers of",
+        "probe": "cult"
+      },
+      {
+        "label": "bewitch by or",
+        "probe": "witch"
+      }
+    ]
+  },
+  "vortex": {
+    "senses": [
+      {
+        "label": "the shape of",
+        "probe": "whirl"
+      },
+      {
+        "label": "a powerful circular",
+        "probe": "maelstrom"
+      }
+    ]
+  },
+  "vultures": {
+    "senses": [
+      {
+        "label": "any of various",
+        "probe": "vulture"
+      },
+      {
+        "label": "someone who attacks",
+        "probe": "predator"
+      }
+    ]
+  },
+  "wailing": {
+    "senses": [
+      {
+        "label": "loud cries made",
+        "probe": "crying"
+      },
+      {
+        "label": "emit long loud",
+        "probe": "howl"
+      },
+      {
+        "label": "cry weakly or",
+        "probe": "weep"
+      }
+    ]
+  },
+  "wakes": {
+    "senses": [
+      {
+        "label": "be awake",
+        "probe": "awake"
+      },
+      {
+        "label": "stop sleeping",
+        "probe": "awaken"
+      }
+    ]
+  },
+  "waking": {
+    "senses": [
+      {
+        "label": "be awake",
+        "probe": "awake"
+      },
+      {
+        "label": "stop sleeping",
+        "probe": "awaken"
+      }
+    ]
+  },
+  "wallow": {
+    "senses": [
+      {
+        "label": "a puddle where",
+        "probe": "puddle"
+      },
+      {
+        "label": "devote oneself entirely",
+        "probe": "indulge"
+      },
+      {
+        "label": "be ecstatic with",
+        "probe": "rejoice"
+      }
+    ]
+  },
+  "wandered": {
+    "senses": [
+      {
+        "label": "move about aimlessly",
+        "probe": "wander"
+      },
+      {
+        "label": "lose clarity or",
+        "probe": "stray"
+      }
+    ]
+  },
+  "wanderer": {
+    "senses": [
+      {
+        "label": "someone who leads",
+        "probe": "traveller"
+      },
+      {
+        "label": "a computer program",
+        "probe": "spider"
+      }
+    ]
+  },
+  "wandering": {
+    "senses": [
+      {
+        "label": "travelling about without",
+        "probe": "roving"
+      },
+      {
+        "label": "move about aimlessly",
+        "probe": "wander"
+      },
+      {
+        "label": "lose clarity or",
+        "probe": "stray"
+      }
+    ]
+  },
+  "wanders": {
+    "senses": [
+      {
+        "label": "move about aimlessly",
+        "probe": "wander"
+      },
+      {
+        "label": "lose clarity or",
+        "probe": "stray"
+      }
+    ]
+  },
+  "wanton": {
+    "senses": [
+      {
+        "label": "indulge in a",
+        "probe": "indulge"
+      },
+      {
+        "label": "engage in amorous",
+        "probe": "flirt"
+      }
+    ]
+  },
+  "wasting": {
+    "senses": [
+      {
+        "label": "any general reduction",
+        "probe": "frailty"
+      },
+      {
+        "label": "a decrease in",
+        "probe": "symptom"
+      },
+      {
+        "label": "get rid of",
+        "probe": "fling"
+      },
+      {
+        "label": "cause extensive destruction",
+        "probe": "desolate"
+      },
+      {
+        "label": "become physically weaker",
+        "probe": "rot"
+      }
+    ]
+  },
+  "wearying": {
+    "senses": [
+      {
+        "label": "exhaust or get",
+        "probe": "fag"
+      },
+      {
+        "label": "lose interest or",
+        "probe": "degenerate"
+      }
+    ]
+  },
+  "weeping": {
+    "senses": [
+      {
+        "label": "the process of",
+        "probe": "crying"
+      },
+      {
+        "label": "shed tears because",
+        "probe": "weep"
+      }
+    ]
+  },
+  "weirdo": {
+    "senses": [
+      {
+        "label": "someone unpleasantly strange",
+        "probe": "creep"
+      },
+      {
+        "label": "someone deranged and",
+        "probe": "loony"
+      }
+    ]
+  },
+  "whiff": {
+    "senses": [
+      {
+        "label": "a short light",
+        "probe": "puff"
+      },
+      {
+        "label": "perceive by inhaling",
+        "probe": "sniff"
+      },
+      {
+        "label": "utter with a",
+        "probe": "utter"
+      }
+    ]
+  },
+  "whining": {
+    "senses": [
+      {
+        "label": "talk in a",
+        "probe": "utter"
+      },
+      {
+        "label": "make a high-pitched",
+        "probe": "squeak"
+      }
+    ]
+  },
+  "whirl": {
+    "senses": [
+      {
+        "label": "confused movement",
+        "probe": "commotion"
+      },
+      {
+        "label": "the shape of",
+        "probe": "vortex"
+      },
+      {
+        "label": "a usually brief",
+        "probe": "fling"
+      },
+      {
+        "label": "turn in a",
+        "probe": "revolve"
+      }
+    ]
+  },
+  "whirligig": {
+    "senses": [
+      {
+        "label": "a conical child's",
+        "probe": "plaything"
+      },
+      {
+        "label": "a large",
+        "probe": "carousel"
+      },
+      {
+        "label": "whirl or spin",
+        "probe": "whirl"
+      }
+    ]
+  },
+  "whirling": {
+    "senses": [
+      {
+        "label": "turn in a",
+        "probe": "whirl"
+      },
+      {
+        "label": "revolve quickly and",
+        "probe": "revolve"
+      }
+    ]
+  },
+  "whisper": {
+    "senses": [
+      {
+        "label": "speaking softly without",
+        "probe": "whispering"
+      },
+      {
+        "label": "speak softly",
+        "probe": "utter"
+      }
+    ]
+  },
+  "whispering": {
+    "senses": [
+      {
+        "label": "a light noise",
+        "probe": "whisper"
+      },
+      {
+        "label": "speak softly",
+        "probe": "utter"
+      }
+    ]
+  },
+  "whispers": {
+    "senses": [
+      {
+        "label": "speaking softly without",
+        "probe": "whisper"
+      },
+      {
+        "label": "a light noise",
+        "probe": "whispering"
+      },
+      {
+        "label": "speak softly",
+        "probe": "utter"
+      }
+    ]
+  },
+  "whores": {
+    "senses": []
+  },
+  "wickedness": {
+    "senses": [
+      {
+        "label": "morally objectionable behavior",
+        "probe": "evil"
+      },
+      {
+        "label": "absence of moral",
+        "probe": "iniquity"
+      },
+      {
+        "label": "the quality of",
+        "probe": "ugliness"
+      },
+      {
+        "label": "estrangement from god",
+        "probe": "sin"
+      }
+    ]
+  },
+  "witch": {
+    "senses": [
+      {
+        "label": "a female sorcerer",
+        "probe": "enchantress"
+      },
+      {
+        "label": "a believer in",
+        "probe": "pagan"
+      },
+      {
+        "label": "an ugly evil-looking",
+        "probe": "hag"
+      }
+    ]
+  },
+  "witches": {
+    "senses": [
+      {
+        "label": "a female sorcerer",
+        "probe": "enchantress"
+      },
+      {
+        "label": "a being (usually",
+        "probe": "witch"
+      },
+      {
+        "label": "a believer in",
+        "probe": "pagan"
+      },
+      {
+        "label": "an ugly evil-looking",
+        "probe": "hag"
+      }
+    ]
+  },
+  "wizard": {
+    "senses": [
+      {
+        "label": "someone who is",
+        "probe": "whizz"
+      },
+      {
+        "label": "one who practices",
+        "probe": "sorcerer"
+      }
+    ]
+  },
+  "woke": {
+    "senses": [
+      {
+        "label": "be awake",
+        "probe": "awake"
+      },
+      {
+        "label": "stop sleeping",
+        "probe": "awaken"
+      }
+    ]
+  },
+  "woken": {
+    "senses": [
+      {
+        "label": "be awake",
+        "probe": "awake"
+      },
+      {
+        "label": "stop sleeping",
+        "probe": "awaken"
+      }
+    ]
+  },
+  "worshiped": {
+    "senses": [
+      {
+        "label": "love unquestioningly and",
+        "probe": "adore"
+      },
+      {
+        "label": "show devotion to",
+        "probe": "reverence"
+      }
+    ]
+  },
+  "worshiping": {
+    "senses": [
+      {
+        "label": "love unquestioningly and",
+        "probe": "adore"
+      },
+      {
+        "label": "show devotion to",
+        "probe": "reverence"
+      }
+    ]
+  },
+  "worshipped": {
+    "senses": [
+      {
+        "label": "love unquestioningly and",
+        "probe": "adore"
+      },
+      {
+        "label": "show devotion to",
+        "probe": "reverence"
+      }
+    ]
+  },
+  "worshipping": {
+    "senses": [
+      {
+        "label": "love unquestioningly and",
+        "probe": "adore"
+      },
+      {
+        "label": "show devotion to",
+        "probe": "reverence"
+      }
+    ]
+  },
+  "worships": {
+    "senses": [
+      {
+        "label": "a feeling of",
+        "probe": "adoration"
+      },
+      {
+        "label": "love unquestioningly and",
+        "probe": "adore"
+      },
+      {
+        "label": "show devotion to",
+        "probe": "reverence"
+      }
+    ]
+  },
+  "wrought": {
+    "senses": [
+      {
+        "label": "cause to happen",
+        "probe": "wreak"
+      },
+      {
+        "label": "gratify and charm",
+        "probe": "trance"
+      }
+    ]
+  },
+  "yakuza": {
+    "senses": [
+      {
+        "label": "a japanese gangster",
+        "probe": "gangster"
+      },
+      {
+        "label": "organized crime in",
+        "probe": "gangland"
+      }
+    ]
+  },
+  "yearning": {
+    "senses": [
+      {
+        "label": "prolonged unfulfilled desire",
+        "probe": "longing"
+      },
+      {
+        "label": "have a desire",
+        "probe": "ache"
+      },
+      {
+        "label": "have affection for",
+        "probe": "treasure"
+      }
+    ]
+  },
+  "yells": {
+    "senses": [
+      {
+        "label": "utter a sudden",
+        "probe": "scream"
+      },
+      {
+        "label": "utter or declare",
+        "probe": "utter"
+      }
+    ]
+  },
+  "zany": {
+    "senses": [
+      {
+        "label": "a buffoon in",
+        "probe": "buffoon"
+      },
+      {
+        "label": "a man who",
+        "probe": "goofball"
+      }
+    ]
+  },
+  "zombies": {
+    "senses": [
+      {
+        "label": "a dead body",
+        "probe": "zombie"
+      },
+      {
+        "label": "a god of",
+        "probe": "voodoo"
+      }
+    ]
+  }
+}

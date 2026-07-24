@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.ripp13.app",
+        "sha256_cert_fingerprints": ["27:C4:A6:30:6C:10:4A:FB:A6:29:9E:8A:90:C1:FC:2C:8C:82:B1:2C:D5:0D:BD:00:12:9D:2A:DB:17:03:64:DB"]
+      }
+    }]
