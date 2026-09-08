@@ -1,0 +1,8338 @@
+{
+  "abbey": {
+    "senses": [
+      {
+        "label": "convent",
+        "probe": "convent"
+      },
+      {
+        "label": "monastery",
+        "probe": "monastery"
+      }
+    ]
+  },
+  "abbeys": {
+    "senses": [
+      {
+        "label": "church",
+        "probe": "abbey"
+      },
+      {
+        "label": "convent",
+        "probe": "convent"
+      },
+      {
+        "label": "monastery",
+        "probe": "monastery"
+      }
+    ]
+  },
+  "abode": {
+    "senses": [
+      {
+        "label": "housing",
+        "probe": "dwelling"
+      },
+      {
+        "label": "dwell",
+        "probe": "dwell"
+      }
+    ]
+  },
+  "absolutism": {
+    "senses": [
+      {
+        "label": "dominance",
+        "probe": "tyranny"
+      },
+      {
+        "label": "government",
+        "probe": "dictatorship"
+      },
+      {
+        "label": "principle",
+        "probe": "totalitarianism"
+      },
+      {
+        "label": "doctrine",
+        "probe": "doctrine"
+      }
+    ]
+  },
+  "abstract": {
+    "senses": [
+      {
+        "label": "concept",
+        "probe": "abstraction"
+      },
+      {
+        "label": "existing",
+        "probe": "conceptual"
+      }
+    ]
+  },
+  "abstraction": {
+    "senses": [
+      {
+        "label": "concept",
+        "probe": "abstract"
+      },
+      {
+        "label": "abstract",
+        "probe": "painting"
+      },
+      {
+        "label": "preoccupation",
+        "probe": "preoccupation"
+      }
+    ]
+  },
+  "abstractions": {
+    "senses": [
+      {
+        "label": "concept",
+        "probe": "abstraction"
+      },
+      {
+        "label": "abstract",
+        "probe": "abstract"
+      },
+      {
+        "label": "preoccupation",
+        "probe": "preoccupation"
+      }
+    ]
+  },
+  "absurdities": {
+    "senses": [
+      {
+        "label": "message",
+        "probe": "absurdity"
+      },
+      {
+        "label": "ludicrous",
+        "probe": "silliness"
+      }
+    ]
+  },
+  "accents": {
+    "senses": [
+      {
+        "label": "distinctive",
+        "probe": "pronunciation"
+      },
+      {
+        "label": "usage",
+        "probe": "dialect"
+      }
+    ]
+  },
+  "adorned": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "decorate"
+      },
+      {
+        "label": "beautiful",
+        "probe": "adorn"
+      },
+      {
+        "label": "provided",
+        "probe": "decorated"
+      }
+    ]
+  },
+  "aesthetic": {
+    "senses": [
+      {
+        "label": "philosophical",
+        "probe": "esthetic"
+      },
+      {
+        "label": "concerning",
+        "probe": "painterly"
+      }
+    ]
+  },
+  "allegories": {
+    "senses": [
+      {
+        "label": "short",
+        "probe": "fable"
+      },
+      {
+        "label": "visible",
+        "probe": "allegory"
+      }
+    ]
+  },
+  "ambiance": {
+    "senses": [
+      {
+        "label": "particular",
+        "probe": "ambience"
+      },
+      {
+        "label": "atmosphere",
+        "probe": "environs"
+      }
+    ]
+  },
+  "ambience": {
+    "senses": [
+      {
+        "label": "particular",
+        "probe": "ambiance"
+      },
+      {
+        "label": "atmosphere",
+        "probe": "environs"
+      }
+    ]
+  },
+  "amphibians": {
+    "senses": [
+      {
+        "label": "flat",
+        "probe": "amphibian"
+      },
+      {
+        "label": "cold",
+        "probe": "vertebrate"
+      }
+    ]
+  },
+  "anachronism": {
+    "senses": [
+      {
+        "label": "artifact",
+        "probe": "artifact"
+      },
+      {
+        "label": "seems",
+        "probe": "anomaly"
+      }
+    ]
+  },
+  "ancestry": {
+    "senses": [
+      {
+        "label": "descendants",
+        "probe": "lineage"
+      },
+      {
+        "label": "inherited",
+        "probe": "derivation"
+      }
+    ]
+  },
+  "ancients": {
+    "senses": [
+      {
+        "label": "lived",
+        "probe": "lived"
+      },
+      {
+        "label": "very",
+        "probe": "ancient"
+      }
+    ]
+  },
+  "annihilation": {
+    "senses": [
+      {
+        "label": "destruction",
+        "probe": "destruction"
+      },
+      {
+        "label": "total",
+        "probe": "disintegration"
+      }
+    ]
+  },
+  "antagonisms": {
+    "senses": [
+      {
+        "label": "deep",
+        "probe": "enmity"
+      },
+      {
+        "label": "relation",
+        "probe": "antagonism"
+      }
+    ]
+  },
+  "antecedents": {
+    "senses": [
+      {
+        "label": "from",
+        "probe": "ancestor"
+      },
+      {
+        "label": "that",
+        "probe": "forerunner"
+      }
+    ]
+  },
+  "antiques": {
+    "senses": [
+      {
+        "label": "elderly",
+        "probe": "antique"
+      },
+      {
+        "label": "piece",
+        "probe": "antiquity"
+      }
+    ]
+  },
+  "antiquities": {
+    "senses": [
+      {
+        "label": "historic",
+        "probe": "antiquity"
+      },
+      {
+        "label": "artifact",
+        "probe": "artifact"
+      }
+    ]
+  },
+  "ape": {
+    "senses": [
+      {
+        "label": "various",
+        "probe": "primate"
+      },
+      {
+        "label": "imitate",
+        "probe": "imitate"
+      },
+      {
+        "label": "represent",
+        "probe": "caricature"
+      }
+    ]
+  },
+  "apes": {
+    "senses": [
+      {
+        "label": "various",
+        "probe": "ape"
+      },
+      {
+        "label": "imitate",
+        "probe": "imitate"
+      },
+      {
+        "label": "represent",
+        "probe": "caricature"
+      }
+    ]
+  },
+  "apostasy": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "renunciation"
+      },
+      {
+        "label": "abandoning",
+        "probe": "abandonment"
+      }
+    ]
+  },
+  "apostles": {
+    "senses": [
+      {
+        "label": "ardent",
+        "probe": "apostle"
+      },
+      {
+        "label": "original",
+        "probe": "disciple"
+      }
+    ]
+  },
+  "apparition": {
+    "senses": [
+      {
+        "label": "ghostly",
+        "probe": "ghostly"
+      },
+      {
+        "label": "existing",
+        "probe": "illusion"
+      }
+    ]
+  },
+  "apparitions": {
+    "senses": [
+      {
+        "label": "ghostly",
+        "probe": "apparition"
+      },
+      {
+        "label": "existing",
+        "probe": "illusion"
+      }
+    ]
+  },
+  "arched": {
+    "senses": [
+      {
+        "label": "arch",
+        "probe": "arc"
+      },
+      {
+        "label": "constructed",
+        "probe": "constructed"
+      },
+      {
+        "label": "forming",
+        "probe": "curved"
+      }
+    ]
+  },
+  "arches": {
+    "senses": [
+      {
+        "label": "curved",
+        "probe": "curved"
+      },
+      {
+        "label": "masonry",
+        "probe": "masonry"
+      },
+      {
+        "label": "arch",
+        "probe": "arc"
+      }
+    ]
+  },
+  "arcs": {
+    "senses": [
+      {
+        "label": "electrical",
+        "probe": "arc"
+      },
+      {
+        "label": "curved",
+        "probe": "curved"
+      }
+    ]
+  },
+  "assemblages": {
+    "senses": [
+      {
+        "label": "persons",
+        "probe": "assemblage"
+      },
+      {
+        "label": "several",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "atrocious": {
+    "senses": [
+      {
+        "label": "shockingly",
+        "probe": "monstrous"
+      },
+      {
+        "label": "exceptionally",
+        "probe": "unspeakable"
+      },
+      {
+        "label": "provoking",
+        "probe": "horrifying"
+      }
+    ]
+  },
+  "atrocities": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "atrocity"
+      },
+      {
+        "label": "atrocious",
+        "probe": "inhumanity"
+      }
+    ]
+  },
+  "atrocity": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "barbarity"
+      },
+      {
+        "label": "atrocious",
+        "probe": "inhumanity"
+      }
+    ]
+  },
+  "attested": {
+    "senses": [
+      {
+        "label": "provide",
+        "probe": "attest"
+      },
+      {
+        "label": "established",
+        "probe": "documented"
+      }
+    ]
+  },
+  "ballad": {
+    "senses": [
+      {
+        "label": "narrative",
+        "probe": "narrative"
+      },
+      {
+        "label": "narrative",
+        "probe": "poem"
+      }
+    ]
+  },
+  "ballads": {
+    "senses": [
+      {
+        "label": "narrative",
+        "probe": "ballad"
+      },
+      {
+        "label": "narrative",
+        "probe": "narrative"
+      }
+    ]
+  },
+  "barbarian": {
+    "senses": [
+      {
+        "label": "member",
+        "probe": "primitive"
+      },
+      {
+        "label": "crude",
+        "probe": "peasant"
+      },
+      {
+        "label": "without",
+        "probe": "barbaric"
+      }
+    ]
+  },
+  "barbarity": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "atrocity"
+      },
+      {
+        "label": "brutal",
+        "probe": "brutality"
+      }
+    ]
+  },
+  "bards": {
+    "senses": [
+      {
+        "label": "lyric",
+        "probe": "poet"
+      },
+      {
+        "label": "ornamental",
+        "probe": "ornamental"
+      },
+      {
+        "label": "caparison",
+        "probe": "decorate"
+      }
+    ]
+  },
+  "baronies": {
+    "senses": [
+      {
+        "label": "estate",
+        "probe": "barony"
+      },
+      {
+        "label": "rank",
+        "probe": "baronetcy"
+      },
+      {
+        "label": "domain",
+        "probe": "demesne"
+      }
+    ]
+  },
+  "barony": {
+    "senses": [
+      {
+        "label": "rank",
+        "probe": "baronetcy"
+      },
+      {
+        "label": "domain",
+        "probe": "demesne"
+      }
+    ]
+  },
+  "barren": {
+    "senses": [
+      {
+        "label": "uninhabited",
+        "probe": "wasteland"
+      },
+      {
+        "label": "providing",
+        "probe": "desolate"
+      },
+      {
+        "label": "completely",
+        "probe": "destitute"
+      }
+    ]
+  },
+  "basilicas": {
+    "senses": [
+      {
+        "label": "early",
+        "probe": "basilica"
+      },
+      {
+        "label": "roman",
+        "probe": "roman"
+      }
+    ]
+  },
+  "basins": {
+    "senses": [
+      {
+        "label": "bowl",
+        "probe": "basin"
+      },
+      {
+        "label": "quantity",
+        "probe": "quantity"
+      }
+    ]
+  },
+  "bastion": {
+    "senses": [
+      {
+        "label": "stronghold",
+        "probe": "citadel"
+      },
+      {
+        "label": "projecting",
+        "probe": "fortification"
+      }
+    ]
+  },
+  "bastions": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "bastion"
+      },
+      {
+        "label": "stronghold",
+        "probe": "citadel"
+      },
+      {
+        "label": "projecting",
+        "probe": "fortification"
+      }
+    ]
+  },
+  "baths": {
+    "senses": [
+      {
+        "label": "ancient",
+        "probe": "ancient"
+      },
+      {
+        "label": "clean",
+        "probe": "cleanse"
+      }
+    ]
+  },
+  "beads": {
+    "senses": [
+      {
+        "label": "shape",
+        "probe": "sphere"
+      },
+      {
+        "label": "decorate",
+        "probe": "decorate"
+      }
+    ]
+  },
+  "beginnings": {
+    "senses": [
+      {
+        "label": "event",
+        "probe": "occurrence"
+      },
+      {
+        "label": "where",
+        "probe": "origin"
+      }
+    ]
+  },
+  "birthright": {
+    "senses": [
+      {
+        "label": "right",
+        "probe": "inheritance"
+      },
+      {
+        "label": "inheritance",
+        "probe": "patrimony"
+      }
+    ]
+  },
+  "blazing": {
+    "senses": [
+      {
+        "label": "strong",
+        "probe": "flame"
+      },
+      {
+        "label": "without",
+        "probe": "conspicuous"
+      }
+    ]
+  },
+  "blessed": {
+    "senses": [
+      {
+        "label": "worthy",
+        "probe": "holy"
+      },
+      {
+        "label": "expletives",
+        "probe": "cursed"
+      },
+      {
+        "label": "roman",
+        "probe": "roman"
+      }
+    ]
+  },
+  "blight": {
+    "senses": [
+      {
+        "label": "condition",
+        "probe": "devastation"
+      },
+      {
+        "label": "cause",
+        "probe": "plague"
+      }
+    ]
+  },
+  "blighted": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "blight"
+      },
+      {
+        "label": "affected",
+        "probe": "destroyed"
+      }
+    ]
+  },
+  "bloodline": {
+    "senses": [
+      {
+        "label": "descendants",
+        "probe": "lineage"
+      },
+      {
+        "label": "ancestry",
+        "probe": "ancestry"
+      }
+    ]
+  },
+  "bloodlines": {
+    "senses": [
+      {
+        "label": "descendants",
+        "probe": "lineage"
+      },
+      {
+        "label": "ancestry",
+        "probe": "bloodline"
+      }
+    ]
+  },
+  "bohemian": {
+    "senses": [
+      {
+        "label": "member",
+        "probe": "gypsy"
+      },
+      {
+        "label": "nonconformist",
+        "probe": "nonconformist"
+      }
+    ]
+  },
+  "bombardments": {
+    "senses": [
+      {
+        "label": "rapid",
+        "probe": "bombardment"
+      },
+      {
+        "label": "attack",
+        "probe": "onset"
+      }
+    ]
+  },
+  "bondage": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "subjugation"
+      },
+      {
+        "label": "being",
+        "probe": "slavery"
+      }
+    ]
+  },
+  "bones": {
+    "senses": [
+      {
+        "label": "porous",
+        "probe": "porous"
+      },
+      {
+        "label": "shade",
+        "probe": "whiteness"
+      }
+    ]
+  },
+  "booms": {
+    "senses": [
+      {
+        "label": "economic",
+        "probe": "prosperity"
+      },
+      {
+        "label": "sudden",
+        "probe": "occurrence"
+      },
+      {
+        "label": "grow",
+        "probe": "flourish"
+      }
+    ]
+  },
+  "bourbon": {
+    "senses": [
+      {
+        "label": "reactionary",
+        "probe": "reactionary"
+      },
+      {
+        "label": "member",
+        "probe": "ruler"
+      },
+      {
+        "label": "european",
+        "probe": "dynasty"
+      }
+    ]
+  },
+  "brooding": {
+    "senses": [
+      {
+        "label": "persistent",
+        "probe": "melancholy"
+      },
+      {
+        "label": "think",
+        "probe": "dwell"
+      },
+      {
+        "label": "deeply",
+        "probe": "contemplative"
+      }
+    ]
+  },
+  "brutality": {
+    "senses": [
+      {
+        "label": "trait",
+        "probe": "savagery"
+      },
+      {
+        "label": "brutal",
+        "probe": "barbarity"
+      }
+    ]
+  },
+  "bucolic": {
+    "senses": [
+      {
+        "label": "country",
+        "probe": "peasant"
+      },
+      {
+        "label": "short",
+        "probe": "pastoral"
+      }
+    ]
+  },
+  "buddhas": {
+    "senses": [
+      {
+        "label": "founder",
+        "probe": "buddha"
+      },
+      {
+        "label": "achieved",
+        "probe": "saint"
+      }
+    ]
+  },
+  "burial": {
+    "senses": [
+      {
+        "label": "ritual",
+        "probe": "ritual"
+      },
+      {
+        "label": "concealing",
+        "probe": "burying"
+      }
+    ]
+  },
+  "burials": {
+    "senses": [
+      {
+        "label": "ritual",
+        "probe": "burial"
+      },
+      {
+        "label": "concealing",
+        "probe": "burying"
+      }
+    ]
+  },
+  "buried": {
+    "senses": [
+      {
+        "label": "grave",
+        "probe": "grave"
+      },
+      {
+        "label": "placed",
+        "probe": "interred"
+      }
+    ]
+  },
+  "burnt": {
+    "senses": [
+      {
+        "label": "destroy",
+        "probe": "ruin"
+      },
+      {
+        "label": "ruined",
+        "probe": "ruined"
+      },
+      {
+        "label": "destroyed",
+        "probe": "destroyed"
+      }
+    ]
+  },
+  "burying": {
+    "senses": [
+      {
+        "label": "concealing",
+        "probe": "burial"
+      },
+      {
+        "label": "grave",
+        "probe": "grave"
+      }
+    ]
+  },
+  "busts": {
+    "senses": [
+      {
+        "label": "sculpture",
+        "probe": "sculpture"
+      },
+      {
+        "label": "ruin",
+        "probe": "ruin"
+      },
+      {
+        "label": "separate",
+        "probe": "rupture"
+      },
+      {
+        "label": "pieces",
+        "probe": "decay"
+      }
+    ]
+  },
+  "canonized": {
+    "senses": [
+      {
+        "label": "declare",
+        "probe": "saint"
+      },
+      {
+        "label": "treat",
+        "probe": "glorify"
+      },
+      {
+        "label": "accorded",
+        "probe": "glorified"
+      }
+    ]
+  },
+  "captivated": {
+    "senses": [
+      {
+        "label": "strongly",
+        "probe": "charmed"
+      },
+      {
+        "label": "filled",
+        "probe": "enchanted"
+      }
+    ]
+  },
+  "caricature": {
+    "senses": [
+      {
+        "label": "representation",
+        "probe": "imitation"
+      },
+      {
+        "label": "represent",
+        "probe": "ape"
+      }
+    ]
+  },
+  "caricatures": {
+    "senses": [
+      {
+        "label": "representation",
+        "probe": "caricature"
+      },
+      {
+        "label": "represent",
+        "probe": "ape"
+      }
+    ]
+  },
+  "carved": {
+    "senses": [
+      {
+        "label": "carving",
+        "probe": "carving"
+      },
+      {
+        "label": "made",
+        "probe": "sculpted"
+      }
+    ]
+  },
+  "carvings": {
+    "senses": [
+      {
+        "label": "sculpture",
+        "probe": "carving"
+      },
+      {
+        "label": "creating",
+        "probe": "sculpture"
+      }
+    ]
+  },
+  "caste": {
+    "senses": [
+      {
+        "label": "hereditary",
+        "probe": "hereditary"
+      },
+      {
+        "label": "social",
+        "probe": "stratum"
+      }
+    ]
+  },
+  "castle": {
+    "senses": [
+      {
+        "label": "large",
+        "probe": "manse"
+      },
+      {
+        "label": "large",
+        "probe": "fortification"
+      }
+    ]
+  },
+  "castles": {
+    "senses": [
+      {
+        "label": "large",
+        "probe": "castle"
+      },
+      {
+        "label": "large",
+        "probe": "fortification"
+      }
+    ]
+  },
+  "catastrophes": {
+    "senses": [
+      {
+        "label": "event",
+        "probe": "calamity"
+      },
+      {
+        "label": "extreme",
+        "probe": "hardship"
+      },
+      {
+        "label": "sudden",
+        "probe": "cataclysm"
+      }
+    ]
+  },
+  "caverns": {
+    "senses": [
+      {
+        "label": "large",
+        "probe": "enclosure"
+      },
+      {
+        "label": "large",
+        "probe": "cave"
+      }
+    ]
+  },
+  "celestial": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "heavenly"
+      },
+      {
+        "label": "heaven",
+        "probe": "ethereal"
+      }
+    ]
+  },
+  "chant": {
+    "senses": [
+      {
+        "label": "recite",
+        "probe": "recite"
+      },
+      {
+        "label": "utter",
+        "probe": "utter"
+      }
+    ]
+  },
+  "characteristic": {
+    "senses": [
+      {
+        "label": "distinguishing",
+        "probe": "distinguishing"
+      },
+      {
+        "label": "typical",
+        "probe": "peculiar"
+      }
+    ]
+  },
+  "charmed": {
+    "senses": [
+      {
+        "label": "strongly",
+        "probe": "captivated"
+      },
+      {
+        "label": "filled",
+        "probe": "enchanted"
+      }
+    ]
+  },
+  "cherished": {
+    "senses": [
+      {
+        "label": "fond",
+        "probe": "cherish"
+      },
+      {
+        "label": "characterized",
+        "probe": "precious"
+      }
+    ]
+  },
+  "chivalry": {
+    "senses": [
+      {
+        "label": "courtesy",
+        "probe": "gallantry"
+      },
+      {
+        "label": "medieval",
+        "probe": "medieval"
+      }
+    ]
+  },
+  "circumcision": {
+    "senses": [
+      {
+        "label": "feast",
+        "probe": "feast"
+      },
+      {
+        "label": "circumcising",
+        "probe": "rite"
+      }
+    ]
+  },
+  "cityscapes": {
+    "senses": [
+      {
+        "label": "viewpoint",
+        "probe": "cityscape"
+      },
+      {
+        "label": "painting",
+        "probe": "painting"
+      }
+    ]
+  },
+  "civilisation": {
+    "senses": [
+      {
+        "label": "social",
+        "probe": "civilization"
+      },
+      {
+        "label": "excellence",
+        "probe": "refinement"
+      }
+    ]
+  },
+  "civilisations": {
+    "senses": [
+      {
+        "label": "social",
+        "probe": "civilization"
+      },
+      {
+        "label": "particular",
+        "probe": "civilisation"
+      },
+      {
+        "label": "excellence",
+        "probe": "refinement"
+      }
+    ]
+  },
+  "civilised": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "civilized"
+      },
+      {
+        "label": "marked",
+        "probe": "cultivated"
+      }
+    ]
+  },
+  "civilization": {
+    "senses": [
+      {
+        "label": "society",
+        "probe": "civilisation"
+      },
+      {
+        "label": "excellence",
+        "probe": "refinement"
+      }
+    ]
+  },
+  "civilizations": {
+    "senses": [
+      {
+        "label": "society",
+        "probe": "civilization"
+      },
+      {
+        "label": "social",
+        "probe": "civilisation"
+      },
+      {
+        "label": "excellence",
+        "probe": "refinement"
+      }
+    ]
+  },
+  "civilized": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "civilised"
+      },
+      {
+        "label": "marked",
+        "probe": "cultivated"
+      }
+    ]
+  },
+  "classical": {
+    "senses": [
+      {
+        "label": "traditional",
+        "probe": "genre"
+      },
+      {
+        "label": "relating",
+        "probe": "neoclassic"
+      }
+    ]
+  },
+  "cloistered": {
+    "senses": [
+      {
+        "label": "surround",
+        "probe": "cloister"
+      },
+      {
+        "label": "communal",
+        "probe": "monastic"
+      },
+      {
+        "label": "providing",
+        "probe": "secluded"
+      }
+    ]
+  },
+  "cloisters": {
+    "senses": [
+      {
+        "label": "residence",
+        "probe": "cloister"
+      },
+      {
+        "label": "courtyard",
+        "probe": "courtyard"
+      }
+    ]
+  },
+  "codices": {
+    "senses": [
+      {
+        "label": "official",
+        "probe": "codex"
+      },
+      {
+        "label": "unbound",
+        "probe": "manuscript"
+      }
+    ]
+  },
+  "coinage": {
+    "senses": [
+      {
+        "label": "coins",
+        "probe": "coins"
+      },
+      {
+        "label": "inventing",
+        "probe": "invention"
+      }
+    ]
+  },
+  "collapses": {
+    "senses": [
+      {
+        "label": "natural",
+        "probe": "occurrence"
+      },
+      {
+        "label": "throwing",
+        "probe": "descent"
+      }
+    ]
+  },
+  "colonies": {
+    "senses": [
+      {
+        "label": "body",
+        "probe": "colony"
+      },
+      {
+        "label": "geographical",
+        "probe": "geographical"
+      }
+    ]
+  },
+  "colonised": {
+    "senses": [
+      {
+        "label": "settle",
+        "probe": "colonize"
+      },
+      {
+        "label": "inhabited",
+        "probe": "colonized"
+      }
+    ]
+  },
+  "colonized": {
+    "senses": [
+      {
+        "label": "settle",
+        "probe": "colonize"
+      },
+      {
+        "label": "inhabited",
+        "probe": "colonised"
+      }
+    ]
+  },
+  "comforts": {
+    "senses": [
+      {
+        "label": "freedom",
+        "probe": "affluence"
+      },
+      {
+        "label": "bedding",
+        "probe": "quilt"
+      }
+    ]
+  },
+  "commandments": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "commandment"
+      },
+      {
+        "label": "doctrine",
+        "probe": "doctrine"
+      }
+    ]
+  },
+  "commemoration": {
+    "senses": [
+      {
+        "label": "ceremony",
+        "probe": "observance"
+      },
+      {
+        "label": "recognition",
+        "probe": "remembrance"
+      }
+    ]
+  },
+  "commemorations": {
+    "senses": [
+      {
+        "label": "ceremony",
+        "probe": "commemoration"
+      },
+      {
+        "label": "recognition",
+        "probe": "remembrance"
+      }
+    ]
+  },
+  "communes": {
+    "senses": [
+      {
+        "label": "smallest",
+        "probe": "commune"
+      },
+      {
+        "label": "body",
+        "probe": "assemblage"
+      }
+    ]
+  },
+  "companions": {
+    "senses": [
+      {
+        "label": "traveler",
+        "probe": "traveller"
+      },
+      {
+        "label": "companion",
+        "probe": "consort"
+      }
+    ]
+  },
+  "conception": {
+    "senses": [
+      {
+        "label": "abstract",
+        "probe": "abstract"
+      },
+      {
+        "label": "creation",
+        "probe": "invention"
+      }
+    ]
+  },
+  "conceptions": {
+    "senses": [
+      {
+        "label": "abstract",
+        "probe": "conception"
+      },
+      {
+        "label": "creation",
+        "probe": "invention"
+      }
+    ]
+  },
+  "conquering": {
+    "senses": [
+      {
+        "label": "conquering",
+        "probe": "conquest"
+      },
+      {
+        "label": "down",
+        "probe": "conquer"
+      }
+    ]
+  },
+  "conquest": {
+    "senses": [
+      {
+        "label": "conquering",
+        "probe": "conquering"
+      },
+      {
+        "label": "winning",
+        "probe": "seduction"
+      }
+    ]
+  },
+  "conquests": {
+    "senses": [
+      {
+        "label": "conquering",
+        "probe": "conquest"
+      },
+      {
+        "label": "winning",
+        "probe": "seduction"
+      }
+    ]
+  },
+  "consecrated": {
+    "senses": [
+      {
+        "label": "solemnly",
+        "probe": "votive"
+      },
+      {
+        "label": "made",
+        "probe": "sacred"
+      }
+    ]
+  },
+  "constructions": {
+    "senses": [
+      {
+        "label": "constructing",
+        "probe": "constructing"
+      },
+      {
+        "label": "constructed",
+        "probe": "constructed"
+      }
+    ]
+  },
+  "contemporary": {
+    "senses": [
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      },
+      {
+        "label": "occurring",
+        "probe": "contemporaneous"
+      }
+    ]
+  },
+  "continual": {
+    "senses": [
+      {
+        "label": "occurring",
+        "probe": "occurring"
+      },
+      {
+        "label": "continual",
+        "probe": "uninterrupted"
+      }
+    ]
+  },
+  "contrasts": {
+    "senses": [
+      {
+        "label": "distinguishing",
+        "probe": "distinguishing"
+      },
+      {
+        "label": "conceptual",
+        "probe": "demarcation"
+      },
+      {
+        "label": "show",
+        "probe": "counterpoint"
+      }
+    ]
+  },
+  "creations": {
+    "senses": [
+      {
+        "label": "artifact",
+        "probe": "artifact"
+      },
+      {
+        "label": "event",
+        "probe": "conception"
+      }
+    ]
+  },
+  "creature": {
+    "senses": [
+      {
+        "label": "living",
+        "probe": "fauna"
+      },
+      {
+        "label": "human",
+        "probe": "wight"
+      },
+      {
+        "label": "controlled",
+        "probe": "slave"
+      }
+    ]
+  },
+  "creatures": {
+    "senses": [
+      {
+        "label": "living",
+        "probe": "creature"
+      },
+      {
+        "label": "human",
+        "probe": "wight"
+      },
+      {
+        "label": "controlled",
+        "probe": "slave"
+      }
+    ]
+  },
+  "creed": {
+    "senses": [
+      {
+        "label": "system",
+        "probe": "doctrine"
+      },
+      {
+        "label": "written",
+        "probe": "gospel"
+      }
+    ]
+  },
+  "creeds": {
+    "senses": [
+      {
+        "label": "system",
+        "probe": "creed"
+      },
+      {
+        "label": "written",
+        "probe": "gospel"
+      }
+    ]
+  },
+  "creoles": {
+    "senses": [
+      {
+        "label": "european",
+        "probe": "creole"
+      },
+      {
+        "label": "descended",
+        "probe": "descended"
+      }
+    ]
+  },
+  "crumbled": {
+    "senses": [
+      {
+        "label": "break",
+        "probe": "disintegrate"
+      },
+      {
+        "label": "fall",
+        "probe": "decay"
+      }
+    ]
+  },
+  "crumbles": {
+    "senses": [
+      {
+        "label": "break",
+        "probe": "disintegrate"
+      },
+      {
+        "label": "fall",
+        "probe": "decay"
+      }
+    ]
+  },
+  "crumbling": {
+    "senses": [
+      {
+        "label": "break",
+        "probe": "disintegrate"
+      },
+      {
+        "label": "fall",
+        "probe": "decay"
+      }
+    ]
+  },
+  "cultures": {
+    "senses": [
+      {
+        "label": "particular",
+        "probe": "civilization"
+      },
+      {
+        "label": "highly",
+        "probe": "refinement"
+      },
+      {
+        "label": "raising",
+        "probe": "cultivation"
+      }
+    ]
+  },
+  "cured": {
+    "senses": [
+      {
+        "label": "freed",
+        "probe": "healed"
+      },
+      {
+        "label": "allowed",
+        "probe": "preserved"
+      }
+    ]
+  },
+  "curse": {
+    "senses": [
+      {
+        "label": "causing",
+        "probe": "scourge"
+      },
+      {
+        "label": "severe",
+        "probe": "torment"
+      },
+      {
+        "label": "utter",
+        "probe": "utter"
+      }
+    ]
+  },
+  "cursed": {
+    "senses": [
+      {
+        "label": "utter",
+        "probe": "curse"
+      },
+      {
+        "label": "deserving",
+        "probe": "blessed"
+      }
+    ]
+  },
+  "czars": {
+    "senses": [
+      {
+        "label": "male",
+        "probe": "tsar"
+      },
+      {
+        "label": "having",
+        "probe": "tyrant"
+      }
+    ]
+  },
+  "darker": {
+    "senses": [
+      {
+        "label": "devoid",
+        "probe": "devoid"
+      },
+      {
+        "label": "marked",
+        "probe": "incomprehensible"
+      },
+      {
+        "label": "causing",
+        "probe": "drab"
+      }
+    ]
+  },
+  "darkest": {
+    "senses": [
+      {
+        "label": "devoid",
+        "probe": "devoid"
+      },
+      {
+        "label": "marked",
+        "probe": "incomprehensible"
+      },
+      {
+        "label": "causing",
+        "probe": "drab"
+      }
+    ]
+  },
+  "darkness": {
+    "senses": [
+      {
+        "label": "absence",
+        "probe": "illumination"
+      },
+      {
+        "label": "absence",
+        "probe": "wickedness"
+      }
+    ]
+  },
+  "dawns": {
+    "senses": [
+      {
+        "label": "first",
+        "probe": "dawning"
+      },
+      {
+        "label": "earliest",
+        "probe": "earliest"
+      }
+    ]
+  },
+  "debased": {
+    "senses": [
+      {
+        "label": "lowered",
+        "probe": "degraded"
+      },
+      {
+        "label": "ruined",
+        "probe": "ruined"
+      }
+    ]
+  },
+  "decay": {
+    "senses": [
+      {
+        "label": "spontaneous",
+        "probe": "disintegration"
+      },
+      {
+        "label": "lose",
+        "probe": "disintegrate"
+      }
+    ]
+  },
+  "decayed": {
+    "senses": [
+      {
+        "label": "lose",
+        "probe": "disintegrate"
+      },
+      {
+        "label": "fall",
+        "probe": "decay"
+      }
+    ]
+  },
+  "decaying": {
+    "senses": [
+      {
+        "label": "lose",
+        "probe": "disintegrate"
+      },
+      {
+        "label": "fall",
+        "probe": "decay"
+      }
+    ]
+  },
+  "decorated": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "decorate"
+      },
+      {
+        "label": "beautiful",
+        "probe": "adorn"
+      },
+      {
+        "label": "provided",
+        "probe": "adorned"
+      }
+    ]
+  },
+  "decrepit": {
+    "senses": [
+      {
+        "label": "worn",
+        "probe": "derelict"
+      },
+      {
+        "label": "lacking",
+        "probe": "rickety"
+      }
+    ]
+  },
+  "defences": {
+    "senses": [
+      {
+        "label": "defendant",
+        "probe": "accumulation"
+      },
+      {
+        "label": "speech",
+        "probe": "refutation"
+      }
+    ]
+  },
+  "degraded": {
+    "senses": [
+      {
+        "label": "unrestrained",
+        "probe": "degenerate"
+      },
+      {
+        "label": "lowered",
+        "probe": "debased"
+      }
+    ]
+  },
+  "delicacy": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "elegance"
+      },
+      {
+        "label": "lack",
+        "probe": "fragility"
+      }
+    ]
+  },
+  "delusions": {
+    "senses": [
+      {
+        "label": "erroneous",
+        "probe": "delusion"
+      },
+      {
+        "label": "deluding",
+        "probe": "illusion"
+      }
+    ]
+  },
+  "depicting": {
+    "senses": [
+      {
+        "label": "representation",
+        "probe": "depiction"
+      },
+      {
+        "label": "show",
+        "probe": "depict"
+      }
+    ]
+  },
+  "depictions": {
+    "senses": [
+      {
+        "label": "graphic",
+        "probe": "depiction"
+      },
+      {
+        "label": "representation",
+        "probe": "depicting"
+      }
+    ]
+  },
+  "depopulated": {
+    "senses": [
+      {
+        "label": "reduce",
+        "probe": "desolate"
+      },
+      {
+        "label": "having",
+        "probe": "uninhabited"
+      }
+    ]
+  },
+  "depredations": {
+    "senses": [
+      {
+        "label": "plundering",
+        "probe": "plundering"
+      },
+      {
+        "label": "destructive",
+        "probe": "destruction"
+      }
+    ]
+  },
+  "derelict": {
+    "senses": [
+      {
+        "label": "worn",
+        "probe": "decrepit"
+      },
+      {
+        "label": "forsaken",
+        "probe": "deserted"
+      },
+      {
+        "label": "deplorable",
+        "probe": "dilapidated"
+      }
+    ]
+  },
+  "derivation": {
+    "senses": [
+      {
+        "label": "source",
+        "probe": "origin"
+      },
+      {
+        "label": "explanation",
+        "probe": "deriving"
+      },
+      {
+        "label": "inherited",
+        "probe": "ancestry"
+      }
+    ]
+  },
+  "derived": {
+    "senses": [
+      {
+        "label": "reason",
+        "probe": "derive"
+      },
+      {
+        "label": "come",
+        "probe": "descend"
+      }
+    ]
+  },
+  "derives": {
+    "senses": [
+      {
+        "label": "reason",
+        "probe": "derive"
+      },
+      {
+        "label": "come",
+        "probe": "descend"
+      }
+    ]
+  },
+  "deriving": {
+    "senses": [
+      {
+        "label": "explanation",
+        "probe": "derivation"
+      },
+      {
+        "label": "reason",
+        "probe": "derive"
+      },
+      {
+        "label": "come",
+        "probe": "descend"
+      }
+    ]
+  },
+  "descendant": {
+    "senses": [
+      {
+        "label": "considered",
+        "probe": "descendent"
+      },
+      {
+        "label": "going",
+        "probe": "descending"
+      }
+    ]
+  },
+  "descendants": {
+    "senses": [
+      {
+        "label": "offspring",
+        "probe": "posterity"
+      },
+      {
+        "label": "considered",
+        "probe": "descendant"
+      }
+    ]
+  },
+  "descended": {
+    "senses": [
+      {
+        "label": "move",
+        "probe": "descend"
+      },
+      {
+        "label": "come",
+        "probe": "derive"
+      }
+    ]
+  },
+  "descendent": {
+    "senses": [
+      {
+        "label": "considered",
+        "probe": "descendant"
+      },
+      {
+        "label": "going",
+        "probe": "descending"
+      }
+    ]
+  },
+  "descending": {
+    "senses": [
+      {
+        "label": "move",
+        "probe": "descend"
+      },
+      {
+        "label": "come",
+        "probe": "derive"
+      }
+    ]
+  },
+  "descends": {
+    "senses": [
+      {
+        "label": "move",
+        "probe": "descend"
+      },
+      {
+        "label": "come",
+        "probe": "derive"
+      }
+    ]
+  },
+  "descent": {
+    "senses": [
+      {
+        "label": "properties",
+        "probe": "origin"
+      },
+      {
+        "label": "kinship",
+        "probe": "lineage"
+      },
+      {
+        "label": "descendants",
+        "probe": "bloodline"
+      }
+    ]
+  },
+  "deserted": {
+    "senses": [
+      {
+        "label": "leave",
+        "probe": "desolate"
+      },
+      {
+        "label": "forsaken",
+        "probe": "derelict"
+      }
+    ]
+  },
+  "deserts": {
+    "senses": [
+      {
+        "label": "arid",
+        "probe": "arid"
+      },
+      {
+        "label": "leave",
+        "probe": "desolate"
+      }
+    ]
+  },
+  "desolate": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "scourge"
+      },
+      {
+        "label": "providing",
+        "probe": "barren"
+      }
+    ]
+  },
+  "desolation": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "devastation"
+      },
+      {
+        "label": "sadness",
+        "probe": "loneliness"
+      },
+      {
+        "label": "event",
+        "probe": "ruin"
+      }
+    ]
+  },
+  "despotism": {
+    "senses": [
+      {
+        "label": "dominance",
+        "probe": "absolutism"
+      },
+      {
+        "label": "government",
+        "probe": "dictatorship"
+      }
+    ]
+  },
+  "destroyed": {
+    "senses": [
+      {
+        "label": "destroy",
+        "probe": "ruin"
+      },
+      {
+        "label": "spoiled",
+        "probe": "scorched"
+      },
+      {
+        "label": "destroyed",
+        "probe": "ruined"
+      }
+    ]
+  },
+  "devastation": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "desolation"
+      },
+      {
+        "label": "event",
+        "probe": "ruin"
+      },
+      {
+        "label": "plundering",
+        "probe": "ravaging"
+      },
+      {
+        "label": "termination",
+        "probe": "destruction"
+      }
+    ]
+  },
+  "digs": {
+    "senses": [
+      {
+        "label": "excavation",
+        "probe": "excavation"
+      },
+      {
+        "label": "remove",
+        "probe": "excavate"
+      },
+      {
+        "label": "meaning",
+        "probe": "comprehend"
+      }
+    ]
+  },
+  "dilapidated": {
+    "senses": [
+      {
+        "label": "fall",
+        "probe": "decay"
+      },
+      {
+        "label": "deplorable",
+        "probe": "derelict"
+      }
+    ]
+  },
+  "disintegrated": {
+    "senses": [
+      {
+        "label": "break",
+        "probe": "disintegrate"
+      },
+      {
+        "label": "lose",
+        "probe": "decay"
+      }
+    ]
+  },
+  "disintegrating": {
+    "senses": [
+      {
+        "label": "break",
+        "probe": "disintegrate"
+      },
+      {
+        "label": "lose",
+        "probe": "decay"
+      }
+    ]
+  },
+  "disintegration": {
+    "senses": [
+      {
+        "label": "decomposed",
+        "probe": "decay"
+      },
+      {
+        "label": "total",
+        "probe": "annihilation"
+      }
+    ]
+  },
+  "divine": {
+    "senses": [
+      {
+        "label": "clergyman",
+        "probe": "churchman"
+      },
+      {
+        "label": "perceive",
+        "probe": "comprehend"
+      },
+      {
+        "label": "emanating",
+        "probe": "heavenly"
+      },
+      {
+        "label": "devoted",
+        "probe": "sacred"
+      },
+      {
+        "label": "being",
+        "probe": "glorious"
+      }
+    ]
+  },
+  "divinity": {
+    "senses": [
+      {
+        "label": "supernatural",
+        "probe": "deity"
+      },
+      {
+        "label": "rational",
+        "probe": "theology"
+      }
+    ]
+  },
+  "dogma": {
+    "senses": [
+      {
+        "label": "religious",
+        "probe": "gospel"
+      },
+      {
+        "label": "doctrine",
+        "probe": "doctrine"
+      }
+    ]
+  },
+  "dogmas": {
+    "senses": [
+      {
+        "label": "religious",
+        "probe": "dogma"
+      },
+      {
+        "label": "doctrine",
+        "probe": "doctrine"
+      }
+    ]
+  },
+  "dug": {
+    "senses": [
+      {
+        "label": "remove",
+        "probe": "excavate"
+      },
+      {
+        "label": "meaning",
+        "probe": "comprehend"
+      }
+    ]
+  },
+  "dwell": {
+    "senses": [
+      {
+        "label": "originate",
+        "probe": "originate"
+      },
+      {
+        "label": "inhabit",
+        "probe": "populate"
+      },
+      {
+        "label": "exist",
+        "probe": "inhabit"
+      }
+    ]
+  },
+  "dwelling": {
+    "senses": [
+      {
+        "label": "housing",
+        "probe": "abode"
+      },
+      {
+        "label": "think",
+        "probe": "dwell"
+      },
+      {
+        "label": "originate",
+        "probe": "originate"
+      },
+      {
+        "label": "inhabit",
+        "probe": "populate"
+      },
+      {
+        "label": "exist",
+        "probe": "inhabit"
+      }
+    ]
+  },
+  "ecclesiastic": {
+    "senses": [
+      {
+        "label": "clergyman",
+        "probe": "churchman"
+      },
+      {
+        "label": "associated",
+        "probe": "ecclesiastical"
+      }
+    ]
+  },
+  "echoes": {
+    "senses": [
+      {
+        "label": "imitation",
+        "probe": "imitation"
+      },
+      {
+        "label": "again",
+        "probe": "utter"
+      }
+    ]
+  },
+  "eclipses": {
+    "senses": [
+      {
+        "label": "celestial",
+        "probe": "celestial"
+      },
+      {
+        "label": "cause",
+        "probe": "occult"
+      }
+    ]
+  },
+  "elegant": {
+    "senses": [
+      {
+        "label": "refined",
+        "probe": "exquisite"
+      },
+      {
+        "label": "suggesting",
+        "probe": "graceful"
+      }
+    ]
+  },
+  "embellished": {
+    "senses": [
+      {
+        "label": "beautiful",
+        "probe": "adorn"
+      },
+      {
+        "label": "make",
+        "probe": "decorate"
+      }
+    ]
+  },
+  "embellishment": {
+    "senses": [
+      {
+        "label": "elaboration",
+        "probe": "embroidery"
+      },
+      {
+        "label": "superfluous",
+        "probe": "decoration"
+      },
+      {
+        "label": "adding",
+        "probe": "ornamentation"
+      }
+    ]
+  },
+  "embodied": {
+    "senses": [
+      {
+        "label": "represent",
+        "probe": "embody"
+      },
+      {
+        "label": "represent",
+        "probe": "symbolize"
+      }
+    ]
+  },
+  "embodies": {
+    "senses": [
+      {
+        "label": "represent",
+        "probe": "embody"
+      },
+      {
+        "label": "represent",
+        "probe": "symbolize"
+      }
+    ]
+  },
+  "embodying": {
+    "senses": [
+      {
+        "label": "represent",
+        "probe": "embody"
+      },
+      {
+        "label": "represent",
+        "probe": "symbolize"
+      }
+    ]
+  },
+  "embroidery": {
+    "senses": [
+      {
+        "label": "elaboration",
+        "probe": "embellishment"
+      },
+      {
+        "label": "decorative",
+        "probe": "decorative"
+      }
+    ]
+  },
+  "eminence": {
+    "senses": [
+      {
+        "label": "high",
+        "probe": "preeminence"
+      },
+      {
+        "label": "protuberance",
+        "probe": "outgrowth"
+      }
+    ]
+  },
+  "empire": {
+    "senses": [
+      {
+        "label": "domain",
+        "probe": "demesne"
+      },
+      {
+        "label": "monarchy",
+        "probe": "monarchy"
+      }
+    ]
+  },
+  "empires": {
+    "senses": [
+      {
+        "label": "domain",
+        "probe": "empire"
+      },
+      {
+        "label": "monarchy",
+        "probe": "monarchy"
+      }
+    ]
+  },
+  "enchanted": {
+    "senses": [
+      {
+        "label": "cast",
+        "probe": "witch"
+      },
+      {
+        "label": "influenced",
+        "probe": "influenced"
+      }
+    ]
+  },
+  "enchanting": {
+    "senses": [
+      {
+        "label": "cast",
+        "probe": "witch"
+      },
+      {
+        "label": "capturing",
+        "probe": "fascinating"
+      }
+    ]
+  },
+  "engraved": {
+    "senses": [
+      {
+        "label": "carve",
+        "probe": "grave"
+      },
+      {
+        "label": "impressed",
+        "probe": "etched"
+      }
+    ]
+  },
+  "engraving": {
+    "senses": [
+      {
+        "label": "making",
+        "probe": "printmaking"
+      },
+      {
+        "label": "carve",
+        "probe": "grave"
+      }
+    ]
+  },
+  "engravings": {
+    "senses": [
+      {
+        "label": "print",
+        "probe": "engraving"
+      },
+      {
+        "label": "making",
+        "probe": "printmaking"
+      }
+    ]
+  },
+  "enigma": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "mystery"
+      },
+      {
+        "label": "difficult",
+        "probe": "conundrum"
+      }
+    ]
+  },
+  "enigmatic": {
+    "senses": [
+      {
+        "label": "clear",
+        "probe": "incomprehensible"
+      },
+      {
+        "label": "resembling",
+        "probe": "resembling"
+      }
+    ]
+  },
+  "enormity": {
+    "senses": [
+      {
+        "label": "vastness",
+        "probe": "vastness"
+      },
+      {
+        "label": "extreme",
+        "probe": "wickedness"
+      },
+      {
+        "label": "extreme",
+        "probe": "atrocity"
+      }
+    ]
+  },
+  "enshrined": {
+    "senses": [
+      {
+        "label": "enclose",
+        "probe": "shrine"
+      },
+      {
+        "label": "hold",
+        "probe": "saint"
+      }
+    ]
+  },
+  "epic": {
+    "senses": [
+      {
+        "label": "long",
+        "probe": "poem"
+      },
+      {
+        "label": "very",
+        "probe": "heroic"
+      },
+      {
+        "label": "constituting",
+        "probe": "constituting"
+      }
+    ]
+  },
+  "episcopate": {
+    "senses": [
+      {
+        "label": "territorial",
+        "probe": "bishopric"
+      },
+      {
+        "label": "collective",
+        "probe": "episcopacy"
+      }
+    ]
+  },
+  "epitaph": {
+    "senses": [
+      {
+        "label": "inscription",
+        "probe": "inscription"
+      },
+      {
+        "label": "summary",
+        "probe": "commemoration"
+      }
+    ]
+  },
+  "eruptions": {
+    "senses": [
+      {
+        "label": "sudden",
+        "probe": "eruption"
+      },
+      {
+        "label": "sudden",
+        "probe": "occurrence"
+      }
+    ]
+  },
+  "estates": {
+    "senses": [
+      {
+        "label": "extensive",
+        "probe": "demesne"
+      },
+      {
+        "label": "major",
+        "probe": "stratum"
+      }
+    ]
+  },
+  "esthetic": {
+    "senses": [
+      {
+        "label": "philosophical",
+        "probe": "aesthetic"
+      },
+      {
+        "label": "concerning",
+        "probe": "painterly"
+      }
+    ]
+  },
+  "etchings": {
+    "senses": [
+      {
+        "label": "impression",
+        "probe": "engraving"
+      },
+      {
+        "label": "etched",
+        "probe": "etched"
+      },
+      {
+        "label": "making",
+        "probe": "printmaking"
+      }
+    ]
+  },
+  "everlasting": {
+    "senses": [
+      {
+        "label": "continuing",
+        "probe": "eternal"
+      },
+      {
+        "label": "without",
+        "probe": "utter"
+      }
+    ]
+  },
+  "exalted": {
+    "senses": [
+      {
+        "label": "praise",
+        "probe": "glorify"
+      },
+      {
+        "label": "fill",
+        "probe": "uplift"
+      },
+      {
+        "label": "high",
+        "probe": "sublime"
+      }
+    ]
+  },
+  "excavations": {
+    "senses": [
+      {
+        "label": "digging",
+        "probe": "excavation"
+      },
+      {
+        "label": "hole",
+        "probe": "artifact"
+      }
+    ]
+  },
+  "excesses": {
+    "senses": [
+      {
+        "label": "quantity",
+        "probe": "quantity"
+      },
+      {
+        "label": "excessive",
+        "probe": "indulgence"
+      }
+    ]
+  },
+  "extermination": {
+    "senses": [
+      {
+        "label": "complete",
+        "probe": "extinction"
+      },
+      {
+        "label": "exterminating",
+        "probe": "destruction"
+      }
+    ]
+  },
+  "extinction": {
+    "senses": [
+      {
+        "label": "longer",
+        "probe": "inactivity"
+      },
+      {
+        "label": "complete",
+        "probe": "extermination"
+      }
+    ]
+  },
+  "extinctions": {
+    "senses": [
+      {
+        "label": "longer",
+        "probe": "extinction"
+      },
+      {
+        "label": "complete",
+        "probe": "extermination"
+      }
+    ]
+  },
+  "extremes": {
+    "senses": [
+      {
+        "label": "furthest",
+        "probe": "furthest"
+      },
+      {
+        "label": "point",
+        "probe": "extremity"
+      }
+    ]
+  },
+  "fables": {
+    "senses": [
+      {
+        "label": "deliberately",
+        "probe": "fable"
+      },
+      {
+        "label": "short",
+        "probe": "parable"
+      }
+    ]
+  },
+  "fairytale": {
+    "senses": [
+      {
+        "label": "story",
+        "probe": "narrative"
+      },
+      {
+        "label": "interesting",
+        "probe": "tale"
+      }
+    ]
+  },
+  "fallow": {
+    "senses": [
+      {
+        "label": "cultivated",
+        "probe": "cultivated"
+      },
+      {
+        "label": "left",
+        "probe": "unbroken"
+      },
+      {
+        "label": "undeveloped",
+        "probe": "undeveloped"
+      }
+    ]
+  },
+  "famines": {
+    "senses": [
+      {
+        "label": "acute",
+        "probe": "famine"
+      },
+      {
+        "label": "severe",
+        "probe": "calamity"
+      }
+    ]
+  },
+  "farmlands": {
+    "senses": [
+      {
+        "label": "rural",
+        "probe": "farmland"
+      },
+      {
+        "label": "arable",
+        "probe": "arable"
+      }
+    ]
+  },
+  "fascinating": {
+    "senses": [
+      {
+        "label": "capable",
+        "probe": "gripping"
+      },
+      {
+        "label": "capturing",
+        "probe": "enchanting"
+      }
+    ]
+  },
+  "fauna": {
+    "senses": [
+      {
+        "label": "life",
+        "probe": "zoology"
+      },
+      {
+        "label": "living",
+        "probe": "creature"
+      }
+    ]
+  },
+  "fictions": {
+    "senses": [
+      {
+        "label": "literary",
+        "probe": "literary"
+      },
+      {
+        "label": "deliberately",
+        "probe": "fable"
+      }
+    ]
+  },
+  "figurative": {
+    "senses": [
+      {
+        "label": "literal",
+        "probe": "literal"
+      },
+      {
+        "label": "consisting",
+        "probe": "representational"
+      }
+    ]
+  },
+  "fishes": {
+    "senses": [
+      {
+        "label": "flesh",
+        "probe": "flesh"
+      },
+      {
+        "label": "twelfth",
+        "probe": "twelfth"
+      }
+    ]
+  },
+  "flourishes": {
+    "senses": [
+      {
+        "label": "showy",
+        "probe": "flourish"
+      },
+      {
+        "label": "ornamental",
+        "probe": "ornamental"
+      }
+    ]
+  },
+  "flourishing": {
+    "senses": [
+      {
+        "label": "grow",
+        "probe": "flourish"
+      },
+      {
+        "label": "very",
+        "probe": "prosperous"
+      }
+    ]
+  },
+  "flowering": {
+    "senses": [
+      {
+        "label": "time",
+        "probe": "blossoming"
+      },
+      {
+        "label": "developmental",
+        "probe": "unfolding"
+      }
+    ]
+  },
+  "folly": {
+    "senses": [
+      {
+        "label": "stupid",
+        "probe": "stupidity"
+      },
+      {
+        "label": "foolish",
+        "probe": "indulgence"
+      }
+    ]
+  },
+  "footprints": {
+    "senses": [
+      {
+        "label": "trace",
+        "probe": "vestige"
+      },
+      {
+        "label": "area",
+        "probe": "expanse"
+      }
+    ]
+  },
+  "foreboding": {
+    "senses": [
+      {
+        "label": "feeling",
+        "probe": "dread"
+      },
+      {
+        "label": "ominously",
+        "probe": "prophetic"
+      }
+    ]
+  },
+  "formalism": {
+    "senses": [
+      {
+        "label": "doctrine",
+        "probe": "doctrine"
+      },
+      {
+        "label": "philosophical",
+        "probe": "philosophical"
+      }
+    ]
+  },
+  "forts": {
+    "senses": [
+      {
+        "label": "fortified",
+        "probe": "garrison"
+      },
+      {
+        "label": "fortified",
+        "probe": "fortress"
+      }
+    ]
+  },
+  "fresco": {
+    "senses": [
+      {
+        "label": "mural",
+        "probe": "mural"
+      },
+      {
+        "label": "durable",
+        "probe": "painting"
+      }
+    ]
+  },
+  "frescoes": {
+    "senses": [
+      {
+        "label": "mural",
+        "probe": "fresco"
+      },
+      {
+        "label": "durable",
+        "probe": "painting"
+      }
+    ]
+  },
+  "frescos": {
+    "senses": [
+      {
+        "label": "mural",
+        "probe": "fresco"
+      },
+      {
+        "label": "durable",
+        "probe": "painting"
+      }
+    ]
+  },
+  "fringes": {
+    "senses": [
+      {
+        "label": "outside",
+        "probe": "periphery"
+      },
+      {
+        "label": "ornamental",
+        "probe": "ornamental"
+      },
+      {
+        "label": "adorn",
+        "probe": "adorn"
+      },
+      {
+        "label": "decorate",
+        "probe": "decorate"
+      }
+    ]
+  },
+  "gallantry": {
+    "senses": [
+      {
+        "label": "qualities",
+        "probe": "heroism"
+      },
+      {
+        "label": "courtesy",
+        "probe": "chivalry"
+      }
+    ]
+  },
+  "genera": {
+    "senses": [
+      {
+        "label": "general",
+        "probe": "genus"
+      },
+      {
+        "label": "taxonomic",
+        "probe": "taxonomic"
+      }
+    ]
+  },
+  "generations": {
+    "senses": [
+      {
+        "label": "living",
+        "probe": "contemporaries"
+      },
+      {
+        "label": "producing",
+        "probe": "reproduction"
+      }
+    ]
+  },
+  "ghost": {
+    "senses": [
+      {
+        "label": "mental",
+        "probe": "apparition"
+      },
+      {
+        "label": "visible",
+        "probe": "psyche"
+      },
+      {
+        "label": "haunt",
+        "probe": "haunt"
+      }
+    ]
+  },
+  "ghosts": {
+    "senses": [
+      {
+        "label": "mental",
+        "probe": "ghost"
+      },
+      {
+        "label": "visible",
+        "probe": "psyche"
+      },
+      {
+        "label": "haunt",
+        "probe": "haunt"
+      }
+    ]
+  },
+  "gilded": {
+    "senses": [
+      {
+        "label": "decorate",
+        "probe": "decorate"
+      },
+      {
+        "label": "having",
+        "probe": "gilt"
+      },
+      {
+        "label": "rich",
+        "probe": "luxurious"
+      }
+    ]
+  },
+  "gilt": {
+    "senses": [
+      {
+        "label": "decorate",
+        "probe": "decorate"
+      },
+      {
+        "label": "having",
+        "probe": "gilded"
+      }
+    ]
+  },
+  "glorified": {
+    "senses": [
+      {
+        "label": "praise",
+        "probe": "glorify"
+      },
+      {
+        "label": "accorded",
+        "probe": "canonized"
+      }
+    ]
+  },
+  "glorious": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "divine"
+      },
+      {
+        "label": "characterized",
+        "probe": "magnificent"
+      },
+      {
+        "label": "having",
+        "probe": "splendid"
+      }
+    ]
+  },
+  "gods": {
+    "senses": [
+      {
+        "label": "supernatural",
+        "probe": "supernatural"
+      },
+      {
+        "label": "supernatural",
+        "probe": "deity"
+      }
+    ]
+  },
+  "gospel": {
+    "senses": [
+      {
+        "label": "four",
+        "probe": "gospels"
+      },
+      {
+        "label": "folk",
+        "probe": "folk"
+      },
+      {
+        "label": "written",
+        "probe": "creed"
+      },
+      {
+        "label": "doctrine",
+        "probe": "doctrine"
+      }
+    ]
+  },
+  "gospels": {
+    "senses": [
+      {
+        "label": "four",
+        "probe": "gospel"
+      },
+      {
+        "label": "folk",
+        "probe": "folk"
+      },
+      {
+        "label": "written",
+        "probe": "creed"
+      },
+      {
+        "label": "doctrine",
+        "probe": "doctrine"
+      }
+    ]
+  },
+  "gothic": {
+    "senses": [
+      {
+        "label": "extinct",
+        "probe": "extinct"
+      },
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      },
+      {
+        "label": "belonging",
+        "probe": "medieval"
+      }
+    ]
+  },
+  "goths": {
+    "senses": [
+      {
+        "label": "crude",
+        "probe": "peasant"
+      },
+      {
+        "label": "teutonic",
+        "probe": "goth"
+      }
+    ]
+  },
+  "graced": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "decorate"
+      },
+      {
+        "label": "beautiful",
+        "probe": "adorn"
+      }
+    ]
+  },
+  "graces": {
+    "senses": [
+      {
+        "label": "sanctification",
+        "probe": "sanctification"
+      },
+      {
+        "label": "elegance",
+        "probe": "elegance"
+      },
+      {
+        "label": "make",
+        "probe": "decorate"
+      },
+      {
+        "label": "beautiful",
+        "probe": "adorn"
+      }
+    ]
+  },
+  "grander": {
+    "senses": [
+      {
+        "label": "behavior",
+        "probe": "heroic"
+      },
+      {
+        "label": "befitting",
+        "probe": "noble"
+      },
+      {
+        "label": "rich",
+        "probe": "gilded"
+      },
+      {
+        "label": "extraordinarily",
+        "probe": "wondrous"
+      },
+      {
+        "label": "high",
+        "probe": "exalted"
+      }
+    ]
+  },
+  "grandest": {
+    "senses": [
+      {
+        "label": "behavior",
+        "probe": "heroic"
+      },
+      {
+        "label": "befitting",
+        "probe": "noble"
+      },
+      {
+        "label": "rich",
+        "probe": "gilded"
+      },
+      {
+        "label": "extraordinarily",
+        "probe": "wondrous"
+      },
+      {
+        "label": "high",
+        "probe": "exalted"
+      }
+    ]
+  },
+  "grandeur": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "magnificence"
+      },
+      {
+        "label": "elevation",
+        "probe": "nobility"
+      }
+    ]
+  },
+  "grave": {
+    "senses": [
+      {
+        "label": "burial",
+        "probe": "tomb"
+      },
+      {
+        "label": "shape",
+        "probe": "sculpture"
+      }
+    ]
+  },
+  "graves": {
+    "senses": [
+      {
+        "label": "death",
+        "probe": "grave"
+      },
+      {
+        "label": "burial",
+        "probe": "tomb"
+      },
+      {
+        "label": "shape",
+        "probe": "sculpture"
+      }
+    ]
+  },
+  "grotesque": {
+    "senses": [
+      {
+        "label": "distorted",
+        "probe": "monstrous"
+      },
+      {
+        "label": "ludicrously",
+        "probe": "fantastical"
+      }
+    ]
+  },
+  "gypsies": {
+    "senses": [
+      {
+        "label": "laborer",
+        "probe": "itinerant"
+      },
+      {
+        "label": "member",
+        "probe": "gypsy"
+      }
+    ]
+  },
+  "gypsy": {
+    "senses": [
+      {
+        "label": "laborer",
+        "probe": "itinerant"
+      },
+      {
+        "label": "member",
+        "probe": "bohemian"
+      }
+    ]
+  },
+  "habitation": {
+    "senses": [
+      {
+        "label": "housing",
+        "probe": "dwelling"
+      },
+      {
+        "label": "dwelling",
+        "probe": "inhabitation"
+      }
+    ]
+  },
+  "harbours": {
+    "senses": [
+      {
+        "label": "sheltered",
+        "probe": "seaport"
+      },
+      {
+        "label": "refuge",
+        "probe": "sanctuary"
+      }
+    ]
+  },
+  "hardships": {
+    "senses": [
+      {
+        "label": "misfortune",
+        "probe": "hardship"
+      },
+      {
+        "label": "that",
+        "probe": "misfortune"
+      }
+    ]
+  },
+  "haunted": {
+    "senses": [
+      {
+        "label": "follow",
+        "probe": "haunt"
+      },
+      {
+        "label": "haunt",
+        "probe": "ghost"
+      },
+      {
+        "label": "inhabited",
+        "probe": "inhabited"
+      }
+    ]
+  },
+  "haunting": {
+    "senses": [
+      {
+        "label": "follow",
+        "probe": "haunt"
+      },
+      {
+        "label": "haunt",
+        "probe": "ghost"
+      }
+    ]
+  },
+  "haunts": {
+    "senses": [
+      {
+        "label": "frequently",
+        "probe": "haunt"
+      },
+      {
+        "label": "haunt",
+        "probe": "ghost"
+      }
+    ]
+  },
+  "headstones": {
+    "senses": [
+      {
+        "label": "central",
+        "probe": "headstone"
+      },
+      {
+        "label": "stone",
+        "probe": "gravestone"
+      }
+    ]
+  },
+  "heavenly": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "celestial"
+      },
+      {
+        "label": "belonging",
+        "probe": "divine"
+      }
+    ]
+  },
+  "heavens": {
+    "senses": [
+      {
+        "label": "apparent",
+        "probe": "sphere"
+      },
+      {
+        "label": "abode",
+        "probe": "abode"
+      }
+    ]
+  },
+  "heaviest": {
+    "senses": [
+      {
+        "label": "marked",
+        "probe": "oppressive"
+      },
+      {
+        "label": "permitting",
+        "probe": "impenetrable"
+      },
+      {
+        "label": "great",
+        "probe": "grave"
+      },
+      {
+        "label": "slow",
+        "probe": "lumbering"
+      },
+      {
+        "label": "deep",
+        "probe": "profound"
+      }
+    ]
+  },
+  "heirlooms": {
+    "senses": [
+      {
+        "label": "property",
+        "probe": "heirloom"
+      },
+      {
+        "label": "that",
+        "probe": "inheritance"
+      }
+    ]
+  },
+  "hereditary": {
+    "senses": [
+      {
+        "label": "occurring",
+        "probe": "familial"
+      },
+      {
+        "label": "inherited",
+        "probe": "ancestral"
+      }
+    ]
+  },
+  "heretics": {
+    "senses": [
+      {
+        "label": "holds",
+        "probe": "heretic"
+      },
+      {
+        "label": "holds",
+        "probe": "nonconformist"
+      }
+    ]
+  },
+  "heritages": {
+    "senses": [
+      {
+        "label": "attribute",
+        "probe": "inheritance"
+      },
+      {
+        "label": "hereditary",
+        "probe": "hereditary"
+      }
+    ]
+  },
+  "heroic": {
+    "senses": [
+      {
+        "label": "verse",
+        "probe": "verse"
+      },
+      {
+        "label": "very",
+        "probe": "epic"
+      }
+    ]
+  },
+  "hides": {
+    "senses": [
+      {
+        "label": "cover",
+        "probe": "shroud"
+      },
+      {
+        "label": "make",
+        "probe": "veil"
+      }
+    ]
+  },
+  "hieroglyphic": {
+    "senses": [
+      {
+        "label": "writing",
+        "probe": "orthography"
+      },
+      {
+        "label": "resembling",
+        "probe": "resembling"
+      }
+    ]
+  },
+  "hieroglyphics": {
+    "senses": [
+      {
+        "label": "writing",
+        "probe": "hieroglyphic"
+      },
+      {
+        "label": "writing",
+        "probe": "orthography"
+      }
+    ]
+  },
+  "hieroglyphs": {
+    "senses": [
+      {
+        "label": "writing",
+        "probe": "hieroglyphic"
+      },
+      {
+        "label": "writing",
+        "probe": "orthography"
+      }
+    ]
+  },
+  "historiography": {
+    "senses": [
+      {
+        "label": "body",
+        "probe": "literature"
+      },
+      {
+        "label": "writing",
+        "probe": "authorship"
+      }
+    ]
+  },
+  "holy": {
+    "senses": [
+      {
+        "label": "sacred",
+        "probe": "sanctum"
+      },
+      {
+        "label": "belonging",
+        "probe": "blessed"
+      }
+    ]
+  },
+  "homespun": {
+    "senses": [
+      {
+        "label": "textiles",
+        "probe": "textiles"
+      },
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      }
+    ]
+  },
+  "horrific": {
+    "senses": [
+      {
+        "label": "grossly",
+        "probe": "hideous"
+      },
+      {
+        "label": "causing",
+        "probe": "dread"
+      }
+    ]
+  },
+  "horsemen": {
+    "senses": [
+      {
+        "label": "skilled",
+        "probe": "horseman"
+      },
+      {
+        "label": "breeds",
+        "probe": "breeds"
+      }
+    ]
+  },
+  "humanist": {
+    "senses": [
+      {
+        "label": "classical",
+        "probe": "classical"
+      },
+      {
+        "label": "pertaining",
+        "probe": "humanistic"
+      }
+    ]
+  },
+  "humanity": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "manhood"
+      },
+      {
+        "label": "living",
+        "probe": "humankind"
+      }
+    ]
+  },
+  "hymns": {
+    "senses": [
+      {
+        "label": "song",
+        "probe": "hymn"
+      },
+      {
+        "label": "praise",
+        "probe": "glorify"
+      }
+    ]
+  },
+  "idealism": {
+    "senses": [
+      {
+        "label": "philosophical",
+        "probe": "philosophical"
+      },
+      {
+        "label": "elevated",
+        "probe": "nobility"
+      }
+    ]
+  },
+  "idealized": {
+    "senses": [
+      {
+        "label": "ideals",
+        "probe": "ideals"
+      },
+      {
+        "label": "exalted",
+        "probe": "exalted"
+      }
+    ]
+  },
+  "idioms": {
+    "senses": [
+      {
+        "label": "manner",
+        "probe": "idiom"
+      },
+      {
+        "label": "usage",
+        "probe": "dialect"
+      }
+    ]
+  },
+  "illuminated": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "illuminate"
+      },
+      {
+        "label": "embellishments",
+        "probe": "decorate"
+      }
+    ]
+  },
+  "illuminating": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "illuminate"
+      },
+      {
+        "label": "embellishments",
+        "probe": "decorate"
+      }
+    ]
+  },
+  "illumination": {
+    "senses": [
+      {
+        "label": "luminous",
+        "probe": "luminous"
+      },
+      {
+        "label": "painting",
+        "probe": "miniature"
+      }
+    ]
+  },
+  "illusion": {
+    "senses": [
+      {
+        "label": "erroneous",
+        "probe": "semblance"
+      },
+      {
+        "label": "deluding",
+        "probe": "delusion"
+      }
+    ]
+  },
+  "illusions": {
+    "senses": [
+      {
+        "label": "erroneous",
+        "probe": "illusion"
+      },
+      {
+        "label": "deluding",
+        "probe": "delusion"
+      }
+    ]
+  },
+  "illustrating": {
+    "senses": [
+      {
+        "label": "depict",
+        "probe": "depict"
+      },
+      {
+        "label": "supply",
+        "probe": "decorate"
+      }
+    ]
+  },
+  "illustrious": {
+    "senses": [
+      {
+        "label": "widely",
+        "probe": "famed"
+      },
+      {
+        "label": "having",
+        "probe": "glorious"
+      }
+    ]
+  },
+  "imitation": {
+    "senses": [
+      {
+        "label": "doctrine",
+        "probe": "doctrine"
+      },
+      {
+        "label": "representation",
+        "probe": "caricature"
+      },
+      {
+        "label": "genuine",
+        "probe": "faux"
+      }
+    ]
+  },
+  "imitations": {
+    "senses": [
+      {
+        "label": "doctrine",
+        "probe": "imitation"
+      },
+      {
+        "label": "representation",
+        "probe": "caricature"
+      }
+    ]
+  },
+  "immortal": {
+    "senses": [
+      {
+        "label": "enduring",
+        "probe": "enduring"
+      },
+      {
+        "label": "supernatural",
+        "probe": "deity"
+      }
+    ]
+  },
+  "immortality": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "permanence"
+      },
+      {
+        "label": "perpetual",
+        "probe": "afterlife"
+      }
+    ]
+  },
+  "impressionist": {
+    "senses": [
+      {
+        "label": "painter",
+        "probe": "painter"
+      },
+      {
+        "label": "relating",
+        "probe": "impressionistic"
+      }
+    ]
+  },
+  "incarnation": {
+    "senses": [
+      {
+        "label": "personification",
+        "probe": "embodiment"
+      },
+      {
+        "label": "christian",
+        "probe": "gospel"
+      },
+      {
+        "label": "attributing",
+        "probe": "personification"
+      }
+    ]
+  },
+  "incarnations": {
+    "senses": [
+      {
+        "label": "personification",
+        "probe": "embodiment"
+      },
+      {
+        "label": "christian",
+        "probe": "incarnation"
+      },
+      {
+        "label": "attributing",
+        "probe": "personification"
+      }
+    ]
+  },
+  "inferno": {
+    "senses": [
+      {
+        "label": "very",
+        "probe": "conflagration"
+      },
+      {
+        "label": "abode",
+        "probe": "abode"
+      }
+    ]
+  },
+  "inhabit": {
+    "senses": [
+      {
+        "label": "inhabit",
+        "probe": "populate"
+      },
+      {
+        "label": "exist",
+        "probe": "dwell"
+      }
+    ]
+  },
+  "inhabited": {
+    "senses": [
+      {
+        "label": "inhabit",
+        "probe": "populate"
+      },
+      {
+        "label": "present",
+        "probe": "inhabit"
+      },
+      {
+        "label": "exist",
+        "probe": "dwell"
+      },
+      {
+        "label": "having",
+        "probe": "haunted"
+      }
+    ]
+  },
+  "inhabiting": {
+    "senses": [
+      {
+        "label": "inhabit",
+        "probe": "populate"
+      },
+      {
+        "label": "present",
+        "probe": "inhabit"
+      },
+      {
+        "label": "exist",
+        "probe": "dwell"
+      }
+    ]
+  },
+  "inscribed": {
+    "senses": [
+      {
+        "label": "carve",
+        "probe": "grave"
+      },
+      {
+        "label": "impressed",
+        "probe": "engraved"
+      }
+    ]
+  },
+  "interred": {
+    "senses": [
+      {
+        "label": "grave",
+        "probe": "grave"
+      },
+      {
+        "label": "placed",
+        "probe": "buried"
+      }
+    ]
+  },
+  "invaded": {
+    "senses": [
+      {
+        "label": "occupy",
+        "probe": "inhabit"
+      },
+      {
+        "label": "penetrate",
+        "probe": "permeate"
+      }
+    ]
+  },
+  "invading": {
+    "senses": [
+      {
+        "label": "occupy",
+        "probe": "inhabit"
+      },
+      {
+        "label": "penetrate",
+        "probe": "permeate"
+      }
+    ]
+  },
+  "invasions": {
+    "senses": [
+      {
+        "label": "invading",
+        "probe": "invading"
+      },
+      {
+        "label": "entry",
+        "probe": "encroachment"
+      }
+    ]
+  },
+  "jaws": {
+    "senses": [
+      {
+        "label": "skull",
+        "probe": "skull"
+      },
+      {
+        "label": "bones",
+        "probe": "bones"
+      },
+      {
+        "label": "talk",
+        "probe": "discourse"
+      },
+      {
+        "label": "talk",
+        "probe": "utter"
+      }
+    ]
+  },
+  "jewels": {
+    "senses": [
+      {
+        "label": "precious",
+        "probe": "precious"
+      },
+      {
+        "label": "adorn",
+        "probe": "adorn"
+      }
+    ]
+  },
+  "kabbalah": {
+    "senses": [
+      {
+        "label": "esoteric",
+        "probe": "esoteric"
+      },
+      {
+        "label": "esoteric",
+        "probe": "theosophy"
+      }
+    ]
+  },
+  "kingdom": {
+    "senses": [
+      {
+        "label": "domain",
+        "probe": "realm"
+      },
+      {
+        "label": "domain",
+        "probe": "demesne"
+      },
+      {
+        "label": "monarchy",
+        "probe": "monarchy"
+      },
+      {
+        "label": "highest",
+        "probe": "taxon"
+      }
+    ]
+  },
+  "kingdoms": {
+    "senses": [
+      {
+        "label": "domain",
+        "probe": "kingdom"
+      },
+      {
+        "label": "domain",
+        "probe": "realm"
+      },
+      {
+        "label": "monarchy",
+        "probe": "monarchy"
+      },
+      {
+        "label": "highest",
+        "probe": "taxon"
+      }
+    ]
+  },
+  "lament": {
+    "senses": [
+      {
+        "label": "song",
+        "probe": "requiem"
+      },
+      {
+        "label": "mournful",
+        "probe": "elegy"
+      }
+    ]
+  },
+  "landmarks": {
+    "senses": [
+      {
+        "label": "event",
+        "probe": "juncture"
+      },
+      {
+        "label": "anatomical",
+        "probe": "anatomical"
+      }
+    ]
+  },
+  "lands": {
+    "senses": [
+      {
+        "label": "territory",
+        "probe": "demesne"
+      },
+      {
+        "label": "domain",
+        "probe": "kingdom"
+      },
+      {
+        "label": "agriculture",
+        "probe": "occupation"
+      }
+    ]
+  },
+  "landscape": {
+    "senses": [
+      {
+        "label": "expanse",
+        "probe": "expanse"
+      },
+      {
+        "label": "painting",
+        "probe": "painting"
+      },
+      {
+        "label": "genre",
+        "probe": "genre"
+      },
+      {
+        "label": "embellish",
+        "probe": "decorate"
+      }
+    ]
+  },
+  "landscapes": {
+    "senses": [
+      {
+        "label": "expanse",
+        "probe": "landscape"
+      },
+      {
+        "label": "painting",
+        "probe": "painting"
+      },
+      {
+        "label": "genre",
+        "probe": "genre"
+      },
+      {
+        "label": "embellish",
+        "probe": "decorate"
+      }
+    ]
+  },
+  "legions": {
+    "senses": [
+      {
+        "label": "archaic",
+        "probe": "archaic"
+      },
+      {
+        "label": "vast",
+        "probe": "horde"
+      }
+    ]
+  },
+  "limb": {
+    "senses": [
+      {
+        "label": "jointed",
+        "probe": "extremity"
+      },
+      {
+        "label": "graduated",
+        "probe": "arc"
+      }
+    ]
+  },
+  "limbs": {
+    "senses": [
+      {
+        "label": "jointed",
+        "probe": "limb"
+      },
+      {
+        "label": "graduated",
+        "probe": "arc"
+      }
+    ]
+  },
+  "lineage": {
+    "senses": [
+      {
+        "label": "descendants",
+        "probe": "descent"
+      },
+      {
+        "label": "kinship",
+        "probe": "kinship"
+      },
+      {
+        "label": "inherited",
+        "probe": "ancestry"
+      }
+    ]
+  },
+  "lineages": {
+    "senses": [
+      {
+        "label": "descendants",
+        "probe": "lineage"
+      },
+      {
+        "label": "kinship",
+        "probe": "descent"
+      },
+      {
+        "label": "inherited",
+        "probe": "ancestry"
+      }
+    ]
+  },
+  "linguists": {
+    "senses": [
+      {
+        "label": "specialist",
+        "probe": "linguist"
+      },
+      {
+        "label": "speaks",
+        "probe": "polyglot"
+      }
+    ]
+  },
+  "literatures": {
+    "senses": [
+      {
+        "label": "creative",
+        "probe": "literature"
+      },
+      {
+        "label": "humanistic",
+        "probe": "humanistic"
+      }
+    ]
+  },
+  "liturgies": {
+    "senses": [
+      {
+        "label": "christian",
+        "probe": "liturgy"
+      },
+      {
+        "label": "rite",
+        "probe": "rite"
+      }
+    ]
+  },
+  "liturgy": {
+    "senses": [
+      {
+        "label": "christian",
+        "probe": "sacrament"
+      },
+      {
+        "label": "rite",
+        "probe": "rite"
+      }
+    ]
+  },
+  "loot": {
+    "senses": [
+      {
+        "label": "goods",
+        "probe": "pillage"
+      },
+      {
+        "label": "take",
+        "probe": "plunder"
+      }
+    ]
+  },
+  "looted": {
+    "senses": [
+      {
+        "label": "take",
+        "probe": "loot"
+      },
+      {
+        "label": "steal",
+        "probe": "plunder"
+      },
+      {
+        "label": "wrongfully",
+        "probe": "pillaged"
+      }
+    ]
+  },
+  "looting": {
+    "senses": [
+      {
+        "label": "plundering",
+        "probe": "plundering"
+      },
+      {
+        "label": "take",
+        "probe": "loot"
+      },
+      {
+        "label": "steal",
+        "probe": "plunder"
+      }
+    ]
+  },
+  "luxuries": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "indulgence"
+      },
+      {
+        "label": "possessed",
+        "probe": "possessed"
+      },
+      {
+        "label": "wealth",
+        "probe": "opulence"
+      }
+    ]
+  },
+  "magnificence": {
+    "senses": [
+      {
+        "label": "splendid",
+        "probe": "richness"
+      },
+      {
+        "label": "being",
+        "probe": "splendor"
+      }
+    ]
+  },
+  "manhood": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "adulthood"
+      },
+      {
+        "label": "being",
+        "probe": "humanity"
+      }
+    ]
+  },
+  "manifestations": {
+    "senses": [
+      {
+        "label": "clear",
+        "probe": "manifestation"
+      },
+      {
+        "label": "manifest",
+        "probe": "manifest"
+      }
+    ]
+  },
+  "manifested": {
+    "senses": [
+      {
+        "label": "provide",
+        "probe": "attest"
+      },
+      {
+        "label": "record",
+        "probe": "manifest"
+      }
+    ]
+  },
+  "markers": {
+    "senses": [
+      {
+        "label": "some",
+        "probe": "artifact"
+      },
+      {
+        "label": "distinguishing",
+        "probe": "distinguishing"
+      }
+    ]
+  },
+  "martyred": {
+    "senses": [
+      {
+        "label": "kill",
+        "probe": "martyr"
+      },
+      {
+        "label": "torture",
+        "probe": "torment"
+      }
+    ]
+  },
+  "martyrs": {
+    "senses": [
+      {
+        "label": "suffers",
+        "probe": "martyr"
+      },
+      {
+        "label": "torture",
+        "probe": "torment"
+      }
+    ]
+  },
+  "marvels": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "occurrence"
+      },
+      {
+        "label": "express",
+        "probe": "utter"
+      }
+    ]
+  },
+  "materialistic": {
+    "senses": [
+      {
+        "label": "marked",
+        "probe": "worldly"
+      },
+      {
+        "label": "conforming",
+        "probe": "bourgeois"
+      }
+    ]
+  },
+  "maternal": {
+    "senses": [
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      },
+      {
+        "label": "relating",
+        "probe": "paternal"
+      }
+    ]
+  },
+  "mediaeval": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "medieval"
+      },
+      {
+        "label": "belonging",
+        "probe": "gothic"
+      }
+    ]
+  },
+  "medieval": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "mediaeval"
+      },
+      {
+        "label": "belonging",
+        "probe": "gothic"
+      },
+      {
+        "label": "characteristic",
+        "probe": "chivalric"
+      }
+    ]
+  },
+  "meditations": {
+    "senses": [
+      {
+        "label": "continuous",
+        "probe": "meditation"
+      },
+      {
+        "label": "contemplation",
+        "probe": "contemplation"
+      }
+    ]
+  },
+  "memorials": {
+    "senses": [
+      {
+        "label": "recognition",
+        "probe": "commemoration"
+      },
+      {
+        "label": "structure",
+        "probe": "monument"
+      }
+    ]
+  },
+  "messiah": {
+    "senses": [
+      {
+        "label": "expected",
+        "probe": "savior"
+      },
+      {
+        "label": "jesus",
+        "probe": "jesus"
+      },
+      {
+        "label": "oratorio",
+        "probe": "oratorio"
+      }
+    ]
+  },
+  "metamorphoses": {
+    "senses": [
+      {
+        "label": "marked",
+        "probe": "metamorphosis"
+      },
+      {
+        "label": "striking",
+        "probe": "transfiguration"
+      }
+    ]
+  },
+  "miraculous": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "supernatural"
+      },
+      {
+        "label": "peculiarly",
+        "probe": "peculiarly"
+      }
+    ]
+  },
+  "modern": {
+    "senses": [
+      {
+        "label": "contemporary",
+        "probe": "contemporary"
+      },
+      {
+        "label": "relating",
+        "probe": "fashionable"
+      },
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      }
+    ]
+  },
+  "modernism": {
+    "senses": [
+      {
+        "label": "genre",
+        "probe": "genre"
+      },
+      {
+        "label": "being",
+        "probe": "modernity"
+      }
+    ]
+  },
+  "monastic": {
+    "senses": [
+      {
+        "label": "male",
+        "probe": "monk"
+      },
+      {
+        "label": "communal",
+        "probe": "cloistered"
+      }
+    ]
+  },
+  "monstrous": {
+    "senses": [
+      {
+        "label": "shockingly",
+        "probe": "atrocious"
+      },
+      {
+        "label": "distorted",
+        "probe": "grotesque"
+      }
+    ]
+  },
+  "monuments": {
+    "senses": [
+      {
+        "label": "structure",
+        "probe": "monument"
+      },
+      {
+        "label": "burial",
+        "probe": "burial"
+      }
+    ]
+  },
+  "mormon": {
+    "senses": [
+      {
+        "label": "ancient",
+        "probe": "ancient"
+      },
+      {
+        "label": "member",
+        "probe": "protestant"
+      }
+    ]
+  },
+  "mystical": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "mystic"
+      },
+      {
+        "label": "having",
+        "probe": "occult"
+      }
+    ]
+  },
+  "nativity": {
+    "senses": [
+      {
+        "label": "event",
+        "probe": "alteration"
+      },
+      {
+        "label": "theological",
+        "probe": "theological"
+      }
+    ]
+  },
+  "naturalism": {
+    "senses": [
+      {
+        "label": "doctrine",
+        "probe": "doctrine"
+      },
+      {
+        "label": "artistic",
+        "probe": "realism"
+      }
+    ]
+  },
+  "nihilism": {
+    "senses": [
+      {
+        "label": "revolutionary",
+        "probe": "doctrine"
+      },
+      {
+        "label": "delusion",
+        "probe": "delusion"
+      },
+      {
+        "label": "complete",
+        "probe": "anarchy"
+      }
+    ]
+  },
+  "nobility": {
+    "senses": [
+      {
+        "label": "privileged",
+        "probe": "aristocracy"
+      },
+      {
+        "label": "elevation",
+        "probe": "grandeur"
+      }
+    ]
+  },
+  "noble": {
+    "senses": [
+      {
+        "label": "titled",
+        "probe": "nobleman"
+      },
+      {
+        "label": "impressive",
+        "probe": "baronial"
+      },
+      {
+        "label": "belonging",
+        "probe": "monarchical"
+      },
+      {
+        "label": "having",
+        "probe": "exalted"
+      }
+    ]
+  },
+  "noblest": {
+    "senses": [
+      {
+        "label": "impressive",
+        "probe": "baronial"
+      },
+      {
+        "label": "belonging",
+        "probe": "noble"
+      },
+      {
+        "label": "having",
+        "probe": "exalted"
+      }
+    ]
+  },
+  "notions": {
+    "senses": [
+      {
+        "label": "general",
+        "probe": "conception"
+      },
+      {
+        "label": "fanciful",
+        "probe": "whimsy"
+      }
+    ]
+  },
+  "nudes": {
+    "senses": [
+      {
+        "label": "painting",
+        "probe": "painting"
+      },
+      {
+        "label": "statue",
+        "probe": "statue"
+      }
+    ]
+  },
+  "obelisk": {
+    "senses": [
+      {
+        "label": "stone",
+        "probe": "pillar"
+      },
+      {
+        "label": "character",
+        "probe": "dagger"
+      }
+    ]
+  },
+  "obliterated": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "veil"
+      },
+      {
+        "label": "reduced",
+        "probe": "destroyed"
+      }
+    ]
+  },
+  "occult": {
+    "senses": [
+      {
+        "label": "supernatural",
+        "probe": "supernatural"
+      },
+      {
+        "label": "having",
+        "probe": "mystic"
+      }
+    ]
+  },
+  "occupations": {
+    "senses": [
+      {
+        "label": "principal",
+        "probe": "occupation"
+      },
+      {
+        "label": "occupying",
+        "probe": "occupying"
+      }
+    ]
+  },
+  "occupied": {
+    "senses": [
+      {
+        "label": "live",
+        "probe": "populate"
+      },
+      {
+        "label": "resided",
+        "probe": "resided"
+      }
+    ]
+  },
+  "oddities": {
+    "senses": [
+      {
+        "label": "eccentricity",
+        "probe": "oddity"
+      },
+      {
+        "label": "unusual",
+        "probe": "peculiarity"
+      }
+    ]
+  },
+  "oddity": {
+    "senses": [
+      {
+        "label": "eccentricity",
+        "probe": "eccentricity"
+      },
+      {
+        "label": "unusual",
+        "probe": "peculiarity"
+      }
+    ]
+  },
+  "origin": {
+    "senses": [
+      {
+        "label": "properties",
+        "probe": "descent"
+      },
+      {
+        "label": "descendants",
+        "probe": "lineage"
+      }
+    ]
+  },
+  "origins": {
+    "senses": [
+      {
+        "label": "where",
+        "probe": "origin"
+      },
+      {
+        "label": "properties",
+        "probe": "descent"
+      },
+      {
+        "label": "descendants",
+        "probe": "lineage"
+      }
+    ]
+  },
+  "ornament": {
+    "senses": [
+      {
+        "label": "used",
+        "probe": "decoration"
+      },
+      {
+        "label": "make",
+        "probe": "decorate"
+      },
+      {
+        "label": "ornament",
+        "probe": "adorn"
+      }
+    ]
+  },
+  "ornamental": {
+    "senses": [
+      {
+        "label": "grown",
+        "probe": "flora"
+      },
+      {
+        "label": "serving",
+        "probe": "decorative"
+      }
+    ]
+  },
+  "ornamentation": {
+    "senses": [
+      {
+        "label": "used",
+        "probe": "decoration"
+      },
+      {
+        "label": "adding",
+        "probe": "embellishment"
+      }
+    ]
+  },
+  "ornaments": {
+    "senses": [
+      {
+        "label": "used",
+        "probe": "decoration"
+      },
+      {
+        "label": "make",
+        "probe": "decorate"
+      },
+      {
+        "label": "ornament",
+        "probe": "ornament"
+      }
+    ]
+  },
+  "ottomans": {
+    "senses": [
+      {
+        "label": "turk",
+        "probe": "ottoman"
+      },
+      {
+        "label": "turkish",
+        "probe": "dynasty"
+      }
+    ]
+  },
+  "outposts": {
+    "senses": [
+      {
+        "label": "station",
+        "probe": "outpost"
+      },
+      {
+        "label": "settlement",
+        "probe": "colony"
+      }
+    ]
+  },
+  "pagans": {
+    "senses": [
+      {
+        "label": "does",
+        "probe": "heathen"
+      },
+      {
+        "label": "follows",
+        "probe": "pagan"
+      }
+    ]
+  },
+  "paintings": {
+    "senses": [
+      {
+        "label": "graphic",
+        "probe": "painting"
+      },
+      {
+        "label": "occupation",
+        "probe": "occupation"
+      }
+    ]
+  },
+  "palatine": {
+    "senses": [
+      {
+        "label": "various",
+        "probe": "roman"
+      },
+      {
+        "label": "lord",
+        "probe": "noble"
+      }
+    ]
+  },
+  "pantheon": {
+    "senses": [
+      {
+        "label": "gods",
+        "probe": "gods"
+      },
+      {
+        "label": "monument",
+        "probe": "monument"
+      },
+      {
+        "label": "temple",
+        "probe": "temple"
+      }
+    ]
+  },
+  "parables": {
+    "senses": [
+      {
+        "label": "short",
+        "probe": "fable"
+      },
+      {
+        "label": "stories",
+        "probe": "parable"
+      }
+    ]
+  },
+  "parallels": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "similarity"
+      },
+      {
+        "label": "imaginary",
+        "probe": "imaginary"
+      },
+      {
+        "label": "parallel",
+        "probe": "correspond"
+      }
+    ]
+  },
+  "parentage": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "adulthood"
+      },
+      {
+        "label": "kinship",
+        "probe": "kinship"
+      },
+      {
+        "label": "descendants",
+        "probe": "lineage"
+      }
+    ]
+  },
+  "partitions": {
+    "senses": [
+      {
+        "label": "vertical",
+        "probe": "partition"
+      },
+      {
+        "label": "dividing",
+        "probe": "partitioning"
+      }
+    ]
+  },
+  "pastoral": {
+    "senses": [
+      {
+        "label": "literary",
+        "probe": "literary"
+      },
+      {
+        "label": "relating",
+        "probe": "bucolic"
+      }
+    ]
+  },
+  "paternal": {
+    "senses": [
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      },
+      {
+        "label": "relating",
+        "probe": "maternal"
+      }
+    ]
+  },
+  "patrician": {
+    "senses": [
+      {
+        "label": "member",
+        "probe": "aristocrat"
+      },
+      {
+        "label": "belonging",
+        "probe": "aristocratic"
+      }
+    ]
+  },
+  "pearls": {
+    "senses": [
+      {
+        "label": "shade",
+        "probe": "whiteness"
+      },
+      {
+        "label": "shape",
+        "probe": "sphere"
+      }
+    ]
+  },
+  "peasant": {
+    "senses": [
+      {
+        "label": "country",
+        "probe": "bucolic"
+      },
+      {
+        "label": "crude",
+        "probe": "barbarian"
+      }
+    ]
+  },
+  "peasants": {
+    "senses": [
+      {
+        "label": "country",
+        "probe": "peasant"
+      },
+      {
+        "label": "crude",
+        "probe": "barbarian"
+      }
+    ]
+  },
+  "peculiar": {
+    "senses": [
+      {
+        "label": "beyond",
+        "probe": "singular"
+      },
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      }
+    ]
+  },
+  "peculiarities": {
+    "senses": [
+      {
+        "label": "unusual",
+        "probe": "peculiarity"
+      },
+      {
+        "label": "distinguishing",
+        "probe": "distinguishing"
+      },
+      {
+        "label": "unusual",
+        "probe": "oddity"
+      }
+    ]
+  },
+  "peculiarity": {
+    "senses": [
+      {
+        "label": "unusual",
+        "probe": "characteristic"
+      },
+      {
+        "label": "distinguishing",
+        "probe": "distinguishing"
+      },
+      {
+        "label": "unusual",
+        "probe": "oddity"
+      }
+    ]
+  },
+  "peopled": {
+    "senses": [
+      {
+        "label": "fill",
+        "probe": "populate"
+      },
+      {
+        "label": "furnish",
+        "probe": "dwell"
+      },
+      {
+        "label": "furnished",
+        "probe": "inhabited"
+      }
+    ]
+  },
+  "peoples": {
+    "senses": [
+      {
+        "label": "members",
+        "probe": "folk"
+      },
+      {
+        "label": "common",
+        "probe": "masses"
+      },
+      {
+        "label": "fill",
+        "probe": "populate"
+      },
+      {
+        "label": "furnish",
+        "probe": "dwell"
+      }
+    ]
+  },
+  "perpendicular": {
+    "senses": [
+      {
+        "label": "gothic",
+        "probe": "gothic"
+      },
+      {
+        "label": "intersecting",
+        "probe": "intersecting"
+      }
+    ]
+  },
+  "personified": {
+    "senses": [
+      {
+        "label": "invest",
+        "probe": "embody"
+      },
+      {
+        "label": "represent",
+        "probe": "symbolize"
+      }
+    ]
+  },
+  "pestilence": {
+    "senses": [
+      {
+        "label": "serious",
+        "probe": "plague"
+      },
+      {
+        "label": "pernicious",
+        "probe": "pernicious"
+      }
+    ]
+  },
+  "pilgrims": {
+    "senses": [
+      {
+        "label": "journeys",
+        "probe": "journeys"
+      },
+      {
+        "label": "colonists",
+        "probe": "colonists"
+      }
+    ]
+  },
+  "pillage": {
+    "senses": [
+      {
+        "label": "goods",
+        "probe": "loot"
+      },
+      {
+        "label": "stealing",
+        "probe": "plundering"
+      },
+      {
+        "label": "steal",
+        "probe": "plunder"
+      }
+    ]
+  },
+  "pillaged": {
+    "senses": [
+      {
+        "label": "steal",
+        "probe": "plunder"
+      },
+      {
+        "label": "wrongfully",
+        "probe": "looted"
+      },
+      {
+        "label": "having",
+        "probe": "ravaged"
+      }
+    ]
+  },
+  "pillaging": {
+    "senses": [
+      {
+        "label": "stealing",
+        "probe": "plundering"
+      },
+      {
+        "label": "steal",
+        "probe": "plunder"
+      }
+    ]
+  },
+  "pillars": {
+    "senses": [
+      {
+        "label": "fundamental",
+        "probe": "pillar"
+      },
+      {
+        "label": "prominent",
+        "probe": "admirer"
+      }
+    ]
+  },
+  "plague": {
+    "senses": [
+      {
+        "label": "serious",
+        "probe": "pestilence"
+      },
+      {
+        "label": "large",
+        "probe": "calamity"
+      },
+      {
+        "label": "cause",
+        "probe": "blight"
+      }
+    ]
+  },
+  "plagues": {
+    "senses": [
+      {
+        "label": "serious",
+        "probe": "plague"
+      },
+      {
+        "label": "epidemic",
+        "probe": "pestilence"
+      },
+      {
+        "label": "large",
+        "probe": "calamity"
+      },
+      {
+        "label": "cause",
+        "probe": "blight"
+      }
+    ]
+  },
+  "plaguing": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "blight"
+      },
+      {
+        "label": "annoy",
+        "probe": "plague"
+      }
+    ]
+  },
+  "plantations": {
+    "senses": [
+      {
+        "label": "estate",
+        "probe": "plantation"
+      },
+      {
+        "label": "newly",
+        "probe": "colony"
+      }
+    ]
+  },
+  "planters": {
+    "senses": [
+      {
+        "label": "owner",
+        "probe": "planter"
+      },
+      {
+        "label": "decorative",
+        "probe": "decorative"
+      }
+    ]
+  },
+  "plunder": {
+    "senses": [
+      {
+        "label": "goods",
+        "probe": "loot"
+      },
+      {
+        "label": "steal",
+        "probe": "pillage"
+      },
+      {
+        "label": "destroy",
+        "probe": "ruin"
+      }
+    ]
+  },
+  "plundered": {
+    "senses": [
+      {
+        "label": "take",
+        "probe": "loot"
+      },
+      {
+        "label": "plunder",
+        "probe": "plunder"
+      },
+      {
+        "label": "steal",
+        "probe": "pillage"
+      },
+      {
+        "label": "destroy",
+        "probe": "ruin"
+      },
+      {
+        "label": "wrongfully",
+        "probe": "looted"
+      }
+    ]
+  },
+  "plundering": {
+    "senses": [
+      {
+        "label": "stealing",
+        "probe": "pillage"
+      },
+      {
+        "label": "take",
+        "probe": "loot"
+      },
+      {
+        "label": "plunder",
+        "probe": "plunder"
+      },
+      {
+        "label": "destroy",
+        "probe": "ruin"
+      }
+    ]
+  },
+  "poetic": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "poetical"
+      },
+      {
+        "label": "characterized",
+        "probe": "figurative"
+      },
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      }
+    ]
+  },
+  "poetical": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "poetic"
+      },
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      }
+    ]
+  },
+  "pontifical": {
+    "senses": [
+      {
+        "label": "vestments",
+        "probe": "vestments"
+      },
+      {
+        "label": "proceeding",
+        "probe": "papal"
+      }
+    ]
+  },
+  "populated": {
+    "senses": [
+      {
+        "label": "inhabit",
+        "probe": "populate"
+      },
+      {
+        "label": "furnished",
+        "probe": "inhabited"
+      }
+    ]
+  },
+  "populations": {
+    "senses": [
+      {
+        "label": "inhabit",
+        "probe": "inhabit"
+      },
+      {
+        "label": "entire",
+        "probe": "accumulation"
+      },
+      {
+        "label": "populating",
+        "probe": "colonization"
+      }
+    ]
+  },
+  "portrait": {
+    "senses": [
+      {
+        "label": "word",
+        "probe": "portraiture"
+      },
+      {
+        "label": "likeness",
+        "probe": "semblance"
+      }
+    ]
+  },
+  "portraits": {
+    "senses": [
+      {
+        "label": "word",
+        "probe": "portraiture"
+      },
+      {
+        "label": "likeness",
+        "probe": "portrait"
+      }
+    ]
+  },
+  "portraiture": {
+    "senses": [
+      {
+        "label": "word",
+        "probe": "portrait"
+      },
+      {
+        "label": "activity",
+        "probe": "depiction"
+      }
+    ]
+  },
+  "portrayals": {
+    "senses": [
+      {
+        "label": "word",
+        "probe": "portraiture"
+      },
+      {
+        "label": "representation",
+        "probe": "depicting"
+      },
+      {
+        "label": "likeness",
+        "probe": "portrait"
+      },
+      {
+        "label": "representation",
+        "probe": "depiction"
+      }
+    ]
+  },
+  "precedes": {
+    "senses": [
+      {
+        "label": "earlier",
+        "probe": "predate"
+      },
+      {
+        "label": "furnish",
+        "probe": "preface"
+      }
+    ]
+  },
+  "preoccupations": {
+    "senses": [
+      {
+        "label": "idea",
+        "probe": "preoccupation"
+      },
+      {
+        "label": "taking",
+        "probe": "occupation"
+      }
+    ]
+  },
+  "prevailing": {
+    "senses": [
+      {
+        "label": "larger",
+        "probe": "reign"
+      },
+      {
+        "label": "most",
+        "probe": "prevalent"
+      }
+    ]
+  },
+  "princely": {
+    "senses": [
+      {
+        "label": "rich",
+        "probe": "gilded"
+      },
+      {
+        "label": "having",
+        "probe": "noble"
+      }
+    ]
+  },
+  "procession": {
+    "senses": [
+      {
+        "label": "origination",
+        "probe": "origin"
+      },
+      {
+        "label": "collection",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "processions": {
+    "senses": [
+      {
+        "label": "origination",
+        "probe": "procession"
+      },
+      {
+        "label": "collection",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "proportions": {
+    "senses": [
+      {
+        "label": "balance",
+        "probe": "symmetry"
+      },
+      {
+        "label": "harmonious",
+        "probe": "harmonious"
+      }
+    ]
+  },
+  "proverbs": {
+    "senses": [
+      {
+        "label": "testament",
+        "probe": "testament"
+      },
+      {
+        "label": "condensed",
+        "probe": "proverb"
+      }
+    ]
+  },
+  "psalms": {
+    "senses": [
+      {
+        "label": "testament",
+        "probe": "testament"
+      },
+      {
+        "label": "lyrical",
+        "probe": "lyrical"
+      },
+      {
+        "label": "sacred",
+        "probe": "sacred"
+      }
+    ]
+  },
+  "pueblos": {
+    "senses": [
+      {
+        "label": "member",
+        "probe": "pueblo"
+      },
+      {
+        "label": "communal",
+        "probe": "communal"
+      }
+    ]
+  },
+  "purest": {
+    "senses": [
+      {
+        "label": "without",
+        "probe": "everlasting"
+      },
+      {
+        "label": "free",
+        "probe": "harmonious"
+      },
+      {
+        "label": "having",
+        "probe": "immaculate"
+      },
+      {
+        "label": "sexual",
+        "probe": "virtuous"
+      }
+    ]
+  },
+  "purification": {
+    "senses": [
+      {
+        "label": "cleaning",
+        "probe": "cleansing"
+      },
+      {
+        "label": "removing",
+        "probe": "refinement"
+      }
+    ]
+  },
+  "puritan": {
+    "senses": [
+      {
+        "label": "member",
+        "probe": "protestant"
+      },
+      {
+        "label": "adheres",
+        "probe": "ascetic"
+      }
+    ]
+  },
+  "puritans": {
+    "senses": [
+      {
+        "label": "member",
+        "probe": "puritan"
+      },
+      {
+        "label": "adheres",
+        "probe": "ascetic"
+      }
+    ]
+  },
+  "quantities": {
+    "senses": [
+      {
+        "label": "much",
+        "probe": "quantity"
+      },
+      {
+        "label": "concept",
+        "probe": "conception"
+      }
+    ]
+  },
+  "quantity": {
+    "senses": [
+      {
+        "label": "much",
+        "probe": "abstraction"
+      },
+      {
+        "label": "concept",
+        "probe": "conception"
+      }
+    ]
+  },
+  "quarries": {
+    "senses": [
+      {
+        "label": "attack",
+        "probe": "quarry"
+      },
+      {
+        "label": "surface",
+        "probe": "excavation"
+      }
+    ]
+  },
+  "quarrying": {
+    "senses": [
+      {
+        "label": "extraction",
+        "probe": "extraction"
+      },
+      {
+        "label": "extract",
+        "probe": "quarry"
+      }
+    ]
+  },
+  "raged": {
+    "senses": [
+      {
+        "label": "treat",
+        "probe": "torment"
+      },
+      {
+        "label": "break",
+        "probe": "fragment"
+      }
+    ]
+  },
+  "raging": {
+    "senses": [
+      {
+        "label": "treat",
+        "probe": "torment"
+      },
+      {
+        "label": "break",
+        "probe": "fragment"
+      }
+    ]
+  },
+  "rags": {
+    "senses": [
+      {
+        "label": "music",
+        "probe": "ragtime"
+      },
+      {
+        "label": "treat",
+        "probe": "torment"
+      },
+      {
+        "label": "break",
+        "probe": "fragment"
+      }
+    ]
+  },
+  "rarity": {
+    "senses": [
+      {
+        "label": "noteworthy",
+        "probe": "scarcity"
+      },
+      {
+        "label": "unusual",
+        "probe": "oddity"
+      }
+    ]
+  },
+  "rationalism": {
+    "senses": [
+      {
+        "label": "doctrine",
+        "probe": "doctrine"
+      },
+      {
+        "label": "theological",
+        "probe": "theological"
+      }
+    ]
+  },
+  "ravaged": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "ruin"
+      },
+      {
+        "label": "cause",
+        "probe": "desolate"
+      },
+      {
+        "label": "having",
+        "probe": "pillaged"
+      }
+    ]
+  },
+  "ravages": {
+    "senses": [
+      {
+        "label": "destructive",
+        "probe": "destruction"
+      },
+      {
+        "label": "make",
+        "probe": "ruin"
+      },
+      {
+        "label": "cause",
+        "probe": "desolate"
+      }
+    ]
+  },
+  "ravaging": {
+    "senses": [
+      {
+        "label": "plundering",
+        "probe": "devastation"
+      },
+      {
+        "label": "make",
+        "probe": "ruin"
+      },
+      {
+        "label": "cause",
+        "probe": "desolate"
+      }
+    ]
+  },
+  "razing": {
+    "senses": [
+      {
+        "label": "event",
+        "probe": "destruction"
+      },
+      {
+        "label": "complete",
+        "probe": "demolishing"
+      }
+    ]
+  },
+  "realisation": {
+    "senses": [
+      {
+        "label": "musical",
+        "probe": "realization"
+      },
+      {
+        "label": "that",
+        "probe": "fruition"
+      }
+    ]
+  },
+  "realism": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "actuality"
+      },
+      {
+        "label": "philosophical",
+        "probe": "philosophical"
+      },
+      {
+        "label": "artistic",
+        "probe": "naturalism"
+      }
+    ]
+  },
+  "realist": {
+    "senses": [
+      {
+        "label": "philosopher",
+        "probe": "philosopher"
+      },
+      {
+        "label": "painter",
+        "probe": "painter"
+      }
+    ]
+  },
+  "realization": {
+    "senses": [
+      {
+        "label": "coming",
+        "probe": "realisation"
+      },
+      {
+        "label": "that",
+        "probe": "fruition"
+      }
+    ]
+  },
+  "realm": {
+    "senses": [
+      {
+        "label": "domain",
+        "probe": "kingdom"
+      },
+      {
+        "label": "domain",
+        "probe": "demesne"
+      }
+    ]
+  },
+  "realms": {
+    "senses": [
+      {
+        "label": "domain",
+        "probe": "kingdom"
+      },
+      {
+        "label": "domain",
+        "probe": "realm"
+      }
+    ]
+  },
+  "rebellions": {
+    "senses": [
+      {
+        "label": "refusal",
+        "probe": "rebellion"
+      },
+      {
+        "label": "organized",
+        "probe": "insurrection"
+      }
+    ]
+  },
+  "rebirth": {
+    "senses": [
+      {
+        "label": "second",
+        "probe": "reincarnation"
+      },
+      {
+        "label": "revival",
+        "probe": "renaissance"
+      }
+    ]
+  },
+  "reclamation": {
+    "senses": [
+      {
+        "label": "conversion",
+        "probe": "restoration"
+      },
+      {
+        "label": "rescuing",
+        "probe": "reformation"
+      }
+    ]
+  },
+  "recollections": {
+    "senses": [
+      {
+        "label": "ability",
+        "probe": "remembrance"
+      },
+      {
+        "label": "remembering",
+        "probe": "remembering"
+      }
+    ]
+  },
+  "refinement": {
+    "senses": [
+      {
+        "label": "highly",
+        "probe": "cultivation"
+      },
+      {
+        "label": "removing",
+        "probe": "purification"
+      },
+      {
+        "label": "subtle",
+        "probe": "subtlety"
+      },
+      {
+        "label": "excellence",
+        "probe": "civilization"
+      }
+    ]
+  },
+  "reflections": {
+    "senses": [
+      {
+        "label": "calm",
+        "probe": "contemplation"
+      },
+      {
+        "label": "expression",
+        "probe": "manifestation"
+      }
+    ]
+  },
+  "reincarnation": {
+    "senses": [
+      {
+        "label": "embodiment",
+        "probe": "embodiment"
+      },
+      {
+        "label": "second",
+        "probe": "rebirth"
+      }
+    ]
+  },
+  "relic": {
+    "senses": [
+      {
+        "label": "antiquity",
+        "probe": "antiquity"
+      },
+      {
+        "label": "sentimental",
+        "probe": "sentimental"
+      }
+    ]
+  },
+  "relics": {
+    "senses": [
+      {
+        "label": "antiquity",
+        "probe": "relic"
+      },
+      {
+        "label": "sentimental",
+        "probe": "sentimental"
+      }
+    ]
+  },
+  "reliefs": {
+    "senses": [
+      {
+        "label": "change",
+        "probe": "alteration"
+      },
+      {
+        "label": "sculpture",
+        "probe": "sculpture"
+      }
+    ]
+  },
+  "reparations": {
+    "senses": [
+      {
+        "label": "compensation",
+        "probe": "reparation"
+      },
+      {
+        "label": "done",
+        "probe": "atonement"
+      }
+    ]
+  },
+  "repertoire": {
+    "senses": [
+      {
+        "label": "entire",
+        "probe": "accumulation"
+      },
+      {
+        "label": "collection",
+        "probe": "assemblage"
+      }
+    ]
+  },
+  "repression": {
+    "senses": [
+      {
+        "label": "forcible",
+        "probe": "subjugation"
+      },
+      {
+        "label": "classical",
+        "probe": "classical"
+      }
+    ]
+  },
+  "repressions": {
+    "senses": [
+      {
+        "label": "forcible",
+        "probe": "repression"
+      },
+      {
+        "label": "classical",
+        "probe": "classical"
+      }
+    ]
+  },
+  "reproductions": {
+    "senses": [
+      {
+        "label": "generating",
+        "probe": "reproduction"
+      },
+      {
+        "label": "copy",
+        "probe": "replica"
+      }
+    ]
+  },
+  "resided": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "populate"
+      },
+      {
+        "label": "live",
+        "probe": "dwell"
+      }
+    ]
+  },
+  "restoration": {
+    "senses": [
+      {
+        "label": "reign",
+        "probe": "reign"
+      },
+      {
+        "label": "getting",
+        "probe": "restitution"
+      },
+      {
+        "label": "some",
+        "probe": "artifact"
+      }
+    ]
+  },
+  "restorations": {
+    "senses": [
+      {
+        "label": "reign",
+        "probe": "restoration"
+      },
+      {
+        "label": "getting",
+        "probe": "restitution"
+      },
+      {
+        "label": "some",
+        "probe": "artifact"
+      }
+    ]
+  },
+  "revered": {
+    "senses": [
+      {
+        "label": "love",
+        "probe": "revere"
+      },
+      {
+        "label": "regard",
+        "probe": "reverence"
+      },
+      {
+        "label": "profoundly",
+        "probe": "venerable"
+      }
+    ]
+  },
+  "reverence": {
+    "senses": [
+      {
+        "label": "feeling",
+        "probe": "veneration"
+      },
+      {
+        "label": "regard",
+        "probe": "revere"
+      }
+    ]
+  },
+  "revolts": {
+    "senses": [
+      {
+        "label": "organized",
+        "probe": "rebellion"
+      },
+      {
+        "label": "make",
+        "probe": "revolt"
+      }
+    ]
+  },
+  "richness": {
+    "senses": [
+      {
+        "label": "property",
+        "probe": "profusion"
+      },
+      {
+        "label": "abundant",
+        "probe": "affluence"
+      },
+      {
+        "label": "property",
+        "probe": "fertility"
+      },
+      {
+        "label": "splendid",
+        "probe": "magnificence"
+      }
+    ]
+  },
+  "rites": {
+    "senses": [
+      {
+        "label": "established",
+        "probe": "rite"
+      },
+      {
+        "label": "customary",
+        "probe": "ritual"
+      }
+    ]
+  },
+  "romance": {
+    "senses": [
+      {
+        "label": "exciting",
+        "probe": "romanticism"
+      },
+      {
+        "label": "novel",
+        "probe": "novel"
+      }
+    ]
+  },
+  "romances": {
+    "senses": [
+      {
+        "label": "relationship",
+        "probe": "romance"
+      },
+      {
+        "label": "exciting",
+        "probe": "romanticism"
+      },
+      {
+        "label": "novel",
+        "probe": "novel"
+      }
+    ]
+  },
+  "romans": {
+    "senses": [
+      {
+        "label": "testament",
+        "probe": "testament"
+      },
+      {
+        "label": "resident",
+        "probe": "roman"
+      }
+    ]
+  },
+  "romanticism": {
+    "senses": [
+      {
+        "label": "impractical",
+        "probe": "idealism"
+      },
+      {
+        "label": "movement",
+        "probe": "idiom"
+      },
+      {
+        "label": "exciting",
+        "probe": "romance"
+      }
+    ]
+  },
+  "rot": {
+    "senses": [
+      {
+        "label": "decay",
+        "probe": "decay"
+      },
+      {
+        "label": "decay",
+        "probe": "rotting"
+      },
+      {
+        "label": "become",
+        "probe": "degenerate"
+      }
+    ]
+  },
+  "rotting": {
+    "senses": [
+      {
+        "label": "decay",
+        "probe": "rot"
+      },
+      {
+        "label": "break",
+        "probe": "decay"
+      },
+      {
+        "label": "become",
+        "probe": "degenerate"
+      }
+    ]
+  },
+  "ruin": {
+    "senses": [
+      {
+        "label": "irrecoverable",
+        "probe": "devastation"
+      },
+      {
+        "label": "ruined",
+        "probe": "ruined"
+      },
+      {
+        "label": "becoming",
+        "probe": "decay"
+      },
+      {
+        "label": "event",
+        "probe": "destruction"
+      },
+      {
+        "label": "reduce",
+        "probe": "desolate"
+      }
+    ]
+  },
+  "ruined": {
+    "senses": [
+      {
+        "label": "destroy",
+        "probe": "ruin"
+      },
+      {
+        "label": "reduce",
+        "probe": "desolate"
+      },
+      {
+        "label": "fall",
+        "probe": "decay"
+      },
+      {
+        "label": "destroyed",
+        "probe": "destroyed"
+      },
+      {
+        "label": "doomed",
+        "probe": "sunk"
+      }
+    ]
+  },
+  "ruins": {
+    "senses": [
+      {
+        "label": "irrecoverable",
+        "probe": "ruin"
+      },
+      {
+        "label": "ruined",
+        "probe": "ruined"
+      },
+      {
+        "label": "becoming",
+        "probe": "decay"
+      },
+      {
+        "label": "event",
+        "probe": "destruction"
+      },
+      {
+        "label": "destruction",
+        "probe": "devastation"
+      },
+      {
+        "label": "reduce",
+        "probe": "desolate"
+      }
+    ]
+  },
+  "runes": {
+    "senses": [
+      {
+        "label": "animals",
+        "probe": "liberate"
+      },
+      {
+        "label": "keep",
+        "probe": "consort"
+      },
+      {
+        "label": "reduce",
+        "probe": "melt"
+      },
+      {
+        "label": "become",
+        "probe": "disintegrate"
+      }
+    ]
+  },
+  "sacred": {
+    "senses": [
+      {
+        "label": "made",
+        "probe": "consecrated"
+      },
+      {
+        "label": "worthy",
+        "probe": "hallowed"
+      }
+    ]
+  },
+  "saint": {
+    "senses": [
+      {
+        "label": "died",
+        "probe": "deity"
+      },
+      {
+        "label": "model",
+        "probe": "apotheosis"
+      },
+      {
+        "label": "hold",
+        "probe": "reverence"
+      }
+    ]
+  },
+  "samurai": {
+    "senses": [
+      {
+        "label": "japanese",
+        "probe": "warrior"
+      },
+      {
+        "label": "feudal",
+        "probe": "feudal"
+      }
+    ]
+  },
+  "sanctuaries": {
+    "senses": [
+      {
+        "label": "consecrated",
+        "probe": "sanctuary"
+      },
+      {
+        "label": "area",
+        "probe": "chancel"
+      }
+    ]
+  },
+  "sanctuary": {
+    "senses": [
+      {
+        "label": "consecrated",
+        "probe": "consecrated"
+      },
+      {
+        "label": "area",
+        "probe": "chancel"
+      }
+    ]
+  },
+  "savagery": {
+    "senses": [
+      {
+        "label": "property",
+        "probe": "ferocity"
+      },
+      {
+        "label": "trait",
+        "probe": "brutality"
+      },
+      {
+        "label": "brutal",
+        "probe": "barbarity"
+      }
+    ]
+  },
+  "savior": {
+    "senses": [
+      {
+        "label": "teacher",
+        "probe": "jesus"
+      },
+      {
+        "label": "rescues",
+        "probe": "saviour"
+      }
+    ]
+  },
+  "saviour": {
+    "senses": [
+      {
+        "label": "teacher",
+        "probe": "jesus"
+      },
+      {
+        "label": "rescues",
+        "probe": "savior"
+      }
+    ]
+  },
+  "scenery": {
+    "senses": [
+      {
+        "label": "painted",
+        "probe": "painted"
+      },
+      {
+        "label": "appearance",
+        "probe": "vicinity"
+      }
+    ]
+  },
+  "scourge": {
+    "senses": [
+      {
+        "label": "causing",
+        "probe": "curse"
+      },
+      {
+        "label": "cause",
+        "probe": "desolate"
+      }
+    ]
+  },
+  "scourges": {
+    "senses": [
+      {
+        "label": "whip",
+        "probe": "scourge"
+      },
+      {
+        "label": "causing",
+        "probe": "curse"
+      },
+      {
+        "label": "cause",
+        "probe": "desolate"
+      }
+    ]
+  },
+  "scribes": {
+    "senses": [
+      {
+        "label": "french",
+        "probe": "scribe"
+      },
+      {
+        "label": "employed",
+        "probe": "scrivener"
+      }
+    ]
+  },
+  "scrolls": {
+    "senses": [
+      {
+        "label": "round",
+        "probe": "scroll"
+      },
+      {
+        "label": "document",
+        "probe": "manuscript"
+      }
+    ]
+  },
+  "sculpted": {
+    "senses": [
+      {
+        "label": "create",
+        "probe": "sculpture"
+      },
+      {
+        "label": "shape",
+        "probe": "grave"
+      },
+      {
+        "label": "into",
+        "probe": "carved"
+      }
+    ]
+  },
+  "sculpture": {
+    "senses": [
+      {
+        "label": "creating",
+        "probe": "carving"
+      },
+      {
+        "label": "shape",
+        "probe": "grave"
+      }
+    ]
+  },
+  "sculptures": {
+    "senses": [
+      {
+        "label": "three",
+        "probe": "sculpture"
+      },
+      {
+        "label": "creating",
+        "probe": "carving"
+      },
+      {
+        "label": "shape",
+        "probe": "grave"
+      }
+    ]
+  },
+  "semblance": {
+    "senses": [
+      {
+        "label": "outward",
+        "probe": "gloss"
+      },
+      {
+        "label": "erroneous",
+        "probe": "illusion"
+      }
+    ]
+  },
+  "serenity": {
+    "senses": [
+      {
+        "label": "disposition",
+        "probe": "tranquillity"
+      },
+      {
+        "label": "absence",
+        "probe": "tranquility"
+      }
+    ]
+  },
+  "settlements": {
+    "senses": [
+      {
+        "label": "body",
+        "probe": "colony"
+      },
+      {
+        "label": "colonizing",
+        "probe": "colonization"
+      }
+    ]
+  },
+  "shades": {
+    "senses": [
+      {
+        "label": "spectacles",
+        "probe": "spectacles"
+      },
+      {
+        "label": "subtle",
+        "probe": "subtlety"
+      },
+      {
+        "label": "position",
+        "probe": "inferiority"
+      },
+      {
+        "label": "mental",
+        "probe": "ghost"
+      }
+    ]
+  },
+  "shadows": {
+    "senses": [
+      {
+        "label": "unilluminated",
+        "probe": "darkness"
+      },
+      {
+        "label": "existing",
+        "probe": "apparition"
+      },
+      {
+        "label": "premonition",
+        "probe": "foreboding"
+      },
+      {
+        "label": "indication",
+        "probe": "vestige"
+      },
+      {
+        "label": "inseparable",
+        "probe": "inseparable"
+      }
+    ]
+  },
+  "shipwreck": {
+    "senses": [
+      {
+        "label": "wrecked",
+        "probe": "wrecked"
+      },
+      {
+        "label": "irretrievable",
+        "probe": "ruin"
+      }
+    ]
+  },
+  "shipwrecked": {
+    "senses": [
+      {
+        "label": "ruin",
+        "probe": "shipwreck"
+      },
+      {
+        "label": "destroy",
+        "probe": "ruin"
+      }
+    ]
+  },
+  "shipwrecks": {
+    "senses": [
+      {
+        "label": "wrecked",
+        "probe": "shipwreck"
+      },
+      {
+        "label": "irretrievable",
+        "probe": "ruin"
+      }
+    ]
+  },
+  "singular": {
+    "senses": [
+      {
+        "label": "beyond",
+        "probe": "peculiar"
+      },
+      {
+        "label": "grammatical",
+        "probe": "grammatical"
+      }
+    ]
+  },
+  "sins": {
+    "senses": [
+      {
+        "label": "estrangement",
+        "probe": "wickedness"
+      },
+      {
+        "label": "that",
+        "probe": "transgression"
+      }
+    ]
+  },
+  "soils": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "filth"
+      },
+      {
+        "label": "geographical",
+        "probe": "geographical"
+      },
+      {
+        "label": "make",
+        "probe": "grime"
+      }
+    ]
+  },
+  "sonnets": {
+    "senses": [
+      {
+        "label": "verse",
+        "probe": "sonnet"
+      },
+      {
+        "label": "compose",
+        "probe": "verse"
+      }
+    ]
+  },
+  "souls": {
+    "senses": [
+      {
+        "label": "immaterial",
+        "probe": "psyche"
+      },
+      {
+        "label": "human",
+        "probe": "mortal"
+      },
+      {
+        "label": "human",
+        "probe": "embodiment"
+      },
+      {
+        "label": "secular",
+        "probe": "gospel"
+      }
+    ]
+  },
+  "sphere": {
+    "senses": [
+      {
+        "label": "spherically",
+        "probe": "artifact"
+      },
+      {
+        "label": "geographical",
+        "probe": "geographical"
+      },
+      {
+        "label": "apparent",
+        "probe": "heavens"
+      }
+    ]
+  },
+  "spheres": {
+    "senses": [
+      {
+        "label": "particular",
+        "probe": "sphere"
+      },
+      {
+        "label": "spherically",
+        "probe": "artifact"
+      },
+      {
+        "label": "geographical",
+        "probe": "geographical"
+      },
+      {
+        "label": "apparent",
+        "probe": "heavens"
+      }
+    ]
+  },
+  "spiritualism": {
+    "senses": [
+      {
+        "label": "doctrine",
+        "probe": "doctrine"
+      },
+      {
+        "label": "concern",
+        "probe": "spirituality"
+      }
+    ]
+  },
+  "splendid": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "glorious"
+      },
+      {
+        "label": "characterized",
+        "probe": "magnificent"
+      }
+    ]
+  },
+  "splendor": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "splendour"
+      },
+      {
+        "label": "being",
+        "probe": "magnificence"
+      }
+    ]
+  },
+  "splendors": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "splendor"
+      },
+      {
+        "label": "being",
+        "probe": "magnificence"
+      }
+    ]
+  },
+  "splendour": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "splendor"
+      },
+      {
+        "label": "being",
+        "probe": "magnificence"
+      }
+    ]
+  },
+  "spoils": {
+    "senses": [
+      {
+        "label": "stripping",
+        "probe": "plundering"
+      },
+      {
+        "label": "become",
+        "probe": "decay"
+      },
+      {
+        "label": "destroy",
+        "probe": "plunder"
+      }
+    ]
+  },
+  "stately": {
+    "senses": [
+      {
+        "label": "impressive",
+        "probe": "baronial"
+      },
+      {
+        "label": "refined",
+        "probe": "courtly"
+      }
+    ]
+  },
+  "stelae": {
+    "senses": [
+      {
+        "label": "usually",
+        "probe": "stele"
+      },
+      {
+        "label": "ancient",
+        "probe": "ancient"
+      }
+    ]
+  },
+  "stockade": {
+    "senses": [
+      {
+        "label": "fortification",
+        "probe": "fortification"
+      },
+      {
+        "label": "penal",
+        "probe": "penal"
+      }
+    ]
+  },
+  "strands": {
+    "senses": [
+      {
+        "label": "necklace",
+        "probe": "necklace"
+      },
+      {
+        "label": "poetic",
+        "probe": "poetic"
+      },
+      {
+        "label": "leave",
+        "probe": "desolate"
+      }
+    ]
+  },
+  "strata": {
+    "senses": [
+      {
+        "label": "several",
+        "probe": "stratum"
+      },
+      {
+        "label": "abstract",
+        "probe": "abstract"
+      }
+    ]
+  },
+  "stretches": {
+    "senses": [
+      {
+        "label": "large",
+        "probe": "expanse"
+      },
+      {
+        "label": "unbroken",
+        "probe": "unbroken"
+      }
+    ]
+  },
+  "stucco": {
+    "senses": [
+      {
+        "label": "plaster",
+        "probe": "plaster"
+      },
+      {
+        "label": "decorate",
+        "probe": "decorate"
+      }
+    ]
+  },
+  "subjugation": {
+    "senses": [
+      {
+        "label": "subjugating",
+        "probe": "oppression"
+      },
+      {
+        "label": "conquering",
+        "probe": "conquest"
+      }
+    ]
+  },
+  "sublime": {
+    "senses": [
+      {
+        "label": "inspiring",
+        "probe": "glorious"
+      },
+      {
+        "label": "worthy",
+        "probe": "sacred"
+      },
+      {
+        "label": "high",
+        "probe": "exalted"
+      }
+    ]
+  },
+  "substratum": {
+    "senses": [
+      {
+        "label": "stratum",
+        "probe": "stratum"
+      },
+      {
+        "label": "indigenous",
+        "probe": "indigenous"
+      }
+    ]
+  },
+  "sufferings": {
+    "senses": [
+      {
+        "label": "acute",
+        "probe": "agony"
+      },
+      {
+        "label": "misery",
+        "probe": "misery"
+      }
+    ]
+  },
+  "sunk": {
+    "senses": [
+      {
+        "label": "under",
+        "probe": "descend"
+      },
+      {
+        "label": "doomed",
+        "probe": "ruined"
+      }
+    ]
+  },
+  "supernatural": {
+    "senses": [
+      {
+        "label": "supernatural",
+        "probe": "occult"
+      },
+      {
+        "label": "existing",
+        "probe": "eerie"
+      }
+    ]
+  },
+  "surreal": {
+    "senses": [
+      {
+        "label": "characterized",
+        "probe": "surrealistic"
+      },
+      {
+        "label": "resembling",
+        "probe": "dreamlike"
+      }
+    ]
+  },
+  "surroundings": {
+    "senses": [
+      {
+        "label": "environmental",
+        "probe": "milieu"
+      },
+      {
+        "label": "area",
+        "probe": "environs"
+      }
+    ]
+  },
+  "symbolising": {
+    "senses": [
+      {
+        "label": "representing",
+        "probe": "symbolizing"
+      },
+      {
+        "label": "represent",
+        "probe": "symbolize"
+      },
+      {
+        "label": "express",
+        "probe": "symbolise"
+      }
+    ]
+  },
+  "symbolized": {
+    "senses": [
+      {
+        "label": "express",
+        "probe": "symbolize"
+      },
+      {
+        "label": "represent",
+        "probe": "symbolise"
+      }
+    ]
+  },
+  "symbolizes": {
+    "senses": [
+      {
+        "label": "express",
+        "probe": "symbolize"
+      },
+      {
+        "label": "represent",
+        "probe": "symbolise"
+      }
+    ]
+  },
+  "symbolizing": {
+    "senses": [
+      {
+        "label": "representing",
+        "probe": "symbolising"
+      },
+      {
+        "label": "express",
+        "probe": "symbolize"
+      },
+      {
+        "label": "represent",
+        "probe": "symbolise"
+      }
+    ]
+  },
+  "tabernacle": {
+    "senses": [
+      {
+        "label": "mormon",
+        "probe": "mormon"
+      },
+      {
+        "label": "portable",
+        "probe": "sanctuary"
+      },
+      {
+        "label": "worship",
+        "probe": "synagogue"
+      }
+    ]
+  },
+  "taboo": {
+    "senses": [
+      {
+        "label": "prejudice",
+        "probe": "prejudice"
+      },
+      {
+        "label": "forbidden",
+        "probe": "sacred"
+      }
+    ]
+  },
+  "tales": {
+    "senses": [
+      {
+        "label": "message",
+        "probe": "narrative"
+      },
+      {
+        "label": "trivial",
+        "probe": "tale"
+      }
+    ]
+  },
+  "taos": {
+    "senses": [
+      {
+        "label": "member",
+        "probe": "pueblo"
+      },
+      {
+        "label": "adherent",
+        "probe": "disciple"
+      }
+    ]
+  },
+  "tapestries": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "tapestry"
+      },
+      {
+        "label": "wall",
+        "probe": "arras"
+      }
+    ]
+  },
+  "temple": {
+    "senses": [
+      {
+        "label": "edifice",
+        "probe": "edifice"
+      },
+      {
+        "label": "worship",
+        "probe": "synagogue"
+      }
+    ]
+  },
+  "temples": {
+    "senses": [
+      {
+        "label": "worship",
+        "probe": "temple"
+      },
+      {
+        "label": "edifice",
+        "probe": "edifice"
+      },
+      {
+        "label": "worship",
+        "probe": "synagogue"
+      }
+    ]
+  },
+  "temporal": {
+    "senses": [
+      {
+        "label": "eternal",
+        "probe": "eternal"
+      },
+      {
+        "label": "characteristic",
+        "probe": "worldly"
+      },
+      {
+        "label": "this",
+        "probe": "earthly"
+      }
+    ]
+  },
+  "thriving": {
+    "senses": [
+      {
+        "label": "grow",
+        "probe": "flourish"
+      },
+      {
+        "label": "very",
+        "probe": "flourishing"
+      }
+    ]
+  },
+  "torment": {
+    "senses": [
+      {
+        "label": "extreme",
+        "probe": "anguish"
+      },
+      {
+        "label": "intense",
+        "probe": "agony"
+      },
+      {
+        "label": "severe",
+        "probe": "curse"
+      }
+    ]
+  },
+  "totalitarianism": {
+    "senses": [
+      {
+        "label": "government",
+        "probe": "dictatorship"
+      },
+      {
+        "label": "principle",
+        "probe": "absolutism"
+      }
+    ]
+  },
+  "traces": {
+    "senses": [
+      {
+        "label": "indication",
+        "probe": "vestige"
+      },
+      {
+        "label": "suggestion",
+        "probe": "ghost"
+      },
+      {
+        "label": "drawing",
+        "probe": "tracing"
+      }
+    ]
+  },
+  "tragedies": {
+    "senses": [
+      {
+        "label": "event",
+        "probe": "calamity"
+      },
+      {
+        "label": "drama",
+        "probe": "tragedy"
+      }
+    ]
+  },
+  "tranquility": {
+    "senses": [
+      {
+        "label": "disposition",
+        "probe": "serenity"
+      },
+      {
+        "label": "untroubled",
+        "probe": "tranquillity"
+      }
+    ]
+  },
+  "tranquillity": {
+    "senses": [
+      {
+        "label": "untroubled",
+        "probe": "tranquility"
+      },
+      {
+        "label": "disposition",
+        "probe": "serenity"
+      }
+    ]
+  },
+  "transcendental": {
+    "senses": [
+      {
+        "label": "existing",
+        "probe": "otherworldly"
+      },
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      }
+    ]
+  },
+  "translations": {
+    "senses": [
+      {
+        "label": "rewording",
+        "probe": "paraphrase"
+      },
+      {
+        "label": "uniform",
+        "probe": "displacement"
+      }
+    ]
+  },
+  "treasure": {
+    "senses": [
+      {
+        "label": "accumulated",
+        "probe": "riches"
+      },
+      {
+        "label": "collection",
+        "probe": "accumulation"
+      },
+      {
+        "label": "fond",
+        "probe": "cherish"
+      }
+    ]
+  },
+  "treasured": {
+    "senses": [
+      {
+        "label": "hold",
+        "probe": "treasure"
+      },
+      {
+        "label": "fond",
+        "probe": "cherish"
+      },
+      {
+        "label": "characterized",
+        "probe": "cherished"
+      }
+    ]
+  },
+  "treasures": {
+    "senses": [
+      {
+        "label": "accumulated",
+        "probe": "treasure"
+      },
+      {
+        "label": "collection",
+        "probe": "accumulation"
+      },
+      {
+        "label": "fond",
+        "probe": "cherish"
+      }
+    ]
+  },
+  "trenches": {
+    "senses": [
+      {
+        "label": "ditch",
+        "probe": "trench"
+      },
+      {
+        "label": "trench",
+        "probe": "excavate"
+      }
+    ]
+  },
+  "tribes": {
+    "senses": [
+      {
+        "label": "social",
+        "probe": "folk"
+      },
+      {
+        "label": "taxonomic",
+        "probe": "taxonomic"
+      },
+      {
+        "label": "related",
+        "probe": "clan"
+      }
+    ]
+  },
+  "typified": {
+    "senses": [
+      {
+        "label": "embody",
+        "probe": "embody"
+      },
+      {
+        "label": "express",
+        "probe": "symbolize"
+      }
+    ]
+  },
+  "tyrannical": {
+    "senses": [
+      {
+        "label": "marked",
+        "probe": "oppressive"
+      },
+      {
+        "label": "characteristic",
+        "probe": "despotic"
+      }
+    ]
+  },
+  "tyranny": {
+    "senses": [
+      {
+        "label": "government",
+        "probe": "dictatorship"
+      },
+      {
+        "label": "dominance",
+        "probe": "absolutism"
+      }
+    ]
+  },
+  "tyrant": {
+    "senses": [
+      {
+        "label": "cruel",
+        "probe": "despot"
+      },
+      {
+        "label": "ancient",
+        "probe": "ancient"
+      }
+    ]
+  },
+  "tyrants": {
+    "senses": [
+      {
+        "label": "cruel",
+        "probe": "tyrant"
+      },
+      {
+        "label": "ancient",
+        "probe": "ancient"
+      }
+    ]
+  },
+  "ugliest": {
+    "senses": [
+      {
+        "label": "displeasing",
+        "probe": "grotesque"
+      },
+      {
+        "label": "morally",
+        "probe": "vile"
+      },
+      {
+        "label": "provoking",
+        "probe": "atrocious"
+      }
+    ]
+  },
+  "unbroken": {
+    "senses": [
+      {
+        "label": "marked",
+        "probe": "uninterrupted"
+      },
+      {
+        "label": "subdued",
+        "probe": "untamed"
+      },
+      {
+        "label": "plowed",
+        "probe": "fallow"
+      }
+    ]
+  },
+  "underworld": {
+    "senses": [
+      {
+        "label": "criminal",
+        "probe": "stratum"
+      },
+      {
+        "label": "world",
+        "probe": "netherworld"
+      }
+    ]
+  },
+  "unearthed": {
+    "senses": [
+      {
+        "label": "bring",
+        "probe": "unearth"
+      },
+      {
+        "label": "recover",
+        "probe": "excavate"
+      }
+    ]
+  },
+  "unearthing": {
+    "senses": [
+      {
+        "label": "bring",
+        "probe": "unearth"
+      },
+      {
+        "label": "recover",
+        "probe": "excavate"
+      }
+    ]
+  },
+  "unfathomable": {
+    "senses": [
+      {
+        "label": "resembling",
+        "probe": "resembling"
+      },
+      {
+        "label": "impossible",
+        "probe": "incomprehensible"
+      }
+    ]
+  },
+  "unholy": {
+    "senses": [
+      {
+        "label": "hallowed",
+        "probe": "hallowed"
+      },
+      {
+        "label": "extremely",
+        "probe": "demonic"
+      },
+      {
+        "label": "having",
+        "probe": "sinful"
+      }
+    ]
+  },
+  "unspeakable": {
+    "senses": [
+      {
+        "label": "exceptionally",
+        "probe": "atrocious"
+      },
+      {
+        "label": "sacred",
+        "probe": "sacred"
+      }
+    ]
+  },
+  "upbringing": {
+    "senses": [
+      {
+        "label": "properties",
+        "probe": "inheritance"
+      },
+      {
+        "label": "helping",
+        "probe": "rearing"
+      }
+    ]
+  },
+  "uplift": {
+    "senses": [
+      {
+        "label": "rise",
+        "probe": "ascension"
+      },
+      {
+        "label": "brassiere",
+        "probe": "brassiere"
+      }
+    ]
+  },
+  "uprising": {
+    "senses": [
+      {
+        "label": "organized",
+        "probe": "rebellion"
+      },
+      {
+        "label": "come",
+        "probe": "originate"
+      }
+    ]
+  },
+  "varieties": {
+    "senses": [
+      {
+        "label": "collection",
+        "probe": "accumulation"
+      },
+      {
+        "label": "taxonomic",
+        "probe": "taxonomic"
+      }
+    ]
+  },
+  "vaults": {
+    "senses": [
+      {
+        "label": "burial",
+        "probe": "burial"
+      },
+      {
+        "label": "arched",
+        "probe": "arched"
+      }
+    ]
+  },
+  "vegetation": {
+    "senses": [
+      {
+        "label": "life",
+        "probe": "flora"
+      },
+      {
+        "label": "inactivity",
+        "probe": "inactivity"
+      }
+    ]
+  },
+  "veneration": {
+    "senses": [
+      {
+        "label": "feeling",
+        "probe": "reverence"
+      },
+      {
+        "label": "religious",
+        "probe": "idolatry"
+      }
+    ]
+  },
+  "vernacular": {
+    "senses": [
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      },
+      {
+        "label": "being",
+        "probe": "vulgar"
+      }
+    ]
+  },
+  "verse": {
+    "senses": [
+      {
+        "label": "literature",
+        "probe": "poetry"
+      },
+      {
+        "label": "piece",
+        "probe": "poem"
+      }
+    ]
+  },
+  "verses": {
+    "senses": [
+      {
+        "label": "literature",
+        "probe": "poetry"
+      },
+      {
+        "label": "piece",
+        "probe": "verse"
+      }
+    ]
+  },
+  "vicar": {
+    "senses": [
+      {
+        "label": "roman",
+        "probe": "roman"
+      },
+      {
+        "label": "clergyman",
+        "probe": "clergyman"
+      }
+    ]
+  },
+  "vices": {
+    "senses": [
+      {
+        "label": "moral",
+        "probe": "frailty"
+      },
+      {
+        "label": "specific",
+        "probe": "transgression"
+      }
+    ]
+  },
+  "voyage": {
+    "senses": [
+      {
+        "label": "traveling",
+        "probe": "seafaring"
+      },
+      {
+        "label": "journey",
+        "probe": "journey"
+      }
+    ]
+  },
+  "voyages": {
+    "senses": [
+      {
+        "label": "traveling",
+        "probe": "voyage"
+      },
+      {
+        "label": "journey",
+        "probe": "journey"
+      }
+    ]
+  },
+  "walls": {
+    "senses": [
+      {
+        "label": "architectural",
+        "probe": "architectural"
+      },
+      {
+        "label": "layer",
+        "probe": "stratum"
+      },
+      {
+        "label": "masonry",
+        "probe": "masonry"
+      },
+      {
+        "label": "embankment",
+        "probe": "bulwark"
+      }
+    ]
+  },
+  "wandering": {
+    "senses": [
+      {
+        "label": "move",
+        "probe": "weave"
+      },
+      {
+        "label": "migratory",
+        "probe": "nomadic"
+      }
+    ]
+  },
+  "watercolor": {
+    "senses": [
+      {
+        "label": "painting",
+        "probe": "watercolour"
+      },
+      {
+        "label": "technique",
+        "probe": "painting"
+      }
+    ]
+  },
+  "watercolors": {
+    "senses": [
+      {
+        "label": "painting",
+        "probe": "watercolor"
+      },
+      {
+        "label": "water",
+        "probe": "watercolour"
+      },
+      {
+        "label": "technique",
+        "probe": "painting"
+      }
+    ]
+  },
+  "watercolour": {
+    "senses": [
+      {
+        "label": "water",
+        "probe": "watercolor"
+      },
+      {
+        "label": "painting",
+        "probe": "painting"
+      }
+    ]
+  },
+  "watersheds": {
+    "senses": [
+      {
+        "label": "entire",
+        "probe": "basin"
+      },
+      {
+        "label": "event",
+        "probe": "juncture"
+      }
+    ]
+  },
+  "wickedness": {
+    "senses": [
+      {
+        "label": "morally",
+        "probe": "transgression"
+      },
+      {
+        "label": "absence",
+        "probe": "darkness"
+      },
+      {
+        "label": "being",
+        "probe": "ugliness"
+      },
+      {
+        "label": "estrangement",
+        "probe": "estrangement"
+      }
+    ]
+  },
+  "witches": {
+    "senses": [
+      {
+        "label": "female",
+        "probe": "witch"
+      },
+      {
+        "label": "believer",
+        "probe": "wiccan"
+      }
+    ]
+  },
+  "womanhood": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "adulthood"
+      },
+      {
+        "label": "women",
+        "probe": "stratum"
+      }
+    ]
+  },
+  "woodcuts": {
+    "senses": [
+      {
+        "label": "print",
+        "probe": "woodcut"
+      },
+      {
+        "label": "engraving",
+        "probe": "engraving"
+      }
+    ]
+  },
+  "worshiped": {
+    "senses": [
+      {
+        "label": "love",
+        "probe": "revere"
+      },
+      {
+        "label": "show",
+        "probe": "reverence"
+      }
+    ]
+  },
+  "worshiping": {
+    "senses": [
+      {
+        "label": "love",
+        "probe": "revere"
+      },
+      {
+        "label": "show",
+        "probe": "reverence"
+      }
+    ]
+  },
+  "worshipped": {
+    "senses": [
+      {
+        "label": "love",
+        "probe": "revere"
+      },
+      {
+        "label": "show",
+        "probe": "reverence"
+      }
+    ]
+  },
+  "worshipping": {
+    "senses": [
+      {
+        "label": "love",
+        "probe": "revere"
+      },
+      {
+        "label": "show",
+        "probe": "reverence"
+      }
+    ]
+  },
+  "wrecked": {
+    "senses": [
+      {
+        "label": "smash",
+        "probe": "ruin"
+      },
+      {
+        "label": "destroyed",
+        "probe": "destroyed"
+      }
+    ]
+  },
+  "wrecks": {
+    "senses": [
+      {
+        "label": "accident",
+        "probe": "shipwreck"
+      },
+      {
+        "label": "smash",
+        "probe": "ruin"
+      }
+    ]
+  },
+  "yearning": {
+    "senses": [
+      {
+        "label": "prolonged",
+        "probe": "longing"
+      },
+      {
+        "label": "have",
+        "probe": "cherish"
+      }
+    ]
+  }
+}

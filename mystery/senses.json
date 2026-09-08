@@ -1,0 +1,10230 @@
+{
+  "abandonment": {
+    "senses": [
+      {
+        "label": "giving",
+        "probe": "desertion"
+      },
+      {
+        "label": "voluntary",
+        "probe": "disposition"
+      }
+    ]
+  },
+  "abducted": {
+    "senses": [
+      {
+        "label": "take",
+        "probe": "kidnap"
+      },
+      {
+        "label": "pull",
+        "probe": "abduct"
+      }
+    ]
+  },
+  "abducting": {
+    "senses": [
+      {
+        "label": "take",
+        "probe": "kidnap"
+      },
+      {
+        "label": "pull",
+        "probe": "abduct"
+      }
+    ]
+  },
+  "abductors": {
+    "senses": [
+      {
+        "label": "unlawfully",
+        "probe": "kidnapper"
+      },
+      {
+        "label": "muscle",
+        "probe": "abductor"
+      }
+    ]
+  },
+  "ablaze": {
+    "senses": [
+      {
+        "label": "lighted",
+        "probe": "alight"
+      },
+      {
+        "label": "resembling",
+        "probe": "resembling"
+      }
+    ]
+  },
+  "abnormality": {
+    "senses": [
+      {
+        "label": "abnormal",
+        "probe": "abnormal"
+      },
+      {
+        "label": "retardation",
+        "probe": "retardation"
+      },
+      {
+        "label": "behavior",
+        "probe": "irregularity"
+      }
+    ]
+  },
+  "abominable": {
+    "senses": [
+      {
+        "label": "unequivocally",
+        "probe": "odious"
+      },
+      {
+        "label": "exceptionally",
+        "probe": "atrocious"
+      }
+    ]
+  },
+  "abomination": {
+    "senses": [
+      {
+        "label": "loathsome",
+        "probe": "loathsome"
+      },
+      {
+        "label": "that",
+        "probe": "transgression"
+      }
+    ]
+  },
+  "absurdity": {
+    "senses": [
+      {
+        "label": "message",
+        "probe": "bunk"
+      },
+      {
+        "label": "ludicrous",
+        "probe": "silliness"
+      }
+    ]
+  },
+  "accessory": {
+    "senses": [
+      {
+        "label": "helps",
+        "probe": "criminal"
+      },
+      {
+        "label": "aiding",
+        "probe": "aiding"
+      }
+    ]
+  },
+  "acquit": {
+    "senses": [
+      {
+        "label": "pronounce",
+        "probe": "exonerate"
+      },
+      {
+        "label": "behave",
+        "probe": "deport"
+      }
+    ]
+  },
+  "acquits": {
+    "senses": [
+      {
+        "label": "pronounce",
+        "probe": "acquit"
+      },
+      {
+        "label": "behave",
+        "probe": "deport"
+      }
+    ]
+  },
+  "acquitted": {
+    "senses": [
+      {
+        "label": "pronounce",
+        "probe": "acquit"
+      },
+      {
+        "label": "behave",
+        "probe": "deport"
+      },
+      {
+        "label": "declared",
+        "probe": "innocent"
+      }
+    ]
+  },
+  "admirer": {
+    "senses": [
+      {
+        "label": "backs",
+        "probe": "protagonist"
+      },
+      {
+        "label": "admires",
+        "probe": "lover"
+      }
+    ]
+  },
+  "adulterous": {
+    "senses": [
+      {
+        "label": "characterized",
+        "probe": "extramarital"
+      },
+      {
+        "label": "faithful",
+        "probe": "unfaithful"
+      }
+    ]
+  },
+  "affair": {
+    "senses": [
+      {
+        "label": "vaguely",
+        "probe": "vaguely"
+      },
+      {
+        "label": "usually",
+        "probe": "intimacy"
+      }
+    ]
+  },
+  "aggressor": {
+    "senses": [
+      {
+        "label": "attacks",
+        "probe": "attacker"
+      },
+      {
+        "label": "confident",
+        "probe": "instigator"
+      }
+    ]
+  },
+  "agonizing": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "anguish"
+      },
+      {
+        "label": "extremely",
+        "probe": "excruciating"
+      }
+    ]
+  },
+  "alarming": {
+    "senses": [
+      {
+        "label": "fill",
+        "probe": "fright"
+      },
+      {
+        "label": "frightening",
+        "probe": "frightening"
+      }
+    ]
+  },
+  "alibis": {
+    "senses": [
+      {
+        "label": "defense",
+        "probe": "alibi"
+      },
+      {
+        "label": "exonerate",
+        "probe": "exonerate"
+      }
+    ]
+  },
+  "ambush": {
+    "senses": [
+      {
+        "label": "concealing",
+        "probe": "concealing"
+      },
+      {
+        "label": "wait",
+        "probe": "lurk"
+      }
+    ]
+  },
+  "ambushes": {
+    "senses": [
+      {
+        "label": "concealing",
+        "probe": "ambush"
+      },
+      {
+        "label": "wait",
+        "probe": "lurk"
+      }
+    ]
+  },
+  "anguished": {
+    "senses": [
+      {
+        "label": "suffer",
+        "probe": "anguish"
+      },
+      {
+        "label": "experiencing",
+        "probe": "tormented"
+      }
+    ]
+  },
+  "apocalypse": {
+    "senses": [
+      {
+        "label": "cosmic",
+        "probe": "calamity"
+      },
+      {
+        "label": "last",
+        "probe": "revelation"
+      }
+    ]
+  },
+  "apostles": {
+    "senses": [
+      {
+        "label": "ardent",
+        "probe": "apostle"
+      },
+      {
+        "label": "original",
+        "probe": "disciple"
+      }
+    ]
+  },
+  "appalling": {
+    "senses": [
+      {
+        "label": "fill",
+        "probe": "fright"
+      },
+      {
+        "label": "causing",
+        "probe": "alarming"
+      }
+    ]
+  },
+  "apparition": {
+    "senses": [
+      {
+        "label": "ghostly",
+        "probe": "phantom"
+      },
+      {
+        "label": "existing",
+        "probe": "semblance"
+      }
+    ]
+  },
+  "apprehend": {
+    "senses": [
+      {
+        "label": "meaning",
+        "probe": "comprehend"
+      },
+      {
+        "label": "take",
+        "probe": "arrest"
+      }
+    ]
+  },
+  "apprehended": {
+    "senses": [
+      {
+        "label": "meaning",
+        "probe": "comprehend"
+      },
+      {
+        "label": "take",
+        "probe": "apprehend"
+      }
+    ]
+  },
+  "apprehending": {
+    "senses": [
+      {
+        "label": "meaning",
+        "probe": "comprehend"
+      },
+      {
+        "label": "take",
+        "probe": "apprehend"
+      }
+    ]
+  },
+  "apprehension": {
+    "senses": [
+      {
+        "label": "fearful",
+        "probe": "dread"
+      },
+      {
+        "label": "apprehending",
+        "probe": "arrest"
+      }
+    ]
+  },
+  "arguable": {
+    "senses": [
+      {
+        "label": "capable",
+        "probe": "plausible"
+      },
+      {
+        "label": "open",
+        "probe": "debatable"
+      }
+    ]
+  },
+  "arouse": {
+    "senses": [
+      {
+        "label": "call",
+        "probe": "elicit"
+      },
+      {
+        "label": "stop",
+        "probe": "awake"
+      },
+      {
+        "label": "summon",
+        "probe": "conjure"
+      },
+      {
+        "label": "cause",
+        "probe": "awaken"
+      }
+    ]
+  },
+  "arrest": {
+    "senses": [
+      {
+        "label": "apprehending",
+        "probe": "apprehension"
+      },
+      {
+        "label": "inactivity",
+        "probe": "hitch"
+      },
+      {
+        "label": "take",
+        "probe": "apprehend"
+      }
+    ]
+  },
+  "arrested": {
+    "senses": [
+      {
+        "label": "take",
+        "probe": "apprehend"
+      },
+      {
+        "label": "hold",
+        "probe": "arrest"
+      }
+    ]
+  },
+  "arresting": {
+    "senses": [
+      {
+        "label": "take",
+        "probe": "apprehend"
+      },
+      {
+        "label": "hold",
+        "probe": "arrest"
+      },
+      {
+        "label": "commanding",
+        "probe": "sensational"
+      }
+    ]
+  },
+  "arrests": {
+    "senses": [
+      {
+        "label": "apprehending",
+        "probe": "apprehension"
+      },
+      {
+        "label": "inactivity",
+        "probe": "arrest"
+      },
+      {
+        "label": "take",
+        "probe": "apprehend"
+      }
+    ]
+  },
+  "artful": {
+    "senses": [
+      {
+        "label": "straightforward",
+        "probe": "disingenuous"
+      },
+      {
+        "label": "marked",
+        "probe": "scheming"
+      }
+    ]
+  },
+  "asphyxiation": {
+    "senses": [
+      {
+        "label": "condition",
+        "probe": "suffocation"
+      },
+      {
+        "label": "killing",
+        "probe": "killing"
+      }
+    ]
+  },
+  "assassinate": {
+    "senses": [
+      {
+        "label": "murder",
+        "probe": "murder"
+      },
+      {
+        "label": "destroy",
+        "probe": "slander"
+      }
+    ]
+  },
+  "assassinating": {
+    "senses": [
+      {
+        "label": "murder",
+        "probe": "assassinate"
+      },
+      {
+        "label": "destroy",
+        "probe": "slander"
+      }
+    ]
+  },
+  "assassinations": {
+    "senses": [
+      {
+        "label": "attack",
+        "probe": "assassination"
+      },
+      {
+        "label": "murder",
+        "probe": "murder"
+      }
+    ]
+  },
+  "assizes": {
+    "senses": [
+      {
+        "label": "county",
+        "probe": "tribunal"
+      },
+      {
+        "label": "regulation",
+        "probe": "assize"
+      }
+    ]
+  },
+  "atrocious": {
+    "senses": [
+      {
+        "label": "shockingly",
+        "probe": "grievous"
+      },
+      {
+        "label": "exceptionally",
+        "probe": "abominable"
+      },
+      {
+        "label": "provoking",
+        "probe": "horrifying"
+      }
+    ]
+  },
+  "atrocities": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "atrocity"
+      },
+      {
+        "label": "atrocious",
+        "probe": "inhumanity"
+      }
+    ]
+  },
+  "atrocity": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "barbarity"
+      },
+      {
+        "label": "atrocious",
+        "probe": "inhumanity"
+      }
+    ]
+  },
+  "attendant": {
+    "senses": [
+      {
+        "label": "waits",
+        "probe": "helper"
+      },
+      {
+        "label": "event",
+        "probe": "occurrence"
+      },
+      {
+        "label": "following",
+        "probe": "incidental"
+      }
+    ]
+  },
+  "attested": {
+    "senses": [
+      {
+        "label": "provide",
+        "probe": "testify"
+      },
+      {
+        "label": "established",
+        "probe": "documented"
+      }
+    ]
+  },
+  "awake": {
+    "senses": [
+      {
+        "label": "stop",
+        "probe": "arouse"
+      },
+      {
+        "label": "sleep",
+        "probe": "watchful"
+      }
+    ]
+  },
+  "awaken": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "arouse"
+      },
+      {
+        "label": "stop",
+        "probe": "awake"
+      }
+    ]
+  },
+  "awakened": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "awaken"
+      },
+      {
+        "label": "stop",
+        "probe": "awake"
+      }
+    ]
+  },
+  "awakens": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "awaken"
+      },
+      {
+        "label": "stop",
+        "probe": "awake"
+      }
+    ]
+  },
+  "axes": {
+    "senses": [
+      {
+        "label": "edge",
+        "probe": "ax"
+      },
+      {
+        "label": "main",
+        "probe": "stalk"
+      }
+    ]
+  },
+  "backfires": {
+    "senses": [
+      {
+        "label": "backward",
+        "probe": "detonation"
+      },
+      {
+        "label": "loud",
+        "probe": "blowup"
+      },
+      {
+        "label": "miscalculation",
+        "probe": "miscalculation"
+      }
+    ]
+  },
+  "baffled": {
+    "senses": [
+      {
+        "label": "mystery",
+        "probe": "mystery"
+      },
+      {
+        "label": "perplexed",
+        "probe": "bewildered"
+      }
+    ]
+  },
+  "baffling": {
+    "senses": [
+      {
+        "label": "mystery",
+        "probe": "mystery"
+      },
+      {
+        "label": "making",
+        "probe": "elusive"
+      }
+    ]
+  },
+  "barbarian": {
+    "senses": [
+      {
+        "label": "crude",
+        "probe": "goth"
+      },
+      {
+        "label": "without",
+        "probe": "barbaric"
+      }
+    ]
+  },
+  "barbarity": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "atrocity"
+      },
+      {
+        "label": "brutal",
+        "probe": "brutality"
+      }
+    ]
+  },
+  "bayonet": {
+    "senses": [
+      {
+        "label": "knife",
+        "probe": "knife"
+      },
+      {
+        "label": "stab",
+        "probe": "stab"
+      }
+    ]
+  },
+  "beguiling": {
+    "senses": [
+      {
+        "label": "highly",
+        "probe": "seductive"
+      },
+      {
+        "label": "misleading",
+        "probe": "dishonorable"
+      }
+    ]
+  },
+  "beheading": {
+    "senses": [
+      {
+        "label": "execution",
+        "probe": "decapitation"
+      },
+      {
+        "label": "killing",
+        "probe": "killing"
+      }
+    ]
+  },
+  "beheadings": {
+    "senses": [
+      {
+        "label": "execution",
+        "probe": "decapitation"
+      },
+      {
+        "label": "killing",
+        "probe": "beheading"
+      }
+    ]
+  },
+  "betray": {
+    "senses": [
+      {
+        "label": "deliver",
+        "probe": "deceive"
+      },
+      {
+        "label": "give",
+        "probe": "snitch"
+      }
+    ]
+  },
+  "betrayal": {
+    "senses": [
+      {
+        "label": "deliberate",
+        "probe": "treachery"
+      },
+      {
+        "label": "aiding",
+        "probe": "aiding"
+      }
+    ]
+  },
+  "betrays": {
+    "senses": [
+      {
+        "label": "reveal",
+        "probe": "betray"
+      },
+      {
+        "label": "deliver",
+        "probe": "deceive"
+      },
+      {
+        "label": "give",
+        "probe": "snitch"
+      }
+    ]
+  },
+  "bewildered": {
+    "senses": [
+      {
+        "label": "mystery",
+        "probe": "mystery"
+      },
+      {
+        "label": "perplexed",
+        "probe": "baffled"
+      }
+    ]
+  },
+  "bitch": {
+    "senses": [
+      {
+        "label": "unpleasant",
+        "probe": "unpleasant"
+      },
+      {
+        "label": "female",
+        "probe": "canine"
+      }
+    ]
+  },
+  "bites": {
+    "senses": [
+      {
+        "label": "wound",
+        "probe": "lesion"
+      },
+      {
+        "label": "small",
+        "probe": "morsel"
+      },
+      {
+        "label": "painful",
+        "probe": "sting"
+      },
+      {
+        "label": "having",
+        "probe": "wit"
+      },
+      {
+        "label": "gripping",
+        "probe": "gripping"
+      }
+    ]
+  },
+  "blackmail": {
+    "senses": [
+      {
+        "label": "extortion",
+        "probe": "extortion"
+      },
+      {
+        "label": "obtain",
+        "probe": "extort"
+      }
+    ]
+  },
+  "blackmailed": {
+    "senses": [
+      {
+        "label": "exert",
+        "probe": "blackmail"
+      },
+      {
+        "label": "obtain",
+        "probe": "extort"
+      }
+    ]
+  },
+  "blackmailing": {
+    "senses": [
+      {
+        "label": "exert",
+        "probe": "blackmail"
+      },
+      {
+        "label": "obtain",
+        "probe": "extort"
+      }
+    ]
+  },
+  "blast": {
+    "senses": [
+      {
+        "label": "explosion",
+        "probe": "detonation"
+      },
+      {
+        "label": "explosives",
+        "probe": "explosives"
+      }
+    ]
+  },
+  "blasts": {
+    "senses": [
+      {
+        "label": "very",
+        "probe": "blast"
+      },
+      {
+        "label": "explosion",
+        "probe": "detonation"
+      },
+      {
+        "label": "explosives",
+        "probe": "explosives"
+      }
+    ]
+  },
+  "blaze": {
+    "senses": [
+      {
+        "label": "strong",
+        "probe": "flaming"
+      },
+      {
+        "label": "noisy",
+        "probe": "mischief"
+      },
+      {
+        "label": "shoot",
+        "probe": "blast"
+      }
+    ]
+  },
+  "blight": {
+    "senses": [
+      {
+        "label": "condition",
+        "probe": "devastation"
+      },
+      {
+        "label": "cause",
+        "probe": "plague"
+      }
+    ]
+  },
+  "bombing": {
+    "senses": [
+      {
+        "label": "bombs",
+        "probe": "sabotage"
+      },
+      {
+        "label": "throw",
+        "probe": "bomb"
+      }
+    ]
+  },
+  "bombings": {
+    "senses": [
+      {
+        "label": "attack",
+        "probe": "bombing"
+      },
+      {
+        "label": "bombs",
+        "probe": "sabotage"
+      }
+    ]
+  },
+  "borne": {
+    "senses": [
+      {
+        "label": "behave",
+        "probe": "acquit"
+      },
+      {
+        "label": "pregnant",
+        "probe": "pregnant"
+      }
+    ]
+  },
+  "bravest": {
+    "senses": [
+      {
+        "label": "possessing",
+        "probe": "possessing"
+      },
+      {
+        "label": "invulnerable",
+        "probe": "audacious"
+      }
+    ]
+  },
+  "bruises": {
+    "senses": [
+      {
+        "label": "injury",
+        "probe": "trauma"
+      },
+      {
+        "label": "injure",
+        "probe": "injure"
+      },
+      {
+        "label": "hurt",
+        "probe": "arouse"
+      }
+    ]
+  },
+  "brutalities": {
+    "senses": [
+      {
+        "label": "trait",
+        "probe": "brutality"
+      },
+      {
+        "label": "brutal",
+        "probe": "barbarity"
+      }
+    ]
+  },
+  "brutality": {
+    "senses": [
+      {
+        "label": "trait",
+        "probe": "savagery"
+      },
+      {
+        "label": "brutal",
+        "probe": "barbarity"
+      }
+    ]
+  },
+  "brute": {
+    "senses": [
+      {
+        "label": "cruelly",
+        "probe": "cruelly"
+      },
+      {
+        "label": "living",
+        "probe": "creature"
+      },
+      {
+        "label": "resembling",
+        "probe": "resembling"
+      }
+    ]
+  },
+  "bugged": {
+    "senses": [
+      {
+        "label": "annoy",
+        "probe": "tease"
+      },
+      {
+        "label": "telephone",
+        "probe": "wiretap"
+      }
+    ]
+  },
+  "bugging": {
+    "senses": [
+      {
+        "label": "annoy",
+        "probe": "tease"
+      },
+      {
+        "label": "telephone",
+        "probe": "wiretap"
+      }
+    ]
+  },
+  "bumbling": {
+    "senses": [
+      {
+        "label": "speak",
+        "probe": "utter"
+      },
+      {
+        "label": "lacking",
+        "probe": "bungling"
+      }
+    ]
+  },
+  "bungling": {
+    "senses": [
+      {
+        "label": "showing",
+        "probe": "clumsy"
+      },
+      {
+        "label": "lacking",
+        "probe": "bumbling"
+      }
+    ]
+  },
+  "bunk": {
+    "senses": [
+      {
+        "label": "unacceptable",
+        "probe": "hogwash"
+      },
+      {
+        "label": "flee",
+        "probe": "lam"
+      }
+    ]
+  },
+  "burying": {
+    "senses": [
+      {
+        "label": "concealing",
+        "probe": "concealing"
+      },
+      {
+        "label": "cover",
+        "probe": "conceal"
+      },
+      {
+        "label": "grave",
+        "probe": "grave"
+      }
+    ]
+  },
+  "busters": {
+    "senses": [
+      {
+        "label": "informal",
+        "probe": "buster"
+      },
+      {
+        "label": "breaks",
+        "probe": "horseman"
+      }
+    ]
+  },
+  "butcher": {
+    "senses": [
+      {
+        "label": "brutal",
+        "probe": "murderer"
+      },
+      {
+        "label": "makes",
+        "probe": "incompetent"
+      },
+      {
+        "label": "kill",
+        "probe": "slaughter"
+      }
+    ]
+  },
+  "butchery": {
+    "senses": [
+      {
+        "label": "building",
+        "probe": "slaughterhouse"
+      },
+      {
+        "label": "savage",
+        "probe": "slaughter"
+      }
+    ]
+  },
+  "cabal": {
+    "senses": [
+      {
+        "label": "plot",
+        "probe": "conspiracy"
+      },
+      {
+        "label": "engage",
+        "probe": "conspire"
+      }
+    ]
+  },
+  "cache": {
+    "senses": [
+      {
+        "label": "hidden",
+        "probe": "hidden"
+      },
+      {
+        "label": "secret",
+        "probe": "stash"
+      }
+    ]
+  },
+  "caches": {
+    "senses": [
+      {
+        "label": "hidden",
+        "probe": "cache"
+      },
+      {
+        "label": "secret",
+        "probe": "stash"
+      }
+    ]
+  },
+  "caper": {
+    "senses": [
+      {
+        "label": "crime",
+        "probe": "crime"
+      },
+      {
+        "label": "light",
+        "probe": "diversion"
+      },
+      {
+        "label": "ludicrous",
+        "probe": "ludicrous"
+      }
+    ]
+  },
+  "capote": {
+    "senses": [
+      {
+        "label": "long",
+        "probe": "overcoat"
+      },
+      {
+        "label": "long",
+        "probe": "cloak"
+      }
+    ]
+  },
+  "carelessness": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "sloppiness"
+      },
+      {
+        "label": "failure",
+        "probe": "negligence"
+      }
+    ]
+  },
+  "characterizations": {
+    "senses": [
+      {
+        "label": "graphic",
+        "probe": "depiction"
+      },
+      {
+        "label": "acting",
+        "probe": "portrayal"
+      }
+    ]
+  },
+  "cheats": {
+    "senses": [
+      {
+        "label": "leads",
+        "probe": "trickster"
+      },
+      {
+        "label": "swindling",
+        "probe": "swindle"
+      },
+      {
+        "label": "deception",
+        "probe": "deception"
+      },
+      {
+        "label": "engage",
+        "probe": "deceive"
+      },
+      {
+        "label": "sexually",
+        "probe": "betray"
+      }
+    ]
+  },
+  "chopper": {
+    "senses": [
+      {
+        "label": "grounder",
+        "probe": "hopper"
+      },
+      {
+        "label": "informal",
+        "probe": "tooth"
+      },
+      {
+        "label": "butcher",
+        "probe": "butcher"
+      }
+    ]
+  },
+  "clairvoyant": {
+    "senses": [
+      {
+        "label": "power",
+        "probe": "psychic"
+      },
+      {
+        "label": "perceiving",
+        "probe": "paranormal"
+      },
+      {
+        "label": "foreseeing",
+        "probe": "prophetic"
+      }
+    ]
+  },
+  "cliffhangers": {
+    "senses": [
+      {
+        "label": "contest",
+        "probe": "cliffhanger"
+      },
+      {
+        "label": "episode",
+        "probe": "instalment"
+      }
+    ]
+  },
+  "cloaked": {
+    "senses": [
+      {
+        "label": "hide",
+        "probe": "cloak"
+      },
+      {
+        "label": "having",
+        "probe": "disguised"
+      },
+      {
+        "label": "covered",
+        "probe": "clothed"
+      }
+    ]
+  },
+  "clothed": {
+    "senses": [
+      {
+        "label": "furnish",
+        "probe": "furnish"
+      },
+      {
+        "label": "cover",
+        "probe": "cloak"
+      },
+      {
+        "label": "covered",
+        "probe": "cloaked"
+      }
+    ]
+  },
+  "clumsy": {
+    "senses": [
+      {
+        "label": "elegant",
+        "probe": "inept"
+      },
+      {
+        "label": "showing",
+        "probe": "bungling"
+      }
+    ]
+  },
+  "clutches": {
+    "senses": [
+      {
+        "label": "woman",
+        "probe": "handbag"
+      },
+      {
+        "label": "affect",
+        "probe": "overpower"
+      }
+    ]
+  },
+  "coif": {
+    "senses": [
+      {
+        "label": "arrangement",
+        "probe": "hairdo"
+      },
+      {
+        "label": "arrange",
+        "probe": "groom"
+      }
+    ]
+  },
+  "collaborator": {
+    "senses": [
+      {
+        "label": "assists",
+        "probe": "henchman"
+      },
+      {
+        "label": "collaborates",
+        "probe": "traitor"
+      }
+    ]
+  },
+  "collaborators": {
+    "senses": [
+      {
+        "label": "assists",
+        "probe": "collaborator"
+      },
+      {
+        "label": "collaborates",
+        "probe": "traitor"
+      }
+    ]
+  },
+  "coma": {
+    "senses": [
+      {
+        "label": "deep",
+        "probe": "unconsciousness"
+      },
+      {
+        "label": "luminous",
+        "probe": "luminous"
+      }
+    ]
+  },
+  "comb": {
+    "senses": [
+      {
+        "label": "drawing",
+        "probe": "combing"
+      },
+      {
+        "label": "straighten",
+        "probe": "straighten"
+      },
+      {
+        "label": "smoothen",
+        "probe": "groom"
+      }
+    ]
+  },
+  "combed": {
+    "senses": [
+      {
+        "label": "straighten",
+        "probe": "comb"
+      },
+      {
+        "label": "smoothen",
+        "probe": "groom"
+      }
+    ]
+  },
+  "combing": {
+    "senses": [
+      {
+        "label": "drawing",
+        "probe": "comb"
+      },
+      {
+        "label": "straighten",
+        "probe": "straighten"
+      },
+      {
+        "label": "smoothen",
+        "probe": "groom"
+      }
+    ]
+  },
+  "combs": {
+    "senses": [
+      {
+        "label": "flat",
+        "probe": "comb"
+      },
+      {
+        "label": "drawing",
+        "probe": "combing"
+      },
+      {
+        "label": "straighten",
+        "probe": "straighten"
+      },
+      {
+        "label": "smoothen",
+        "probe": "groom"
+      }
+    ]
+  },
+  "commits": {
+    "senses": [
+      {
+        "label": "perform",
+        "probe": "perpetrate"
+      },
+      {
+        "label": "confer",
+        "probe": "confide"
+      },
+      {
+        "label": "engage",
+        "probe": "prosecute"
+      }
+    ]
+  },
+  "complication": {
+    "senses": [
+      {
+        "label": "complicating",
+        "probe": "complicating"
+      },
+      {
+        "label": "puzzling",
+        "probe": "puzzling"
+      }
+    ]
+  },
+  "con": {
+    "senses": [
+      {
+        "label": "serving",
+        "probe": "convict"
+      },
+      {
+        "label": "swindle",
+        "probe": "sting"
+      },
+      {
+        "label": "deprive",
+        "probe": "swindle"
+      }
+    ]
+  },
+  "concealed": {
+    "senses": [
+      {
+        "label": "prevent",
+        "probe": "conceal"
+      },
+      {
+        "label": "accessible",
+        "probe": "hidden"
+      },
+      {
+        "label": "hidden",
+        "probe": "sneaking"
+      }
+    ]
+  },
+  "concealing": {
+    "senses": [
+      {
+        "label": "activity",
+        "probe": "concealment"
+      },
+      {
+        "label": "prevent",
+        "probe": "conceal"
+      }
+    ]
+  },
+  "concealment": {
+    "senses": [
+      {
+        "label": "covering",
+        "probe": "covert"
+      },
+      {
+        "label": "activity",
+        "probe": "concealing"
+      }
+    ]
+  },
+  "concocted": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "concoct"
+      },
+      {
+        "label": "invent",
+        "probe": "fabricate"
+      }
+    ]
+  },
+  "concocting": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "concoct"
+      },
+      {
+        "label": "invent",
+        "probe": "fabricate"
+      }
+    ]
+  },
+  "confessions": {
+    "senses": [
+      {
+        "label": "admission",
+        "probe": "confession"
+      },
+      {
+        "label": "penitent",
+        "probe": "penance"
+      }
+    ]
+  },
+  "conjecture": {
+    "senses": [
+      {
+        "label": "message",
+        "probe": "supposition"
+      },
+      {
+        "label": "believe",
+        "probe": "theorize"
+      }
+    ]
+  },
+  "conjure": {
+    "senses": [
+      {
+        "label": "summon",
+        "probe": "arouse"
+      },
+      {
+        "label": "request",
+        "probe": "plead"
+      },
+      {
+        "label": "engage",
+        "probe": "conspire"
+      }
+    ]
+  },
+  "conjured": {
+    "senses": [
+      {
+        "label": "summon",
+        "probe": "conjure"
+      },
+      {
+        "label": "request",
+        "probe": "plead"
+      },
+      {
+        "label": "engage",
+        "probe": "conspire"
+      }
+    ]
+  },
+  "conniving": {
+    "senses": [
+      {
+        "label": "intrigues",
+        "probe": "intrigue"
+      },
+      {
+        "label": "acting",
+        "probe": "covert"
+      },
+      {
+        "label": "used",
+        "probe": "scheming"
+      }
+    ]
+  },
+  "cons": {
+    "senses": [
+      {
+        "label": "argument",
+        "probe": "con"
+      },
+      {
+        "label": "serving",
+        "probe": "convict"
+      },
+      {
+        "label": "swindle",
+        "probe": "sting"
+      },
+      {
+        "label": "deprive",
+        "probe": "swindle"
+      }
+    ]
+  },
+  "conspiracies": {
+    "senses": [
+      {
+        "label": "secret",
+        "probe": "conspiracy"
+      },
+      {
+        "label": "plot",
+        "probe": "cabal"
+      },
+      {
+        "label": "conspirators",
+        "probe": "conspirators"
+      }
+    ]
+  },
+  "conspiracy": {
+    "senses": [
+      {
+        "label": "plot",
+        "probe": "cabal"
+      },
+      {
+        "label": "conspirators",
+        "probe": "conspirators"
+      }
+    ]
+  },
+  "constable": {
+    "senses": [
+      {
+        "label": "lawman",
+        "probe": "lawman"
+      },
+      {
+        "label": "police",
+        "probe": "policeman"
+      }
+    ]
+  },
+  "constables": {
+    "senses": [
+      {
+        "label": "lawman",
+        "probe": "constable"
+      },
+      {
+        "label": "police",
+        "probe": "policeman"
+      }
+    ]
+  },
+  "contamination": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "taint"
+      },
+      {
+        "label": "that",
+        "probe": "contaminant"
+      }
+    ]
+  },
+  "convict": {
+    "senses": [
+      {
+        "label": "serving",
+        "probe": "con"
+      },
+      {
+        "label": "been",
+        "probe": "offender"
+      }
+    ]
+  },
+  "convictions": {
+    "senses": [
+      {
+        "label": "unshakable",
+        "probe": "conviction"
+      },
+      {
+        "label": "final",
+        "probe": "sentence"
+      }
+    ]
+  },
+  "convicts": {
+    "senses": [
+      {
+        "label": "serving",
+        "probe": "convict"
+      },
+      {
+        "label": "been",
+        "probe": "offender"
+      }
+    ]
+  },
+  "convoluted": {
+    "senses": [
+      {
+        "label": "practice",
+        "probe": "pervert"
+      },
+      {
+        "label": "highly",
+        "probe": "knotty"
+      }
+    ]
+  },
+  "cop": {
+    "senses": [
+      {
+        "label": "uncomplimentary",
+        "probe": "policeman"
+      },
+      {
+        "label": "take",
+        "probe": "snitch"
+      },
+      {
+        "label": "take",
+        "probe": "apprehend"
+      }
+    ]
+  },
+  "cops": {
+    "senses": [
+      {
+        "label": "uncomplimentary",
+        "probe": "cop"
+      },
+      {
+        "label": "take",
+        "probe": "snitch"
+      },
+      {
+        "label": "take",
+        "probe": "apprehend"
+      }
+    ]
+  },
+  "corporal": {
+    "senses": [
+      {
+        "label": "noncommissioned",
+        "probe": "noncommissioned"
+      },
+      {
+        "label": "affecting",
+        "probe": "bodily"
+      },
+      {
+        "label": "possessing",
+        "probe": "possessing"
+      }
+    ]
+  },
+  "crap": {
+    "senses": [
+      {
+        "label": "obscene",
+        "probe": "poop"
+      },
+      {
+        "label": "obscene",
+        "probe": "bunk"
+      }
+    ]
+  },
+  "craziest": {
+    "senses": [
+      {
+        "label": "affected",
+        "probe": "demented"
+      },
+      {
+        "label": "foolish",
+        "probe": "screwball"
+      },
+      {
+        "label": "possessed",
+        "probe": "possessed"
+      },
+      {
+        "label": "bizarre",
+        "probe": "bizarre"
+      }
+    ]
+  },
+  "crime": {
+    "senses": [
+      {
+        "label": "punishable",
+        "probe": "punishable"
+      },
+      {
+        "label": "evil",
+        "probe": "transgression"
+      }
+    ]
+  },
+  "crimes": {
+    "senses": [
+      {
+        "label": "punishable",
+        "probe": "crime"
+      },
+      {
+        "label": "evil",
+        "probe": "transgression"
+      }
+    ]
+  },
+  "criminal": {
+    "senses": [
+      {
+        "label": "committed",
+        "probe": "felon"
+      },
+      {
+        "label": "bringing",
+        "probe": "deplorable"
+      },
+      {
+        "label": "involving",
+        "probe": "felonious"
+      }
+    ]
+  },
+  "crooks": {
+    "senses": [
+      {
+        "label": "committed",
+        "probe": "criminal"
+      },
+      {
+        "label": "circular",
+        "probe": "crook"
+      }
+    ]
+  },
+  "crucified": {
+    "senses": [
+      {
+        "label": "treat",
+        "probe": "torment"
+      },
+      {
+        "label": "hold",
+        "probe": "subdue"
+      },
+      {
+        "label": "criticize",
+        "probe": "blast"
+      }
+    ]
+  },
+  "cruelty": {
+    "senses": [
+      {
+        "label": "cruel",
+        "probe": "maltreatment"
+      },
+      {
+        "label": "feelings",
+        "probe": "ruthlessness"
+      },
+      {
+        "label": "being",
+        "probe": "malice"
+      }
+    ]
+  },
+  "cunning": {
+    "senses": [
+      {
+        "label": "shrewdness",
+        "probe": "guile"
+      },
+      {
+        "label": "crafty",
+        "probe": "crafty"
+      },
+      {
+        "label": "marked",
+        "probe": "sly"
+      },
+      {
+        "label": "showing",
+        "probe": "ingenious"
+      }
+    ]
+  },
+  "custody": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "confinement"
+      },
+      {
+        "label": "holding",
+        "probe": "imprisonment"
+      },
+      {
+        "label": "guardianship",
+        "probe": "guardianship"
+      }
+    ]
+  },
+  "damned": {
+    "senses": [
+      {
+        "label": "wish",
+        "probe": "conjure"
+      },
+      {
+        "label": "expletives",
+        "probe": "infernal"
+      }
+    ]
+  },
+  "darkest": {
+    "senses": [
+      {
+        "label": "stemming",
+        "probe": "sinister"
+      },
+      {
+        "label": "secret",
+        "probe": "concealed"
+      },
+      {
+        "label": "marked",
+        "probe": "incomprehensible"
+      }
+    ]
+  },
+  "deathly": {
+    "senses": [
+      {
+        "label": "causing",
+        "probe": "mortal"
+      },
+      {
+        "label": "resembling",
+        "probe": "resembling"
+      }
+    ]
+  },
+  "decapitation": {
+    "senses": [
+      {
+        "label": "execution",
+        "probe": "beheading"
+      },
+      {
+        "label": "killing",
+        "probe": "killing"
+      }
+    ]
+  },
+  "deceit": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "dishonesty"
+      },
+      {
+        "label": "misleading",
+        "probe": "misrepresentation"
+      },
+      {
+        "label": "deceiving",
+        "probe": "deception"
+      }
+    ]
+  },
+  "deceiving": {
+    "senses": [
+      {
+        "label": "false",
+        "probe": "deceive"
+      },
+      {
+        "label": "cause",
+        "probe": "betray"
+      }
+    ]
+  },
+  "deception": {
+    "senses": [
+      {
+        "label": "misleading",
+        "probe": "misrepresentation"
+      },
+      {
+        "label": "deceiving",
+        "probe": "deceit"
+      }
+    ]
+  },
+  "deceptions": {
+    "senses": [
+      {
+        "label": "misleading",
+        "probe": "misrepresentation"
+      },
+      {
+        "label": "deceiving",
+        "probe": "deception"
+      }
+    ]
+  },
+  "deduced": {
+    "senses": [
+      {
+        "label": "reason",
+        "probe": "deduce"
+      },
+      {
+        "label": "conclude",
+        "probe": "infer"
+      }
+    ]
+  },
+  "deduces": {
+    "senses": [
+      {
+        "label": "reason",
+        "probe": "deduce"
+      },
+      {
+        "label": "conclude",
+        "probe": "infer"
+      }
+    ]
+  },
+  "delinquency": {
+    "senses": [
+      {
+        "label": "tendency",
+        "probe": "dereliction"
+      },
+      {
+        "label": "antisocial",
+        "probe": "antisocial"
+      }
+    ]
+  },
+  "delusion": {
+    "senses": [
+      {
+        "label": "erroneous",
+        "probe": "erroneous"
+      },
+      {
+        "label": "mistaken",
+        "probe": "mistaken"
+      },
+      {
+        "label": "deluding",
+        "probe": "deception"
+      }
+    ]
+  },
+  "delusions": {
+    "senses": [
+      {
+        "label": "erroneous",
+        "probe": "delusion"
+      },
+      {
+        "label": "mistaken",
+        "probe": "mistaken"
+      },
+      {
+        "label": "deluding",
+        "probe": "deception"
+      }
+    ]
+  },
+  "depictions": {
+    "senses": [
+      {
+        "label": "graphic",
+        "probe": "depiction"
+      },
+      {
+        "label": "representation",
+        "probe": "portrayal"
+      }
+    ]
+  },
+  "deplorable": {
+    "senses": [
+      {
+        "label": "unfortunate",
+        "probe": "distressing"
+      },
+      {
+        "label": "bringing",
+        "probe": "criminal"
+      }
+    ]
+  },
+  "deport": {
+    "senses": [
+      {
+        "label": "behave",
+        "probe": "acquit"
+      },
+      {
+        "label": "hand",
+        "probe": "extradite"
+      }
+    ]
+  },
+  "deported": {
+    "senses": [
+      {
+        "label": "behave",
+        "probe": "acquit"
+      },
+      {
+        "label": "hand",
+        "probe": "extradite"
+      },
+      {
+        "label": "expel",
+        "probe": "deport"
+      }
+    ]
+  },
+  "deporting": {
+    "senses": [
+      {
+        "label": "behave",
+        "probe": "acquit"
+      },
+      {
+        "label": "hand",
+        "probe": "extradite"
+      },
+      {
+        "label": "expel",
+        "probe": "deport"
+      }
+    ]
+  },
+  "deports": {
+    "senses": [
+      {
+        "label": "behave",
+        "probe": "acquit"
+      },
+      {
+        "label": "hand",
+        "probe": "extradite"
+      },
+      {
+        "label": "expel",
+        "probe": "deport"
+      }
+    ]
+  },
+  "depositions": {
+    "senses": [
+      {
+        "label": "natural",
+        "probe": "deposition"
+      },
+      {
+        "label": "pretrial",
+        "probe": "pretrial"
+      }
+    ]
+  },
+  "depraved": {
+    "senses": [
+      {
+        "label": "corrupt",
+        "probe": "pervert"
+      },
+      {
+        "label": "deviating",
+        "probe": "perverse"
+      }
+    ]
+  },
+  "depravity": {
+    "senses": [
+      {
+        "label": "moral",
+        "probe": "immorality"
+      },
+      {
+        "label": "corrupt",
+        "probe": "turpitude"
+      }
+    ]
+  },
+  "dereliction": {
+    "senses": [
+      {
+        "label": "tendency",
+        "probe": "delinquency"
+      },
+      {
+        "label": "willful",
+        "probe": "willful"
+      }
+    ]
+  },
+  "deserter": {
+    "senses": [
+      {
+        "label": "disloyal",
+        "probe": "turncoat"
+      },
+      {
+        "label": "abandons",
+        "probe": "defector"
+      }
+    ]
+  },
+  "deserters": {
+    "senses": [
+      {
+        "label": "disloyal",
+        "probe": "deserter"
+      },
+      {
+        "label": "abandons",
+        "probe": "defector"
+      }
+    ]
+  },
+  "detection": {
+    "senses": [
+      {
+        "label": "detecting",
+        "probe": "spying"
+      },
+      {
+        "label": "police",
+        "probe": "detecting"
+      }
+    ]
+  },
+  "detectives": {
+    "senses": [
+      {
+        "label": "police",
+        "probe": "detective"
+      },
+      {
+        "label": "investigator",
+        "probe": "investigator"
+      }
+    ]
+  },
+  "deterrent": {
+    "senses": [
+      {
+        "label": "immaterial",
+        "probe": "immaterial"
+      },
+      {
+        "label": "tending",
+        "probe": "preventative"
+      }
+    ]
+  },
+  "detonated": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "explode"
+      },
+      {
+        "label": "burst",
+        "probe": "detonate"
+      }
+    ]
+  },
+  "detonates": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "explode"
+      },
+      {
+        "label": "burst",
+        "probe": "detonate"
+      }
+    ]
+  },
+  "detonating": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "explode"
+      },
+      {
+        "label": "burst",
+        "probe": "detonate"
+      }
+    ]
+  },
+  "detonation": {
+    "senses": [
+      {
+        "label": "violent",
+        "probe": "blowup"
+      },
+      {
+        "label": "detonating",
+        "probe": "detonating"
+      }
+    ]
+  },
+  "detonations": {
+    "senses": [
+      {
+        "label": "violent",
+        "probe": "detonation"
+      },
+      {
+        "label": "detonating",
+        "probe": "detonating"
+      }
+    ]
+  },
+  "diabolical": {
+    "senses": [
+      {
+        "label": "showing",
+        "probe": "devilish"
+      },
+      {
+        "label": "extremely",
+        "probe": "demonic"
+      }
+    ]
+  },
+  "diagnoses": {
+    "senses": [
+      {
+        "label": "identifying",
+        "probe": "diagnosis"
+      },
+      {
+        "label": "determine",
+        "probe": "diagnose"
+      }
+    ]
+  },
+  "diagnosing": {
+    "senses": [
+      {
+        "label": "identifying",
+        "probe": "diagnosis"
+      },
+      {
+        "label": "determine",
+        "probe": "diagnose"
+      }
+    ]
+  },
+  "digging": {
+    "senses": [
+      {
+        "label": "digging",
+        "probe": "excavation"
+      },
+      {
+        "label": "turn",
+        "probe": "delve"
+      },
+      {
+        "label": "remove",
+        "probe": "unearth"
+      },
+      {
+        "label": "poke",
+        "probe": "stab"
+      },
+      {
+        "label": "meaning",
+        "probe": "comprehend"
+      }
+    ]
+  },
+  "digs": {
+    "senses": [
+      {
+        "label": "excavation",
+        "probe": "excavation"
+      },
+      {
+        "label": "aggressive",
+        "probe": "barb"
+      },
+      {
+        "label": "digging",
+        "probe": "digging"
+      },
+      {
+        "label": "turn",
+        "probe": "delve"
+      },
+      {
+        "label": "remove",
+        "probe": "unearth"
+      },
+      {
+        "label": "poke",
+        "probe": "stab"
+      },
+      {
+        "label": "meaning",
+        "probe": "comprehend"
+      }
+    ]
+  },
+  "disappearances": {
+    "senses": [
+      {
+        "label": "leaving",
+        "probe": "disappearance"
+      },
+      {
+        "label": "event",
+        "probe": "occurrence"
+      }
+    ]
+  },
+  "disgraceful": {
+    "senses": [
+      {
+        "label": "giving",
+        "probe": "scandalous"
+      },
+      {
+        "label": "deserving",
+        "probe": "shameful"
+      }
+    ]
+  },
+  "disguise": {
+    "senses": [
+      {
+        "label": "outward",
+        "probe": "semblance"
+      },
+      {
+        "label": "concealing",
+        "probe": "concealing"
+      },
+      {
+        "label": "make",
+        "probe": "conceal"
+      }
+    ]
+  },
+  "disguised": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "disguise"
+      },
+      {
+        "label": "having",
+        "probe": "cloaked"
+      }
+    ]
+  },
+  "disguises": {
+    "senses": [
+      {
+        "label": "outward",
+        "probe": "disguise"
+      },
+      {
+        "label": "concealing",
+        "probe": "concealing"
+      },
+      {
+        "label": "make",
+        "probe": "conceal"
+      }
+    ]
+  },
+  "disposing": {
+    "senses": [
+      {
+        "label": "give",
+        "probe": "dispose"
+      },
+      {
+        "label": "make",
+        "probe": "groom"
+      }
+    ]
+  },
+  "distasteful": {
+    "senses": [
+      {
+        "label": "pleasing",
+        "probe": "unsavory"
+      },
+      {
+        "label": "highly",
+        "probe": "disgusting"
+      }
+    ]
+  },
+  "distressing": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "disturb"
+      },
+      {
+        "label": "causing",
+        "probe": "disturbing"
+      },
+      {
+        "label": "unfortunate",
+        "probe": "deplorable"
+      }
+    ]
+  },
+  "disturbing": {
+    "senses": [
+      {
+        "label": "move",
+        "probe": "disturb"
+      },
+      {
+        "label": "tamper",
+        "probe": "tamper"
+      },
+      {
+        "label": "causing",
+        "probe": "distressing"
+      }
+    ]
+  },
+  "documented": {
+    "senses": [
+      {
+        "label": "support",
+        "probe": "corroborate"
+      },
+      {
+        "label": "established",
+        "probe": "attested"
+      }
+    ]
+  },
+  "dodging": {
+    "senses": [
+      {
+        "label": "nonperformance",
+        "probe": "evasion"
+      },
+      {
+        "label": "statement",
+        "probe": "falsehood"
+      },
+      {
+        "label": "avoid",
+        "probe": "elude"
+      }
+    ]
+  },
+  "dope": {
+    "senses": [
+      {
+        "label": "street",
+        "probe": "skunk"
+      },
+      {
+        "label": "ignorant",
+        "probe": "booby"
+      },
+      {
+        "label": "slang",
+        "probe": "poop"
+      }
+    ]
+  },
+  "doubting": {
+    "senses": [
+      {
+        "label": "consider",
+        "probe": "discredit"
+      },
+      {
+        "label": "lack",
+        "probe": "suspect"
+      }
+    ]
+  },
+  "dread": {
+    "senses": [
+      {
+        "label": "fearful",
+        "probe": "apprehension"
+      },
+      {
+        "label": "causing",
+        "probe": "dreaded"
+      }
+    ]
+  },
+  "dreaded": {
+    "senses": [
+      {
+        "label": "afraid",
+        "probe": "dread"
+      },
+      {
+        "label": "causing",
+        "probe": "dreadful"
+      }
+    ]
+  },
+  "dreadful": {
+    "senses": [
+      {
+        "label": "causing",
+        "probe": "dread"
+      },
+      {
+        "label": "exceptionally",
+        "probe": "atrocious"
+      },
+      {
+        "label": "very",
+        "probe": "unpleasant"
+      }
+    ]
+  },
+  "drunk": {
+    "senses": [
+      {
+        "label": "chronic",
+        "probe": "drinker"
+      },
+      {
+        "label": "intoxicated",
+        "probe": "intoxicated"
+      },
+      {
+        "label": "stupefied",
+        "probe": "drugged"
+      }
+    ]
+  },
+  "drunkenness": {
+    "senses": [
+      {
+        "label": "temporary",
+        "probe": "intoxication"
+      },
+      {
+        "label": "habitual",
+        "probe": "alcoholism"
+      }
+    ]
+  },
+  "drunks": {
+    "senses": [
+      {
+        "label": "chronic",
+        "probe": "drunk"
+      },
+      {
+        "label": "intoxicated",
+        "probe": "intoxicated"
+      }
+    ]
+  },
+  "dud": {
+    "senses": [
+      {
+        "label": "explosion",
+        "probe": "misfire"
+      },
+      {
+        "label": "event",
+        "probe": "bomb"
+      }
+    ]
+  },
+  "duplicity": {
+    "senses": [
+      {
+        "label": "fraudulent",
+        "probe": "misrepresentation"
+      },
+      {
+        "label": "acting",
+        "probe": "deception"
+      }
+    ]
+  },
+  "earnestness": {
+    "senses": [
+      {
+        "label": "earnest",
+        "probe": "seriousness"
+      },
+      {
+        "label": "trait",
+        "probe": "sincerity"
+      }
+    ]
+  },
+  "elicit": {
+    "senses": [
+      {
+        "label": "call",
+        "probe": "arouse"
+      },
+      {
+        "label": "deduce",
+        "probe": "deduce"
+      },
+      {
+        "label": "derive",
+        "probe": "infer"
+      }
+    ]
+  },
+  "elicited": {
+    "senses": [
+      {
+        "label": "call",
+        "probe": "arouse"
+      },
+      {
+        "label": "deduce",
+        "probe": "elicit"
+      },
+      {
+        "label": "derive",
+        "probe": "deduce"
+      }
+    ]
+  },
+  "eludes": {
+    "senses": [
+      {
+        "label": "escape",
+        "probe": "elude"
+      },
+      {
+        "label": "incomprehensible",
+        "probe": "incomprehensible"
+      }
+    ]
+  },
+  "eluding": {
+    "senses": [
+      {
+        "label": "avoiding",
+        "probe": "evasion"
+      },
+      {
+        "label": "escape",
+        "probe": "elude"
+      },
+      {
+        "label": "incomprehensible",
+        "probe": "incomprehensible"
+      }
+    ]
+  },
+  "elusive": {
+    "senses": [
+      {
+        "label": "skillful",
+        "probe": "artful"
+      },
+      {
+        "label": "making",
+        "probe": "baffling"
+      }
+    ]
+  },
+  "embellished": {
+    "senses": [
+      {
+        "label": "details",
+        "probe": "overstate"
+      },
+      {
+        "label": "make",
+        "probe": "ornament"
+      }
+    ]
+  },
+  "enigma": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "mystery"
+      },
+      {
+        "label": "difficult",
+        "probe": "riddle"
+      }
+    ]
+  },
+  "enigmatic": {
+    "senses": [
+      {
+        "label": "clear",
+        "probe": "puzzling"
+      },
+      {
+        "label": "resembling",
+        "probe": "resembling"
+      }
+    ]
+  },
+  "enmeshed": {
+    "senses": [
+      {
+        "label": "entangle",
+        "probe": "tangle"
+      },
+      {
+        "label": "caught",
+        "probe": "tangled"
+      }
+    ]
+  },
+  "enquiries": {
+    "senses": [
+      {
+        "label": "instance",
+        "probe": "inquiry"
+      },
+      {
+        "label": "search",
+        "probe": "enquiry"
+      },
+      {
+        "label": "systematic",
+        "probe": "systematic"
+      }
+    ]
+  },
+  "enquiry": {
+    "senses": [
+      {
+        "label": "instance",
+        "probe": "inquiry"
+      },
+      {
+        "label": "systematic",
+        "probe": "systematic"
+      }
+    ]
+  },
+  "epithets": {
+    "senses": [
+      {
+        "label": "defamatory",
+        "probe": "defamatory"
+      },
+      {
+        "label": "descriptive",
+        "probe": "depiction"
+      }
+    ]
+  },
+  "equivocal": {
+    "senses": [
+      {
+        "label": "open",
+        "probe": "evasive"
+      },
+      {
+        "label": "uncertain",
+        "probe": "inconclusive"
+      }
+    ]
+  },
+  "escapades": {
+    "senses": [
+      {
+        "label": "wild",
+        "probe": "escapade"
+      },
+      {
+        "label": "carefree",
+        "probe": "diversion"
+      }
+    ]
+  },
+  "escaped": {
+    "senses": [
+      {
+        "label": "incomprehensible",
+        "probe": "elude"
+      },
+      {
+        "label": "flee",
+        "probe": "lam"
+      }
+    ]
+  },
+  "escapees": {
+    "senses": [
+      {
+        "label": "escapes",
+        "probe": "escapee"
+      },
+      {
+        "label": "incomprehensible",
+        "probe": "elude"
+      },
+      {
+        "label": "flee",
+        "probe": "lam"
+      }
+    ]
+  },
+  "escapes": {
+    "senses": [
+      {
+        "label": "escaping",
+        "probe": "escaping"
+      },
+      {
+        "label": "inclination",
+        "probe": "diversion"
+      },
+      {
+        "label": "nonperformance",
+        "probe": "evasion"
+      },
+      {
+        "label": "avoidance",
+        "probe": "dodging"
+      },
+      {
+        "label": "discharge",
+        "probe": "leak"
+      },
+      {
+        "label": "incomprehensible",
+        "probe": "elude"
+      },
+      {
+        "label": "flee",
+        "probe": "lam"
+      }
+    ]
+  },
+  "escaping": {
+    "senses": [
+      {
+        "label": "incomprehensible",
+        "probe": "elude"
+      },
+      {
+        "label": "flee",
+        "probe": "lam"
+      }
+    ]
+  },
+  "evaded": {
+    "senses": [
+      {
+        "label": "avoid",
+        "probe": "elude"
+      },
+      {
+        "label": "cunning",
+        "probe": "cunning"
+      }
+    ]
+  },
+  "evading": {
+    "senses": [
+      {
+        "label": "avoid",
+        "probe": "elude"
+      },
+      {
+        "label": "cunning",
+        "probe": "cunning"
+      }
+    ]
+  },
+  "evasion": {
+    "senses": [
+      {
+        "label": "statement",
+        "probe": "misrepresentation"
+      },
+      {
+        "label": "deliberate",
+        "probe": "deliberate"
+      },
+      {
+        "label": "nonperformance",
+        "probe": "dodging"
+      }
+    ]
+  },
+  "everlasting": {
+    "senses": [
+      {
+        "label": "continuing",
+        "probe": "unending"
+      },
+      {
+        "label": "without",
+        "probe": "utter"
+      }
+    ]
+  },
+  "exaggerating": {
+    "senses": [
+      {
+        "label": "enlarge",
+        "probe": "overstate"
+      },
+      {
+        "label": "excessive",
+        "probe": "exaggerate"
+      }
+    ]
+  },
+  "exaggeration": {
+    "senses": [
+      {
+        "label": "extravagant",
+        "probe": "trope"
+      },
+      {
+        "label": "making",
+        "probe": "misrepresentation"
+      }
+    ]
+  },
+  "examiner": {
+    "senses": [
+      {
+        "label": "administers",
+        "probe": "questioner"
+      },
+      {
+        "label": "investigator",
+        "probe": "inspector"
+      }
+    ]
+  },
+  "examiners": {
+    "senses": [
+      {
+        "label": "administers",
+        "probe": "examiner"
+      },
+      {
+        "label": "investigator",
+        "probe": "inspector"
+      }
+    ]
+  },
+  "exasperating": {
+    "senses": [
+      {
+        "label": "extremely",
+        "probe": "maddening"
+      },
+      {
+        "label": "making",
+        "probe": "aggravating"
+      }
+    ]
+  },
+  "excavation": {
+    "senses": [
+      {
+        "label": "digging",
+        "probe": "digging"
+      },
+      {
+        "label": "hole",
+        "probe": "artifact"
+      }
+    ]
+  },
+  "excavations": {
+    "senses": [
+      {
+        "label": "digging",
+        "probe": "excavation"
+      },
+      {
+        "label": "hole",
+        "probe": "artifact"
+      }
+    ]
+  },
+  "excruciating": {
+    "senses": [
+      {
+        "label": "torment",
+        "probe": "torment"
+      },
+      {
+        "label": "subject",
+        "probe": "torture"
+      },
+      {
+        "label": "extremely",
+        "probe": "agonizing"
+      }
+    ]
+  },
+  "exonerated": {
+    "senses": [
+      {
+        "label": "pronounce",
+        "probe": "acquit"
+      },
+      {
+        "label": "freed",
+        "probe": "absolved"
+      }
+    ]
+  },
+  "explode": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "detonate"
+      },
+      {
+        "label": "show",
+        "probe": "disprove"
+      }
+    ]
+  },
+  "explodes": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "explode"
+      },
+      {
+        "label": "show",
+        "probe": "disprove"
+      },
+      {
+        "label": "burst",
+        "probe": "detonate"
+      }
+    ]
+  },
+  "explores": {
+    "senses": [
+      {
+        "label": "inquire",
+        "probe": "inquire"
+      },
+      {
+        "label": "examine",
+        "probe": "diagnose"
+      }
+    ]
+  },
+  "explosions": {
+    "senses": [
+      {
+        "label": "violent",
+        "probe": "detonation"
+      },
+      {
+        "label": "sudden",
+        "probe": "blowup"
+      }
+    ]
+  },
+  "exposes": {
+    "senses": [
+      {
+        "label": "exposure",
+        "probe": "unmasking"
+      },
+      {
+        "label": "remove",
+        "probe": "uncover"
+      },
+      {
+        "label": "expose",
+        "probe": "debunk"
+      }
+    ]
+  },
+  "extortion": {
+    "senses": [
+      {
+        "label": "exorbitant",
+        "probe": "exorbitant"
+      },
+      {
+        "label": "felonious",
+        "probe": "felonious"
+      }
+    ]
+  },
+  "eyewitnesses": {
+    "senses": [
+      {
+        "label": "spectator",
+        "probe": "eyewitness"
+      },
+      {
+        "label": "present",
+        "probe": "witness"
+      }
+    ]
+  },
+  "fable": {
+    "senses": [
+      {
+        "label": "deliberately",
+        "probe": "falsehood"
+      },
+      {
+        "label": "short",
+        "probe": "parable"
+      }
+    ]
+  },
+  "fables": {
+    "senses": [
+      {
+        "label": "deliberately",
+        "probe": "fable"
+      },
+      {
+        "label": "short",
+        "probe": "parable"
+      }
+    ]
+  },
+  "fabricated": {
+    "senses": [
+      {
+        "label": "together",
+        "probe": "fabricate"
+      },
+      {
+        "label": "formed",
+        "probe": "fictitious"
+      }
+    ]
+  },
+  "fabrications": {
+    "senses": [
+      {
+        "label": "deliberately",
+        "probe": "fable"
+      },
+      {
+        "label": "writing",
+        "probe": "authorship"
+      },
+      {
+        "label": "deliberate",
+        "probe": "lying"
+      }
+    ]
+  },
+  "fakes": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "imitation"
+      },
+      {
+        "label": "makes",
+        "probe": "imposter"
+      },
+      {
+        "label": "tamper",
+        "probe": "falsify"
+      }
+    ]
+  },
+  "falsehood": {
+    "senses": [
+      {
+        "label": "false",
+        "probe": "falsity"
+      },
+      {
+        "label": "rendering",
+        "probe": "falsification"
+      }
+    ]
+  },
+  "falsehoods": {
+    "senses": [
+      {
+        "label": "false",
+        "probe": "falsehood"
+      },
+      {
+        "label": "rendering",
+        "probe": "falsification"
+      }
+    ]
+  },
+  "falsification": {
+    "senses": [
+      {
+        "label": "evidence",
+        "probe": "refutation"
+      },
+      {
+        "label": "willful",
+        "probe": "misrepresentation"
+      },
+      {
+        "label": "rendering",
+        "probe": "falsehood"
+      },
+      {
+        "label": "determining",
+        "probe": "falsifying"
+      }
+    ]
+  },
+  "falsify": {
+    "senses": [
+      {
+        "label": "tamper",
+        "probe": "tamper"
+      },
+      {
+        "label": "prove",
+        "probe": "disprove"
+      }
+    ]
+  },
+  "falsifying": {
+    "senses": [
+      {
+        "label": "determining",
+        "probe": "falsification"
+      },
+      {
+        "label": "make",
+        "probe": "falsify"
+      },
+      {
+        "label": "tamper",
+        "probe": "tamper"
+      },
+      {
+        "label": "prove",
+        "probe": "disprove"
+      }
+    ]
+  },
+  "fangs": {
+    "senses": [
+      {
+        "label": "canine",
+        "probe": "canine"
+      },
+      {
+        "label": "hollow",
+        "probe": "tooth"
+      }
+    ]
+  },
+  "fascinating": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "intrigue"
+      },
+      {
+        "label": "capable",
+        "probe": "engrossing"
+      },
+      {
+        "label": "capturing",
+        "probe": "captivating"
+      }
+    ]
+  },
+  "feigning": {
+    "senses": [
+      {
+        "label": "pretending",
+        "probe": "pretense"
+      },
+      {
+        "label": "giving",
+        "probe": "pretending"
+      }
+    ]
+  },
+  "fictitious": {
+    "senses": [
+      {
+        "label": "formed",
+        "probe": "fabricated"
+      },
+      {
+        "label": "adopted",
+        "probe": "pretended"
+      }
+    ]
+  },
+  "firebomb": {
+    "senses": [
+      {
+        "label": "bomb",
+        "probe": "incendiary"
+      },
+      {
+        "label": "attack",
+        "probe": "bomb"
+      }
+    ]
+  },
+  "fireman": {
+    "senses": [
+      {
+        "label": "laborer",
+        "probe": "stoker"
+      },
+      {
+        "label": "member",
+        "probe": "firefighter"
+      }
+    ]
+  },
+  "firemen": {
+    "senses": [
+      {
+        "label": "play",
+        "probe": "fireman"
+      },
+      {
+        "label": "laborer",
+        "probe": "stoker"
+      },
+      {
+        "label": "member",
+        "probe": "firefighter"
+      }
+    ]
+  },
+  "flashbacks": {
+    "senses": [
+      {
+        "label": "transition",
+        "probe": "flashback"
+      },
+      {
+        "label": "unexpected",
+        "probe": "recurrence"
+      }
+    ]
+  },
+  "flimsy": {
+    "senses": [
+      {
+        "label": "convincing",
+        "probe": "unconvincing"
+      },
+      {
+        "label": "lacking",
+        "probe": "insignificant"
+      }
+    ]
+  },
+  "foreboding": {
+    "senses": [
+      {
+        "label": "feeling",
+        "probe": "premonition"
+      },
+      {
+        "label": "unfavorable",
+        "probe": "omen"
+      },
+      {
+        "label": "ominously",
+        "probe": "prophetic"
+      }
+    ]
+  },
+  "foreshadowing": {
+    "senses": [
+      {
+        "label": "indicate",
+        "probe": "omen"
+      },
+      {
+        "label": "indistinctly",
+        "probe": "prophetic"
+      }
+    ]
+  },
+  "forgeries": {
+    "senses": [
+      {
+        "label": "copy",
+        "probe": "forgery"
+      },
+      {
+        "label": "criminal",
+        "probe": "criminal"
+      }
+    ]
+  },
+  "forgers": {
+    "senses": [
+      {
+        "label": "operates",
+        "probe": "forger"
+      },
+      {
+        "label": "makes",
+        "probe": "trickster"
+      }
+    ]
+  },
+  "forgery": {
+    "senses": [
+      {
+        "label": "copy",
+        "probe": "imitation"
+      },
+      {
+        "label": "criminal",
+        "probe": "criminal"
+      }
+    ]
+  },
+  "fratricide": {
+    "senses": [
+      {
+        "label": "murders",
+        "probe": "murders"
+      },
+      {
+        "label": "murder",
+        "probe": "murder"
+      }
+    ]
+  },
+  "frauds": {
+    "senses": [
+      {
+        "label": "intentional",
+        "probe": "intentional"
+      },
+      {
+        "label": "makes",
+        "probe": "imposter"
+      },
+      {
+        "label": "intended",
+        "probe": "hoax"
+      }
+    ]
+  },
+  "frightening": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "fright"
+      },
+      {
+        "label": "causing",
+        "probe": "dread"
+      }
+    ]
+  },
+  "fudging": {
+    "senses": [
+      {
+        "label": "tamper",
+        "probe": "falsify"
+      },
+      {
+        "label": "avoid",
+        "probe": "elude"
+      }
+    ]
+  },
+  "fugitive": {
+    "senses": [
+      {
+        "label": "flees",
+        "probe": "flees"
+      },
+      {
+        "label": "sought",
+        "probe": "criminal"
+      }
+    ]
+  },
+  "fugitives": {
+    "senses": [
+      {
+        "label": "flees",
+        "probe": "fugitive"
+      },
+      {
+        "label": "sought",
+        "probe": "criminal"
+      }
+    ]
+  },
+  "fullest": {
+    "senses": [
+      {
+        "label": "containing",
+        "probe": "riddled"
+      },
+      {
+        "label": "constituting",
+        "probe": "constituting"
+      }
+    ]
+  },
+  "funnier": {
+    "senses": [
+      {
+        "label": "arousing",
+        "probe": "amusing"
+      },
+      {
+        "label": "expected",
+        "probe": "fishy"
+      }
+    ]
+  },
+  "funniest": {
+    "senses": [
+      {
+        "label": "arousing",
+        "probe": "amusing"
+      },
+      {
+        "label": "expected",
+        "probe": "fishy"
+      }
+    ]
+  },
+  "furrow": {
+    "senses": [
+      {
+        "label": "slight",
+        "probe": "wrinkle"
+      },
+      {
+        "label": "hollow",
+        "probe": "delve"
+      }
+    ]
+  },
+  "furtive": {
+    "senses": [
+      {
+        "label": "marked",
+        "probe": "concealed"
+      },
+      {
+        "label": "secret",
+        "probe": "covert"
+      }
+    ]
+  },
+  "gag": {
+    "senses": [
+      {
+        "label": "humorous",
+        "probe": "wit"
+      },
+      {
+        "label": "prevent",
+        "probe": "hush"
+      }
+    ]
+  },
+  "gags": {
+    "senses": [
+      {
+        "label": "humorous",
+        "probe": "gag"
+      },
+      {
+        "label": "prevent",
+        "probe": "hush"
+      }
+    ]
+  },
+  "gaol": {
+    "senses": [
+      {
+        "label": "correctional",
+        "probe": "jailhouse"
+      },
+      {
+        "label": "lock",
+        "probe": "imprison"
+      }
+    ]
+  },
+  "gassing": {
+    "senses": [
+      {
+        "label": "deliberate",
+        "probe": "deliberate"
+      },
+      {
+        "label": "show",
+        "probe": "overstate"
+      }
+    ]
+  },
+  "ghastly": {
+    "senses": [
+      {
+        "label": "shockingly",
+        "probe": "grisly"
+      },
+      {
+        "label": "gruesomely",
+        "probe": "gruesomely"
+      }
+    ]
+  },
+  "ghost": {
+    "senses": [
+      {
+        "label": "mental",
+        "probe": "apparition"
+      },
+      {
+        "label": "writer",
+        "probe": "ghostwriter"
+      },
+      {
+        "label": "suggestion",
+        "probe": "trace"
+      },
+      {
+        "label": "haunt",
+        "probe": "haunt"
+      }
+    ]
+  },
+  "ghosts": {
+    "senses": [
+      {
+        "label": "mental",
+        "probe": "ghost"
+      },
+      {
+        "label": "writer",
+        "probe": "ghostwriter"
+      },
+      {
+        "label": "suggestion",
+        "probe": "trace"
+      },
+      {
+        "label": "haunt",
+        "probe": "haunt"
+      }
+    ]
+  },
+  "girlfriends": {
+    "senses": [
+      {
+        "label": "female",
+        "probe": "girlfriend"
+      },
+      {
+        "label": "girl",
+        "probe": "lover"
+      }
+    ]
+  },
+  "glitter": {
+    "senses": [
+      {
+        "label": "shining",
+        "probe": "sparkle"
+      },
+      {
+        "label": "occurrence",
+        "probe": "occurrence"
+      }
+    ]
+  },
+  "grave": {
+    "senses": [
+      {
+        "label": "burial",
+        "probe": "tomb"
+      },
+      {
+        "label": "causing",
+        "probe": "grievous"
+      }
+    ]
+  },
+  "graver": {
+    "senses": [
+      {
+        "label": "dignified",
+        "probe": "grave"
+      },
+      {
+        "label": "causing",
+        "probe": "grievous"
+      }
+    ]
+  },
+  "graves": {
+    "senses": [
+      {
+        "label": "death",
+        "probe": "grave"
+      },
+      {
+        "label": "burial",
+        "probe": "tomb"
+      }
+    ]
+  },
+  "gravest": {
+    "senses": [
+      {
+        "label": "dignified",
+        "probe": "grave"
+      },
+      {
+        "label": "causing",
+        "probe": "grievous"
+      }
+    ]
+  },
+  "grievous": {
+    "senses": [
+      {
+        "label": "causing",
+        "probe": "grave"
+      },
+      {
+        "label": "causing",
+        "probe": "heartbreaking"
+      },
+      {
+        "label": "shockingly",
+        "probe": "atrocious"
+      }
+    ]
+  },
+  "grips": {
+    "senses": [
+      {
+        "label": "grasping",
+        "probe": "clutches"
+      },
+      {
+        "label": "portable",
+        "probe": "suitcase"
+      },
+      {
+        "label": "flat",
+        "probe": "hairpin"
+      }
+    ]
+  },
+  "grosser": {
+    "senses": [
+      {
+        "label": "without",
+        "probe": "everlasting"
+      },
+      {
+        "label": "conspicuously",
+        "probe": "egregious"
+      }
+    ]
+  },
+  "grotesque": {
+    "senses": [
+      {
+        "label": "distorted",
+        "probe": "monstrous"
+      },
+      {
+        "label": "ludicrously",
+        "probe": "fantastical"
+      }
+    ]
+  },
+  "guile": {
+    "senses": [
+      {
+        "label": "shrewdness",
+        "probe": "cunning"
+      },
+      {
+        "label": "tricks",
+        "probe": "chicanery"
+      }
+    ]
+  },
+  "hallucinations": {
+    "senses": [
+      {
+        "label": "illusory",
+        "probe": "delusion"
+      },
+      {
+        "label": "mistaken",
+        "probe": "mistaken"
+      }
+    ]
+  },
+  "hanged": {
+    "senses": [
+      {
+        "label": "menacing",
+        "probe": "menacing"
+      },
+      {
+        "label": "prevent",
+        "probe": "obstruct"
+      },
+      {
+        "label": "decorate",
+        "probe": "ornament"
+      }
+    ]
+  },
+  "hangings": {
+    "senses": [
+      {
+        "label": "decoration",
+        "probe": "ornament"
+      },
+      {
+        "label": "suspending",
+        "probe": "dangling"
+      }
+    ]
+  },
+  "harbored": {
+    "senses": [
+      {
+        "label": "maintain",
+        "probe": "nurse"
+      },
+      {
+        "label": "hold",
+        "probe": "conceal"
+      }
+    ]
+  },
+  "harboring": {
+    "senses": [
+      {
+        "label": "maintain",
+        "probe": "nurse"
+      },
+      {
+        "label": "hold",
+        "probe": "conceal"
+      }
+    ]
+  },
+  "harbouring": {
+    "senses": [
+      {
+        "label": "hold",
+        "probe": "conceal"
+      },
+      {
+        "label": "maintain",
+        "probe": "nurse"
+      }
+    ]
+  },
+  "hatches": {
+    "senses": [
+      {
+        "label": "production",
+        "probe": "hatching"
+      },
+      {
+        "label": "devise",
+        "probe": "concoct"
+      }
+    ]
+  },
+  "haunt": {
+    "senses": [
+      {
+        "label": "follow",
+        "probe": "stalk"
+      },
+      {
+        "label": "haunt",
+        "probe": "ghost"
+      }
+    ]
+  },
+  "haunted": {
+    "senses": [
+      {
+        "label": "follow",
+        "probe": "haunt"
+      },
+      {
+        "label": "haunt",
+        "probe": "ghost"
+      }
+    ]
+  },
+  "haunting": {
+    "senses": [
+      {
+        "label": "follow",
+        "probe": "haunt"
+      },
+      {
+        "label": "haunt",
+        "probe": "ghost"
+      }
+    ]
+  },
+  "haunts": {
+    "senses": [
+      {
+        "label": "frequently",
+        "probe": "haunt"
+      },
+      {
+        "label": "follow",
+        "probe": "stalk"
+      },
+      {
+        "label": "haunt",
+        "probe": "ghost"
+      }
+    ]
+  },
+  "hears": {
+    "senses": [
+      {
+        "label": "perceive",
+        "probe": "comprehend"
+      },
+      {
+        "label": "examine",
+        "probe": "probe"
+      }
+    ]
+  },
+  "heist": {
+    "senses": [
+      {
+        "label": "stealing",
+        "probe": "robbery"
+      },
+      {
+        "label": "robbery",
+        "probe": "holdup"
+      }
+    ]
+  },
+  "hellish": {
+    "senses": [
+      {
+        "label": "very",
+        "probe": "unpleasant"
+      },
+      {
+        "label": "extremely",
+        "probe": "demonic"
+      }
+    ]
+  },
+  "hells": {
+    "senses": [
+      {
+        "label": "pain",
+        "probe": "inferno"
+      },
+      {
+        "label": "cause",
+        "probe": "blaze"
+      },
+      {
+        "label": "world",
+        "probe": "hades"
+      },
+      {
+        "label": "violent",
+        "probe": "sin"
+      },
+      {
+        "label": "noisy",
+        "probe": "mischief"
+      }
+    ]
+  },
+  "hid": {
+    "senses": [
+      {
+        "label": "prevent",
+        "probe": "conceal"
+      },
+      {
+        "label": "cover",
+        "probe": "shroud"
+      },
+      {
+        "label": "make",
+        "probe": "veil"
+      }
+    ]
+  },
+  "hidden": {
+    "senses": [
+      {
+        "label": "prevent",
+        "probe": "conceal"
+      },
+      {
+        "label": "cover",
+        "probe": "shroud"
+      },
+      {
+        "label": "make",
+        "probe": "veil"
+      },
+      {
+        "label": "accessible",
+        "probe": "concealed"
+      }
+    ]
+  },
+  "hideous": {
+    "senses": [
+      {
+        "label": "grossly",
+        "probe": "horrid"
+      },
+      {
+        "label": "extremely",
+        "probe": "repulsive"
+      }
+    ]
+  },
+  "hides": {
+    "senses": [
+      {
+        "label": "prevent",
+        "probe": "conceal"
+      },
+      {
+        "label": "cover",
+        "probe": "shroud"
+      },
+      {
+        "label": "make",
+        "probe": "veil"
+      }
+    ]
+  },
+  "hiding": {
+    "senses": [
+      {
+        "label": "activity",
+        "probe": "concealment"
+      },
+      {
+        "label": "prevent",
+        "probe": "conceal"
+      },
+      {
+        "label": "cover",
+        "probe": "shroud"
+      },
+      {
+        "label": "make",
+        "probe": "veil"
+      }
+    ]
+  },
+  "hijacker": {
+    "senses": [
+      {
+        "label": "holdup",
+        "probe": "highwayman"
+      },
+      {
+        "label": "uses",
+        "probe": "criminal"
+      }
+    ]
+  },
+  "hijackers": {
+    "senses": [
+      {
+        "label": "holdup",
+        "probe": "highwayman"
+      },
+      {
+        "label": "uses",
+        "probe": "hijacker"
+      }
+    ]
+  },
+  "hijacking": {
+    "senses": [
+      {
+        "label": "robbery",
+        "probe": "robbery"
+      },
+      {
+        "label": "take",
+        "probe": "hijack"
+      }
+    ]
+  },
+  "hindering": {
+    "senses": [
+      {
+        "label": "hinder",
+        "probe": "obstruct"
+      },
+      {
+        "label": "preventing",
+        "probe": "preventative"
+      }
+    ]
+  },
+  "hiss": {
+    "senses": [
+      {
+        "label": "noise",
+        "probe": "hoot"
+      },
+      {
+        "label": "make",
+        "probe": "utter"
+      }
+    ]
+  },
+  "hitch": {
+    "senses": [
+      {
+        "label": "inactivity",
+        "probe": "arrest"
+      },
+      {
+        "label": "unforeseen",
+        "probe": "obstruction"
+      },
+      {
+        "label": "obstruction",
+        "probe": "preventative"
+      }
+    ]
+  },
+  "hoax": {
+    "senses": [
+      {
+        "label": "intended",
+        "probe": "chicanery"
+      },
+      {
+        "label": "subject",
+        "probe": "deceive"
+      }
+    ]
+  },
+  "hoaxes": {
+    "senses": [
+      {
+        "label": "intended",
+        "probe": "hoax"
+      },
+      {
+        "label": "subject",
+        "probe": "deceive"
+      }
+    ]
+  },
+  "hoot": {
+    "senses": [
+      {
+        "label": "noise",
+        "probe": "hiss"
+      },
+      {
+        "label": "little",
+        "probe": "ineptitude"
+      },
+      {
+        "label": "utter",
+        "probe": "utter"
+      }
+    ]
+  },
+  "horrid": {
+    "senses": [
+      {
+        "label": "exceedingly",
+        "probe": "exceedingly"
+      },
+      {
+        "label": "grossly",
+        "probe": "hideous"
+      }
+    ]
+  },
+  "horrific": {
+    "senses": [
+      {
+        "label": "grossly",
+        "probe": "hideous"
+      },
+      {
+        "label": "causing",
+        "probe": "dread"
+      }
+    ]
+  },
+  "horrifying": {
+    "senses": [
+      {
+        "label": "fill",
+        "probe": "fright"
+      },
+      {
+        "label": "provoking",
+        "probe": "atrocious"
+      }
+    ]
+  },
+  "hound": {
+    "senses": [
+      {
+        "label": "morally",
+        "probe": "villain"
+      },
+      {
+        "label": "pursue",
+        "probe": "trace"
+      }
+    ]
+  },
+  "hounds": {
+    "senses": [
+      {
+        "label": "several",
+        "probe": "hound"
+      },
+      {
+        "label": "morally",
+        "probe": "villain"
+      },
+      {
+        "label": "pursue",
+        "probe": "trace"
+      }
+    ]
+  },
+  "hysteria": {
+    "senses": [
+      {
+        "label": "excessive",
+        "probe": "fright"
+      },
+      {
+        "label": "neurotic",
+        "probe": "neurotic"
+      }
+    ]
+  },
+  "idiotic": {
+    "senses": [
+      {
+        "label": "insanely",
+        "probe": "insane"
+      },
+      {
+        "label": "incongruous",
+        "probe": "absurd"
+      }
+    ]
+  },
+  "illuminating": {
+    "senses": [
+      {
+        "label": "embellishments",
+        "probe": "ornament"
+      },
+      {
+        "label": "tending",
+        "probe": "enlightening"
+      }
+    ]
+  },
+  "imagines": {
+    "senses": [
+      {
+        "label": "idealized",
+        "probe": "epitome"
+      },
+      {
+        "label": "adult",
+        "probe": "insect"
+      }
+    ]
+  },
+  "immaterial": {
+    "senses": [
+      {
+        "label": "pertinent",
+        "probe": "pertinent"
+      },
+      {
+        "label": "lacking",
+        "probe": "unimportant"
+      }
+    ]
+  },
+  "impersonated": {
+    "senses": [
+      {
+        "label": "assume",
+        "probe": "impersonate"
+      },
+      {
+        "label": "pretend",
+        "probe": "deceive"
+      }
+    ]
+  },
+  "impersonating": {
+    "senses": [
+      {
+        "label": "assume",
+        "probe": "impersonate"
+      },
+      {
+        "label": "pretend",
+        "probe": "deceive"
+      }
+    ]
+  },
+  "impersonation": {
+    "senses": [
+      {
+        "label": "representation",
+        "probe": "imitation"
+      },
+      {
+        "label": "pretending",
+        "probe": "pretending"
+      }
+    ]
+  },
+  "implication": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "inference"
+      },
+      {
+        "label": "accusation",
+        "probe": "accusation"
+      }
+    ]
+  },
+  "imprison": {
+    "senses": [
+      {
+        "label": "lock",
+        "probe": "gaol"
+      },
+      {
+        "label": "confine",
+        "probe": "detain"
+      }
+    ]
+  },
+  "imprisonment": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "incarceration"
+      },
+      {
+        "label": "confining",
+        "probe": "internment"
+      }
+    ]
+  },
+  "incendiary": {
+    "senses": [
+      {
+        "label": "criminal",
+        "probe": "arsonist"
+      },
+      {
+        "label": "bomb",
+        "probe": "firebomb"
+      },
+      {
+        "label": "arousing",
+        "probe": "seditious"
+      }
+    ]
+  },
+  "incompetent": {
+    "senses": [
+      {
+        "label": "qualified",
+        "probe": "inept"
+      },
+      {
+        "label": "showing",
+        "probe": "bungling"
+      }
+    ]
+  },
+  "incomprehensible": {
+    "senses": [
+      {
+        "label": "incapable",
+        "probe": "inexplicable"
+      },
+      {
+        "label": "difficult",
+        "probe": "unfathomable"
+      }
+    ]
+  },
+  "incontestable": {
+    "senses": [
+      {
+        "label": "incapable",
+        "probe": "unanswerable"
+      },
+      {
+        "label": "open",
+        "probe": "indisputable"
+      }
+    ]
+  },
+  "incontrovertible": {
+    "senses": [
+      {
+        "label": "impossible",
+        "probe": "irrefutable"
+      },
+      {
+        "label": "necessarily",
+        "probe": "incontestable"
+      }
+    ]
+  },
+  "indeterminate": {
+    "senses": [
+      {
+        "label": "precisely",
+        "probe": "undetermined"
+      },
+      {
+        "label": "uncertain",
+        "probe": "equivocal"
+      },
+      {
+        "label": "leading",
+        "probe": "inconclusive"
+      }
+    ]
+  },
+  "indictments": {
+    "senses": [
+      {
+        "label": "formal",
+        "probe": "indictment"
+      },
+      {
+        "label": "accusation",
+        "probe": "accusation"
+      }
+    ]
+  },
+  "indiscretions": {
+    "senses": [
+      {
+        "label": "trait",
+        "probe": "indiscretion"
+      },
+      {
+        "label": "petty",
+        "probe": "petty"
+      }
+    ]
+  },
+  "inducement": {
+    "senses": [
+      {
+        "label": "positive",
+        "probe": "motivator"
+      },
+      {
+        "label": "bringing",
+        "probe": "causation"
+      }
+    ]
+  },
+  "inept": {
+    "senses": [
+      {
+        "label": "elegant",
+        "probe": "clumsy"
+      },
+      {
+        "label": "generally",
+        "probe": "incompetent"
+      },
+      {
+        "label": "revealing",
+        "probe": "revealing"
+      }
+    ]
+  },
+  "inexcusable": {
+    "senses": [
+      {
+        "label": "without",
+        "probe": "insupportable"
+      },
+      {
+        "label": "excusable",
+        "probe": "unforgivable"
+      }
+    ]
+  },
+  "infanticide": {
+    "senses": [
+      {
+        "label": "murders",
+        "probe": "murders"
+      },
+      {
+        "label": "murdering",
+        "probe": "murdering"
+      }
+    ]
+  },
+  "infecting": {
+    "senses": [
+      {
+        "label": "contaminate",
+        "probe": "taint"
+      },
+      {
+        "label": "corrupt",
+        "probe": "pervert"
+      }
+    ]
+  },
+  "infernal": {
+    "senses": [
+      {
+        "label": "inhabitant",
+        "probe": "deceased"
+      },
+      {
+        "label": "extremely",
+        "probe": "demonic"
+      },
+      {
+        "label": "expletives",
+        "probe": "damned"
+      }
+    ]
+  },
+  "inferred": {
+    "senses": [
+      {
+        "label": "reason",
+        "probe": "deduce"
+      },
+      {
+        "label": "draw",
+        "probe": "infer"
+      }
+    ]
+  },
+  "infiltrators": {
+    "senses": [
+      {
+        "label": "takes",
+        "probe": "infiltrator"
+      },
+      {
+        "label": "intruder",
+        "probe": "intruder"
+      }
+    ]
+  },
+  "informants": {
+    "senses": [
+      {
+        "label": "supplies",
+        "probe": "informant"
+      },
+      {
+        "label": "sees",
+        "probe": "witness"
+      }
+    ]
+  },
+  "injures": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "injure"
+      },
+      {
+        "label": "hurt",
+        "probe": "arouse"
+      }
+    ]
+  },
+  "inmate": {
+    "senses": [
+      {
+        "label": "several",
+        "probe": "occupant"
+      },
+      {
+        "label": "patient",
+        "probe": "inpatient"
+      },
+      {
+        "label": "serving",
+        "probe": "convict"
+      }
+    ]
+  },
+  "innocent": {
+    "senses": [
+      {
+        "label": "free",
+        "probe": "absolved"
+      },
+      {
+        "label": "lacking",
+        "probe": "innocuous"
+      },
+      {
+        "label": "lacking",
+        "probe": "unconscious"
+      }
+    ]
+  },
+  "inquired": {
+    "senses": [
+      {
+        "label": "inquire",
+        "probe": "inquire"
+      },
+      {
+        "label": "conduct",
+        "probe": "probe"
+      }
+    ]
+  },
+  "inquires": {
+    "senses": [
+      {
+        "label": "inquire",
+        "probe": "inquire"
+      },
+      {
+        "label": "conduct",
+        "probe": "probe"
+      }
+    ]
+  },
+  "inquiring": {
+    "senses": [
+      {
+        "label": "inquire",
+        "probe": "inquire"
+      },
+      {
+        "label": "conduct",
+        "probe": "probe"
+      }
+    ]
+  },
+  "inquiry": {
+    "senses": [
+      {
+        "label": "search",
+        "probe": "enquiry"
+      },
+      {
+        "label": "instance",
+        "probe": "interrogation"
+      },
+      {
+        "label": "systematic",
+        "probe": "systematic"
+      }
+    ]
+  },
+  "inquisition": {
+    "senses": [
+      {
+        "label": "former",
+        "probe": "tribunal"
+      },
+      {
+        "label": "severe",
+        "probe": "interrogation"
+      }
+    ]
+  },
+  "inspector": {
+    "senses": [
+      {
+        "label": "high",
+        "probe": "policeman"
+      },
+      {
+        "label": "investigator",
+        "probe": "examiner"
+      }
+    ]
+  },
+  "instigation": {
+    "senses": [
+      {
+        "label": "verbal",
+        "probe": "abetment"
+      },
+      {
+        "label": "deliberate",
+        "probe": "deliberate"
+      }
+    ]
+  },
+  "internment": {
+    "senses": [
+      {
+        "label": "confinement",
+        "probe": "confinement"
+      },
+      {
+        "label": "confining",
+        "probe": "imprisonment"
+      },
+      {
+        "label": "placing",
+        "probe": "seizure"
+      }
+    ]
+  },
+  "interrogation": {
+    "senses": [
+      {
+        "label": "sentence",
+        "probe": "sentence"
+      },
+      {
+        "label": "formal",
+        "probe": "inquiring"
+      },
+      {
+        "label": "instance",
+        "probe": "inquiry"
+      }
+    ]
+  },
+  "interrogations": {
+    "senses": [
+      {
+        "label": "sentence",
+        "probe": "interrogation"
+      },
+      {
+        "label": "formal",
+        "probe": "inquiring"
+      },
+      {
+        "label": "instance",
+        "probe": "inquiry"
+      }
+    ]
+  },
+  "intoxication": {
+    "senses": [
+      {
+        "label": "physiological",
+        "probe": "poisoning"
+      },
+      {
+        "label": "temporary",
+        "probe": "drunkenness"
+      }
+    ]
+  },
+  "intrigue": {
+    "senses": [
+      {
+        "label": "crafty",
+        "probe": "crafty"
+      },
+      {
+        "label": "clandestine",
+        "probe": "clandestine"
+      },
+      {
+        "label": "intrigues",
+        "probe": "intrigues"
+      }
+    ]
+  },
+  "intrigues": {
+    "senses": [
+      {
+        "label": "crafty",
+        "probe": "intrigue"
+      },
+      {
+        "label": "clandestine",
+        "probe": "clandestine"
+      },
+      {
+        "label": "intrigues",
+        "probe": "plot"
+      }
+    ]
+  },
+  "investigations": {
+    "senses": [
+      {
+        "label": "inquiry",
+        "probe": "probe"
+      },
+      {
+        "label": "work",
+        "probe": "investigating"
+      }
+    ]
+  },
+  "investigator": {
+    "senses": [
+      {
+        "label": "investigates",
+        "probe": "investigates"
+      },
+      {
+        "label": "police",
+        "probe": "detective"
+      }
+    ]
+  },
+  "investigators": {
+    "senses": [
+      {
+        "label": "scientist",
+        "probe": "investigator"
+      },
+      {
+        "label": "investigates",
+        "probe": "investigates"
+      },
+      {
+        "label": "police",
+        "probe": "detective"
+      }
+    ]
+  },
+  "ironies": {
+    "senses": [
+      {
+        "label": "witty",
+        "probe": "sarcasm"
+      },
+      {
+        "label": "incongruity",
+        "probe": "irony"
+      },
+      {
+        "label": "trope",
+        "probe": "trope"
+      }
+    ]
+  },
+  "irony": {
+    "senses": [
+      {
+        "label": "witty",
+        "probe": "sarcasm"
+      },
+      {
+        "label": "trope",
+        "probe": "trope"
+      }
+    ]
+  },
+  "irregularity": {
+    "senses": [
+      {
+        "label": "behavior",
+        "probe": "abnormality"
+      },
+      {
+        "label": "irregular",
+        "probe": "symptom"
+      }
+    ]
+  },
+  "judas": {
+    "senses": [
+      {
+        "label": "apostle",
+        "probe": "apostle"
+      },
+      {
+        "label": "betrays",
+        "probe": "betrays"
+      }
+    ]
+  },
+  "justification": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "circumstance"
+      },
+      {
+        "label": "defending",
+        "probe": "exoneration"
+      }
+    ]
+  },
+  "justifications": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "justification"
+      },
+      {
+        "label": "defending",
+        "probe": "exoneration"
+      }
+    ]
+  },
+  "kidnapping": {
+    "senses": [
+      {
+        "label": "unlawful",
+        "probe": "unlawful"
+      },
+      {
+        "label": "take",
+        "probe": "kidnap"
+      }
+    ]
+  },
+  "killer": {
+    "senses": [
+      {
+        "label": "causes",
+        "probe": "slayer"
+      },
+      {
+        "label": "causal",
+        "probe": "causal"
+      },
+      {
+        "label": "predatory",
+        "probe": "orca"
+      }
+    ]
+  },
+  "killers": {
+    "senses": [
+      {
+        "label": "causes",
+        "probe": "killer"
+      },
+      {
+        "label": "causal",
+        "probe": "causal"
+      },
+      {
+        "label": "predatory",
+        "probe": "orca"
+      }
+    ]
+  },
+  "killing": {
+    "senses": [
+      {
+        "label": "event",
+        "probe": "fatality"
+      },
+      {
+        "label": "extinguish",
+        "probe": "extinguish"
+      },
+      {
+        "label": "fatal",
+        "probe": "fatal"
+      },
+      {
+        "label": "overwhelm",
+        "probe": "overpower"
+      }
+    ]
+  },
+  "kills": {
+    "senses": [
+      {
+        "label": "terminating",
+        "probe": "killing"
+      },
+      {
+        "label": "destruction",
+        "probe": "devastation"
+      },
+      {
+        "label": "extinguish",
+        "probe": "extinguish"
+      },
+      {
+        "label": "fatal",
+        "probe": "fatal"
+      },
+      {
+        "label": "overwhelm",
+        "probe": "overpower"
+      }
+    ]
+  },
+  "kinky": {
+    "senses": [
+      {
+        "label": "showing",
+        "probe": "perverted"
+      },
+      {
+        "label": "informal",
+        "probe": "offbeat"
+      }
+    ]
+  },
+  "knotty": {
+    "senses": [
+      {
+        "label": "making",
+        "probe": "baffling"
+      },
+      {
+        "label": "highly",
+        "probe": "convoluted"
+      },
+      {
+        "label": "tangled",
+        "probe": "tangled"
+      }
+    ]
+  },
+  "lam": {
+    "senses": [
+      {
+        "label": "rapid",
+        "probe": "getaway"
+      },
+      {
+        "label": "flee",
+        "probe": "bunk"
+      }
+    ]
+  },
+  "lambs": {
+    "senses": [
+      {
+        "label": "easily",
+        "probe": "victim"
+      },
+      {
+        "label": "sweet",
+        "probe": "innocent"
+      }
+    ]
+  },
+  "laughable": {
+    "senses": [
+      {
+        "label": "incongruous",
+        "probe": "absurd"
+      },
+      {
+        "label": "arousing",
+        "probe": "amusing"
+      }
+    ]
+  },
+  "leak": {
+    "senses": [
+      {
+        "label": "accidental",
+        "probe": "accidental"
+      },
+      {
+        "label": "euphemism",
+        "probe": "euphemism"
+      },
+      {
+        "label": "discharge",
+        "probe": "leakage"
+      },
+      {
+        "label": "unauthorized",
+        "probe": "revelation"
+      }
+    ]
+  },
+  "leaks": {
+    "senses": [
+      {
+        "label": "accidental",
+        "probe": "leak"
+      },
+      {
+        "label": "euphemism",
+        "probe": "euphemism"
+      },
+      {
+        "label": "discharge",
+        "probe": "leakage"
+      },
+      {
+        "label": "unauthorized",
+        "probe": "revelation"
+      }
+    ]
+  },
+  "learns": {
+    "senses": [
+      {
+        "label": "commit",
+        "probe": "con"
+      },
+      {
+        "label": "find",
+        "probe": "ascertain"
+      }
+    ]
+  },
+  "lesion": {
+    "senses": [
+      {
+        "label": "localized",
+        "probe": "pathology"
+      },
+      {
+        "label": "injury",
+        "probe": "trauma"
+      }
+    ]
+  },
+  "lice": {
+    "senses": [
+      {
+        "label": "wingless",
+        "probe": "louse"
+      },
+      {
+        "label": "nasty",
+        "probe": "insect"
+      }
+    ]
+  },
+  "lieutenants": {
+    "senses": [
+      {
+        "label": "officer",
+        "probe": "lawman"
+      },
+      {
+        "label": "assistant",
+        "probe": "helper"
+      }
+    ]
+  },
+  "loathsome": {
+    "senses": [
+      {
+        "label": "causing",
+        "probe": "sickening"
+      },
+      {
+        "label": "highly",
+        "probe": "disgusting"
+      }
+    ]
+  },
+  "locating": {
+    "senses": [
+      {
+        "label": "discover",
+        "probe": "locate"
+      },
+      {
+        "label": "determine",
+        "probe": "ascertain"
+      }
+    ]
+  },
+  "loot": {
+    "senses": [
+      {
+        "label": "goods",
+        "probe": "pillage"
+      },
+      {
+        "label": "informal",
+        "probe": "kale"
+      },
+      {
+        "label": "take",
+        "probe": "plunder"
+      }
+    ]
+  },
+  "looting": {
+    "senses": [
+      {
+        "label": "plundering",
+        "probe": "robbery"
+      },
+      {
+        "label": "take",
+        "probe": "loot"
+      },
+      {
+        "label": "steal",
+        "probe": "plunder"
+      }
+    ]
+  },
+  "ludicrous": {
+    "senses": [
+      {
+        "label": "broadly",
+        "probe": "farcical"
+      },
+      {
+        "label": "incongruous",
+        "probe": "absurd"
+      }
+    ]
+  },
+  "lunatic": {
+    "senses": [
+      {
+        "label": "insane",
+        "probe": "maniac"
+      },
+      {
+        "label": "reckless",
+        "probe": "daredevil"
+      },
+      {
+        "label": "insane",
+        "probe": "insane"
+      }
+    ]
+  },
+  "lurid": {
+    "senses": [
+      {
+        "label": "horrible",
+        "probe": "horrible"
+      },
+      {
+        "label": "glaringly",
+        "probe": "glaringly"
+      },
+      {
+        "label": "ghastly",
+        "probe": "ghastly"
+      }
+    ]
+  },
+  "lurk": {
+    "senses": [
+      {
+        "label": "wait",
+        "probe": "conceal"
+      },
+      {
+        "label": "wait",
+        "probe": "ambush"
+      }
+    ]
+  },
+  "lurking": {
+    "senses": [
+      {
+        "label": "wait",
+        "probe": "lurk"
+      },
+      {
+        "label": "wait",
+        "probe": "ambush"
+      }
+    ]
+  },
+  "lurks": {
+    "senses": [
+      {
+        "label": "wait",
+        "probe": "lurk"
+      },
+      {
+        "label": "wait",
+        "probe": "ambush"
+      }
+    ]
+  },
+  "maddening": {
+    "senses": [
+      {
+        "label": "drive",
+        "probe": "torment"
+      },
+      {
+        "label": "extremely",
+        "probe": "exasperating"
+      }
+    ]
+  },
+  "mafia": {
+    "senses": [
+      {
+        "label": "crime",
+        "probe": "crime"
+      },
+      {
+        "label": "secret",
+        "probe": "gangland"
+      }
+    ]
+  },
+  "mafias": {
+    "senses": [
+      {
+        "label": "crime",
+        "probe": "mafia"
+      },
+      {
+        "label": "secret",
+        "probe": "gangland"
+      }
+    ]
+  },
+  "mafiosi": {
+    "senses": [
+      {
+        "label": "member",
+        "probe": "mafioso"
+      },
+      {
+        "label": "member",
+        "probe": "criminal"
+      }
+    ]
+  },
+  "magician": {
+    "senses": [
+      {
+        "label": "performs",
+        "probe": "illusionist"
+      },
+      {
+        "label": "practices",
+        "probe": "sorcerer"
+      }
+    ]
+  },
+  "maimed": {
+    "senses": [
+      {
+        "label": "injure",
+        "probe": "maim"
+      },
+      {
+        "label": "having",
+        "probe": "mutilated"
+      }
+    ]
+  },
+  "mangled": {
+    "senses": [
+      {
+        "label": "injure",
+        "probe": "injure"
+      },
+      {
+        "label": "alter",
+        "probe": "murder"
+      }
+    ]
+  },
+  "maniac": {
+    "senses": [
+      {
+        "label": "insane",
+        "probe": "lunatic"
+      },
+      {
+        "label": "wildly",
+        "probe": "insane"
+      }
+    ]
+  },
+  "marshals": {
+    "senses": [
+      {
+        "label": "officer",
+        "probe": "lawman"
+      },
+      {
+        "label": "make",
+        "probe": "summon"
+      }
+    ]
+  },
+  "masking": {
+    "senses": [
+      {
+        "label": "concealing",
+        "probe": "concealing"
+      },
+      {
+        "label": "hide",
+        "probe": "cloak"
+      },
+      {
+        "label": "make",
+        "probe": "disguise"
+      }
+    ]
+  },
+  "masquerading": {
+    "senses": [
+      {
+        "label": "take",
+        "probe": "disguise"
+      },
+      {
+        "label": "pretend",
+        "probe": "impersonate"
+      }
+    ]
+  },
+  "massacres": {
+    "senses": [
+      {
+        "label": "savage",
+        "probe": "slaughter"
+      },
+      {
+        "label": "kill",
+        "probe": "massacre"
+      }
+    ]
+  },
+  "meanest": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "ignoble"
+      },
+      {
+        "label": "value",
+        "probe": "contemptible"
+      }
+    ]
+  },
+  "miraculous": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "supernatural"
+      },
+      {
+        "label": "peculiarly",
+        "probe": "providential"
+      }
+    ]
+  },
+  "misappropriation": {
+    "senses": [
+      {
+        "label": "fraudulent",
+        "probe": "embezzlement"
+      },
+      {
+        "label": "wrongful",
+        "probe": "wrongful"
+      }
+    ]
+  },
+  "mishaps": {
+    "senses": [
+      {
+        "label": "unpredictable",
+        "probe": "mishap"
+      },
+      {
+        "label": "instance",
+        "probe": "misadventure"
+      }
+    ]
+  },
+  "misrepresentation": {
+    "senses": [
+      {
+        "label": "misleading",
+        "probe": "deceit"
+      },
+      {
+        "label": "willful",
+        "probe": "falsification"
+      }
+    ]
+  },
+  "misrepresentations": {
+    "senses": [
+      {
+        "label": "misleading",
+        "probe": "misrepresentation"
+      },
+      {
+        "label": "willful",
+        "probe": "falsification"
+      }
+    ]
+  },
+  "misrepresented": {
+    "senses": [
+      {
+        "label": "tamper",
+        "probe": "falsify"
+      },
+      {
+        "label": "having",
+        "probe": "perverted"
+      }
+    ]
+  },
+  "mistress": {
+    "senses": [
+      {
+        "label": "adulterous",
+        "probe": "adulterous"
+      },
+      {
+        "label": "woman",
+        "probe": "schoolteacher"
+      }
+    ]
+  },
+  "mistresses": {
+    "senses": [
+      {
+        "label": "adulterous",
+        "probe": "mistress"
+      },
+      {
+        "label": "woman",
+        "probe": "schoolteacher"
+      }
+    ]
+  },
+  "mists": {
+    "senses": [
+      {
+        "label": "thin",
+        "probe": "mist"
+      },
+      {
+        "label": "make",
+        "probe": "conceal"
+      }
+    ]
+  },
+  "mob": {
+    "senses": [
+      {
+        "label": "disorderly",
+        "probe": "disorderly"
+      },
+      {
+        "label": "loose",
+        "probe": "gangland"
+      },
+      {
+        "label": "association",
+        "probe": "gang"
+      }
+    ]
+  },
+  "monologues": {
+    "senses": [
+      {
+        "label": "speech",
+        "probe": "soliloquy"
+      },
+      {
+        "label": "long",
+        "probe": "monologue"
+      }
+    ]
+  },
+  "monstrous": {
+    "senses": [
+      {
+        "label": "shockingly",
+        "probe": "atrocious"
+      },
+      {
+        "label": "distorted",
+        "probe": "grotesque"
+      }
+    ]
+  },
+  "morbid": {
+    "senses": [
+      {
+        "label": "suggesting",
+        "probe": "ghoulish"
+      },
+      {
+        "label": "caused",
+        "probe": "pathological"
+      }
+    ]
+  },
+  "mortal": {
+    "senses": [
+      {
+        "label": "involving",
+        "probe": "unpardonable"
+      },
+      {
+        "label": "causing",
+        "probe": "deathly"
+      }
+    ]
+  },
+  "mortified": {
+    "senses": [
+      {
+        "label": "practice",
+        "probe": "subdue"
+      },
+      {
+        "label": "cause",
+        "probe": "injure"
+      }
+    ]
+  },
+  "motive": {
+    "senses": [
+      {
+        "label": "theme",
+        "probe": "motif"
+      },
+      {
+        "label": "causing",
+        "probe": "causative"
+      }
+    ]
+  },
+  "motives": {
+    "senses": [
+      {
+        "label": "psychological",
+        "probe": "motive"
+      },
+      {
+        "label": "theme",
+        "probe": "motif"
+      }
+    ]
+  },
+  "mundane": {
+    "senses": [
+      {
+        "label": "found",
+        "probe": "unremarkable"
+      },
+      {
+        "label": "belonging",
+        "probe": "earthly"
+      }
+    ]
+  },
+  "murder": {
+    "senses": [
+      {
+        "label": "unlawful",
+        "probe": "slaying"
+      },
+      {
+        "label": "kill",
+        "probe": "slay"
+      },
+      {
+        "label": "alter",
+        "probe": "falsify"
+      }
+    ]
+  },
+  "murdered": {
+    "senses": [
+      {
+        "label": "kill",
+        "probe": "murder"
+      },
+      {
+        "label": "alter",
+        "probe": "falsify"
+      }
+    ]
+  },
+  "murdering": {
+    "senses": [
+      {
+        "label": "kill",
+        "probe": "murder"
+      },
+      {
+        "label": "alter",
+        "probe": "falsify"
+      }
+    ]
+  },
+  "murders": {
+    "senses": [
+      {
+        "label": "unlawful",
+        "probe": "murder"
+      },
+      {
+        "label": "kill",
+        "probe": "slay"
+      },
+      {
+        "label": "alter",
+        "probe": "falsify"
+      }
+    ]
+  },
+  "mushrooms": {
+    "senses": [
+      {
+        "label": "fleshy",
+        "probe": "veggie"
+      },
+      {
+        "label": "pick",
+        "probe": "cull"
+      }
+    ]
+  },
+  "mutants": {
+    "senses": [
+      {
+        "label": "organism",
+        "probe": "mutation"
+      },
+      {
+        "label": "that",
+        "probe": "brute"
+      }
+    ]
+  },
+  "mutilated": {
+    "senses": [
+      {
+        "label": "alter",
+        "probe": "murder"
+      },
+      {
+        "label": "destroy",
+        "probe": "maim"
+      },
+      {
+        "label": "having",
+        "probe": "maimed"
+      }
+    ]
+  },
+  "mysteries": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "mystery"
+      },
+      {
+        "label": "story",
+        "probe": "whodunit"
+      }
+    ]
+  },
+  "mysterious": {
+    "senses": [
+      {
+        "label": "obscure",
+        "probe": "cryptic"
+      },
+      {
+        "label": "having",
+        "probe": "mystical"
+      }
+    ]
+  },
+  "mystery": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "enigma"
+      },
+      {
+        "label": "story",
+        "probe": "whodunit"
+      }
+    ]
+  },
+  "mystified": {
+    "senses": [
+      {
+        "label": "mystery",
+        "probe": "mystery"
+      },
+      {
+        "label": "make",
+        "probe": "veil"
+      },
+      {
+        "label": "totally",
+        "probe": "perplexed"
+      }
+    ]
+  },
+  "mystifying": {
+    "senses": [
+      {
+        "label": "mystery",
+        "probe": "mystery"
+      },
+      {
+        "label": "make",
+        "probe": "veil"
+      },
+      {
+        "label": "obscure",
+        "probe": "cryptic"
+      }
+    ]
+  },
+  "nabbed": {
+    "senses": [
+      {
+        "label": "base",
+        "probe": "nab"
+      },
+      {
+        "label": "take",
+        "probe": "apprehend"
+      }
+    ]
+  },
+  "nabbing": {
+    "senses": [
+      {
+        "label": "base",
+        "probe": "nab"
+      },
+      {
+        "label": "take",
+        "probe": "apprehend"
+      }
+    ]
+  },
+  "nails": {
+    "senses": [
+      {
+        "label": "take",
+        "probe": "apprehend"
+      },
+      {
+        "label": "hard",
+        "probe": "blast"
+      },
+      {
+        "label": "locate",
+        "probe": "locate"
+      }
+    ]
+  },
+  "neglect": {
+    "senses": [
+      {
+        "label": "lack",
+        "probe": "inattention"
+      },
+      {
+        "label": "willful",
+        "probe": "willful"
+      },
+      {
+        "label": "trait",
+        "probe": "negligence"
+      },
+      {
+        "label": "failure",
+        "probe": "carelessness"
+      }
+    ]
+  },
+  "negligence": {
+    "senses": [
+      {
+        "label": "failure",
+        "probe": "carelessness"
+      },
+      {
+        "label": "trait",
+        "probe": "neglect"
+      }
+    ]
+  },
+  "neurotic": {
+    "senses": [
+      {
+        "label": "suffering",
+        "probe": "sufferer"
+      },
+      {
+        "label": "affected",
+        "probe": "hysterical"
+      }
+    ]
+  },
+  "niggling": {
+    "senses": [
+      {
+        "label": "argue",
+        "probe": "quibble"
+      },
+      {
+        "label": "small",
+        "probe": "petty"
+      }
+    ]
+  },
+  "obscenities": {
+    "senses": [
+      {
+        "label": "trait",
+        "probe": "obscenity"
+      },
+      {
+        "label": "offensive",
+        "probe": "profanity"
+      },
+      {
+        "label": "obscene",
+        "probe": "impropriety"
+      }
+    ]
+  },
+  "obscenity": {
+    "senses": [
+      {
+        "label": "offensive",
+        "probe": "profanity"
+      },
+      {
+        "label": "obscene",
+        "probe": "impropriety"
+      }
+    ]
+  },
+  "obsessions": {
+    "senses": [
+      {
+        "label": "irrational",
+        "probe": "compulsion"
+      },
+      {
+        "label": "unhealthy",
+        "probe": "preoccupation"
+      }
+    ]
+  },
+  "obsessive": {
+    "senses": [
+      {
+        "label": "obsessions",
+        "probe": "obsessions"
+      },
+      {
+        "label": "characterized",
+        "probe": "neurotic"
+      }
+    ]
+  },
+  "obstructing": {
+    "senses": [
+      {
+        "label": "hinder",
+        "probe": "obstruct"
+      },
+      {
+        "label": "shut",
+        "probe": "conceal"
+      }
+    ]
+  },
+  "obstruction": {
+    "senses": [
+      {
+        "label": "immaterial",
+        "probe": "immaterial"
+      },
+      {
+        "label": "obstructing",
+        "probe": "obstructing"
+      }
+    ]
+  },
+  "occult": {
+    "senses": [
+      {
+        "label": "supernatural",
+        "probe": "supernatural"
+      },
+      {
+        "label": "hide",
+        "probe": "conceal"
+      },
+      {
+        "label": "hidden",
+        "probe": "hidden"
+      },
+      {
+        "label": "having",
+        "probe": "mysterious"
+      }
+    ]
+  },
+  "oddest": {
+    "senses": [
+      {
+        "label": "indefinite",
+        "probe": "inexact"
+      },
+      {
+        "label": "remaining",
+        "probe": "mismatched"
+      },
+      {
+        "label": "used",
+        "probe": "leftover"
+      }
+    ]
+  },
+  "oddity": {
+    "senses": [
+      {
+        "label": "strange",
+        "probe": "quirk"
+      },
+      {
+        "label": "unusual",
+        "probe": "peculiarity"
+      }
+    ]
+  },
+  "offences": {
+    "senses": [
+      {
+        "label": "lack",
+        "probe": "doings"
+      },
+      {
+        "label": "punishable",
+        "probe": "crime"
+      }
+    ]
+  },
+  "offenses": {
+    "senses": [
+      {
+        "label": "lack",
+        "probe": "doings"
+      },
+      {
+        "label": "punishable",
+        "probe": "crime"
+      }
+    ]
+  },
+  "omissions": {
+    "senses": [
+      {
+        "label": "mistake",
+        "probe": "omission"
+      },
+      {
+        "label": "that",
+        "probe": "neglect"
+      }
+    ]
+  },
+  "overpowered": {
+    "senses": [
+      {
+        "label": "overcome",
+        "probe": "overpower"
+      },
+      {
+        "label": "overcome",
+        "probe": "arouse"
+      }
+    ]
+  },
+  "overpowering": {
+    "senses": [
+      {
+        "label": "overcome",
+        "probe": "overpower"
+      },
+      {
+        "label": "overcome",
+        "probe": "arouse"
+      }
+    ]
+  },
+  "parables": {
+    "senses": [
+      {
+        "label": "short",
+        "probe": "fable"
+      },
+      {
+        "label": "stories",
+        "probe": "parable"
+      }
+    ]
+  },
+  "paranoid": {
+    "senses": [
+      {
+        "label": "afflicted",
+        "probe": "psychotic"
+      },
+      {
+        "label": "suffering",
+        "probe": "insane"
+      }
+    ]
+  },
+  "passages": {
+    "senses": [
+      {
+        "label": "path",
+        "probe": "passageway"
+      },
+      {
+        "label": "bodily",
+        "probe": "bodily"
+      }
+    ]
+  },
+  "pathetic": {
+    "senses": [
+      {
+        "label": "deserving",
+        "probe": "pitiful"
+      },
+      {
+        "label": "inspiring",
+        "probe": "contemptible"
+      }
+    ]
+  },
+  "pathological": {
+    "senses": [
+      {
+        "label": "caused",
+        "probe": "neurotic"
+      },
+      {
+        "label": "caused",
+        "probe": "morbid"
+      }
+    ]
+  },
+  "pathos": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "poignancy"
+      },
+      {
+        "label": "feeling",
+        "probe": "pity"
+      }
+    ]
+  },
+  "peculiarity": {
+    "senses": [
+      {
+        "label": "distinguishing",
+        "probe": "distinguishing"
+      },
+      {
+        "label": "unusual",
+        "probe": "oddity"
+      }
+    ]
+  },
+  "penetrating": {
+    "senses": [
+      {
+        "label": "come",
+        "probe": "fathom"
+      },
+      {
+        "label": "enter",
+        "probe": "infiltrate"
+      },
+      {
+        "label": "spread",
+        "probe": "riddle"
+      }
+    ]
+  },
+  "perplexed": {
+    "senses": [
+      {
+        "label": "mystery",
+        "probe": "mystery"
+      },
+      {
+        "label": "full",
+        "probe": "baffled"
+      }
+    ]
+  },
+  "perplexing": {
+    "senses": [
+      {
+        "label": "mystery",
+        "probe": "mystery"
+      },
+      {
+        "label": "lacking",
+        "probe": "puzzling"
+      }
+    ]
+  },
+  "perverted": {
+    "senses": [
+      {
+        "label": "corrupt",
+        "probe": "pervert"
+      },
+      {
+        "label": "showing",
+        "probe": "kinky"
+      },
+      {
+        "label": "having",
+        "probe": "misrepresented"
+      },
+      {
+        "label": "deviating",
+        "probe": "depraved"
+      }
+    ]
+  },
+  "petty": {
+    "senses": [
+      {
+        "label": "larceny",
+        "probe": "larceny"
+      },
+      {
+        "label": "small",
+        "probe": "niggling"
+      }
+    ]
+  },
+  "phantom": {
+    "senses": [
+      {
+        "label": "ghostly",
+        "probe": "apparition"
+      },
+      {
+        "label": "existing",
+        "probe": "semblance"
+      }
+    ]
+  },
+  "pillage": {
+    "senses": [
+      {
+        "label": "goods",
+        "probe": "loot"
+      },
+      {
+        "label": "stealing",
+        "probe": "plundering"
+      },
+      {
+        "label": "steal",
+        "probe": "plunder"
+      }
+    ]
+  },
+  "pillaging": {
+    "senses": [
+      {
+        "label": "stealing",
+        "probe": "plundering"
+      },
+      {
+        "label": "steal",
+        "probe": "plunder"
+      }
+    ]
+  },
+  "pitiful": {
+    "senses": [
+      {
+        "label": "inspiring",
+        "probe": "pathetic"
+      },
+      {
+        "label": "unfortunate",
+        "probe": "deplorable"
+      }
+    ]
+  },
+  "pity": {
+    "senses": [
+      {
+        "label": "feeling",
+        "probe": "pathos"
+      },
+      {
+        "label": "unfortunate",
+        "probe": "misfortune"
+      }
+    ]
+  },
+  "plague": {
+    "senses": [
+      {
+        "label": "swarm",
+        "probe": "infestation"
+      },
+      {
+        "label": "large",
+        "probe": "calamity"
+      },
+      {
+        "label": "cause",
+        "probe": "blight"
+      }
+    ]
+  },
+  "plagues": {
+    "senses": [
+      {
+        "label": "serious",
+        "probe": "plague"
+      },
+      {
+        "label": "swarm",
+        "probe": "infestation"
+      },
+      {
+        "label": "large",
+        "probe": "calamity"
+      },
+      {
+        "label": "cause",
+        "probe": "blight"
+      }
+    ]
+  },
+  "pleaded": {
+    "senses": [
+      {
+        "label": "appeal",
+        "probe": "plead"
+      },
+      {
+        "label": "make",
+        "probe": "allege"
+      }
+    ]
+  },
+  "pleads": {
+    "senses": [
+      {
+        "label": "appeal",
+        "probe": "plead"
+      },
+      {
+        "label": "make",
+        "probe": "allege"
+      }
+    ]
+  },
+  "pled": {
+    "senses": [
+      {
+        "label": "appeal",
+        "probe": "plead"
+      },
+      {
+        "label": "make",
+        "probe": "allege"
+      }
+    ]
+  },
+  "plotted": {
+    "senses": [
+      {
+        "label": "plan",
+        "probe": "plot"
+      },
+      {
+        "label": "planned",
+        "probe": "premeditated"
+      }
+    ]
+  },
+  "plotter": {
+    "senses": [
+      {
+        "label": "planner",
+        "probe": "schemer"
+      },
+      {
+        "label": "member",
+        "probe": "conspirator"
+      }
+    ]
+  },
+  "plotters": {
+    "senses": [
+      {
+        "label": "planner",
+        "probe": "schemer"
+      },
+      {
+        "label": "clerk",
+        "probe": "plotter"
+      },
+      {
+        "label": "member",
+        "probe": "conspirator"
+      }
+    ]
+  },
+  "plunder": {
+    "senses": [
+      {
+        "label": "goods",
+        "probe": "loot"
+      },
+      {
+        "label": "steal",
+        "probe": "pillage"
+      }
+    ]
+  },
+  "plundering": {
+    "senses": [
+      {
+        "label": "stealing",
+        "probe": "pillage"
+      },
+      {
+        "label": "take",
+        "probe": "loot"
+      },
+      {
+        "label": "plunder",
+        "probe": "plunder"
+      }
+    ]
+  },
+  "poisoning": {
+    "senses": [
+      {
+        "label": "physiological",
+        "probe": "intoxication"
+      },
+      {
+        "label": "giving",
+        "probe": "killing"
+      },
+      {
+        "label": "spoil",
+        "probe": "pervert"
+      }
+    ]
+  },
+  "poisonings": {
+    "senses": [
+      {
+        "label": "physiological",
+        "probe": "poisoning"
+      },
+      {
+        "label": "giving",
+        "probe": "killing"
+      }
+    ]
+  },
+  "poop": {
+    "senses": [
+      {
+        "label": "obscene",
+        "probe": "crap"
+      },
+      {
+        "label": "slang",
+        "probe": "dope"
+      }
+    ]
+  },
+  "porters": {
+    "senses": [
+      {
+        "label": "employed",
+        "probe": "laborer"
+      },
+      {
+        "label": "guards",
+        "probe": "doorman"
+      }
+    ]
+  },
+  "portrayal": {
+    "senses": [
+      {
+        "label": "word",
+        "probe": "depiction"
+      },
+      {
+        "label": "likeness",
+        "probe": "semblance"
+      }
+    ]
+  },
+  "portrayals": {
+    "senses": [
+      {
+        "label": "word",
+        "probe": "portrayal"
+      },
+      {
+        "label": "representation",
+        "probe": "depiction"
+      },
+      {
+        "label": "likeness",
+        "probe": "semblance"
+      }
+    ]
+  },
+  "posing": {
+    "senses": [
+      {
+        "label": "pretend",
+        "probe": "impersonate"
+      },
+      {
+        "label": "behave",
+        "probe": "acquit"
+      },
+      {
+        "label": "mystery",
+        "probe": "mystery"
+      }
+    ]
+  },
+  "pox": {
+    "senses": [
+      {
+        "label": "common",
+        "probe": "syphilis"
+      },
+      {
+        "label": "contagious",
+        "probe": "contagious"
+      }
+    ]
+  },
+  "predator": {
+    "senses": [
+      {
+        "label": "attacks",
+        "probe": "attacker"
+      },
+      {
+        "label": "that",
+        "probe": "brute"
+      }
+    ]
+  },
+  "premonitions": {
+    "senses": [
+      {
+        "label": "feeling",
+        "probe": "foreboding"
+      },
+      {
+        "label": "early",
+        "probe": "premonition"
+      }
+    ]
+  },
+  "presumed": {
+    "senses": [
+      {
+        "label": "take",
+        "probe": "presume"
+      },
+      {
+        "label": "constitute",
+        "probe": "testify"
+      }
+    ]
+  },
+  "presumption": {
+    "senses": [
+      {
+        "label": "assumption",
+        "probe": "supposition"
+      },
+      {
+        "label": "inference",
+        "probe": "inference"
+      },
+      {
+        "label": "audacious",
+        "probe": "audacious"
+      }
+    ]
+  },
+  "pretences": {
+    "senses": [
+      {
+        "label": "false",
+        "probe": "pretense"
+      },
+      {
+        "label": "artful",
+        "probe": "guise"
+      },
+      {
+        "label": "pretending",
+        "probe": "feigning"
+      },
+      {
+        "label": "giving",
+        "probe": "pretending"
+      }
+    ]
+  },
+  "pretense": {
+    "senses": [
+      {
+        "label": "giving",
+        "probe": "pretending"
+      },
+      {
+        "label": "pretending",
+        "probe": "feigning"
+      },
+      {
+        "label": "artful",
+        "probe": "guise"
+      }
+    ]
+  },
+  "pretenses": {
+    "senses": [
+      {
+        "label": "giving",
+        "probe": "pretense"
+      },
+      {
+        "label": "pretending",
+        "probe": "feigning"
+      },
+      {
+        "label": "artful",
+        "probe": "guise"
+      }
+    ]
+  },
+  "pretext": {
+    "senses": [
+      {
+        "label": "serving",
+        "probe": "pretense"
+      },
+      {
+        "label": "artful",
+        "probe": "guise"
+      }
+    ]
+  },
+  "pretexts": {
+    "senses": [
+      {
+        "label": "serving",
+        "probe": "pretext"
+      },
+      {
+        "label": "artful",
+        "probe": "guise"
+      }
+    ]
+  },
+  "privy": {
+    "senses": [
+      {
+        "label": "room",
+        "probe": "lavatory"
+      },
+      {
+        "label": "small",
+        "probe": "outbuilding"
+      },
+      {
+        "label": "hidden",
+        "probe": "hidden"
+      }
+    ]
+  },
+  "probing": {
+    "senses": [
+      {
+        "label": "question",
+        "probe": "probe"
+      },
+      {
+        "label": "diligent",
+        "probe": "inquiring"
+      }
+    ]
+  },
+  "proofs": {
+    "senses": [
+      {
+        "label": "factual",
+        "probe": "factual"
+      },
+      {
+        "label": "measure",
+        "probe": "quantity"
+      }
+    ]
+  },
+  "prosaic": {
+    "senses": [
+      {
+        "label": "fanciful",
+        "probe": "fanciful"
+      },
+      {
+        "label": "lacking",
+        "probe": "uninteresting"
+      }
+    ]
+  },
+  "provocation": {
+    "senses": [
+      {
+        "label": "unfriendly",
+        "probe": "aggravation"
+      },
+      {
+        "label": "that",
+        "probe": "incitement"
+      }
+    ]
+  },
+  "psychotic": {
+    "senses": [
+      {
+        "label": "afflicted",
+        "probe": "psycho"
+      },
+      {
+        "label": "characteristic",
+        "probe": "insane"
+      }
+    ]
+  },
+  "puff": {
+    "senses": [
+      {
+        "label": "short",
+        "probe": "whiff"
+      },
+      {
+        "label": "slow",
+        "probe": "inhalation"
+      }
+    ]
+  },
+  "purges": {
+    "senses": [
+      {
+        "label": "removing",
+        "probe": "cleansing"
+      },
+      {
+        "label": "clear",
+        "probe": "acquit"
+      },
+      {
+        "label": "eject",
+        "probe": "vomit"
+      }
+    ]
+  },
+  "pusher": {
+    "senses": [
+      {
+        "label": "intrudes",
+        "probe": "intruder"
+      },
+      {
+        "label": "unlicensed",
+        "probe": "peddler"
+      }
+    ]
+  },
+  "puzzled": {
+    "senses": [
+      {
+        "label": "mystery",
+        "probe": "mystery"
+      },
+      {
+        "label": "filled",
+        "probe": "perplexed"
+      }
+    ]
+  },
+  "puzzling": {
+    "senses": [
+      {
+        "label": "mystery",
+        "probe": "mystery"
+      },
+      {
+        "label": "clear",
+        "probe": "enigmatic"
+      },
+      {
+        "label": "lacking",
+        "probe": "perplexing"
+      }
+    ]
+  },
+  "quack": {
+    "senses": [
+      {
+        "label": "utter",
+        "probe": "utter"
+      },
+      {
+        "label": "medically",
+        "probe": "medically"
+      }
+    ]
+  },
+  "quotations": {
+    "senses": [
+      {
+        "label": "short",
+        "probe": "quotation"
+      },
+      {
+        "label": "passage",
+        "probe": "excerpt"
+      }
+    ]
+  },
+  "raid": {
+    "senses": [
+      {
+        "label": "sudden",
+        "probe": "incursion"
+      },
+      {
+        "label": "attempt",
+        "probe": "embezzlement"
+      }
+    ]
+  },
+  "raids": {
+    "senses": [
+      {
+        "label": "sudden",
+        "probe": "raid"
+      },
+      {
+        "label": "attempt",
+        "probe": "embezzlement"
+      }
+    ]
+  },
+  "rambling": {
+    "senses": [
+      {
+        "label": "move",
+        "probe": "stray"
+      },
+      {
+        "label": "path",
+        "probe": "wandering"
+      }
+    ]
+  },
+  "reasonableness": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "sanity"
+      },
+      {
+        "label": "being",
+        "probe": "plausibility"
+      }
+    ]
+  },
+  "rebut": {
+    "senses": [
+      {
+        "label": "overthrow",
+        "probe": "refute"
+      },
+      {
+        "label": "prove",
+        "probe": "disprove"
+      }
+    ]
+  },
+  "rebutting": {
+    "senses": [
+      {
+        "label": "overthrow",
+        "probe": "refute"
+      },
+      {
+        "label": "prove",
+        "probe": "rebut"
+      }
+    ]
+  },
+  "reckless": {
+    "senses": [
+      {
+        "label": "marked",
+        "probe": "rash"
+      },
+      {
+        "label": "characterized",
+        "probe": "careless"
+      }
+    ]
+  },
+  "recounting": {
+    "senses": [
+      {
+        "label": "narration",
+        "probe": "narration"
+      },
+      {
+        "label": "narrate",
+        "probe": "narrate"
+      }
+    ]
+  },
+  "reeks": {
+    "senses": [
+      {
+        "label": "distinctive",
+        "probe": "stench"
+      },
+      {
+        "label": "have",
+        "probe": "smell"
+      },
+      {
+        "label": "smell",
+        "probe": "stink"
+      }
+    ]
+  },
+  "refutation": {
+    "senses": [
+      {
+        "label": "evidence",
+        "probe": "falsification"
+      },
+      {
+        "label": "determining",
+        "probe": "falsifying"
+      }
+    ]
+  },
+  "refute": {
+    "senses": [
+      {
+        "label": "overthrow",
+        "probe": "rebut"
+      },
+      {
+        "label": "prove",
+        "probe": "disprove"
+      }
+    ]
+  },
+  "refuted": {
+    "senses": [
+      {
+        "label": "overthrow",
+        "probe": "refute"
+      },
+      {
+        "label": "prove",
+        "probe": "rebut"
+      }
+    ]
+  },
+  "remanded": {
+    "senses": [
+      {
+        "label": "refer",
+        "probe": "remand"
+      },
+      {
+        "label": "lock",
+        "probe": "imprison"
+      }
+    ]
+  },
+  "renditions": {
+    "senses": [
+      {
+        "label": "performance",
+        "probe": "rendition"
+      },
+      {
+        "label": "handing",
+        "probe": "persecution"
+      }
+    ]
+  },
+  "repellent": {
+    "senses": [
+      {
+        "label": "serving",
+        "probe": "unpleasant"
+      },
+      {
+        "label": "highly",
+        "probe": "disgusting"
+      }
+    ]
+  },
+  "repented": {
+    "senses": [
+      {
+        "label": "turn",
+        "probe": "atone"
+      },
+      {
+        "label": "feel",
+        "probe": "rue"
+      }
+    ]
+  },
+  "repulsive": {
+    "senses": [
+      {
+        "label": "offensive",
+        "probe": "abhorrent"
+      },
+      {
+        "label": "possessing",
+        "probe": "possessing"
+      },
+      {
+        "label": "extremely",
+        "probe": "hideous"
+      }
+    ]
+  },
+  "retardation": {
+    "senses": [
+      {
+        "label": "lack",
+        "probe": "stupidity"
+      },
+      {
+        "label": "slowing",
+        "probe": "holdup"
+      }
+    ]
+  },
+  "revealing": {
+    "senses": [
+      {
+        "label": "speech",
+        "probe": "revelation"
+      },
+      {
+        "label": "make",
+        "probe": "uncover"
+      }
+    ]
+  },
+  "revelation": {
+    "senses": [
+      {
+        "label": "speech",
+        "probe": "revealing"
+      },
+      {
+        "label": "enlightening",
+        "probe": "enlightening"
+      },
+      {
+        "label": "last",
+        "probe": "apocalypse"
+      }
+    ]
+  },
+  "revelations": {
+    "senses": [
+      {
+        "label": "speech",
+        "probe": "revelation"
+      },
+      {
+        "label": "enlightening",
+        "probe": "enlightening"
+      },
+      {
+        "label": "last",
+        "probe": "apocalypse"
+      }
+    ]
+  },
+  "revives": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "resuscitate"
+      },
+      {
+        "label": "give",
+        "probe": "arouse"
+      }
+    ]
+  },
+  "roach": {
+    "senses": [
+      {
+        "label": "roll",
+        "probe": "hairdo"
+      },
+      {
+        "label": "numerous",
+        "probe": "cockroach"
+      },
+      {
+        "label": "comb",
+        "probe": "comb"
+      },
+      {
+        "label": "mane",
+        "probe": "mane"
+      }
+    ]
+  },
+  "robberies": {
+    "senses": [
+      {
+        "label": "larceny",
+        "probe": "robbery"
+      },
+      {
+        "label": "plundering",
+        "probe": "looting"
+      }
+    ]
+  },
+  "robbery": {
+    "senses": [
+      {
+        "label": "larceny",
+        "probe": "larceny"
+      },
+      {
+        "label": "plundering",
+        "probe": "looting"
+      }
+    ]
+  },
+  "rustling": {
+    "senses": [
+      {
+        "label": "stealing",
+        "probe": "larceny"
+      },
+      {
+        "label": "light",
+        "probe": "whisper"
+      }
+    ]
+  },
+  "saboteur": {
+    "senses": [
+      {
+        "label": "commits",
+        "probe": "commits"
+      },
+      {
+        "label": "member",
+        "probe": "traitor"
+      }
+    ]
+  },
+  "saboteurs": {
+    "senses": [
+      {
+        "label": "commits",
+        "probe": "saboteur"
+      },
+      {
+        "label": "member",
+        "probe": "traitor"
+      }
+    ]
+  },
+  "savagery": {
+    "senses": [
+      {
+        "label": "property",
+        "probe": "ferocity"
+      },
+      {
+        "label": "trait",
+        "probe": "brutality"
+      },
+      {
+        "label": "brutal",
+        "probe": "barbarity"
+      }
+    ]
+  },
+  "sayed": {
+    "senses": [
+      {
+        "label": "express",
+        "probe": "utter"
+      },
+      {
+        "label": "report",
+        "probe": "allege"
+      }
+    ]
+  },
+  "scam": {
+    "senses": [
+      {
+        "label": "fraudulent",
+        "probe": "swindle"
+      },
+      {
+        "label": "deprive",
+        "probe": "defraud"
+      }
+    ]
+  },
+  "scent": {
+    "senses": [
+      {
+        "label": "distinctive",
+        "probe": "smell"
+      },
+      {
+        "label": "odor",
+        "probe": "odor"
+      },
+      {
+        "label": "apply",
+        "probe": "groom"
+      }
+    ]
+  },
+  "scheming": {
+    "senses": [
+      {
+        "label": "intrigues",
+        "probe": "intrigue"
+      },
+      {
+        "label": "used",
+        "probe": "conniving"
+      },
+      {
+        "label": "concealing",
+        "probe": "concealing"
+      }
+    ]
+  },
+  "schizophrenic": {
+    "senses": [
+      {
+        "label": "afflicted",
+        "probe": "psychotic"
+      },
+      {
+        "label": "suffering",
+        "probe": "insane"
+      }
+    ]
+  },
+  "scoops": {
+    "senses": [
+      {
+        "label": "quantity",
+        "probe": "quantity"
+      },
+      {
+        "label": "shovel",
+        "probe": "shovel"
+      }
+    ]
+  },
+  "scream": {
+    "senses": [
+      {
+        "label": "joke",
+        "probe": "gag"
+      },
+      {
+        "label": "utter",
+        "probe": "utter"
+      }
+    ]
+  },
+  "screams": {
+    "senses": [
+      {
+        "label": "sharp",
+        "probe": "scream"
+      },
+      {
+        "label": "joke",
+        "probe": "gag"
+      },
+      {
+        "label": "utter",
+        "probe": "utter"
+      }
+    ]
+  },
+  "searched": {
+    "senses": [
+      {
+        "label": "locate",
+        "probe": "locate"
+      },
+      {
+        "label": "inquire",
+        "probe": "inquire"
+      }
+    ]
+  },
+  "searches": {
+    "senses": [
+      {
+        "label": "investigation",
+        "probe": "investigating"
+      },
+      {
+        "label": "locate",
+        "probe": "locate"
+      },
+      {
+        "label": "inquire",
+        "probe": "inquire"
+      }
+    ]
+  },
+  "seedy": {
+    "senses": [
+      {
+        "label": "shabby",
+        "probe": "shabby"
+      },
+      {
+        "label": "morally",
+        "probe": "seamy"
+      }
+    ]
+  },
+  "seizures": {
+    "senses": [
+      {
+        "label": "sudden",
+        "probe": "seizure"
+      },
+      {
+        "label": "taking",
+        "probe": "felony"
+      }
+    ]
+  },
+  "sensational": {
+    "senses": [
+      {
+        "label": "causing",
+        "probe": "lurid"
+      },
+      {
+        "label": "commanding",
+        "probe": "arresting"
+      }
+    ]
+  },
+  "sentences": {
+    "senses": [
+      {
+        "label": "string",
+        "probe": "sentence"
+      },
+      {
+        "label": "final",
+        "probe": "conviction"
+      }
+    ]
+  },
+  "sergeant": {
+    "senses": [
+      {
+        "label": "lawman",
+        "probe": "lawman"
+      },
+      {
+        "label": "english",
+        "probe": "barrister"
+      }
+    ]
+  },
+  "sergeants": {
+    "senses": [
+      {
+        "label": "several",
+        "probe": "sergeant"
+      },
+      {
+        "label": "lawman",
+        "probe": "lawman"
+      },
+      {
+        "label": "english",
+        "probe": "barrister"
+      }
+    ]
+  },
+  "seriousness": {
+    "senses": [
+      {
+        "label": "earnest",
+        "probe": "earnestness"
+      },
+      {
+        "label": "arousing",
+        "probe": "severity"
+      },
+      {
+        "label": "trait",
+        "probe": "sincerity"
+      }
+    ]
+  },
+  "shameful": {
+    "senses": [
+      {
+        "label": "deserving",
+        "probe": "disgraceful"
+      },
+      {
+        "label": "giving",
+        "probe": "scandalous"
+      }
+    ]
+  },
+  "shenanigans": {
+    "senses": [
+      {
+        "label": "reckless",
+        "probe": "mischief"
+      },
+      {
+        "label": "tricks",
+        "probe": "chicanery"
+      }
+    ]
+  },
+  "shocker": {
+    "senses": [
+      {
+        "label": "shockingly",
+        "probe": "shockingly"
+      },
+      {
+        "label": "sensational",
+        "probe": "sensational"
+      }
+    ]
+  },
+  "shoddy": {
+    "senses": [
+      {
+        "label": "cheap",
+        "probe": "tawdry"
+      },
+      {
+        "label": "designed",
+        "probe": "dishonorable"
+      }
+    ]
+  },
+  "shovel": {
+    "senses": [
+      {
+        "label": "quantity",
+        "probe": "quantity"
+      },
+      {
+        "label": "with",
+        "probe": "delve"
+      }
+    ]
+  },
+  "shredded": {
+    "senses": [
+      {
+        "label": "tear",
+        "probe": "shred"
+      },
+      {
+        "label": "prepared",
+        "probe": "sliced"
+      }
+    ]
+  },
+  "shtick": {
+    "senses": [
+      {
+        "label": "contrived",
+        "probe": "contrived"
+      },
+      {
+        "label": "devious",
+        "probe": "devious"
+      }
+    ]
+  },
+  "sickness": {
+    "senses": [
+      {
+        "label": "impairment",
+        "probe": "malady"
+      },
+      {
+        "label": "that",
+        "probe": "symptom"
+      }
+    ]
+  },
+  "silliest": {
+    "senses": [
+      {
+        "label": "ludicrous",
+        "probe": "ludicrous"
+      },
+      {
+        "label": "inspiring",
+        "probe": "pathetic"
+      },
+      {
+        "label": "dazed",
+        "probe": "dazed"
+      }
+    ]
+  },
+  "sin": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "transgression"
+      },
+      {
+        "label": "commit",
+        "probe": "trespass"
+      }
+    ]
+  },
+  "sincerity": {
+    "senses": [
+      {
+        "label": "earnest",
+        "probe": "earnestness"
+      },
+      {
+        "label": "being",
+        "probe": "truthfulness"
+      },
+      {
+        "label": "trait",
+        "probe": "seriousness"
+      }
+    ]
+  },
+  "sins": {
+    "senses": [
+      {
+        "label": "estrangement",
+        "probe": "sin"
+      },
+      {
+        "label": "that",
+        "probe": "transgression"
+      },
+      {
+        "label": "commit",
+        "probe": "trespass"
+      }
+    ]
+  },
+  "sketches": {
+    "senses": [
+      {
+        "label": "preliminary",
+        "probe": "sketch"
+      },
+      {
+        "label": "humorous",
+        "probe": "wit"
+      }
+    ]
+  },
+  "slaughter": {
+    "senses": [
+      {
+        "label": "killing",
+        "probe": "killing"
+      },
+      {
+        "label": "savage",
+        "probe": "massacre"
+      },
+      {
+        "label": "kill",
+        "probe": "butcher"
+      }
+    ]
+  },
+  "slaughtered": {
+    "senses": [
+      {
+        "label": "kill",
+        "probe": "butcher"
+      },
+      {
+        "label": "kill",
+        "probe": "massacre"
+      }
+    ]
+  },
+  "slaying": {
+    "senses": [
+      {
+        "label": "unlawful",
+        "probe": "murder"
+      },
+      {
+        "label": "kill",
+        "probe": "slay"
+      }
+    ]
+  },
+  "sleeper": {
+    "senses": [
+      {
+        "label": "saboteur",
+        "probe": "saboteur"
+      },
+      {
+        "label": "unexpected",
+        "probe": "smasher"
+      }
+    ]
+  },
+  "sleuth": {
+    "senses": [
+      {
+        "label": "detective",
+        "probe": "detective"
+      },
+      {
+        "label": "watch",
+        "probe": "snoop"
+      }
+    ]
+  },
+  "sleuthing": {
+    "senses": [
+      {
+        "label": "police",
+        "probe": "detection"
+      },
+      {
+        "label": "watch",
+        "probe": "snoop"
+      }
+    ]
+  },
+  "sleuths": {
+    "senses": [
+      {
+        "label": "detective",
+        "probe": "sleuth"
+      },
+      {
+        "label": "watch",
+        "probe": "snoop"
+      }
+    ]
+  },
+  "sliced": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "slit"
+      },
+      {
+        "label": "prepared",
+        "probe": "shredded"
+      }
+    ]
+  },
+  "sloppiness": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "carelessness"
+      },
+      {
+        "label": "falsely",
+        "probe": "sentimentality"
+      }
+    ]
+  },
+  "slurs": {
+    "senses": [
+      {
+        "label": "blemish",
+        "probe": "smear"
+      },
+      {
+        "label": "utter",
+        "probe": "utter"
+      }
+    ]
+  },
+  "smashes": {
+    "senses": [
+      {
+        "label": "conspicuous",
+        "probe": "smasher"
+      },
+      {
+        "label": "hard",
+        "probe": "blast"
+      }
+    ]
+  },
+  "smear": {
+    "senses": [
+      {
+        "label": "slanderous",
+        "probe": "slanderous"
+      },
+      {
+        "label": "that",
+        "probe": "stain"
+      },
+      {
+        "label": "stain",
+        "probe": "grime"
+      },
+      {
+        "label": "charge",
+        "probe": "slander"
+      }
+    ]
+  },
+  "smeared": {
+    "senses": [
+      {
+        "label": "stain",
+        "probe": "smear"
+      },
+      {
+        "label": "charge",
+        "probe": "slander"
+      }
+    ]
+  },
+  "smears": {
+    "senses": [
+      {
+        "label": "slanderous",
+        "probe": "smear"
+      },
+      {
+        "label": "that",
+        "probe": "stain"
+      },
+      {
+        "label": "stain",
+        "probe": "grime"
+      },
+      {
+        "label": "charge",
+        "probe": "slander"
+      }
+    ]
+  },
+  "smell": {
+    "senses": [
+      {
+        "label": "sensation",
+        "probe": "odor"
+      },
+      {
+        "label": "property",
+        "probe": "scent"
+      },
+      {
+        "label": "inhale",
+        "probe": "comprehend"
+      }
+    ]
+  },
+  "smuggled": {
+    "senses": [
+      {
+        "label": "import",
+        "probe": "smuggle"
+      },
+      {
+        "label": "distributed",
+        "probe": "contraband"
+      }
+    ]
+  },
+  "sneaks": {
+    "senses": [
+      {
+        "label": "prowls",
+        "probe": "stalker"
+      },
+      {
+        "label": "acting",
+        "probe": "snitch"
+      }
+    ]
+  },
+  "sniff": {
+    "senses": [
+      {
+        "label": "sensing",
+        "probe": "smell"
+      },
+      {
+        "label": "perceive",
+        "probe": "whiff"
+      }
+    ]
+  },
+  "snipes": {
+    "senses": [
+      {
+        "label": "gunshot",
+        "probe": "gunshot"
+      },
+      {
+        "label": "shoot",
+        "probe": "blast"
+      }
+    ]
+  },
+  "snitch": {
+    "senses": [
+      {
+        "label": "acting",
+        "probe": "canary"
+      },
+      {
+        "label": "take",
+        "probe": "cop"
+      },
+      {
+        "label": "give",
+        "probe": "betray"
+      }
+    ]
+  },
+  "snoops": {
+    "senses": [
+      {
+        "label": "makes",
+        "probe": "snoop"
+      },
+      {
+        "label": "watch",
+        "probe": "sleuth"
+      }
+    ]
+  },
+  "sparkle": {
+    "senses": [
+      {
+        "label": "merriment",
+        "probe": "twinkle"
+      },
+      {
+        "label": "occurrence",
+        "probe": "glitter"
+      }
+    ]
+  },
+  "spied": {
+    "senses": [
+      {
+        "label": "watch",
+        "probe": "snoop"
+      },
+      {
+        "label": "catch",
+        "probe": "comprehend"
+      },
+      {
+        "label": "secretly",
+        "probe": "inquire"
+      }
+    ]
+  },
+  "spies": {
+    "senses": [
+      {
+        "label": "secret",
+        "probe": "operative"
+      },
+      {
+        "label": "secret",
+        "probe": "witness"
+      },
+      {
+        "label": "watch",
+        "probe": "snoop"
+      },
+      {
+        "label": "catch",
+        "probe": "comprehend"
+      },
+      {
+        "label": "secretly",
+        "probe": "inquire"
+      }
+    ]
+  },
+  "spooks": {
+    "senses": [
+      {
+        "label": "unpleasantly",
+        "probe": "weirdo"
+      },
+      {
+        "label": "mental",
+        "probe": "ghost"
+      },
+      {
+        "label": "frighten",
+        "probe": "fright"
+      }
+    ]
+  },
+  "spotter": {
+    "senses": [
+      {
+        "label": "employed",
+        "probe": "watchman"
+      },
+      {
+        "label": "first",
+        "probe": "discoverer"
+      }
+    ]
+  },
+  "spotters": {
+    "senses": [
+      {
+        "label": "worker",
+        "probe": "spotter"
+      },
+      {
+        "label": "employed",
+        "probe": "watchman"
+      },
+      {
+        "label": "first",
+        "probe": "discoverer"
+      }
+    ]
+  },
+  "spotting": {
+    "senses": [
+      {
+        "label": "detecting",
+        "probe": "detection"
+      },
+      {
+        "label": "detect",
+        "probe": "discern"
+      },
+      {
+        "label": "impair",
+        "probe": "grime"
+      }
+    ]
+  },
+  "spying": {
+    "senses": [
+      {
+        "label": "detecting",
+        "probe": "detection"
+      },
+      {
+        "label": "watch",
+        "probe": "snoop"
+      },
+      {
+        "label": "catch",
+        "probe": "comprehend"
+      },
+      {
+        "label": "secretly",
+        "probe": "inquire"
+      }
+    ]
+  },
+  "stabbed": {
+    "senses": [
+      {
+        "label": "knife",
+        "probe": "knife"
+      },
+      {
+        "label": "stab",
+        "probe": "stab"
+      }
+    ]
+  },
+  "stabbing": {
+    "senses": [
+      {
+        "label": "knife",
+        "probe": "knife"
+      },
+      {
+        "label": "stab",
+        "probe": "stab"
+      },
+      {
+        "label": "causing",
+        "probe": "wounding"
+      }
+    ]
+  },
+  "stabs": {
+    "senses": [
+      {
+        "label": "sudden",
+        "probe": "stab"
+      },
+      {
+        "label": "knife",
+        "probe": "knife"
+      }
+    ]
+  },
+  "stain": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "grime"
+      },
+      {
+        "label": "that",
+        "probe": "smear"
+      }
+    ]
+  },
+  "stains": {
+    "senses": [
+      {
+        "label": "soiled",
+        "probe": "stain"
+      },
+      {
+        "label": "being",
+        "probe": "grime"
+      },
+      {
+        "label": "that",
+        "probe": "smear"
+      }
+    ]
+  },
+  "stalk": {
+    "senses": [
+      {
+        "label": "hunt",
+        "probe": "stalking"
+      },
+      {
+        "label": "follow",
+        "probe": "haunt"
+      }
+    ]
+  },
+  "stalked": {
+    "senses": [
+      {
+        "label": "walk",
+        "probe": "stalk"
+      },
+      {
+        "label": "follow",
+        "probe": "haunt"
+      }
+    ]
+  },
+  "stalkers": {
+    "senses": [
+      {
+        "label": "walks",
+        "probe": "stalker"
+      },
+      {
+        "label": "prowls",
+        "probe": "intruder"
+      }
+    ]
+  },
+  "stalking": {
+    "senses": [
+      {
+        "label": "hunt",
+        "probe": "stalk"
+      },
+      {
+        "label": "follow",
+        "probe": "haunt"
+      }
+    ]
+  },
+  "sting": {
+    "senses": [
+      {
+        "label": "painful",
+        "probe": "trauma"
+      },
+      {
+        "label": "swindle",
+        "probe": "con"
+      },
+      {
+        "label": "cause",
+        "probe": "injure"
+      }
+    ]
+  },
+  "stings": {
+    "senses": [
+      {
+        "label": "pain",
+        "probe": "sting"
+      },
+      {
+        "label": "painful",
+        "probe": "trauma"
+      },
+      {
+        "label": "swindle",
+        "probe": "con"
+      },
+      {
+        "label": "cause",
+        "probe": "injure"
+      }
+    ]
+  },
+  "stink": {
+    "senses": [
+      {
+        "label": "distinctive",
+        "probe": "stench"
+      },
+      {
+        "label": "smell",
+        "probe": "smell"
+      }
+    ]
+  },
+  "stinking": {
+    "senses": [
+      {
+        "label": "extremely",
+        "probe": "stink"
+      },
+      {
+        "label": "smell",
+        "probe": "smell"
+      }
+    ]
+  },
+  "stonewalling": {
+    "senses": [
+      {
+        "label": "obstruct",
+        "probe": "obstruct"
+      },
+      {
+        "label": "engage",
+        "probe": "detain"
+      }
+    ]
+  },
+  "storyteller": {
+    "senses": [
+      {
+        "label": "tells",
+        "probe": "narrator"
+      },
+      {
+        "label": "tells",
+        "probe": "fabricator"
+      }
+    ]
+  },
+  "strands": {
+    "senses": [
+      {
+        "label": "pattern",
+        "probe": "strand"
+      },
+      {
+        "label": "necklace",
+        "probe": "necklace"
+      }
+    ]
+  },
+  "strangled": {
+    "senses": [
+      {
+        "label": "conceal",
+        "probe": "conceal"
+      },
+      {
+        "label": "struggle",
+        "probe": "gag"
+      }
+    ]
+  },
+  "strangling": {
+    "senses": [
+      {
+        "label": "suffocating",
+        "probe": "strangulation"
+      },
+      {
+        "label": "conceal",
+        "probe": "conceal"
+      },
+      {
+        "label": "struggle",
+        "probe": "gag"
+      }
+    ]
+  },
+  "stupidest": {
+    "senses": [
+      {
+        "label": "mental",
+        "probe": "dazed"
+      },
+      {
+        "label": "lacking",
+        "probe": "headless"
+      }
+    ]
+  },
+  "subordinates": {
+    "senses": [
+      {
+        "label": "assistant",
+        "probe": "underling"
+      },
+      {
+        "label": "make",
+        "probe": "subdue"
+      }
+    ]
+  },
+  "substantiated": {
+    "senses": [
+      {
+        "label": "establish",
+        "probe": "corroborate"
+      },
+      {
+        "label": "represent",
+        "probe": "substantiate"
+      }
+    ]
+  },
+  "substantiating": {
+    "senses": [
+      {
+        "label": "establish",
+        "probe": "corroborate"
+      },
+      {
+        "label": "represent",
+        "probe": "substantiate"
+      },
+      {
+        "label": "serving",
+        "probe": "corroborative"
+      }
+    ]
+  },
+  "suffocated": {
+    "senses": [
+      {
+        "label": "impair",
+        "probe": "obstruct"
+      },
+      {
+        "label": "struggle",
+        "probe": "gag"
+      }
+    ]
+  },
+  "suffocating": {
+    "senses": [
+      {
+        "label": "impair",
+        "probe": "obstruct"
+      },
+      {
+        "label": "struggle",
+        "probe": "gag"
+      }
+    ]
+  },
+  "suicide": {
+    "senses": [
+      {
+        "label": "killing",
+        "probe": "killing"
+      },
+      {
+        "label": "kills",
+        "probe": "kills"
+      }
+    ]
+  },
+  "suicides": {
+    "senses": [
+      {
+        "label": "killing",
+        "probe": "suicide"
+      },
+      {
+        "label": "kills",
+        "probe": "kills"
+      }
+    ]
+  },
+  "summoning": {
+    "senses": [
+      {
+        "label": "calling",
+        "probe": "evocation"
+      },
+      {
+        "label": "call",
+        "probe": "summon"
+      }
+    ]
+  },
+  "summonses": {
+    "senses": [
+      {
+        "label": "request",
+        "probe": "summons"
+      },
+      {
+        "label": "call",
+        "probe": "summon"
+      }
+    ]
+  },
+  "supernatural": {
+    "senses": [
+      {
+        "label": "supernatural",
+        "probe": "occult"
+      },
+      {
+        "label": "existing",
+        "probe": "eerie"
+      }
+    ]
+  },
+  "surmise": {
+    "senses": [
+      {
+        "label": "message",
+        "probe": "conjecture"
+      },
+      {
+        "label": "infer",
+        "probe": "infer"
+      },
+      {
+        "label": "imagine",
+        "probe": "suspect"
+      }
+    ]
+  },
+  "surmised": {
+    "senses": [
+      {
+        "label": "infer",
+        "probe": "surmise"
+      },
+      {
+        "label": "imagine",
+        "probe": "suspect"
+      }
+    ]
+  },
+  "suspect": {
+    "senses": [
+      {
+        "label": "institution",
+        "probe": "defendant"
+      },
+      {
+        "label": "imagine",
+        "probe": "surmise"
+      },
+      {
+        "label": "regard",
+        "probe": "discredit"
+      },
+      {
+        "label": "expected",
+        "probe": "fishy"
+      }
+    ]
+  },
+  "suspected": {
+    "senses": [
+      {
+        "label": "imagine",
+        "probe": "suspect"
+      },
+      {
+        "label": "regard",
+        "probe": "discredit"
+      }
+    ]
+  },
+  "suspecting": {
+    "senses": [
+      {
+        "label": "imagine",
+        "probe": "suspect"
+      },
+      {
+        "label": "regard",
+        "probe": "discredit"
+      }
+    ]
+  },
+  "suspects": {
+    "senses": [
+      {
+        "label": "under",
+        "probe": "suspect"
+      },
+      {
+        "label": "institution",
+        "probe": "defendant"
+      },
+      {
+        "label": "imagine",
+        "probe": "surmise"
+      },
+      {
+        "label": "regard",
+        "probe": "discredit"
+      }
+    ]
+  },
+  "suspicions": {
+    "senses": [
+      {
+        "label": "impression",
+        "probe": "hunch"
+      },
+      {
+        "label": "doubt",
+        "probe": "suspicion"
+      }
+    ]
+  },
+  "swindle": {
+    "senses": [
+      {
+        "label": "swindling",
+        "probe": "swindling"
+      },
+      {
+        "label": "deprive",
+        "probe": "defraud"
+      }
+    ]
+  },
+  "swoops": {
+    "senses": [
+      {
+        "label": "rapid",
+        "probe": "swoop"
+      },
+      {
+        "label": "very",
+        "probe": "raid"
+      }
+    ]
+  },
+  "tales": {
+    "senses": [
+      {
+        "label": "message",
+        "probe": "narration"
+      },
+      {
+        "label": "trivial",
+        "probe": "tale"
+      }
+    ]
+  },
+  "tangled": {
+    "senses": [
+      {
+        "label": "force",
+        "probe": "tangle"
+      },
+      {
+        "label": "confused",
+        "probe": "knotty"
+      },
+      {
+        "label": "highly",
+        "probe": "convoluted"
+      }
+    ]
+  },
+  "tease": {
+    "senses": [
+      {
+        "label": "seductive",
+        "probe": "vamp"
+      },
+      {
+        "label": "harassing",
+        "probe": "molestation"
+      },
+      {
+        "label": "annoy",
+        "probe": "torment"
+      },
+      {
+        "label": "arouse",
+        "probe": "arouse"
+      },
+      {
+        "label": "tear",
+        "probe": "shred"
+      },
+      {
+        "label": "ruffle",
+        "probe": "comb"
+      }
+    ]
+  },
+  "tellers": {
+    "senses": [
+      {
+        "label": "employee",
+        "probe": "cashier"
+      },
+      {
+        "label": "tells",
+        "probe": "narrator"
+      }
+    ]
+  },
+  "terrifying": {
+    "senses": [
+      {
+        "label": "fill",
+        "probe": "terrorize"
+      },
+      {
+        "label": "causing",
+        "probe": "alarming"
+      }
+    ]
+  },
+  "terrorized": {
+    "senses": [
+      {
+        "label": "coerce",
+        "probe": "terrorize"
+      },
+      {
+        "label": "fill",
+        "probe": "fright"
+      }
+    ]
+  },
+  "terrorizing": {
+    "senses": [
+      {
+        "label": "coerce",
+        "probe": "terrorize"
+      },
+      {
+        "label": "fill",
+        "probe": "fright"
+      }
+    ]
+  },
+  "thieves": {
+    "senses": [
+      {
+        "label": "criminal",
+        "probe": "thief"
+      },
+      {
+        "label": "take",
+        "probe": "snitch"
+      }
+    ]
+  },
+  "tick": {
+    "senses": [
+      {
+        "label": "metallic",
+        "probe": "ticking"
+      },
+      {
+        "label": "light",
+        "probe": "mattress"
+      }
+    ]
+  },
+  "torment": {
+    "senses": [
+      {
+        "label": "unbearable",
+        "probe": "torture"
+      },
+      {
+        "label": "extreme",
+        "probe": "anguish"
+      },
+      {
+        "label": "intense",
+        "probe": "agony"
+      },
+      {
+        "label": "severe",
+        "probe": "affliction"
+      },
+      {
+        "label": "harassing",
+        "probe": "molestation"
+      },
+      {
+        "label": "subject",
+        "probe": "injure"
+      }
+    ]
+  },
+  "tormented": {
+    "senses": [
+      {
+        "label": "torment",
+        "probe": "torment"
+      },
+      {
+        "label": "subject",
+        "probe": "torture"
+      },
+      {
+        "label": "experiencing",
+        "probe": "anguished"
+      }
+    ]
+  },
+  "torture": {
+    "senses": [
+      {
+        "label": "extreme",
+        "probe": "anguish"
+      },
+      {
+        "label": "unbearable",
+        "probe": "torment"
+      },
+      {
+        "label": "intense",
+        "probe": "agony"
+      },
+      {
+        "label": "distorting",
+        "probe": "falsification"
+      },
+      {
+        "label": "deliberate",
+        "probe": "torturing"
+      },
+      {
+        "label": "subject",
+        "probe": "injure"
+      }
+    ]
+  },
+  "tortured": {
+    "senses": [
+      {
+        "label": "torment",
+        "probe": "torment"
+      },
+      {
+        "label": "subject",
+        "probe": "torture"
+      },
+      {
+        "label": "experiencing",
+        "probe": "anguished"
+      }
+    ]
+  },
+  "tortures": {
+    "senses": [
+      {
+        "label": "extreme",
+        "probe": "anguish"
+      },
+      {
+        "label": "unbearable",
+        "probe": "torture"
+      },
+      {
+        "label": "intense",
+        "probe": "agony"
+      },
+      {
+        "label": "distorting",
+        "probe": "falsification"
+      },
+      {
+        "label": "deliberate",
+        "probe": "torturing"
+      },
+      {
+        "label": "torment",
+        "probe": "torment"
+      },
+      {
+        "label": "subject",
+        "probe": "injure"
+      }
+    ]
+  },
+  "torturing": {
+    "senses": [
+      {
+        "label": "deliberate",
+        "probe": "torture"
+      },
+      {
+        "label": "torment",
+        "probe": "torment"
+      },
+      {
+        "label": "subject",
+        "probe": "injure"
+      },
+      {
+        "label": "extremely",
+        "probe": "agonizing"
+      }
+    ]
+  },
+  "tosses": {
+    "senses": [
+      {
+        "label": "throw",
+        "probe": "dispose"
+      },
+      {
+        "label": "agitate",
+        "probe": "disturb"
+      }
+    ]
+  },
+  "trace": {
+    "senses": [
+      {
+        "label": "indication",
+        "probe": "vestige"
+      },
+      {
+        "label": "suggestion",
+        "probe": "ghost"
+      },
+      {
+        "label": "drawing",
+        "probe": "tracing"
+      },
+      {
+        "label": "pursue",
+        "probe": "hound"
+      }
+    ]
+  },
+  "traces": {
+    "senses": [
+      {
+        "label": "just",
+        "probe": "trace"
+      },
+      {
+        "label": "indication",
+        "probe": "vestige"
+      },
+      {
+        "label": "suggestion",
+        "probe": "ghost"
+      },
+      {
+        "label": "drawing",
+        "probe": "tracing"
+      },
+      {
+        "label": "pursue",
+        "probe": "hound"
+      }
+    ]
+  },
+  "tracing": {
+    "senses": [
+      {
+        "label": "drawing",
+        "probe": "trace"
+      },
+      {
+        "label": "discovery",
+        "probe": "uncovering"
+      },
+      {
+        "label": "pursue",
+        "probe": "hound"
+      }
+    ]
+  },
+  "tragedies": {
+    "senses": [
+      {
+        "label": "event",
+        "probe": "calamity"
+      },
+      {
+        "label": "drama",
+        "probe": "tragedy"
+      }
+    ]
+  },
+  "traitor": {
+    "senses": [
+      {
+        "label": "betrays",
+        "probe": "betrays"
+      },
+      {
+        "label": "says",
+        "probe": "trickster"
+      }
+    ]
+  },
+  "traps": {
+    "senses": [
+      {
+        "label": "concealing",
+        "probe": "ambush"
+      },
+      {
+        "label": "confining",
+        "probe": "detain"
+      }
+    ]
+  },
+  "travesty": {
+    "senses": [
+      {
+        "label": "comedy",
+        "probe": "farce"
+      },
+      {
+        "label": "composition",
+        "probe": "spoof"
+      }
+    ]
+  },
+  "treachery": {
+    "senses": [
+      {
+        "label": "betrayal",
+        "probe": "betrayal"
+      },
+      {
+        "label": "deliberate",
+        "probe": "treason"
+      }
+    ]
+  },
+  "treason": {
+    "senses": [
+      {
+        "label": "crime",
+        "probe": "crime"
+      },
+      {
+        "label": "disloyalty",
+        "probe": "disloyalty"
+      },
+      {
+        "label": "deliberate",
+        "probe": "treachery"
+      }
+    ]
+  },
+  "trespass": {
+    "senses": [
+      {
+        "label": "wrongful",
+        "probe": "wrongful"
+      },
+      {
+        "label": "entry",
+        "probe": "wrongdoing"
+      },
+      {
+        "label": "commit",
+        "probe": "sin"
+      }
+    ]
+  },
+  "trespassing": {
+    "senses": [
+      {
+        "label": "enter",
+        "probe": "trespass"
+      },
+      {
+        "label": "commit",
+        "probe": "sin"
+      }
+    ]
+  },
+  "trickster": {
+    "senses": [
+      {
+        "label": "plays",
+        "probe": "troublemaker"
+      },
+      {
+        "label": "leads",
+        "probe": "offender"
+      },
+      {
+        "label": "mischievous",
+        "probe": "mischievous"
+      }
+    ]
+  },
+  "troopers": {
+    "senses": [
+      {
+        "label": "soldier",
+        "probe": "trooper"
+      },
+      {
+        "label": "mounted",
+        "probe": "policeman"
+      }
+    ]
+  },
+  "troubling": {
+    "senses": [
+      {
+        "label": "move",
+        "probe": "disturb"
+      },
+      {
+        "label": "causing",
+        "probe": "distressing"
+      }
+    ]
+  },
+  "truer": {
+    "senses": [
+      {
+        "label": "consistent",
+        "probe": "truthful"
+      },
+      {
+        "label": "pretended",
+        "probe": "pretended"
+      }
+    ]
+  },
+  "trysts": {
+    "senses": [
+      {
+        "label": "date",
+        "probe": "tryst"
+      },
+      {
+        "label": "secret",
+        "probe": "assignation"
+      }
+    ]
+  },
+  "tunnels": {
+    "senses": [
+      {
+        "label": "passageway",
+        "probe": "passageway"
+      },
+      {
+        "label": "move",
+        "probe": "delve"
+      }
+    ]
+  },
+  "tusks": {
+    "senses": [
+      {
+        "label": "long",
+        "probe": "tooth"
+      },
+      {
+        "label": "stab",
+        "probe": "stab"
+      }
+    ]
+  },
+  "twisted": {
+    "senses": [
+      {
+        "label": "practice",
+        "probe": "pervert"
+      },
+      {
+        "label": "twist",
+        "probe": "injure"
+      },
+      {
+        "label": "having",
+        "probe": "misrepresented"
+      }
+    ]
+  },
+  "twists": {
+    "senses": [
+      {
+        "label": "sharp",
+        "probe": "trauma"
+      },
+      {
+        "label": "circular",
+        "probe": "crook"
+      },
+      {
+        "label": "hairdo",
+        "probe": "hairdo"
+      },
+      {
+        "label": "practice",
+        "probe": "pervert"
+      },
+      {
+        "label": "twist",
+        "probe": "injure"
+      }
+    ]
+  },
+  "ugliest": {
+    "senses": [
+      {
+        "label": "displeasing",
+        "probe": "grotesque"
+      },
+      {
+        "label": "morally",
+        "probe": "despicable"
+      },
+      {
+        "label": "provoking",
+        "probe": "atrocious"
+      }
+    ]
+  },
+  "unconnected": {
+    "senses": [
+      {
+        "label": "connected",
+        "probe": "unrelated"
+      },
+      {
+        "label": "lacking",
+        "probe": "disjointed"
+      }
+    ]
+  },
+  "unconscious": {
+    "senses": [
+      {
+        "label": "conscious",
+        "probe": "senseless"
+      },
+      {
+        "label": "without",
+        "probe": "involuntary"
+      },
+      {
+        "label": "knowing",
+        "probe": "unaware"
+      }
+    ]
+  },
+  "unconvincing": {
+    "senses": [
+      {
+        "label": "convincing",
+        "probe": "flimsy"
+      },
+      {
+        "label": "having",
+        "probe": "implausible"
+      }
+    ]
+  },
+  "uncovering": {
+    "senses": [
+      {
+        "label": "discovering",
+        "probe": "discovering"
+      },
+      {
+        "label": "make",
+        "probe": "uncover"
+      }
+    ]
+  },
+  "underbelly": {
+    "senses": [
+      {
+        "label": "lower",
+        "probe": "underside"
+      },
+      {
+        "label": "soft",
+        "probe": "abdomen"
+      }
+    ]
+  },
+  "undertones": {
+    "senses": [
+      {
+        "label": "quiet",
+        "probe": "undertone"
+      },
+      {
+        "label": "subdued",
+        "probe": "undercurrent"
+      }
+    ]
+  },
+  "underworld": {
+    "senses": [
+      {
+        "label": "criminal",
+        "probe": "criminal"
+      },
+      {
+        "label": "world",
+        "probe": "hades"
+      }
+    ]
+  },
+  "undetermined": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "unexplained"
+      },
+      {
+        "label": "precisely",
+        "probe": "indeterminate"
+      },
+      {
+        "label": "brought",
+        "probe": "unresolved"
+      }
+    ]
+  },
+  "unearth": {
+    "senses": [
+      {
+        "label": "bring",
+        "probe": "locate"
+      },
+      {
+        "label": "recover",
+        "probe": "uncover"
+      }
+    ]
+  },
+  "unearthed": {
+    "senses": [
+      {
+        "label": "bring",
+        "probe": "unearth"
+      },
+      {
+        "label": "recover",
+        "probe": "uncover"
+      }
+    ]
+  },
+  "unearthing": {
+    "senses": [
+      {
+        "label": "bring",
+        "probe": "unearth"
+      },
+      {
+        "label": "recover",
+        "probe": "uncover"
+      }
+    ]
+  },
+  "unexplained": {
+    "senses": [
+      {
+        "label": "explained",
+        "probe": "undetermined"
+      },
+      {
+        "label": "having",
+        "probe": "inexplicable"
+      }
+    ]
+  },
+  "unfaithful": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "adulterous"
+      },
+      {
+        "label": "having",
+        "probe": "treasonous"
+      }
+    ]
+  },
+  "unfathomable": {
+    "senses": [
+      {
+        "label": "resembling",
+        "probe": "resembling"
+      },
+      {
+        "label": "impossible",
+        "probe": "incomprehensible"
+      }
+    ]
+  },
+  "unfolding": {
+    "senses": [
+      {
+        "label": "develop",
+        "probe": "unfold"
+      },
+      {
+        "label": "open",
+        "probe": "uncover"
+      }
+    ]
+  },
+  "unfolds": {
+    "senses": [
+      {
+        "label": "develop",
+        "probe": "unfold"
+      },
+      {
+        "label": "open",
+        "probe": "uncover"
+      }
+    ]
+  },
+  "unholy": {
+    "senses": [
+      {
+        "label": "extremely",
+        "probe": "demonic"
+      },
+      {
+        "label": "having",
+        "probe": "wicked"
+      }
+    ]
+  },
+  "unimpeachable": {
+    "senses": [
+      {
+        "label": "beyond",
+        "probe": "unquestionable"
+      },
+      {
+        "label": "free",
+        "probe": "innocent"
+      }
+    ]
+  },
+  "unimportant": {
+    "senses": [
+      {
+        "label": "important",
+        "probe": "inconsequential"
+      },
+      {
+        "label": "devoid",
+        "probe": "insignificant"
+      }
+    ]
+  },
+  "unmask": {
+    "senses": [
+      {
+        "label": "reveal",
+        "probe": "debunk"
+      },
+      {
+        "label": "take",
+        "probe": "uncover"
+      }
+    ]
+  },
+  "unmasked": {
+    "senses": [
+      {
+        "label": "reveal",
+        "probe": "unmask"
+      },
+      {
+        "label": "take",
+        "probe": "uncover"
+      }
+    ]
+  },
+  "unmasking": {
+    "senses": [
+      {
+        "label": "reveal",
+        "probe": "unmask"
+      },
+      {
+        "label": "take",
+        "probe": "uncover"
+      }
+    ]
+  },
+  "unnerving": {
+    "senses": [
+      {
+        "label": "disturb",
+        "probe": "disturb"
+      },
+      {
+        "label": "inspiring",
+        "probe": "alarming"
+      }
+    ]
+  },
+  "unresolved": {
+    "senses": [
+      {
+        "label": "solved",
+        "probe": "unsolved"
+      },
+      {
+        "label": "brought",
+        "probe": "undetermined"
+      }
+    ]
+  },
+  "unspoken": {
+    "senses": [
+      {
+        "label": "expressed",
+        "probe": "mute"
+      },
+      {
+        "label": "made",
+        "probe": "unsaid"
+      }
+    ]
+  },
+  "unsuspecting": {
+    "senses": [
+      {
+        "label": "suspicious",
+        "probe": "suspicious"
+      },
+      {
+        "label": "knowing",
+        "probe": "unaware"
+      }
+    ]
+  },
+  "unwitting": {
+    "senses": [
+      {
+        "label": "done",
+        "probe": "unintentional"
+      },
+      {
+        "label": "unaware",
+        "probe": "unaware"
+      }
+    ]
+  },
+  "vamp": {
+    "senses": [
+      {
+        "label": "seductive",
+        "probe": "tease"
+      },
+      {
+        "label": "improvised",
+        "probe": "improvised"
+      },
+      {
+        "label": "make",
+        "probe": "fabricate"
+      }
+    ]
+  },
+  "venom": {
+    "senses": [
+      {
+        "label": "toxin",
+        "probe": "toxin"
+      },
+      {
+        "label": "feeling",
+        "probe": "malice"
+      }
+    ]
+  },
+  "verifying": {
+    "senses": [
+      {
+        "label": "confirm",
+        "probe": "corroborate"
+      },
+      {
+        "label": "serving",
+        "probe": "corroborative"
+      }
+    ]
+  },
+  "vexed": {
+    "senses": [
+      {
+        "label": "disturb",
+        "probe": "disturb"
+      },
+      {
+        "label": "subject",
+        "probe": "deliberate"
+      },
+      {
+        "label": "mystery",
+        "probe": "mystery"
+      }
+    ]
+  },
+  "vexing": {
+    "senses": [
+      {
+        "label": "disturb",
+        "probe": "disturb"
+      },
+      {
+        "label": "subject",
+        "probe": "deliberate"
+      },
+      {
+        "label": "mystery",
+        "probe": "mystery"
+      },
+      {
+        "label": "extremely",
+        "probe": "exasperating"
+      }
+    ]
+  },
+  "vile": {
+    "senses": [
+      {
+        "label": "morally",
+        "probe": "despicable"
+      },
+      {
+        "label": "causing",
+        "probe": "loathsome"
+      }
+    ]
+  },
+  "visitation": {
+    "senses": [
+      {
+        "label": "annoying",
+        "probe": "affliction"
+      },
+      {
+        "label": "disaster",
+        "probe": "calamity"
+      }
+    ]
+  },
+  "wakes": {
+    "senses": [
+      {
+        "label": "awake",
+        "probe": "awake"
+      },
+      {
+        "label": "stop",
+        "probe": "arouse"
+      },
+      {
+        "label": "arouse",
+        "probe": "elicit"
+      },
+      {
+        "label": "cause",
+        "probe": "awaken"
+      }
+    ]
+  },
+  "waking": {
+    "senses": [
+      {
+        "label": "awake",
+        "probe": "awake"
+      },
+      {
+        "label": "stop",
+        "probe": "arouse"
+      },
+      {
+        "label": "arouse",
+        "probe": "elicit"
+      },
+      {
+        "label": "cause",
+        "probe": "awaken"
+      }
+    ]
+  },
+  "wandering": {
+    "senses": [
+      {
+        "label": "move",
+        "probe": "stray"
+      },
+      {
+        "label": "sexually",
+        "probe": "betray"
+      },
+      {
+        "label": "path",
+        "probe": "rambling"
+      }
+    ]
+  },
+  "wanders": {
+    "senses": [
+      {
+        "label": "move",
+        "probe": "stray"
+      },
+      {
+        "label": "sexually",
+        "probe": "betray"
+      }
+    ]
+  },
+  "watchful": {
+    "senses": [
+      {
+        "label": "engaged",
+        "probe": "vigilant"
+      },
+      {
+        "label": "experiencing",
+        "probe": "awake"
+      }
+    ]
+  },
+  "westerner": {
+    "senses": [
+      {
+        "label": "inhabitant",
+        "probe": "dweller"
+      },
+      {
+        "label": "lying",
+        "probe": "lying"
+      }
+    ]
+  },
+  "whiff": {
+    "senses": [
+      {
+        "label": "short",
+        "probe": "puff"
+      },
+      {
+        "label": "perceive",
+        "probe": "sniff"
+      },
+      {
+        "label": "utter",
+        "probe": "utter"
+      }
+    ]
+  },
+  "whimsy": {
+    "senses": [
+      {
+        "label": "fanciful",
+        "probe": "fanciful"
+      },
+      {
+        "label": "trait",
+        "probe": "arbitrariness"
+      }
+    ]
+  },
+  "whisper": {
+    "senses": [
+      {
+        "label": "speaking",
+        "probe": "whispering"
+      },
+      {
+        "label": "light",
+        "probe": "rustling"
+      },
+      {
+        "label": "speak",
+        "probe": "utter"
+      }
+    ]
+  },
+  "whispering": {
+    "senses": [
+      {
+        "label": "light",
+        "probe": "rustling"
+      },
+      {
+        "label": "speaking",
+        "probe": "whisper"
+      },
+      {
+        "label": "speak",
+        "probe": "utter"
+      }
+    ]
+  },
+  "whispers": {
+    "senses": [
+      {
+        "label": "speaking",
+        "probe": "whisper"
+      },
+      {
+        "label": "light",
+        "probe": "rustling"
+      },
+      {
+        "label": "speak",
+        "probe": "utter"
+      }
+    ]
+  },
+  "whitewash": {
+    "senses": [
+      {
+        "label": "specious",
+        "probe": "specious"
+      },
+      {
+        "label": "exonerate",
+        "probe": "exonerate"
+      }
+    ]
+  },
+  "whitewashing": {
+    "senses": [
+      {
+        "label": "cover",
+        "probe": "whitewash"
+      },
+      {
+        "label": "exonerate",
+        "probe": "exonerate"
+      }
+    ]
+  },
+  "wicked": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "unholy"
+      },
+      {
+        "label": "naughtily",
+        "probe": "impish"
+      },
+      {
+        "label": "highly",
+        "probe": "disgusting"
+      }
+    ]
+  },
+  "witness": {
+    "senses": [
+      {
+        "label": "sees",
+        "probe": "informant"
+      },
+      {
+        "label": "testimony",
+        "probe": "testimony"
+      },
+      {
+        "label": "testifies",
+        "probe": "testifies"
+      }
+    ]
+  },
+  "witnesses": {
+    "senses": [
+      {
+        "label": "sees",
+        "probe": "witness"
+      },
+      {
+        "label": "testimony",
+        "probe": "testimony"
+      },
+      {
+        "label": "testifies",
+        "probe": "testifies"
+      }
+    ]
+  },
+  "woke": {
+    "senses": [
+      {
+        "label": "awake",
+        "probe": "awake"
+      },
+      {
+        "label": "stop",
+        "probe": "arouse"
+      },
+      {
+        "label": "arouse",
+        "probe": "elicit"
+      },
+      {
+        "label": "cause",
+        "probe": "awaken"
+      }
+    ]
+  },
+  "wounding": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "injure"
+      },
+      {
+        "label": "hurt",
+        "probe": "arouse"
+      },
+      {
+        "label": "causing",
+        "probe": "stabbing"
+      }
+    ]
+  },
+  "wounds": {
+    "senses": [
+      {
+        "label": "injury",
+        "probe": "lesion"
+      },
+      {
+        "label": "inflicting",
+        "probe": "wounding"
+      },
+      {
+        "label": "cause",
+        "probe": "injure"
+      },
+      {
+        "label": "hurt",
+        "probe": "arouse"
+      }
+    ]
+  },
+  "wrongdoings": {
+    "senses": [
+      {
+        "label": "departure",
+        "probe": "wrongdoing"
+      },
+      {
+        "label": "activity",
+        "probe": "misconduct"
+      }
+    ]
+  },
+  "wrongful": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "unlawful"
+      },
+      {
+        "label": "unlawfully",
+        "probe": "unlawfully"
+      }
+    ]
+  },
+  "yakuza": {
+    "senses": [
+      {
+        "label": "japanese",
+        "probe": "gangster"
+      },
+      {
+        "label": "organized",
+        "probe": "gangland"
+      }
+    ]
+  },
+  "yells": {
+    "senses": [
+      {
+        "label": "utter",
+        "probe": "scream"
+      },
+      {
+        "label": "utter",
+        "probe": "utter"
+      }
+    ]
+  },
+  "zombie": {
+    "senses": [
+      {
+        "label": "dead",
+        "probe": "deceased"
+      },
+      {
+        "label": "acts",
+        "probe": "anomaly"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8438 @@
+{
+  "abdomen": {
+    "senses": [
+      {
+        "label": "region",
+        "probe": "belly"
+      },
+      {
+        "label": "cavity",
+        "probe": "cavity"
+      }
+    ]
+  },
+  "aberrant": {
+    "senses": [
+      {
+        "label": "whose",
+        "probe": "anomaly"
+      },
+      {
+        "label": "markedly",
+        "probe": "abnormal"
+      }
+    ]
+  },
+  "aberration": {
+    "senses": [
+      {
+        "label": "condition",
+        "probe": "abnormality"
+      },
+      {
+        "label": "optical",
+        "probe": "optical"
+      }
+    ]
+  },
+  "aberrations": {
+    "senses": [
+      {
+        "label": "condition",
+        "probe": "aberration"
+      },
+      {
+        "label": "optical",
+        "probe": "optical"
+      }
+    ]
+  },
+  "abnormalities": {
+    "senses": [
+      {
+        "label": "abnormal",
+        "probe": "abnormality"
+      },
+      {
+        "label": "marked",
+        "probe": "strangeness"
+      }
+    ]
+  },
+  "abnormality": {
+    "senses": [
+      {
+        "label": "abnormal",
+        "probe": "abnormal"
+      },
+      {
+        "label": "marked",
+        "probe": "strangeness"
+      }
+    ]
+  },
+  "aborted": {
+    "senses": [
+      {
+        "label": "terminate",
+        "probe": "abort"
+      },
+      {
+        "label": "terminate",
+        "probe": "eject"
+      }
+    ]
+  },
+  "absorbing": {
+    "senses": [
+      {
+        "label": "take",
+        "probe": "suck"
+      },
+      {
+        "label": "cause",
+        "probe": "flux"
+      }
+    ]
+  },
+  "absorbs": {
+    "senses": [
+      {
+        "label": "take",
+        "probe": "suck"
+      },
+      {
+        "label": "cause",
+        "probe": "flux"
+      }
+    ]
+  },
+  "abstraction": {
+    "senses": [
+      {
+        "label": "concept",
+        "probe": "conception"
+      },
+      {
+        "label": "formulating",
+        "probe": "generalization"
+      },
+      {
+        "label": "preoccupation",
+        "probe": "absorption"
+      }
+    ]
+  },
+  "abstractions": {
+    "senses": [
+      {
+        "label": "concept",
+        "probe": "abstraction"
+      },
+      {
+        "label": "formulating",
+        "probe": "generalization"
+      },
+      {
+        "label": "preoccupation",
+        "probe": "absorption"
+      }
+    ]
+  },
+  "accumulation": {
+    "senses": [
+      {
+        "label": "increase",
+        "probe": "accretion"
+      },
+      {
+        "label": "several",
+        "probe": "assemblage"
+      }
+    ]
+  },
+  "acoustic": {
+    "senses": [
+      {
+        "label": "remedy",
+        "probe": "therapeutic"
+      },
+      {
+        "label": "relating",
+        "probe": "acoustical"
+      }
+    ]
+  },
+  "aerosolized": {
+    "senses": [
+      {
+        "label": "disperse",
+        "probe": "scatter"
+      },
+      {
+        "label": "become",
+        "probe": "dissipate"
+      },
+      {
+        "label": "ultramicroscopic",
+        "probe": "gaseous"
+      }
+    ]
+  },
+  "agonists": {
+    "senses": [
+      {
+        "label": "principal",
+        "probe": "protagonist"
+      },
+      {
+        "label": "involved",
+        "probe": "agonist"
+      }
+    ]
+  },
+  "airy": {
+    "senses": [
+      {
+        "label": "practical",
+        "probe": "impractical"
+      },
+      {
+        "label": "characterized",
+        "probe": "ethereal"
+      }
+    ]
+  },
+  "alien": {
+    "senses": [
+      {
+        "label": "comes",
+        "probe": "outlander"
+      },
+      {
+        "label": "does",
+        "probe": "intruder"
+      },
+      {
+        "label": "life",
+        "probe": "extraterrestrial"
+      },
+      {
+        "label": "contained",
+        "probe": "extrinsic"
+      }
+    ]
+  },
+  "aliens": {
+    "senses": [
+      {
+        "label": "comes",
+        "probe": "alien"
+      },
+      {
+        "label": "does",
+        "probe": "intruder"
+      },
+      {
+        "label": "life",
+        "probe": "extraterrestrial"
+      }
+    ]
+  },
+  "allegory": {
+    "senses": [
+      {
+        "label": "short",
+        "probe": "fable"
+      },
+      {
+        "label": "expressive",
+        "probe": "expressive"
+      }
+    ]
+  },
+  "altitudes": {
+    "senses": [
+      {
+        "label": "perpendicular",
+        "probe": "perpendicular"
+      },
+      {
+        "label": "angular",
+        "probe": "angular"
+      }
+    ]
+  },
+  "amorphous": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "formless"
+      },
+      {
+        "label": "lacking",
+        "probe": "inorganic"
+      }
+    ]
+  },
+  "amphibian": {
+    "senses": [
+      {
+        "label": "airplane",
+        "probe": "aeroplane"
+      },
+      {
+        "label": "cold",
+        "probe": "vertebrate"
+      },
+      {
+        "label": "relating",
+        "probe": "amphibious"
+      }
+    ]
+  },
+  "amphibians": {
+    "senses": [
+      {
+        "label": "flat",
+        "probe": "amphibian"
+      },
+      {
+        "label": "airplane",
+        "probe": "aeroplane"
+      },
+      {
+        "label": "cold",
+        "probe": "vertebrate"
+      }
+    ]
+  },
+  "anachronism": {
+    "senses": [
+      {
+        "label": "located",
+        "probe": "timekeeping"
+      },
+      {
+        "label": "artifact",
+        "probe": "artifact"
+      },
+      {
+        "label": "seems",
+        "probe": "anomaly"
+      }
+    ]
+  },
+  "anatomy": {
+    "senses": [
+      {
+        "label": "branch",
+        "probe": "morphology"
+      },
+      {
+        "label": "alternative",
+        "probe": "flesh"
+      }
+    ]
+  },
+  "animate": {
+    "senses": [
+      {
+        "label": "give",
+        "probe": "recreate"
+      },
+      {
+        "label": "endowed",
+        "probe": "sentient"
+      }
+    ]
+  },
+  "animating": {
+    "senses": [
+      {
+        "label": "heighten",
+        "probe": "animate"
+      },
+      {
+        "label": "give",
+        "probe": "recreate"
+      }
+    ]
+  },
+  "anthropoid": {
+    "senses": [
+      {
+        "label": "resembles",
+        "probe": "ape"
+      },
+      {
+        "label": "member",
+        "probe": "primate"
+      },
+      {
+        "label": "resembling",
+        "probe": "resembling"
+      }
+    ]
+  },
+  "ape": {
+    "senses": [
+      {
+        "label": "various",
+        "probe": "primate"
+      },
+      {
+        "label": "resembles",
+        "probe": "anthropoid"
+      },
+      {
+        "label": "imitate",
+        "probe": "imitate"
+      }
+    ]
+  },
+  "apes": {
+    "senses": [
+      {
+        "label": "various",
+        "probe": "ape"
+      },
+      {
+        "label": "resembles",
+        "probe": "anthropoid"
+      },
+      {
+        "label": "imitate",
+        "probe": "imitate"
+      }
+    ]
+  },
+  "apparition": {
+    "senses": [
+      {
+        "label": "ghostly",
+        "probe": "phantom"
+      },
+      {
+        "label": "existing",
+        "probe": "illusion"
+      }
+    ]
+  },
+  "apparitions": {
+    "senses": [
+      {
+        "label": "ghostly",
+        "probe": "apparition"
+      },
+      {
+        "label": "existing",
+        "probe": "phantom"
+      }
+    ]
+  },
+  "approximations": {
+    "senses": [
+      {
+        "label": "approximate",
+        "probe": "estimation"
+      },
+      {
+        "label": "coming",
+        "probe": "approximation"
+      }
+    ]
+  },
+  "arboreal": {
+    "senses": [
+      {
+        "label": "inhabiting",
+        "probe": "inhabiting"
+      },
+      {
+        "label": "resembling",
+        "probe": "resembling"
+      }
+    ]
+  },
+  "arcs": {
+    "senses": [
+      {
+        "label": "electrical",
+        "probe": "arc"
+      },
+      {
+        "label": "curved",
+        "probe": "curved"
+      }
+    ]
+  },
+  "arrow": {
+    "senses": [
+      {
+        "label": "mark",
+        "probe": "pointer"
+      },
+      {
+        "label": "projectile",
+        "probe": "projectile"
+      }
+    ]
+  },
+  "assemblages": {
+    "senses": [
+      {
+        "label": "persons",
+        "probe": "assemblage"
+      },
+      {
+        "label": "several",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "asteroid": {
+    "senses": [
+      {
+        "label": "numerous",
+        "probe": "planetoid"
+      },
+      {
+        "label": "shaped",
+        "probe": "angular"
+      }
+    ]
+  },
+  "astronomic": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "astronomical"
+      },
+      {
+        "label": "inconceivably",
+        "probe": "galactic"
+      }
+    ]
+  },
+  "astronomical": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "astronomic"
+      },
+      {
+        "label": "inconceivably",
+        "probe": "galactic"
+      }
+    ]
+  },
+  "atlas": {
+    "senses": [
+      {
+        "label": "titan",
+        "probe": "titan"
+      },
+      {
+        "label": "cervical",
+        "probe": "cervical"
+      }
+    ]
+  },
+  "atlases": {
+    "senses": [
+      {
+        "label": "titan",
+        "probe": "atlas"
+      },
+      {
+        "label": "cervical",
+        "probe": "cervical"
+      }
+    ]
+  },
+  "atoms": {
+    "senses": [
+      {
+        "label": "smallest",
+        "probe": "atom"
+      },
+      {
+        "label": "tiny",
+        "probe": "molecule"
+      }
+    ]
+  },
+  "automata": {
+    "senses": [
+      {
+        "label": "acts",
+        "probe": "automaton"
+      },
+      {
+        "label": "mechanism",
+        "probe": "robot"
+      }
+    ]
+  },
+  "automaton": {
+    "senses": [
+      {
+        "label": "acts",
+        "probe": "zombie"
+      },
+      {
+        "label": "mechanism",
+        "probe": "robot"
+      }
+    ]
+  },
+  "avatar": {
+    "senses": [
+      {
+        "label": "personification",
+        "probe": "embodiment"
+      },
+      {
+        "label": "manifestation",
+        "probe": "manifestation"
+      }
+    ]
+  },
+  "avatars": {
+    "senses": [
+      {
+        "label": "personification",
+        "probe": "embodiment"
+      },
+      {
+        "label": "manifestation",
+        "probe": "avatar"
+      }
+    ]
+  },
+  "axes": {
+    "senses": [
+      {
+        "label": "straight",
+        "probe": "axis"
+      },
+      {
+        "label": "cervical",
+        "probe": "cervical"
+      }
+    ]
+  },
+  "barbarian": {
+    "senses": [
+      {
+        "label": "member",
+        "probe": "primitive"
+      },
+      {
+        "label": "without",
+        "probe": "barbaric"
+      }
+    ]
+  },
+  "bastard": {
+    "senses": [
+      {
+        "label": "illegitimate",
+        "probe": "offspring"
+      },
+      {
+        "label": "derogatory",
+        "probe": "mongrel"
+      }
+    ]
+  },
+  "beam": {
+    "senses": [
+      {
+        "label": "column",
+        "probe": "shaft"
+      },
+      {
+        "label": "emit",
+        "probe": "emit"
+      },
+      {
+        "label": "have",
+        "probe": "glow"
+      },
+      {
+        "label": "experience",
+        "probe": "radiate"
+      }
+    ]
+  },
+  "beams": {
+    "senses": [
+      {
+        "label": "signal",
+        "probe": "beam"
+      },
+      {
+        "label": "column",
+        "probe": "shaft"
+      },
+      {
+        "label": "emit",
+        "probe": "emit"
+      },
+      {
+        "label": "have",
+        "probe": "glow"
+      },
+      {
+        "label": "experience",
+        "probe": "radiate"
+      }
+    ]
+  },
+  "beasts": {
+    "senses": [
+      {
+        "label": "living",
+        "probe": "beast"
+      },
+      {
+        "label": "cruelly",
+        "probe": "brute"
+      }
+    ]
+  },
+  "beehive": {
+    "senses": [
+      {
+        "label": "structure",
+        "probe": "hive"
+      },
+      {
+        "label": "made",
+        "probe": "receptacle"
+      }
+    ]
+  },
+  "belly": {
+    "senses": [
+      {
+        "label": "region",
+        "probe": "abdomen"
+      },
+      {
+        "label": "protruding",
+        "probe": "protruding"
+      },
+      {
+        "label": "that",
+        "probe": "bulge"
+      }
+    ]
+  },
+  "bends": {
+    "senses": [
+      {
+        "label": "pain",
+        "probe": "malady"
+      },
+      {
+        "label": "movement",
+        "probe": "bending"
+      },
+      {
+        "label": "curved",
+        "probe": "curved"
+      },
+      {
+        "label": "angular",
+        "probe": "angular"
+      }
+    ]
+  },
+  "berserk": {
+    "senses": [
+      {
+        "label": "ancient",
+        "probe": "berserker"
+      },
+      {
+        "label": "frenzied",
+        "probe": "possessed"
+      }
+    ]
+  },
+  "berserker": {
+    "senses": [
+      {
+        "label": "ancient",
+        "probe": "berserk"
+      },
+      {
+        "label": "frenzied",
+        "probe": "possessed"
+      }
+    ]
+  },
+  "biped": {
+    "senses": [
+      {
+        "label": "with",
+        "probe": "beast"
+      },
+      {
+        "label": "having",
+        "probe": "bipedal"
+      }
+    ]
+  },
+  "blades": {
+    "senses": [
+      {
+        "label": "especially",
+        "probe": "blade"
+      },
+      {
+        "label": "cutting",
+        "probe": "sword"
+      }
+    ]
+  },
+  "blazing": {
+    "senses": [
+      {
+        "label": "strong",
+        "probe": "flame"
+      },
+      {
+        "label": "shine",
+        "probe": "beam"
+      },
+      {
+        "label": "shining",
+        "probe": "blinding"
+      }
+    ]
+  },
+  "bleed": {
+    "senses": [
+      {
+        "label": "lose",
+        "probe": "eject"
+      },
+      {
+        "label": "draw",
+        "probe": "leech"
+      },
+      {
+        "label": "extort",
+        "probe": "gouge"
+      },
+      {
+        "label": "diffused",
+        "probe": "diffuse"
+      }
+    ]
+  },
+  "blimps": {
+    "senses": [
+      {
+        "label": "elderly",
+        "probe": "blimp"
+      },
+      {
+        "label": "small",
+        "probe": "airship"
+      }
+    ]
+  },
+  "blink": {
+    "senses": [
+      {
+        "label": "reflex",
+        "probe": "blinking"
+      },
+      {
+        "label": "force",
+        "probe": "subdue"
+      },
+      {
+        "label": "gleam",
+        "probe": "twinkle"
+      }
+    ]
+  },
+  "blinking": {
+    "senses": [
+      {
+        "label": "reflex",
+        "probe": "blink"
+      },
+      {
+        "label": "force",
+        "probe": "subdue"
+      },
+      {
+        "label": "gleam",
+        "probe": "twinkle"
+      },
+      {
+        "label": "informal",
+        "probe": "flaming"
+      }
+    ]
+  },
+  "blinks": {
+    "senses": [
+      {
+        "label": "reflex",
+        "probe": "blink"
+      },
+      {
+        "label": "force",
+        "probe": "subdue"
+      },
+      {
+        "label": "gleam",
+        "probe": "twinkle"
+      }
+    ]
+  },
+  "bollocks": {
+    "senses": [
+      {
+        "label": "male",
+        "probe": "testis"
+      },
+      {
+        "label": "make",
+        "probe": "bobble"
+      }
+    ]
+  },
+  "bounces": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "elasticity"
+      },
+      {
+        "label": "rebounding",
+        "probe": "recoil"
+      },
+      {
+        "label": "spring",
+        "probe": "ricochet"
+      },
+      {
+        "label": "eject",
+        "probe": "eject"
+      }
+    ]
+  },
+  "breathes": {
+    "senses": [
+      {
+        "label": "manifest",
+        "probe": "manifest"
+      },
+      {
+        "label": "expel",
+        "probe": "emit"
+      }
+    ]
+  },
+  "brooding": {
+    "senses": [
+      {
+        "label": "persistent",
+        "probe": "melancholy"
+      },
+      {
+        "label": "hang",
+        "probe": "hover"
+      },
+      {
+        "label": "deeply",
+        "probe": "contemplative"
+      }
+    ]
+  },
+  "brute": {
+    "senses": [
+      {
+        "label": "cruelly",
+        "probe": "beast"
+      },
+      {
+        "label": "living",
+        "probe": "creature"
+      },
+      {
+        "label": "resembling",
+        "probe": "brutish"
+      }
+    ]
+  },
+  "bubbles": {
+    "senses": [
+      {
+        "label": "impracticable",
+        "probe": "illusion"
+      },
+      {
+        "label": "produce",
+        "probe": "emit"
+      }
+    ]
+  },
+  "bulbs": {
+    "senses": [
+      {
+        "label": "modified",
+        "probe": "bulb"
+      },
+      {
+        "label": "electric",
+        "probe": "lightbulb"
+      }
+    ]
+  },
+  "buoyancy": {
+    "senses": [
+      {
+        "label": "property",
+        "probe": "weightlessness"
+      },
+      {
+        "label": "tendency",
+        "probe": "inclination"
+      }
+    ]
+  },
+  "cage": {
+    "senses": [
+      {
+        "label": "enclosure",
+        "probe": "enclosure"
+      },
+      {
+        "label": "movable",
+        "probe": "movable"
+      }
+    ]
+  },
+  "cancers": {
+    "senses": [
+      {
+        "label": "malignant",
+        "probe": "malignant"
+      },
+      {
+        "label": "genus",
+        "probe": "genus"
+      }
+    ]
+  },
+  "capricious": {
+    "senses": [
+      {
+        "label": "changeable",
+        "probe": "freakish"
+      },
+      {
+        "label": "determined",
+        "probe": "impulsive"
+      }
+    ]
+  },
+  "capsule": {
+    "senses": [
+      {
+        "label": "shortened",
+        "probe": "condensation"
+      },
+      {
+        "label": "spacecraft",
+        "probe": "spacecraft"
+      },
+      {
+        "label": "short",
+        "probe": "condense"
+      }
+    ]
+  },
+  "carnivores": {
+    "senses": [
+      {
+        "label": "terrestrial",
+        "probe": "terrestrial"
+      },
+      {
+        "label": "that",
+        "probe": "predator"
+      }
+    ]
+  },
+  "catapult": {
+    "senses": [
+      {
+        "label": "plaything",
+        "probe": "slingshot"
+      },
+      {
+        "label": "that",
+        "probe": "launcher"
+      }
+    ]
+  },
+  "catapults": {
+    "senses": [
+      {
+        "label": "plaything",
+        "probe": "slingshot"
+      },
+      {
+        "label": "that",
+        "probe": "catapult"
+      }
+    ]
+  },
+  "cavities": {
+    "senses": [
+      {
+        "label": "sizeable",
+        "probe": "cavity"
+      },
+      {
+        "label": "soft",
+        "probe": "decay"
+      }
+    ]
+  },
+  "celestial": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "heavenly"
+      },
+      {
+        "label": "heaven",
+        "probe": "ethereal"
+      }
+    ]
+  },
+  "ceres": {
+    "senses": [
+      {
+        "label": "goddess",
+        "probe": "goddess"
+      },
+      {
+        "label": "fleshy",
+        "probe": "beak"
+      }
+    ]
+  },
+  "chameleon": {
+    "senses": [
+      {
+        "label": "faint",
+        "probe": "faint"
+      },
+      {
+        "label": "lizard",
+        "probe": "lizard"
+      }
+    ]
+  },
+  "chameleons": {
+    "senses": [
+      {
+        "label": "changeable",
+        "probe": "chameleon"
+      },
+      {
+        "label": "faint",
+        "probe": "faint"
+      },
+      {
+        "label": "lizard",
+        "probe": "lizard"
+      }
+    ]
+  },
+  "chasers": {
+    "senses": [
+      {
+        "label": "pursuing",
+        "probe": "pursuer"
+      },
+      {
+        "label": "drink",
+        "probe": "chaser"
+      }
+    ]
+  },
+  "chimeras": {
+    "senses": [
+      {
+        "label": "fire",
+        "probe": "chimera"
+      },
+      {
+        "label": "grotesque",
+        "probe": "grotesque"
+      }
+    ]
+  },
+  "civilizations": {
+    "senses": [
+      {
+        "label": "society",
+        "probe": "civilisation"
+      },
+      {
+        "label": "excellence",
+        "probe": "refinement"
+      }
+    ]
+  },
+  "clairvoyant": {
+    "senses": [
+      {
+        "label": "power",
+        "probe": "psychic"
+      },
+      {
+        "label": "perceiving",
+        "probe": "perceiving"
+      },
+      {
+        "label": "foreseeing",
+        "probe": "precognitive"
+      }
+    ]
+  },
+  "claws": {
+    "senses": [
+      {
+        "label": "sharp",
+        "probe": "claw"
+      },
+      {
+        "label": "grasping",
+        "probe": "grasping"
+      }
+    ]
+  },
+  "clones": {
+    "senses": [
+      {
+        "label": "almost",
+        "probe": "clone"
+      },
+      {
+        "label": "genetically",
+        "probe": "organism"
+      }
+    ]
+  },
+  "clutches": {
+    "senses": [
+      {
+        "label": "grasping",
+        "probe": "grasping"
+      },
+      {
+        "label": "collection",
+        "probe": "accumulation"
+      },
+      {
+        "label": "coupling",
+        "probe": "coupling"
+      }
+    ]
+  },
+  "coalescing": {
+    "senses": [
+      {
+        "label": "together",
+        "probe": "flux"
+      },
+      {
+        "label": "fuse",
+        "probe": "fuse"
+      }
+    ]
+  },
+  "cock": {
+    "senses": [
+      {
+        "label": "obscene",
+        "probe": "shaft"
+      },
+      {
+        "label": "adult",
+        "probe": "rooster"
+      }
+    ]
+  },
+  "coil": {
+    "senses": [
+      {
+        "label": "structure",
+        "probe": "spiral"
+      },
+      {
+        "label": "transformer",
+        "probe": "transformer"
+      },
+      {
+        "label": "tubing",
+        "probe": "tubing"
+      }
+    ]
+  },
+  "coiled": {
+    "senses": [
+      {
+        "label": "wind",
+        "probe": "spiral"
+      },
+      {
+        "label": "make",
+        "probe": "coil"
+      },
+      {
+        "label": "curled",
+        "probe": "helical"
+      }
+    ]
+  },
+  "coils": {
+    "senses": [
+      {
+        "label": "structure",
+        "probe": "coil"
+      },
+      {
+        "label": "transformer",
+        "probe": "transformer"
+      },
+      {
+        "label": "tubing",
+        "probe": "tubing"
+      },
+      {
+        "label": "wind",
+        "probe": "spiral"
+      }
+    ]
+  },
+  "coincidences": {
+    "senses": [
+      {
+        "label": "event",
+        "probe": "happenstance"
+      },
+      {
+        "label": "temporal",
+        "probe": "temporal"
+      }
+    ]
+  },
+  "colder": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "refrigerant"
+      },
+      {
+        "label": "without",
+        "probe": "inhuman"
+      },
+      {
+        "label": "seeker",
+        "probe": "seeker"
+      }
+    ]
+  },
+  "colossus": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "goliath"
+      },
+      {
+        "label": "exceptional",
+        "probe": "titan"
+      }
+    ]
+  },
+  "coma": {
+    "senses": [
+      {
+        "label": "deep",
+        "probe": "unconsciousness"
+      },
+      {
+        "label": "luminous",
+        "probe": "luminous"
+      }
+    ]
+  },
+  "comforts": {
+    "senses": [
+      {
+        "label": "satisfaction",
+        "probe": "gratification"
+      },
+      {
+        "label": "bedding",
+        "probe": "puff"
+      }
+    ]
+  },
+  "compass": {
+    "senses": [
+      {
+        "label": "area",
+        "probe": "orbit"
+      },
+      {
+        "label": "travel",
+        "probe": "circumnavigate"
+      }
+    ]
+  },
+  "compasses": {
+    "senses": [
+      {
+        "label": "navigational",
+        "probe": "compass"
+      },
+      {
+        "label": "area",
+        "probe": "orbit"
+      },
+      {
+        "label": "travel",
+        "probe": "circumnavigate"
+      }
+    ]
+  },
+  "computations": {
+    "senses": [
+      {
+        "label": "procedure",
+        "probe": "computation"
+      },
+      {
+        "label": "problem",
+        "probe": "reckoning"
+      }
+    ]
+  },
+  "condensation": {
+    "senses": [
+      {
+        "label": "atmospheric",
+        "probe": "condensate"
+      },
+      {
+        "label": "result",
+        "probe": "shrinkage"
+      },
+      {
+        "label": "shortened",
+        "probe": "capsule"
+      },
+      {
+        "label": "increasing",
+        "probe": "compressing"
+      }
+    ]
+  },
+  "condenser": {
+    "senses": [
+      {
+        "label": "hollow",
+        "probe": "coil"
+      },
+      {
+        "label": "lens",
+        "probe": "lens"
+      }
+    ]
+  },
+  "configurations": {
+    "senses": [
+      {
+        "label": "arrangement",
+        "probe": "constellation"
+      },
+      {
+        "label": "spatial",
+        "probe": "contour"
+      }
+    ]
+  },
+  "conformation": {
+    "senses": [
+      {
+        "label": "symmetrical",
+        "probe": "symmetrical"
+      },
+      {
+        "label": "spatial",
+        "probe": "contour"
+      }
+    ]
+  },
+  "conjecture": {
+    "senses": [
+      {
+        "label": "hypothesis",
+        "probe": "hypothesis"
+      },
+      {
+        "label": "believe",
+        "probe": "theorize"
+      }
+    ]
+  },
+  "conjunctions": {
+    "senses": [
+      {
+        "label": "temporal",
+        "probe": "temporal"
+      },
+      {
+        "label": "uninflected",
+        "probe": "connective"
+      }
+    ]
+  },
+  "constructs": {
+    "senses": [
+      {
+        "label": "abstract",
+        "probe": "conception"
+      },
+      {
+        "label": "reassemble",
+        "probe": "reconstruct"
+      }
+    ]
+  },
+  "contour": {
+    "senses": [
+      {
+        "label": "line",
+        "probe": "isometric"
+      },
+      {
+        "label": "spatial",
+        "probe": "conformation"
+      },
+      {
+        "label": "contours",
+        "probe": "contours"
+      }
+    ]
+  },
+  "contours": {
+    "senses": [
+      {
+        "label": "line",
+        "probe": "contour"
+      },
+      {
+        "label": "spatial",
+        "probe": "conformation"
+      }
+    ]
+  },
+  "contrivance": {
+    "senses": [
+      {
+        "label": "control",
+        "probe": "contraption"
+      },
+      {
+        "label": "faculty",
+        "probe": "conception"
+      },
+      {
+        "label": "elaborate",
+        "probe": "stratagem"
+      }
+    ]
+  },
+  "conveyance": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "instrumentality"
+      },
+      {
+        "label": "transferring",
+        "probe": "transference"
+      }
+    ]
+  },
+  "convolution": {
+    "senses": [
+      {
+        "label": "shape",
+        "probe": "whirl"
+      },
+      {
+        "label": "convex",
+        "probe": "convex"
+      }
+    ]
+  },
+  "cores": {
+    "senses": [
+      {
+        "label": "small",
+        "probe": "nucleus"
+      },
+      {
+        "label": "cylindrical",
+        "probe": "cylindrical"
+      },
+      {
+        "label": "tiny",
+        "probe": "torus"
+      },
+      {
+        "label": "magnetic",
+        "probe": "magnetic"
+      }
+    ]
+  },
+  "cosmology": {
+    "senses": [
+      {
+        "label": "metaphysical",
+        "probe": "metaphysical"
+      },
+      {
+        "label": "branch",
+        "probe": "astrophysics"
+      }
+    ]
+  },
+  "crank": {
+    "senses": [
+      {
+        "label": "whimsically",
+        "probe": "eccentric"
+      },
+      {
+        "label": "travel",
+        "probe": "zigzag"
+      }
+    ]
+  },
+  "craters": {
+    "senses": [
+      {
+        "label": "bowl",
+        "probe": "crater"
+      },
+      {
+        "label": "faint",
+        "probe": "faint"
+      }
+    ]
+  },
+  "creatures": {
+    "senses": [
+      {
+        "label": "living",
+        "probe": "beast"
+      },
+      {
+        "label": "human",
+        "probe": "creature"
+      }
+    ]
+  },
+  "creep": {
+    "senses": [
+      {
+        "label": "slow",
+        "probe": "locomotion"
+      },
+      {
+        "label": "grow",
+        "probe": "diffuse"
+      }
+    ]
+  },
+  "creeps": {
+    "senses": [
+      {
+        "label": "unpleasantly",
+        "probe": "creep"
+      },
+      {
+        "label": "slow",
+        "probe": "locomotion"
+      },
+      {
+        "label": "grow",
+        "probe": "diffuse"
+      }
+    ]
+  },
+  "crystals": {
+    "senses": [
+      {
+        "label": "crystalline",
+        "probe": "crystalline"
+      },
+      {
+        "label": "rock",
+        "probe": "crystallization"
+      },
+      {
+        "label": "colorless",
+        "probe": "colorless"
+      }
+    ]
+  },
+  "cunning": {
+    "senses": [
+      {
+        "label": "crafty",
+        "probe": "crafty"
+      },
+      {
+        "label": "marked",
+        "probe": "artful"
+      },
+      {
+        "label": "showing",
+        "probe": "ingenious"
+      }
+    ]
+  },
+  "cursed": {
+    "senses": [
+      {
+        "label": "wish",
+        "probe": "conjure"
+      },
+      {
+        "label": "danger",
+        "probe": "damned"
+      }
+    ]
+  },
+  "curves": {
+    "senses": [
+      {
+        "label": "property",
+        "probe": "curvature"
+      },
+      {
+        "label": "curved",
+        "probe": "curved"
+      },
+      {
+        "label": "arch",
+        "probe": "arc"
+      }
+    ]
+  },
+  "cylinders": {
+    "senses": [
+      {
+        "label": "solid",
+        "probe": "cylinder"
+      },
+      {
+        "label": "cylindrical",
+        "probe": "cylindrical"
+      }
+    ]
+  },
+  "damned": {
+    "senses": [
+      {
+        "label": "wish",
+        "probe": "conjure"
+      },
+      {
+        "label": "expletives",
+        "probe": "infernal"
+      },
+      {
+        "label": "danger",
+        "probe": "cursed"
+      }
+    ]
+  },
+  "darkness": {
+    "senses": [
+      {
+        "label": "absence",
+        "probe": "illumination"
+      },
+      {
+        "label": "absence",
+        "probe": "wickedness"
+      }
+    ]
+  },
+  "daydream": {
+    "senses": [
+      {
+        "label": "absentminded",
+        "probe": "reverie"
+      },
+      {
+        "label": "have",
+        "probe": "moon"
+      }
+    ]
+  },
+  "daydreams": {
+    "senses": [
+      {
+        "label": "absentminded",
+        "probe": "reverie"
+      },
+      {
+        "label": "have",
+        "probe": "daydream"
+      },
+      {
+        "label": "have",
+        "probe": "moon"
+      }
+    ]
+  },
+  "decay": {
+    "senses": [
+      {
+        "label": "organic",
+        "probe": "decomposition"
+      },
+      {
+        "label": "spontaneous",
+        "probe": "disintegration"
+      },
+      {
+        "label": "lose",
+        "probe": "disintegrate"
+      }
+    ]
+  },
+  "decayed": {
+    "senses": [
+      {
+        "label": "lose",
+        "probe": "disintegrate"
+      },
+      {
+        "label": "fall",
+        "probe": "decay"
+      }
+    ]
+  },
+  "decaying": {
+    "senses": [
+      {
+        "label": "lose",
+        "probe": "disintegrate"
+      },
+      {
+        "label": "fall",
+        "probe": "decay"
+      }
+    ]
+  },
+  "decays": {
+    "senses": [
+      {
+        "label": "gradually",
+        "probe": "decay"
+      },
+      {
+        "label": "organic",
+        "probe": "decomposition"
+      },
+      {
+        "label": "spontaneous",
+        "probe": "disintegration"
+      },
+      {
+        "label": "lose",
+        "probe": "disintegrate"
+      }
+    ]
+  },
+  "decomposed": {
+    "senses": [
+      {
+        "label": "lose",
+        "probe": "disintegrate"
+      },
+      {
+        "label": "break",
+        "probe": "decay"
+      }
+    ]
+  },
+  "decomposing": {
+    "senses": [
+      {
+        "label": "lose",
+        "probe": "disintegrate"
+      },
+      {
+        "label": "break",
+        "probe": "decay"
+      }
+    ]
+  },
+  "decomposition": {
+    "senses": [
+      {
+        "label": "decomposed",
+        "probe": "disintegration"
+      },
+      {
+        "label": "decay",
+        "probe": "putrefaction"
+      },
+      {
+        "label": "organic",
+        "probe": "decay"
+      }
+    ]
+  },
+  "deduced": {
+    "senses": [
+      {
+        "label": "reason",
+        "probe": "deduce"
+      },
+      {
+        "label": "conclude",
+        "probe": "infer"
+      }
+    ]
+  },
+  "deflection": {
+    "senses": [
+      {
+        "label": "twist",
+        "probe": "warp"
+      },
+      {
+        "label": "amount",
+        "probe": "refraction"
+      },
+      {
+        "label": "property",
+        "probe": "bending"
+      },
+      {
+        "label": "turning",
+        "probe": "deviation"
+      }
+    ]
+  },
+  "deflections": {
+    "senses": [
+      {
+        "label": "twist",
+        "probe": "deflection"
+      },
+      {
+        "label": "amount",
+        "probe": "refraction"
+      },
+      {
+        "label": "property",
+        "probe": "bending"
+      },
+      {
+        "label": "turning",
+        "probe": "deviation"
+      }
+    ]
+  },
+  "degeneracy": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "degeneration"
+      },
+      {
+        "label": "moral",
+        "probe": "depravity"
+      }
+    ]
+  },
+  "degeneration": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "degeneracy"
+      },
+      {
+        "label": "passing",
+        "probe": "transmutation"
+      }
+    ]
+  },
+  "delusion": {
+    "senses": [
+      {
+        "label": "mistaken",
+        "probe": "hallucination"
+      },
+      {
+        "label": "deluding",
+        "probe": "illusion"
+      }
+    ]
+  },
+  "delusions": {
+    "senses": [
+      {
+        "label": "erroneous",
+        "probe": "delusion"
+      },
+      {
+        "label": "mistaken",
+        "probe": "hallucination"
+      },
+      {
+        "label": "deluding",
+        "probe": "illusion"
+      }
+    ]
+  },
+  "demon": {
+    "senses": [
+      {
+        "label": "evil",
+        "probe": "fiend"
+      },
+      {
+        "label": "cruel",
+        "probe": "ogre"
+      }
+    ]
+  },
+  "demons": {
+    "senses": [
+      {
+        "label": "evil",
+        "probe": "fiend"
+      },
+      {
+        "label": "cruel",
+        "probe": "demon"
+      }
+    ]
+  },
+  "depravity": {
+    "senses": [
+      {
+        "label": "moral",
+        "probe": "degeneracy"
+      },
+      {
+        "label": "corrupt",
+        "probe": "transgression"
+      }
+    ]
+  },
+  "detached": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "detach"
+      },
+      {
+        "label": "longer",
+        "probe": "unconnected"
+      }
+    ]
+  },
+  "detecting": {
+    "senses": [
+      {
+        "label": "police",
+        "probe": "detection"
+      },
+      {
+        "label": "discover",
+        "probe": "detect"
+      }
+    ]
+  },
+  "detection": {
+    "senses": [
+      {
+        "label": "perception",
+        "probe": "sensing"
+      },
+      {
+        "label": "detecting",
+        "probe": "spotting"
+      },
+      {
+        "label": "police",
+        "probe": "detecting"
+      }
+    ]
+  },
+  "detections": {
+    "senses": [
+      {
+        "label": "perception",
+        "probe": "detection"
+      },
+      {
+        "label": "detecting",
+        "probe": "spotting"
+      },
+      {
+        "label": "police",
+        "probe": "detecting"
+      }
+    ]
+  },
+  "deviation": {
+    "senses": [
+      {
+        "label": "variation",
+        "probe": "divergence"
+      },
+      {
+        "label": "deviate",
+        "probe": "abnormality"
+      },
+      {
+        "label": "turning",
+        "probe": "deflection"
+      }
+    ]
+  },
+  "devilish": {
+    "senses": [
+      {
+        "label": "showing",
+        "probe": "diabolical"
+      },
+      {
+        "label": "playful",
+        "probe": "playful"
+      }
+    ]
+  },
+  "devious": {
+    "senses": [
+      {
+        "label": "indirect",
+        "probe": "oblique"
+      },
+      {
+        "label": "characterized",
+        "probe": "shifty"
+      }
+    ]
+  },
+  "devouring": {
+    "senses": [
+      {
+        "label": "destroy",
+        "probe": "devour"
+      },
+      {
+        "label": "greedily",
+        "probe": "raven"
+      },
+      {
+        "label": "ardently",
+        "probe": "wishful"
+      }
+    ]
+  },
+  "diabolical": {
+    "senses": [
+      {
+        "label": "showing",
+        "probe": "devilish"
+      },
+      {
+        "label": "extremely",
+        "probe": "demonic"
+      }
+    ]
+  },
+  "diaphragm": {
+    "senses": [
+      {
+        "label": "muscular",
+        "probe": "membrane"
+      },
+      {
+        "label": "electro",
+        "probe": "electro"
+      }
+    ]
+  },
+  "diffusion": {
+    "senses": [
+      {
+        "label": "property",
+        "probe": "dispersion"
+      },
+      {
+        "label": "dispersing",
+        "probe": "dispersal"
+      }
+    ]
+  },
+  "discharges": {
+    "senses": [
+      {
+        "label": "venting",
+        "probe": "emission"
+      },
+      {
+        "label": "electrical",
+        "probe": "arc"
+      },
+      {
+        "label": "eliminate",
+        "probe": "eject"
+      }
+    ]
+  },
+  "discoverers": {
+    "senses": [
+      {
+        "label": "first",
+        "probe": "discoverer"
+      },
+      {
+        "label": "first",
+        "probe": "spotter"
+      }
+    ]
+  },
+  "discovers": {
+    "senses": [
+      {
+        "label": "discover",
+        "probe": "detect"
+      },
+      {
+        "label": "make",
+        "probe": "conceive"
+      }
+    ]
+  },
+  "disintegrated": {
+    "senses": [
+      {
+        "label": "break",
+        "probe": "disintegrate"
+      },
+      {
+        "label": "lose",
+        "probe": "decay"
+      }
+    ]
+  },
+  "disintegrates": {
+    "senses": [
+      {
+        "label": "break",
+        "probe": "disintegrate"
+      },
+      {
+        "label": "lose",
+        "probe": "decay"
+      }
+    ]
+  },
+  "disintegrating": {
+    "senses": [
+      {
+        "label": "break",
+        "probe": "disintegrate"
+      },
+      {
+        "label": "lose",
+        "probe": "decay"
+      }
+    ]
+  },
+  "disintegration": {
+    "senses": [
+      {
+        "label": "decomposed",
+        "probe": "decomposition"
+      },
+      {
+        "label": "spontaneous",
+        "probe": "decay"
+      },
+      {
+        "label": "total",
+        "probe": "annihilation"
+      }
+    ]
+  },
+  "dislocation": {
+    "senses": [
+      {
+        "label": "disrupting",
+        "probe": "perturbation"
+      },
+      {
+        "label": "displacement",
+        "probe": "displacement"
+      }
+    ]
+  },
+  "dispersion": {
+    "senses": [
+      {
+        "label": "spreading",
+        "probe": "scattering"
+      },
+      {
+        "label": "spatial",
+        "probe": "spatial"
+      },
+      {
+        "label": "dispersing",
+        "probe": "dispersal"
+      }
+    ]
+  },
+  "dissipates": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "dissipate"
+      },
+      {
+        "label": "move",
+        "probe": "scatter"
+      }
+    ]
+  },
+  "distillation": {
+    "senses": [
+      {
+        "label": "purifying",
+        "probe": "purifying"
+      },
+      {
+        "label": "purified",
+        "probe": "purified"
+      }
+    ]
+  },
+  "divergence": {
+    "senses": [
+      {
+        "label": "variation",
+        "probe": "deviation"
+      },
+      {
+        "label": "infinite",
+        "probe": "infinite"
+      }
+    ]
+  },
+  "divination": {
+    "senses": [
+      {
+        "label": "successful",
+        "probe": "conjecture"
+      },
+      {
+        "label": "prediction",
+        "probe": "prophecy"
+      }
+    ]
+  },
+  "docked": {
+    "senses": [
+      {
+        "label": "remove",
+        "probe": "tail"
+      },
+      {
+        "label": "maneuver",
+        "probe": "manoeuvre"
+      }
+    ]
+  },
+  "docking": {
+    "senses": [
+      {
+        "label": "remove",
+        "probe": "tail"
+      },
+      {
+        "label": "maneuver",
+        "probe": "manoeuvre"
+      }
+    ]
+  },
+  "draco": {
+    "senses": [
+      {
+        "label": "faint",
+        "probe": "dragon"
+      },
+      {
+        "label": "reptile",
+        "probe": "reptile"
+      }
+    ]
+  },
+  "dragon": {
+    "senses": [
+      {
+        "label": "creature",
+        "probe": "creature"
+      },
+      {
+        "label": "faint",
+        "probe": "draco"
+      }
+    ]
+  },
+  "dreamer": {
+    "senses": [
+      {
+        "label": "dreaming",
+        "probe": "dreaming"
+      },
+      {
+        "label": "guided",
+        "probe": "idealist"
+      },
+      {
+        "label": "escapes",
+        "probe": "escapes"
+      }
+    ]
+  },
+  "dreamers": {
+    "senses": [
+      {
+        "label": "dreaming",
+        "probe": "dreamer"
+      },
+      {
+        "label": "guided",
+        "probe": "idealist"
+      },
+      {
+        "label": "escapes",
+        "probe": "escapes"
+      }
+    ]
+  },
+  "dreaming": {
+    "senses": [
+      {
+        "label": "series",
+        "probe": "imaging"
+      },
+      {
+        "label": "have",
+        "probe": "daydream"
+      }
+    ]
+  },
+  "drift": {
+    "senses": [
+      {
+        "label": "general",
+        "probe": "inclination"
+      },
+      {
+        "label": "horizontal",
+        "probe": "horizontal"
+      },
+      {
+        "label": "wander",
+        "probe": "stray"
+      },
+      {
+        "label": "move",
+        "probe": "wander"
+      }
+    ]
+  },
+  "drifting": {
+    "senses": [
+      {
+        "label": "aimless",
+        "probe": "aimless"
+      },
+      {
+        "label": "motion",
+        "probe": "drift"
+      },
+      {
+        "label": "wander",
+        "probe": "stray"
+      },
+      {
+        "label": "move",
+        "probe": "wander"
+      },
+      {
+        "label": "continually",
+        "probe": "vagabond"
+      }
+    ]
+  },
+  "duplicates": {
+    "senses": [
+      {
+        "label": "additional",
+        "probe": "artifact"
+      },
+      {
+        "label": "increase",
+        "probe": "manifold"
+      }
+    ]
+  },
+  "dust": {
+    "senses": [
+      {
+        "label": "fine",
+        "probe": "particulate"
+      },
+      {
+        "label": "distribute",
+        "probe": "scatter"
+      }
+    ]
+  },
+  "dwarf": {
+    "senses": [
+      {
+        "label": "legendary",
+        "probe": "gnome"
+      },
+      {
+        "label": "that",
+        "probe": "organism"
+      }
+    ]
+  },
+  "dwarfs": {
+    "senses": [
+      {
+        "label": "markedly",
+        "probe": "dwarf"
+      },
+      {
+        "label": "legendary",
+        "probe": "gnome"
+      },
+      {
+        "label": "that",
+        "probe": "organism"
+      }
+    ]
+  },
+  "dwarves": {
+    "senses": [
+      {
+        "label": "markedly",
+        "probe": "dwarf"
+      },
+      {
+        "label": "legendary",
+        "probe": "gnome"
+      },
+      {
+        "label": "that",
+        "probe": "organism"
+      }
+    ]
+  },
+  "earthlike": {
+    "senses": [
+      {
+        "label": "earth",
+        "probe": "earth"
+      },
+      {
+        "label": "resembling",
+        "probe": "resembling"
+      }
+    ]
+  },
+  "eccentric": {
+    "senses": [
+      {
+        "label": "with",
+        "probe": "oddball"
+      },
+      {
+        "label": "conspicuously",
+        "probe": "freakish"
+      }
+    ]
+  },
+  "eclipse": {
+    "senses": [
+      {
+        "label": "celestial",
+        "probe": "occultation"
+      },
+      {
+        "label": "greater",
+        "probe": "hover"
+      },
+      {
+        "label": "cause",
+        "probe": "occult"
+      }
+    ]
+  },
+  "eclipses": {
+    "senses": [
+      {
+        "label": "celestial",
+        "probe": "eclipse"
+      },
+      {
+        "label": "greater",
+        "probe": "hover"
+      },
+      {
+        "label": "cause",
+        "probe": "occult"
+      }
+    ]
+  },
+  "einstein": {
+    "senses": [
+      {
+        "label": "physicist",
+        "probe": "physicist"
+      },
+      {
+        "label": "exceptional",
+        "probe": "brainiac"
+      }
+    ]
+  },
+  "elfin": {
+    "senses": [
+      {
+        "label": "suggestive",
+        "probe": "supernatural"
+      },
+      {
+        "label": "usually",
+        "probe": "playful"
+      }
+    ]
+  },
+  "elixir": {
+    "senses": [
+      {
+        "label": "hypothetical",
+        "probe": "hypothetical"
+      },
+      {
+        "label": "believed",
+        "probe": "potion"
+      }
+    ]
+  },
+  "elliptic": {
+    "senses": [
+      {
+        "label": "ellipse",
+        "probe": "ellipse"
+      },
+      {
+        "label": "rounded",
+        "probe": "elliptical"
+      }
+    ]
+  },
+  "emanations": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "emanation"
+      },
+      {
+        "label": "emitting",
+        "probe": "emission"
+      }
+    ]
+  },
+  "embodied": {
+    "senses": [
+      {
+        "label": "represent",
+        "probe": "incarnate"
+      },
+      {
+        "label": "represent",
+        "probe": "embody"
+      }
+    ]
+  },
+  "embodying": {
+    "senses": [
+      {
+        "label": "represent",
+        "probe": "incarnate"
+      },
+      {
+        "label": "represent",
+        "probe": "embody"
+      }
+    ]
+  },
+  "embryos": {
+    "senses": [
+      {
+        "label": "minute",
+        "probe": "embryo"
+      },
+      {
+        "label": "organism",
+        "probe": "organism"
+      }
+    ]
+  },
+  "emulsion": {
+    "senses": [
+      {
+        "label": "colloid",
+        "probe": "colloid"
+      },
+      {
+        "label": "light",
+        "probe": "coating"
+      }
+    ]
+  },
+  "enamel": {
+    "senses": [
+      {
+        "label": "paint",
+        "probe": "pigment"
+      },
+      {
+        "label": "smooth",
+        "probe": "coating"
+      }
+    ]
+  },
+  "enchantment": {
+    "senses": [
+      {
+        "label": "feeling",
+        "probe": "fascination"
+      },
+      {
+        "label": "magical",
+        "probe": "magical"
+      }
+    ]
+  },
+  "enclosures": {
+    "senses": [
+      {
+        "label": "structure",
+        "probe": "enclosure"
+      },
+      {
+        "label": "enclosing",
+        "probe": "insertion"
+      }
+    ]
+  },
+  "encroaching": {
+    "senses": [
+      {
+        "label": "impinge",
+        "probe": "trespass"
+      },
+      {
+        "label": "gradually",
+        "probe": "invasive"
+      }
+    ]
+  },
+  "entranced": {
+    "senses": [
+      {
+        "label": "into",
+        "probe": "hypnotize"
+      },
+      {
+        "label": "filled",
+        "probe": "charmed"
+      }
+    ]
+  },
+  "envisioning": {
+    "senses": [
+      {
+        "label": "visual",
+        "probe": "imaging"
+      },
+      {
+        "label": "imagine",
+        "probe": "visualize"
+      }
+    ]
+  },
+  "ephemeral": {
+    "senses": [
+      {
+        "label": "short",
+        "probe": "insect"
+      },
+      {
+        "label": "lasting",
+        "probe": "transient"
+      }
+    ]
+  },
+  "equations": {
+    "senses": [
+      {
+        "label": "mathematical",
+        "probe": "equation"
+      },
+      {
+        "label": "being",
+        "probe": "equivalence"
+      }
+    ]
+  },
+  "escapes": {
+    "senses": [
+      {
+        "label": "escaping",
+        "probe": "escaping"
+      },
+      {
+        "label": "inclination",
+        "probe": "escapism"
+      },
+      {
+        "label": "avoidance",
+        "probe": "avoidance"
+      },
+      {
+        "label": "discharge",
+        "probe": "leakage"
+      },
+      {
+        "label": "valve",
+        "probe": "valve"
+      }
+    ]
+  },
+  "eternity": {
+    "senses": [
+      {
+        "label": "time",
+        "probe": "infinity"
+      },
+      {
+        "label": "eternal",
+        "probe": "eternal"
+      }
+    ]
+  },
+  "ethereal": {
+    "senses": [
+      {
+        "label": "characterized",
+        "probe": "airy"
+      },
+      {
+        "label": "heaven",
+        "probe": "celestial"
+      },
+      {
+        "label": "characterized",
+        "probe": "gossamer"
+      }
+    ]
+  },
+  "evaporation": {
+    "senses": [
+      {
+        "label": "becoming",
+        "probe": "vapor"
+      },
+      {
+        "label": "extracting",
+        "probe": "extracting"
+      }
+    ]
+  },
+  "evocation": {
+    "senses": [
+      {
+        "label": "imaginative",
+        "probe": "imaging"
+      },
+      {
+        "label": "calling",
+        "probe": "conjuring"
+      },
+      {
+        "label": "stimulation",
+        "probe": "stimulation"
+      }
+    ]
+  },
+  "evoke": {
+    "senses": [
+      {
+        "label": "deduce",
+        "probe": "deduce"
+      },
+      {
+        "label": "summon",
+        "probe": "conjure"
+      }
+    ]
+  },
+  "evokes": {
+    "senses": [
+      {
+        "label": "call",
+        "probe": "evoke"
+      },
+      {
+        "label": "deduce",
+        "probe": "deduce"
+      },
+      {
+        "label": "summon",
+        "probe": "conjure"
+      }
+    ]
+  },
+  "evoking": {
+    "senses": [
+      {
+        "label": "call",
+        "probe": "evoke"
+      },
+      {
+        "label": "deduce",
+        "probe": "deduce"
+      },
+      {
+        "label": "summon",
+        "probe": "conjure"
+      }
+    ]
+  },
+  "exalted": {
+    "senses": [
+      {
+        "label": "fill",
+        "probe": "uplift"
+      },
+      {
+        "label": "heighten",
+        "probe": "animate"
+      },
+      {
+        "label": "high",
+        "probe": "sublime"
+      }
+    ]
+  },
+  "excitation": {
+    "senses": [
+      {
+        "label": "neural",
+        "probe": "neural"
+      },
+      {
+        "label": "that",
+        "probe": "arousal"
+      }
+    ]
+  },
+  "extinction": {
+    "senses": [
+      {
+        "label": "complete",
+        "probe": "annihilation"
+      },
+      {
+        "label": "extinguishing",
+        "probe": "extinguishing"
+      }
+    ]
+  },
+  "extinguishing": {
+    "senses": [
+      {
+        "label": "extinguishing",
+        "probe": "extinction"
+      },
+      {
+        "label": "terminate",
+        "probe": "destruct"
+      }
+    ]
+  },
+  "extrapolation": {
+    "senses": [
+      {
+        "label": "calculation",
+        "probe": "computation"
+      },
+      {
+        "label": "inference",
+        "probe": "inference"
+      }
+    ]
+  },
+  "faerie": {
+    "senses": [
+      {
+        "label": "small",
+        "probe": "fairy"
+      },
+      {
+        "label": "enchanted",
+        "probe": "fairyland"
+      }
+    ]
+  },
+  "fairies": {
+    "senses": [
+      {
+        "label": "small",
+        "probe": "fairy"
+      },
+      {
+        "label": "offensive",
+        "probe": "fag"
+      }
+    ]
+  },
+  "fairy": {
+    "senses": [
+      {
+        "label": "small",
+        "probe": "faerie"
+      },
+      {
+        "label": "offensive",
+        "probe": "fag"
+      }
+    ]
+  },
+  "fangs": {
+    "senses": [
+      {
+        "label": "appendage",
+        "probe": "appendage"
+      },
+      {
+        "label": "canine",
+        "probe": "canine"
+      },
+      {
+        "label": "hollow",
+        "probe": "tooth"
+      }
+    ]
+  },
+  "fantastical": {
+    "senses": [
+      {
+        "label": "existing",
+        "probe": "unreal"
+      },
+      {
+        "label": "ludicrously",
+        "probe": "grotesque"
+      }
+    ]
+  },
+  "fascination": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "enchantment"
+      },
+      {
+        "label": "capacity",
+        "probe": "attractiveness"
+      }
+    ]
+  },
+  "fearless": {
+    "senses": [
+      {
+        "label": "oblivious",
+        "probe": "unafraid"
+      },
+      {
+        "label": "invulnerable",
+        "probe": "intrepid"
+      }
+    ]
+  },
+  "ferret": {
+    "senses": [
+      {
+        "label": "domesticated",
+        "probe": "domesticated"
+      },
+      {
+        "label": "hound",
+        "probe": "hound"
+      }
+    ]
+  },
+  "ferrets": {
+    "senses": [
+      {
+        "label": "musteline",
+        "probe": "ferret"
+      },
+      {
+        "label": "domesticated",
+        "probe": "domesticated"
+      },
+      {
+        "label": "hound",
+        "probe": "hound"
+      }
+    ]
+  },
+  "fiends": {
+    "senses": [
+      {
+        "label": "cruel",
+        "probe": "fiend"
+      },
+      {
+        "label": "evil",
+        "probe": "demon"
+      }
+    ]
+  },
+  "finders": {
+    "senses": [
+      {
+        "label": "comes",
+        "probe": "seeker"
+      },
+      {
+        "label": "first",
+        "probe": "discoverer"
+      },
+      {
+        "label": "optical",
+        "probe": "viewfinder"
+      }
+    ]
+  },
+  "fins": {
+    "senses": [
+      {
+        "label": "cardinal",
+        "probe": "pentad"
+      },
+      {
+        "label": "shoe",
+        "probe": "flipper"
+      },
+      {
+        "label": "organ",
+        "probe": "appendage"
+      }
+    ]
+  },
+  "fireball": {
+    "senses": [
+      {
+        "label": "especially",
+        "probe": "meteor"
+      },
+      {
+        "label": "ball",
+        "probe": "orb"
+      },
+      {
+        "label": "luminous",
+        "probe": "luminous"
+      }
+    ]
+  },
+  "fireballs": {
+    "senses": [
+      {
+        "label": "especially",
+        "probe": "fireball"
+      },
+      {
+        "label": "ball",
+        "probe": "orb"
+      },
+      {
+        "label": "luminous",
+        "probe": "luminous"
+      }
+    ]
+  },
+  "fireflies": {
+    "senses": [
+      {
+        "label": "tropical",
+        "probe": "firefly"
+      },
+      {
+        "label": "nocturnal",
+        "probe": "nocturnal"
+      }
+    ]
+  },
+  "flame": {
+    "senses": [
+      {
+        "label": "combustion",
+        "probe": "flaming"
+      },
+      {
+        "label": "shine",
+        "probe": "beam"
+      }
+    ]
+  },
+  "flaming": {
+    "senses": [
+      {
+        "label": "combustion",
+        "probe": "flame"
+      },
+      {
+        "label": "shine",
+        "probe": "beam"
+      },
+      {
+        "label": "informal",
+        "probe": "blinking"
+      }
+    ]
+  },
+  "flares": {
+    "senses": [
+      {
+        "label": "sudden",
+        "probe": "flame"
+      },
+      {
+        "label": "reddening",
+        "probe": "reddening"
+      },
+      {
+        "label": "shine",
+        "probe": "beam"
+      }
+    ]
+  },
+  "flatness": {
+    "senses": [
+      {
+        "label": "property",
+        "probe": "dimensionality"
+      },
+      {
+        "label": "inactivity",
+        "probe": "inertia"
+      }
+    ]
+  },
+  "flicker": {
+    "senses": [
+      {
+        "label": "momentary",
+        "probe": "glint"
+      },
+      {
+        "label": "shine",
+        "probe": "beam"
+      },
+      {
+        "label": "flash",
+        "probe": "blink"
+      }
+    ]
+  },
+  "flickering": {
+    "senses": [
+      {
+        "label": "move",
+        "probe": "flicker"
+      },
+      {
+        "label": "shine",
+        "probe": "beam"
+      },
+      {
+        "label": "flash",
+        "probe": "blink"
+      }
+    ]
+  },
+  "flickers": {
+    "senses": [
+      {
+        "label": "momentary",
+        "probe": "flicker"
+      },
+      {
+        "label": "shine",
+        "probe": "beam"
+      },
+      {
+        "label": "flash",
+        "probe": "blink"
+      }
+    ]
+  },
+  "flicks": {
+    "senses": [
+      {
+        "label": "flash",
+        "probe": "flicker"
+      },
+      {
+        "label": "shine",
+        "probe": "beam"
+      },
+      {
+        "label": "twitch",
+        "probe": "twitch"
+      }
+    ]
+  },
+  "footprints": {
+    "senses": [
+      {
+        "label": "mark",
+        "probe": "footprint"
+      },
+      {
+        "label": "area",
+        "probe": "expanse"
+      }
+    ]
+  },
+  "foretold": {
+    "senses": [
+      {
+        "label": "foreshadow",
+        "probe": "foretell"
+      },
+      {
+        "label": "indicate",
+        "probe": "omen"
+      }
+    ]
+  },
+  "fracture": {
+    "senses": [
+      {
+        "label": "crack",
+        "probe": "fissure"
+      },
+      {
+        "label": "interrupt",
+        "probe": "destruct"
+      }
+    ]
+  },
+  "fracturing": {
+    "senses": [
+      {
+        "label": "violate",
+        "probe": "fracture"
+      },
+      {
+        "label": "interrupt",
+        "probe": "destruct"
+      }
+    ]
+  },
+  "fragmentation": {
+    "senses": [
+      {
+        "label": "disintegration",
+        "probe": "disintegration"
+      },
+      {
+        "label": "scattering",
+        "probe": "scattering"
+      }
+    ]
+  },
+  "freakish": {
+    "senses": [
+      {
+        "label": "changeable",
+        "probe": "capricious"
+      },
+      {
+        "label": "characteristic",
+        "probe": "abnormal"
+      },
+      {
+        "label": "conspicuously",
+        "probe": "eccentric"
+      }
+    ]
+  },
+  "fumes": {
+    "senses": [
+      {
+        "label": "gases",
+        "probe": "gases"
+      },
+      {
+        "label": "cloud",
+        "probe": "aerosol"
+      },
+      {
+        "label": "emit",
+        "probe": "emit"
+      }
+    ]
+  },
+  "furies": {
+    "senses": [
+      {
+        "label": "violent",
+        "probe": "delirium"
+      },
+      {
+        "label": "property",
+        "probe": "ferocity"
+      },
+      {
+        "label": "hideous",
+        "probe": "hideous"
+      }
+    ]
+  },
+  "fused": {
+    "senses": [
+      {
+        "label": "together",
+        "probe": "flux"
+      },
+      {
+        "label": "become",
+        "probe": "fuse"
+      }
+    ]
+  },
+  "fuses": {
+    "senses": [
+      {
+        "label": "electrical",
+        "probe": "fuse"
+      },
+      {
+        "label": "together",
+        "probe": "flux"
+      }
+    ]
+  },
+  "fusing": {
+    "senses": [
+      {
+        "label": "together",
+        "probe": "flux"
+      },
+      {
+        "label": "become",
+        "probe": "fuse"
+      }
+    ]
+  },
+  "galaxies": {
+    "senses": [
+      {
+        "label": "splendid",
+        "probe": "galaxy"
+      },
+      {
+        "label": "collection",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "galaxy": {
+    "senses": [
+      {
+        "label": "splendid",
+        "probe": "accumulation"
+      },
+      {
+        "label": "collection",
+        "probe": "assemblage"
+      }
+    ]
+  },
+  "gazes": {
+    "senses": [
+      {
+        "label": "long",
+        "probe": "gaze"
+      },
+      {
+        "label": "look",
+        "probe": "stare"
+      }
+    ]
+  },
+  "gels": {
+    "senses": [
+      {
+        "label": "colloid",
+        "probe": "colloid"
+      },
+      {
+        "label": "thin",
+        "probe": "membrane"
+      }
+    ]
+  },
+  "generalised": {
+    "senses": [
+      {
+        "label": "draw",
+        "probe": "infer"
+      },
+      {
+        "label": "biologically",
+        "probe": "generalized"
+      }
+    ]
+  },
+  "generalization": {
+    "senses": [
+      {
+        "label": "idea",
+        "probe": "generality"
+      },
+      {
+        "label": "formulating",
+        "probe": "abstraction"
+      }
+    ]
+  },
+  "generalizations": {
+    "senses": [
+      {
+        "label": "reasoning",
+        "probe": "generalization"
+      },
+      {
+        "label": "idea",
+        "probe": "generality"
+      },
+      {
+        "label": "formulating",
+        "probe": "abstraction"
+      }
+    ]
+  },
+  "generalized": {
+    "senses": [
+      {
+        "label": "draw",
+        "probe": "infer"
+      },
+      {
+        "label": "biologically",
+        "probe": "generalised"
+      }
+    ]
+  },
+  "germs": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "germ"
+      },
+      {
+        "label": "minute",
+        "probe": "microbe"
+      }
+    ]
+  },
+  "ghost": {
+    "senses": [
+      {
+        "label": "mental",
+        "probe": "wraith"
+      },
+      {
+        "label": "visible",
+        "probe": "psyche"
+      }
+    ]
+  },
+  "ghosts": {
+    "senses": [
+      {
+        "label": "mental",
+        "probe": "ghost"
+      },
+      {
+        "label": "visible",
+        "probe": "psyche"
+      }
+    ]
+  },
+  "gleam": {
+    "senses": [
+      {
+        "label": "appearance",
+        "probe": "glow"
+      },
+      {
+        "label": "flash",
+        "probe": "glimmer"
+      },
+      {
+        "label": "shiny",
+        "probe": "glint"
+      },
+      {
+        "label": "shine",
+        "probe": "radiate"
+      }
+    ]
+  },
+  "glided": {
+    "senses": [
+      {
+        "label": "move",
+        "probe": "glide"
+      },
+      {
+        "label": "glider",
+        "probe": "glider"
+      }
+    ]
+  },
+  "glides": {
+    "senses": [
+      {
+        "label": "vowellike",
+        "probe": "glide"
+      },
+      {
+        "label": "glider",
+        "probe": "glider"
+      }
+    ]
+  },
+  "glimmer": {
+    "senses": [
+      {
+        "label": "flash",
+        "probe": "gleam"
+      },
+      {
+        "label": "shine",
+        "probe": "radiate"
+      }
+    ]
+  },
+  "glint": {
+    "senses": [
+      {
+        "label": "momentary",
+        "probe": "flicker"
+      },
+      {
+        "label": "spatially",
+        "probe": "spatially"
+      },
+      {
+        "label": "shiny",
+        "probe": "gleam"
+      }
+    ]
+  },
+  "glow": {
+    "senses": [
+      {
+        "label": "light",
+        "probe": "luminescence"
+      },
+      {
+        "label": "amount",
+        "probe": "radiance"
+      },
+      {
+        "label": "appearance",
+        "probe": "gleam"
+      },
+      {
+        "label": "emit",
+        "probe": "emit"
+      },
+      {
+        "label": "have",
+        "probe": "beam"
+      },
+      {
+        "label": "experience",
+        "probe": "radiate"
+      }
+    ]
+  },
+  "glows": {
+    "senses": [
+      {
+        "label": "alert",
+        "probe": "glow"
+      },
+      {
+        "label": "light",
+        "probe": "luminescence"
+      },
+      {
+        "label": "amount",
+        "probe": "radiance"
+      },
+      {
+        "label": "appearance",
+        "probe": "gleam"
+      },
+      {
+        "label": "emit",
+        "probe": "emit"
+      },
+      {
+        "label": "have",
+        "probe": "beam"
+      },
+      {
+        "label": "experience",
+        "probe": "radiate"
+      }
+    ]
+  },
+  "godlike": {
+    "senses": [
+      {
+        "label": "appropriate",
+        "probe": "superhuman"
+      },
+      {
+        "label": "being",
+        "probe": "heavenly"
+      }
+    ]
+  },
+  "goggles": {
+    "senses": [
+      {
+        "label": "tight",
+        "probe": "spectacles"
+      },
+      {
+        "label": "look",
+        "probe": "goggle"
+      }
+    ]
+  },
+  "gossamer": {
+    "senses": [
+      {
+        "label": "filaments",
+        "probe": "cobweb"
+      },
+      {
+        "label": "characterized",
+        "probe": "ethereal"
+      }
+    ]
+  },
+  "grander": {
+    "senses": [
+      {
+        "label": "extraordinarily",
+        "probe": "howling"
+      },
+      {
+        "label": "high",
+        "probe": "exalted"
+      }
+    ]
+  },
+  "gravitation": {
+    "senses": [
+      {
+        "label": "force",
+        "probe": "gravity"
+      },
+      {
+        "label": "figurative",
+        "probe": "figurative"
+      }
+    ]
+  },
+  "greener": {
+    "senses": [
+      {
+        "label": "color",
+        "probe": "chromatic"
+      },
+      {
+        "label": "fully",
+        "probe": "immature"
+      }
+    ]
+  },
+  "grotesque": {
+    "senses": [
+      {
+        "label": "distorted",
+        "probe": "monstrous"
+      },
+      {
+        "label": "ludicrously",
+        "probe": "fantastical"
+      }
+    ]
+  },
+  "hallucination": {
+    "senses": [
+      {
+        "label": "illusory",
+        "probe": "illusory"
+      },
+      {
+        "label": "mistaken",
+        "probe": "delusion"
+      }
+    ]
+  },
+  "hallucinations": {
+    "senses": [
+      {
+        "label": "illusory",
+        "probe": "hallucination"
+      },
+      {
+        "label": "mistaken",
+        "probe": "delusion"
+      }
+    ]
+  },
+  "halo": {
+    "senses": [
+      {
+        "label": "indication",
+        "probe": "aura"
+      },
+      {
+        "label": "toroidal",
+        "probe": "toroidal"
+      }
+    ]
+  },
+  "halos": {
+    "senses": [
+      {
+        "label": "indication",
+        "probe": "aura"
+      },
+      {
+        "label": "toroidal",
+        "probe": "halo"
+      }
+    ]
+  },
+  "hatches": {
+    "senses": [
+      {
+        "label": "production",
+        "probe": "hatching"
+      },
+      {
+        "label": "shading",
+        "probe": "shading"
+      },
+      {
+        "label": "movable",
+        "probe": "movable"
+      }
+    ]
+  },
+  "haywire": {
+    "senses": [
+      {
+        "label": "informal",
+        "probe": "buggy"
+      },
+      {
+        "label": "functioning",
+        "probe": "malfunctioning"
+      }
+    ]
+  },
+  "heartbeat": {
+    "senses": [
+      {
+        "label": "very",
+        "probe": "twinkling"
+      },
+      {
+        "label": "animating",
+        "probe": "animating"
+      }
+    ]
+  },
+  "heartbeats": {
+    "senses": [
+      {
+        "label": "rhythmic",
+        "probe": "heartbeat"
+      },
+      {
+        "label": "very",
+        "probe": "twinkling"
+      },
+      {
+        "label": "animating",
+        "probe": "animating"
+      }
+    ]
+  },
+  "heavenly": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "celestial"
+      },
+      {
+        "label": "belonging",
+        "probe": "godly"
+      }
+    ]
+  },
+  "helix": {
+    "senses": [
+      {
+        "label": "curve",
+        "probe": "spiral"
+      },
+      {
+        "label": "structure",
+        "probe": "coil"
+      },
+      {
+        "label": "genus",
+        "probe": "genus"
+      }
+    ]
+  },
+  "hopper": {
+    "senses": [
+      {
+        "label": "funnel",
+        "probe": "receptacle"
+      },
+      {
+        "label": "terrestrial",
+        "probe": "grasshopper"
+      }
+    ]
+  },
+  "hothead": {
+    "senses": [
+      {
+        "label": "belligerent",
+        "probe": "crank"
+      },
+      {
+        "label": "reckless",
+        "probe": "daredevil"
+      }
+    ]
+  },
+  "hound": {
+    "senses": [
+      {
+        "label": "morally",
+        "probe": "villain"
+      },
+      {
+        "label": "pursue",
+        "probe": "tail"
+      }
+    ]
+  },
+  "hovering": {
+    "senses": [
+      {
+        "label": "undecided",
+        "probe": "hover"
+      },
+      {
+        "label": "suspended",
+        "probe": "levitate"
+      }
+    ]
+  },
+  "howl": {
+    "senses": [
+      {
+        "label": "long",
+        "probe": "howling"
+      },
+      {
+        "label": "emit",
+        "probe": "emit"
+      }
+    ]
+  },
+  "howling": {
+    "senses": [
+      {
+        "label": "long",
+        "probe": "howl"
+      },
+      {
+        "label": "emit",
+        "probe": "emit"
+      },
+      {
+        "label": "extraordinarily",
+        "probe": "wondrous"
+      }
+    ]
+  },
+  "humans": {
+    "senses": [
+      {
+        "label": "living",
+        "probe": "humankind"
+      },
+      {
+        "label": "living",
+        "probe": "homo"
+      }
+    ]
+  },
+  "hypersensitivity": {
+    "senses": [
+      {
+        "label": "pathological",
+        "probe": "pathological"
+      },
+      {
+        "label": "extreme",
+        "probe": "sensibility"
+      }
+    ]
+  },
+  "hypnotized": {
+    "senses": [
+      {
+        "label": "induce",
+        "probe": "hypnotize"
+      },
+      {
+        "label": "having",
+        "probe": "enchanted"
+      }
+    ]
+  },
+  "hypotheses": {
+    "senses": [
+      {
+        "label": "proposal",
+        "probe": "hypothesis"
+      },
+      {
+        "label": "tentative",
+        "probe": "conception"
+      },
+      {
+        "label": "message",
+        "probe": "conjecture"
+      }
+    ]
+  },
+  "hypothesis": {
+    "senses": [
+      {
+        "label": "tentative",
+        "probe": "conception"
+      },
+      {
+        "label": "message",
+        "probe": "conjecture"
+      }
+    ]
+  },
+  "hypothetical": {
+    "senses": [
+      {
+        "label": "hypothetical",
+        "probe": "hypothesis"
+      },
+      {
+        "label": "based",
+        "probe": "theoretic"
+      }
+    ]
+  },
+  "ignition": {
+    "senses": [
+      {
+        "label": "initiating",
+        "probe": "flame"
+      },
+      {
+        "label": "setting",
+        "probe": "combustion"
+      }
+    ]
+  },
+  "illumination": {
+    "senses": [
+      {
+        "label": "luminous",
+        "probe": "luminous"
+      },
+      {
+        "label": "painting",
+        "probe": "miniature"
+      }
+    ]
+  },
+  "illusion": {
+    "senses": [
+      {
+        "label": "deluding",
+        "probe": "delusion"
+      },
+      {
+        "label": "illusory",
+        "probe": "illusory"
+      }
+    ]
+  },
+  "illusionist": {
+    "senses": [
+      {
+        "label": "with",
+        "probe": "intellect"
+      },
+      {
+        "label": "performs",
+        "probe": "magician"
+      }
+    ]
+  },
+  "illusions": {
+    "senses": [
+      {
+        "label": "erroneous",
+        "probe": "illusion"
+      },
+      {
+        "label": "deluding",
+        "probe": "delusion"
+      },
+      {
+        "label": "illusory",
+        "probe": "illusory"
+      }
+    ]
+  },
+  "imagines": {
+    "senses": [
+      {
+        "label": "idealized",
+        "probe": "imago"
+      },
+      {
+        "label": "adult",
+        "probe": "insect"
+      }
+    ]
+  },
+  "imaging": {
+    "senses": [
+      {
+        "label": "obtaining",
+        "probe": "tomography"
+      },
+      {
+        "label": "render",
+        "probe": "visualize"
+      }
+    ]
+  },
+  "imago": {
+    "senses": [
+      {
+        "label": "idealized",
+        "probe": "idealized"
+      },
+      {
+        "label": "adult",
+        "probe": "insect"
+      }
+    ]
+  },
+  "immaterial": {
+    "senses": [
+      {
+        "label": "without",
+        "probe": "incorporeal"
+      },
+      {
+        "label": "pertinent",
+        "probe": "orthogonal"
+      }
+    ]
+  },
+  "immortality": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "permanence"
+      },
+      {
+        "label": "perpetual",
+        "probe": "afterlife"
+      }
+    ]
+  },
+  "immortals": {
+    "senses": [
+      {
+        "label": "enduring",
+        "probe": "immortal"
+      },
+      {
+        "label": "supernatural",
+        "probe": "deity"
+      }
+    ]
+  },
+  "impractical": {
+    "senses": [
+      {
+        "label": "practical",
+        "probe": "quixotic"
+      },
+      {
+        "label": "practical",
+        "probe": "airy"
+      }
+    ]
+  },
+  "impulse": {
+    "senses": [
+      {
+        "label": "instinctive",
+        "probe": "instinctive"
+      },
+      {
+        "label": "sharp",
+        "probe": "pulsing"
+      }
+    ]
+  },
+  "impulses": {
+    "senses": [
+      {
+        "label": "instinctive",
+        "probe": "impulse"
+      },
+      {
+        "label": "sharp",
+        "probe": "pulsing"
+      }
+    ]
+  },
+  "impulsive": {
+    "senses": [
+      {
+        "label": "proceeding",
+        "probe": "spontaneous"
+      },
+      {
+        "label": "having",
+        "probe": "dynamical"
+      },
+      {
+        "label": "determined",
+        "probe": "capricious"
+      }
+    ]
+  },
+  "incarnate": {
+    "senses": [
+      {
+        "label": "represent",
+        "probe": "embody"
+      },
+      {
+        "label": "possessing",
+        "probe": "embodied"
+      }
+    ]
+  },
+  "incarnated": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "incarnate"
+      },
+      {
+        "label": "represent",
+        "probe": "embody"
+      }
+    ]
+  },
+  "incarnations": {
+    "senses": [
+      {
+        "label": "personification",
+        "probe": "embodiment"
+      },
+      {
+        "label": "attributing",
+        "probe": "personification"
+      }
+    ]
+  },
+  "infernal": {
+    "senses": [
+      {
+        "label": "extremely",
+        "probe": "demonic"
+      },
+      {
+        "label": "expletives",
+        "probe": "damned"
+      },
+      {
+        "label": "being",
+        "probe": "chthonic"
+      }
+    ]
+  },
+  "inferred": {
+    "senses": [
+      {
+        "label": "reason",
+        "probe": "deduce"
+      },
+      {
+        "label": "draw",
+        "probe": "infer"
+      }
+    ]
+  },
+  "infinitesimal": {
+    "senses": [
+      {
+        "label": "variable",
+        "probe": "variable"
+      },
+      {
+        "label": "infinitely",
+        "probe": "infinitely"
+      }
+    ]
+  },
+  "infrared": {
+    "senses": [
+      {
+        "label": "electromagnetic",
+        "probe": "electromagnetic"
+      },
+      {
+        "label": "having",
+        "probe": "invisible"
+      }
+    ]
+  },
+  "inhabiting": {
+    "senses": [
+      {
+        "label": "inhabit",
+        "probe": "populate"
+      },
+      {
+        "label": "present",
+        "probe": "inhabit"
+      }
+    ]
+  },
+  "interchangeable": {
+    "senses": [
+      {
+        "label": "such",
+        "probe": "symmetrical"
+      },
+      {
+        "label": "capable",
+        "probe": "replaceable"
+      }
+    ]
+  },
+  "interpolation": {
+    "senses": [
+      {
+        "label": "message",
+        "probe": "insertion"
+      },
+      {
+        "label": "calculation",
+        "probe": "computation"
+      }
+    ]
+  },
+  "intrudes": {
+    "senses": [
+      {
+        "label": "enter",
+        "probe": "intrude"
+      },
+      {
+        "label": "enter",
+        "probe": "trespass"
+      }
+    ]
+  },
+  "intruding": {
+    "senses": [
+      {
+        "label": "enter",
+        "probe": "intrude"
+      },
+      {
+        "label": "enter",
+        "probe": "trespass"
+      }
+    ]
+  },
+  "invades": {
+    "senses": [
+      {
+        "label": "intrude",
+        "probe": "intrude"
+      },
+      {
+        "label": "occupy",
+        "probe": "inhabit"
+      }
+    ]
+  },
+  "inversion": {
+    "senses": [
+      {
+        "label": "abnormal",
+        "probe": "abnormal"
+      },
+      {
+        "label": "mutation",
+        "probe": "mutation"
+      }
+    ]
+  },
+  "inversions": {
+    "senses": [
+      {
+        "label": "layer",
+        "probe": "inversion"
+      },
+      {
+        "label": "abnormal",
+        "probe": "abnormal"
+      },
+      {
+        "label": "mutation",
+        "probe": "mutation"
+      }
+    ]
+  },
+  "inviolable": {
+    "senses": [
+      {
+        "label": "immune",
+        "probe": "invulnerable"
+      },
+      {
+        "label": "capable",
+        "probe": "inalienable"
+      }
+    ]
+  },
+  "ionisation": {
+    "senses": [
+      {
+        "label": "condition",
+        "probe": "ionization"
+      },
+      {
+        "label": "ionizing",
+        "probe": "ionizing"
+      }
+    ]
+  },
+  "ionization": {
+    "senses": [
+      {
+        "label": "condition",
+        "probe": "ionisation"
+      },
+      {
+        "label": "ionizing",
+        "probe": "ionizing"
+      }
+    ]
+  },
+  "irises": {
+    "senses": [
+      {
+        "label": "muscular",
+        "probe": "membrane"
+      },
+      {
+        "label": "diaphragm",
+        "probe": "diaphragm"
+      }
+    ]
+  },
+  "irradiation": {
+    "senses": [
+      {
+        "label": "column",
+        "probe": "beam"
+      },
+      {
+        "label": "apparent",
+        "probe": "illusion"
+      },
+      {
+        "label": "elicitation",
+        "probe": "generalization"
+      },
+      {
+        "label": "treatment",
+        "probe": "radiotherapy"
+      }
+    ]
+  },
+  "iterations": {
+    "senses": [
+      {
+        "label": "single",
+        "probe": "iteration"
+      },
+      {
+        "label": "executing",
+        "probe": "looping"
+      }
+    ]
+  },
+  "jerks": {
+    "senses": [
+      {
+        "label": "dull",
+        "probe": "dork"
+      },
+      {
+        "label": "move",
+        "probe": "twitch"
+      }
+    ]
+  },
+  "kitty": {
+    "senses": [
+      {
+        "label": "young",
+        "probe": "kitten"
+      },
+      {
+        "label": "informal",
+        "probe": "pussycat"
+      }
+    ]
+  },
+  "landers": {
+    "senses": [
+      {
+        "label": "town",
+        "probe": "lander"
+      },
+      {
+        "label": "space",
+        "probe": "spacecraft"
+      }
+    ]
+  },
+  "launchers": {
+    "senses": [
+      {
+        "label": "armament",
+        "probe": "launcher"
+      },
+      {
+        "label": "that",
+        "probe": "catapult"
+      }
+    ]
+  },
+  "leech": {
+    "senses": [
+      {
+        "label": "carnivorous",
+        "probe": "carnivorous"
+      },
+      {
+        "label": "follower",
+        "probe": "parasite"
+      },
+      {
+        "label": "draw",
+        "probe": "bleed"
+      }
+    ]
+  },
+  "leeches": {
+    "senses": [
+      {
+        "label": "carnivorous",
+        "probe": "leech"
+      },
+      {
+        "label": "follower",
+        "probe": "parasite"
+      },
+      {
+        "label": "draw",
+        "probe": "bleed"
+      }
+    ]
+  },
+  "lenses": {
+    "senses": [
+      {
+        "label": "transparent",
+        "probe": "lens"
+      },
+      {
+        "label": "genus",
+        "probe": "genus"
+      }
+    ]
+  },
+  "leviathan": {
+    "senses": [
+      {
+        "label": "largest",
+        "probe": "freak"
+      },
+      {
+        "label": "monstrous",
+        "probe": "monstrous"
+      }
+    ]
+  },
+  "limb": {
+    "senses": [
+      {
+        "label": "jointed",
+        "probe": "appendage"
+      },
+      {
+        "label": "graduated",
+        "probe": "arc"
+      }
+    ]
+  },
+  "limbs": {
+    "senses": [
+      {
+        "label": "jointed",
+        "probe": "limb"
+      },
+      {
+        "label": "graduated",
+        "probe": "arc"
+      }
+    ]
+  },
+  "limitless": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "untrammeled"
+      },
+      {
+        "label": "seemingly",
+        "probe": "boundless"
+      }
+    ]
+  },
+  "liquefied": {
+    "senses": [
+      {
+        "label": "become",
+        "probe": "flux"
+      },
+      {
+        "label": "reduced",
+        "probe": "liquified"
+      },
+      {
+        "label": "reduced",
+        "probe": "molten"
+      }
+    ]
+  },
+  "liquified": {
+    "senses": [
+      {
+        "label": "become",
+        "probe": "flux"
+      },
+      {
+        "label": "reduced",
+        "probe": "liquefied"
+      },
+      {
+        "label": "reduced",
+        "probe": "molten"
+      }
+    ]
+  },
+  "litters": {
+    "senses": [
+      {
+        "label": "offspring",
+        "probe": "offspring"
+      },
+      {
+        "label": "conveyance",
+        "probe": "conveyance"
+      }
+    ]
+  },
+  "littlest": {
+    "senses": [
+      {
+        "label": "young",
+        "probe": "immature"
+      },
+      {
+        "label": "faint",
+        "probe": "faint"
+      }
+    ]
+  },
+  "looping": {
+    "senses": [
+      {
+        "label": "executing",
+        "probe": "iteration"
+      },
+      {
+        "label": "wind",
+        "probe": "coil"
+      }
+    ]
+  },
+  "lunatic": {
+    "senses": [
+      {
+        "label": "insane",
+        "probe": "madman"
+      },
+      {
+        "label": "reckless",
+        "probe": "daredevil"
+      }
+    ]
+  },
+  "magician": {
+    "senses": [
+      {
+        "label": "performs",
+        "probe": "illusionist"
+      },
+      {
+        "label": "practices",
+        "probe": "sorcerer"
+      }
+    ]
+  },
+  "magicians": {
+    "senses": [
+      {
+        "label": "performs",
+        "probe": "magician"
+      },
+      {
+        "label": "practices",
+        "probe": "sorcerer"
+      }
+    ]
+  },
+  "malfunctioning": {
+    "senses": [
+      {
+        "label": "fail",
+        "probe": "malfunction"
+      },
+      {
+        "label": "performing",
+        "probe": "haywire"
+      }
+    ]
+  },
+  "maniac": {
+    "senses": [
+      {
+        "label": "insane",
+        "probe": "lunatic"
+      },
+      {
+        "label": "wildly",
+        "probe": "maniacal"
+      }
+    ]
+  },
+  "manifestations": {
+    "senses": [
+      {
+        "label": "clear",
+        "probe": "manifestation"
+      },
+      {
+        "label": "manifest",
+        "probe": "manifest"
+      }
+    ]
+  },
+  "mating": {
+    "senses": [
+      {
+        "label": "pairing",
+        "probe": "coupling"
+      },
+      {
+        "label": "opponent",
+        "probe": "checkmate"
+      }
+    ]
+  },
+  "matrices": {
+    "senses": [
+      {
+        "label": "rectangular",
+        "probe": "matrix"
+      },
+      {
+        "label": "enclosure",
+        "probe": "enclosure"
+      }
+    ]
+  },
+  "mechanized": {
+    "senses": [
+      {
+        "label": "equipped",
+        "probe": "mechanised"
+      },
+      {
+        "label": "using",
+        "probe": "motorized"
+      }
+    ]
+  },
+  "meditations": {
+    "senses": [
+      {
+        "label": "continuous",
+        "probe": "meditation"
+      },
+      {
+        "label": "contemplation",
+        "probe": "contemplation"
+      }
+    ]
+  },
+  "mesmerizing": {
+    "senses": [
+      {
+        "label": "induce",
+        "probe": "hypnotize"
+      },
+      {
+        "label": "attracting",
+        "probe": "hypnotic"
+      }
+    ]
+  },
+  "metaphysical": {
+    "senses": [
+      {
+        "label": "without",
+        "probe": "supernatural"
+      },
+      {
+        "label": "highly",
+        "probe": "theoretic"
+      }
+    ]
+  },
+  "meteors": {
+    "senses": [
+      {
+        "label": "small",
+        "probe": "meteoroid"
+      },
+      {
+        "label": "streak",
+        "probe": "meteor"
+      }
+    ]
+  },
+  "mil": {
+    "senses": [
+      {
+        "label": "metric",
+        "probe": "metric"
+      },
+      {
+        "label": "angular",
+        "probe": "angular"
+      }
+    ]
+  },
+  "mimic": {
+    "senses": [
+      {
+        "label": "mimics",
+        "probe": "mimics"
+      },
+      {
+        "label": "imitate",
+        "probe": "imitate"
+      }
+    ]
+  },
+  "mimicry": {
+    "senses": [
+      {
+        "label": "mimicking",
+        "probe": "mimicking"
+      },
+      {
+        "label": "resemblance",
+        "probe": "imitation"
+      }
+    ]
+  },
+  "mimics": {
+    "senses": [
+      {
+        "label": "mimics",
+        "probe": "mimic"
+      },
+      {
+        "label": "imitate",
+        "probe": "imitate"
+      }
+    ]
+  },
+  "miraculous": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "supernatural"
+      },
+      {
+        "label": "peculiarly",
+        "probe": "providential"
+      }
+    ]
+  },
+  "mirage": {
+    "senses": [
+      {
+        "label": "optical",
+        "probe": "optical"
+      },
+      {
+        "label": "illusory",
+        "probe": "illusory"
+      }
+    ]
+  },
+  "modules": {
+    "senses": [
+      {
+        "label": "inherent",
+        "probe": "module"
+      },
+      {
+        "label": "detachable",
+        "probe": "compartment"
+      }
+    ]
+  },
+  "mole": {
+    "senses": [
+      {
+        "label": "molecular",
+        "probe": "molecular"
+      },
+      {
+        "label": "protective",
+        "probe": "breakwater"
+      }
+    ]
+  },
+  "molecule": {
+    "senses": [
+      {
+        "label": "simplest",
+        "probe": "simplest"
+      },
+      {
+        "label": "tiny",
+        "probe": "atom"
+      }
+    ]
+  },
+  "molecules": {
+    "senses": [
+      {
+        "label": "simplest",
+        "probe": "molecule"
+      },
+      {
+        "label": "tiny",
+        "probe": "atom"
+      }
+    ]
+  },
+  "moles": {
+    "senses": [
+      {
+        "label": "molecular",
+        "probe": "mole"
+      },
+      {
+        "label": "protective",
+        "probe": "breakwater"
+      }
+    ]
+  },
+  "molten": {
+    "senses": [
+      {
+        "label": "become",
+        "probe": "flux"
+      },
+      {
+        "label": "reduced",
+        "probe": "liquefied"
+      }
+    ]
+  },
+  "monsters": {
+    "senses": [
+      {
+        "label": "imaginary",
+        "probe": "imaginary"
+      },
+      {
+        "label": "that",
+        "probe": "goliath"
+      },
+      {
+        "label": "that",
+        "probe": "freak"
+      },
+      {
+        "label": "cruel",
+        "probe": "fiend"
+      },
+      {
+        "label": "grossly",
+        "probe": "fetus"
+      }
+    ]
+  },
+  "moon": {
+    "senses": [
+      {
+        "label": "light",
+        "probe": "moonlight"
+      },
+      {
+        "label": "have",
+        "probe": "daydream"
+      }
+    ]
+  },
+  "moons": {
+    "senses": [
+      {
+        "label": "natural",
+        "probe": "moon"
+      },
+      {
+        "label": "light",
+        "probe": "moonlight"
+      },
+      {
+        "label": "have",
+        "probe": "daydream"
+      }
+    ]
+  },
+  "morbid": {
+    "senses": [
+      {
+        "label": "suggesting",
+        "probe": "ghoulish"
+      },
+      {
+        "label": "caused",
+        "probe": "diseased"
+      }
+    ]
+  },
+  "mutant": {
+    "senses": [
+      {
+        "label": "organism",
+        "probe": "mutation"
+      },
+      {
+        "label": "that",
+        "probe": "beast"
+      }
+    ]
+  },
+  "mutants": {
+    "senses": [
+      {
+        "label": "organism",
+        "probe": "mutant"
+      },
+      {
+        "label": "that",
+        "probe": "beast"
+      }
+    ]
+  },
+  "mutations": {
+    "senses": [
+      {
+        "label": "organism",
+        "probe": "mutant"
+      },
+      {
+        "label": "event",
+        "probe": "mutation"
+      }
+    ]
+  },
+  "mysterious": {
+    "senses": [
+      {
+        "label": "obscure",
+        "probe": "inscrutable"
+      },
+      {
+        "label": "having",
+        "probe": "mystic"
+      }
+    ]
+  },
+  "mystic": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "mysterious"
+      },
+      {
+        "label": "relating",
+        "probe": "mystical"
+      }
+    ]
+  },
+  "mystical": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "mystic"
+      },
+      {
+        "label": "having",
+        "probe": "mysterious"
+      }
+    ]
+  },
+  "natures": {
+    "senses": [
+      {
+        "label": "causal",
+        "probe": "causal"
+      },
+      {
+        "label": "natural",
+        "probe": "universe"
+      }
+    ]
+  },
+  "navigated": {
+    "senses": [
+      {
+        "label": "travel",
+        "probe": "voyage"
+      },
+      {
+        "label": "navigator",
+        "probe": "manoeuvre"
+      }
+    ]
+  },
+  "navigates": {
+    "senses": [
+      {
+        "label": "travel",
+        "probe": "voyage"
+      },
+      {
+        "label": "navigator",
+        "probe": "manoeuvre"
+      }
+    ]
+  },
+  "nebulae": {
+    "senses": [
+      {
+        "label": "medicinal",
+        "probe": "nebula"
+      },
+      {
+        "label": "faint",
+        "probe": "faint"
+      }
+    ]
+  },
+  "nested": {
+    "senses": [
+      {
+        "label": "inhabit",
+        "probe": "inhabit"
+      },
+      {
+        "label": "together",
+        "probe": "implant"
+      }
+    ]
+  },
+  "noises": {
+    "senses": [
+      {
+        "label": "auditory",
+        "probe": "auditory"
+      },
+      {
+        "label": "lacking",
+        "probe": "randomness"
+      },
+      {
+        "label": "emit",
+        "probe": "emit"
+      }
+    ]
+  },
+  "nozzles": {
+    "senses": [
+      {
+        "label": "projecting",
+        "probe": "nozzle"
+      },
+      {
+        "label": "informal",
+        "probe": "beak"
+      }
+    ]
+  },
+  "nymphs": {
+    "senses": [
+      {
+        "label": "minor",
+        "probe": "nymph"
+      },
+      {
+        "label": "larva",
+        "probe": "larva"
+      }
+    ]
+  },
+  "obsessive": {
+    "senses": [
+      {
+        "label": "obsessions",
+        "probe": "obsessions"
+      },
+      {
+        "label": "characterized",
+        "probe": "neurotic"
+      }
+    ]
+  },
+  "occult": {
+    "senses": [
+      {
+        "label": "supernatural",
+        "probe": "supernatural"
+      },
+      {
+        "label": "cause",
+        "probe": "eclipse"
+      },
+      {
+        "label": "hidden",
+        "probe": "invisible"
+      },
+      {
+        "label": "having",
+        "probe": "mysterious"
+      }
+    ]
+  },
+  "ocular": {
+    "senses": [
+      {
+        "label": "combination",
+        "probe": "eyepiece"
+      },
+      {
+        "label": "relating",
+        "probe": "optical"
+      }
+    ]
+  },
+  "oddities": {
+    "senses": [
+      {
+        "label": "eccentricity",
+        "probe": "oddity"
+      },
+      {
+        "label": "strange",
+        "probe": "strangeness"
+      }
+    ]
+  },
+  "oddity": {
+    "senses": [
+      {
+        "label": "eccentricity",
+        "probe": "eccentricity"
+      },
+      {
+        "label": "strange",
+        "probe": "strangeness"
+      }
+    ]
+  },
+  "optics": {
+    "senses": [
+      {
+        "label": "optical",
+        "probe": "optical"
+      },
+      {
+        "label": "organ",
+        "probe": "receptor"
+      }
+    ]
+  },
+  "orb": {
+    "senses": [
+      {
+        "label": "ball",
+        "probe": "eyeball"
+      },
+      {
+        "label": "object",
+        "probe": "sphere"
+      },
+      {
+        "label": "move",
+        "probe": "orbit"
+      }
+    ]
+  },
+  "orbit": {
+    "senses": [
+      {
+        "label": "particular",
+        "probe": "sphere"
+      },
+      {
+        "label": "area",
+        "probe": "compass"
+      },
+      {
+        "label": "bony",
+        "probe": "bony"
+      },
+      {
+        "label": "move",
+        "probe": "orb"
+      }
+    ]
+  },
+  "orbits": {
+    "senses": [
+      {
+        "label": "path",
+        "probe": "orbit"
+      },
+      {
+        "label": "particular",
+        "probe": "sphere"
+      },
+      {
+        "label": "area",
+        "probe": "compass"
+      },
+      {
+        "label": "bony",
+        "probe": "bony"
+      },
+      {
+        "label": "move",
+        "probe": "orb"
+      }
+    ]
+  },
+  "orbs": {
+    "senses": [
+      {
+        "label": "ball",
+        "probe": "eyeball"
+      },
+      {
+        "label": "object",
+        "probe": "orb"
+      },
+      {
+        "label": "move",
+        "probe": "orbit"
+      }
+    ]
+  },
+  "orthogonal": {
+    "senses": [
+      {
+        "label": "pertinent",
+        "probe": "immaterial"
+      },
+      {
+        "label": "having",
+        "probe": "perpendicular"
+      }
+    ]
+  },
+  "oscillating": {
+    "senses": [
+      {
+        "label": "undecided",
+        "probe": "hover"
+      },
+      {
+        "label": "having",
+        "probe": "oscillatory"
+      }
+    ]
+  },
+  "oscillation": {
+    "senses": [
+      {
+        "label": "oscillating",
+        "probe": "oscillating"
+      },
+      {
+        "label": "regular",
+        "probe": "vibration"
+      }
+    ]
+  },
+  "oscillations": {
+    "senses": [
+      {
+        "label": "oscillating",
+        "probe": "oscillation"
+      },
+      {
+        "label": "regular",
+        "probe": "vibration"
+      }
+    ]
+  },
+  "outward": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "outer"
+      },
+      {
+        "label": "toward",
+        "probe": "outwards"
+      }
+    ]
+  },
+  "paranormal": {
+    "senses": [
+      {
+        "label": "seemingly",
+        "probe": "extrasensory"
+      },
+      {
+        "label": "accordance",
+        "probe": "psychic"
+      }
+    ]
+  },
+  "parasite": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "organism"
+      },
+      {
+        "label": "follower",
+        "probe": "leech"
+      }
+    ]
+  },
+  "parasites": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "parasite"
+      },
+      {
+        "label": "follower",
+        "probe": "leech"
+      }
+    ]
+  },
+  "parrots": {
+    "senses": [
+      {
+        "label": "usually",
+        "probe": "parrot"
+      },
+      {
+        "label": "copycat",
+        "probe": "ape"
+      }
+    ]
+  },
+  "particles": {
+    "senses": [
+      {
+        "label": "tiny",
+        "probe": "atom"
+      },
+      {
+        "label": "body",
+        "probe": "particle"
+      }
+    ]
+  },
+  "pathological": {
+    "senses": [
+      {
+        "label": "caused",
+        "probe": "neurotic"
+      },
+      {
+        "label": "caused",
+        "probe": "diseased"
+      }
+    ]
+  },
+  "payloads": {
+    "senses": [
+      {
+        "label": "front",
+        "probe": "warhead"
+      },
+      {
+        "label": "goods",
+        "probe": "payload"
+      }
+    ]
+  },
+  "pearls": {
+    "senses": [
+      {
+        "label": "shade",
+        "probe": "whiteness"
+      },
+      {
+        "label": "shape",
+        "probe": "sphere"
+      }
+    ]
+  },
+  "pegasus": {
+    "senses": [
+      {
+        "label": "immortal",
+        "probe": "immortal"
+      },
+      {
+        "label": "constellation",
+        "probe": "constellation"
+      }
+    ]
+  },
+  "penetrating": {
+    "senses": [
+      {
+        "label": "spread",
+        "probe": "diffuse"
+      },
+      {
+        "label": "having",
+        "probe": "piercing"
+      }
+    ]
+  },
+  "perturbations": {
+    "senses": [
+      {
+        "label": "unhappy",
+        "probe": "perturbation"
+      },
+      {
+        "label": "disposition",
+        "probe": "disposition"
+      }
+    ]
+  },
+  "perverted": {
+    "senses": [
+      {
+        "label": "showing",
+        "probe": "abnormal"
+      },
+      {
+        "label": "having",
+        "probe": "twisted"
+      },
+      {
+        "label": "deviating",
+        "probe": "depraved"
+      }
+    ]
+  },
+  "phantom": {
+    "senses": [
+      {
+        "label": "ghostly",
+        "probe": "apparition"
+      },
+      {
+        "label": "existing",
+        "probe": "illusion"
+      },
+      {
+        "label": "apparently",
+        "probe": "unreal"
+      }
+    ]
+  },
+  "pigments": {
+    "senses": [
+      {
+        "label": "coloring",
+        "probe": "pigment"
+      },
+      {
+        "label": "used",
+        "probe": "coating"
+      }
+    ]
+  },
+  "planetary": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "terrestrial"
+      },
+      {
+        "label": "having",
+        "probe": "wandering"
+      }
+    ]
+  },
+  "planets": {
+    "senses": [
+      {
+        "label": "nine",
+        "probe": "planet"
+      },
+      {
+        "label": "celestial",
+        "probe": "celestial"
+      }
+    ]
+  },
+  "plucked": {
+    "senses": [
+      {
+        "label": "unreasonable",
+        "probe": "plume"
+      },
+      {
+        "label": "stringed",
+        "probe": "stringed"
+      }
+    ]
+  },
+  "pointer": {
+    "senses": [
+      {
+        "label": "mark",
+        "probe": "arrow"
+      },
+      {
+        "label": "indicator",
+        "probe": "cursor"
+      }
+    ]
+  },
+  "poisonous": {
+    "senses": [
+      {
+        "label": "safe",
+        "probe": "inedible"
+      },
+      {
+        "label": "marked",
+        "probe": "venomous"
+      }
+    ]
+  },
+  "pores": {
+    "senses": [
+      {
+        "label": "tiny",
+        "probe": "pore"
+      },
+      {
+        "label": "minute",
+        "probe": "aperture"
+      }
+    ]
+  },
+  "portrayals": {
+    "senses": [
+      {
+        "label": "word",
+        "probe": "portraiture"
+      },
+      {
+        "label": "representation",
+        "probe": "depiction"
+      }
+    ]
+  },
+  "posterior": {
+    "senses": [
+      {
+        "label": "fleshy",
+        "probe": "tail"
+      },
+      {
+        "label": "tooth",
+        "probe": "tooth"
+      }
+    ]
+  },
+  "predator": {
+    "senses": [
+      {
+        "label": "attacks",
+        "probe": "marauder"
+      },
+      {
+        "label": "that",
+        "probe": "beast"
+      }
+    ]
+  },
+  "pretender": {
+    "senses": [
+      {
+        "label": "makes",
+        "probe": "imposter"
+      },
+      {
+        "label": "professes",
+        "probe": "trickster"
+      }
+    ]
+  },
+  "prey": {
+    "senses": [
+      {
+        "label": "hunted",
+        "probe": "beast"
+      },
+      {
+        "label": "prey",
+        "probe": "raven"
+      }
+    ]
+  },
+  "propagating": {
+    "senses": [
+      {
+        "label": "transmit",
+        "probe": "propagate"
+      },
+      {
+        "label": "cause",
+        "probe": "diffuse"
+      }
+    ]
+  },
+  "propensity": {
+    "senses": [
+      {
+        "label": "inclination",
+        "probe": "inclination"
+      },
+      {
+        "label": "natural",
+        "probe": "disposition"
+      }
+    ]
+  },
+  "prophecies": {
+    "senses": [
+      {
+        "label": "knowledge",
+        "probe": "prophecy"
+      },
+      {
+        "label": "prediction",
+        "probe": "divination"
+      }
+    ]
+  },
+  "propulsion": {
+    "senses": [
+      {
+        "label": "propelling",
+        "probe": "propelling"
+      },
+      {
+        "label": "propelling",
+        "probe": "actuation"
+      }
+    ]
+  },
+  "protagonists": {
+    "senses": [
+      {
+        "label": "backs",
+        "probe": "protagonist"
+      },
+      {
+        "label": "principal",
+        "probe": "agonist"
+      }
+    ]
+  },
+  "providential": {
+    "senses": [
+      {
+        "label": "peculiarly",
+        "probe": "miraculous"
+      },
+      {
+        "label": "resulting",
+        "probe": "heavenly"
+      }
+    ]
+  },
+  "psyche": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "cognition"
+      },
+      {
+        "label": "immaterial",
+        "probe": "immaterial"
+      }
+    ]
+  },
+  "psyches": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "psyche"
+      },
+      {
+        "label": "immaterial",
+        "probe": "immaterial"
+      }
+    ]
+  },
+  "psychic": {
+    "senses": [
+      {
+        "label": "affecting",
+        "probe": "psychical"
+      },
+      {
+        "label": "outside",
+        "probe": "paranormal"
+      }
+    ]
+  },
+  "psychical": {
+    "senses": [
+      {
+        "label": "affecting",
+        "probe": "psychic"
+      },
+      {
+        "label": "outside",
+        "probe": "paranormal"
+      }
+    ]
+  },
+  "puff": {
+    "senses": [
+      {
+        "label": "slow",
+        "probe": "inhalation"
+      },
+      {
+        "label": "suck",
+        "probe": "suck"
+      },
+      {
+        "label": "make",
+        "probe": "uplift"
+      }
+    ]
+  },
+  "pulses": {
+    "senses": [
+      {
+        "label": "sharp",
+        "probe": "pulsing"
+      },
+      {
+        "label": "rhythmic",
+        "probe": "heartbeat"
+      }
+    ]
+  },
+  "puppets": {
+    "senses": [
+      {
+        "label": "controlled",
+        "probe": "creature"
+      },
+      {
+        "label": "doll",
+        "probe": "dolly"
+      }
+    ]
+  },
+  "putrefaction": {
+    "senses": [
+      {
+        "label": "decay",
+        "probe": "decay"
+      },
+      {
+        "label": "decay",
+        "probe": "decomposition"
+      },
+      {
+        "label": "moral",
+        "probe": "degeneracy"
+      }
+    ]
+  },
+  "quenching": {
+    "senses": [
+      {
+        "label": "extinguishing",
+        "probe": "extinction"
+      },
+      {
+        "label": "suppress",
+        "probe": "subdue"
+      }
+    ]
+  },
+  "rabbits": {
+    "senses": [
+      {
+        "label": "various",
+        "probe": "rabbit"
+      },
+      {
+        "label": "flesh",
+        "probe": "flesh"
+      }
+    ]
+  },
+  "radial": {
+    "senses": [
+      {
+        "label": "pneumatic",
+        "probe": "pneumatic"
+      },
+      {
+        "label": "arranged",
+        "probe": "radiate"
+      }
+    ]
+  },
+  "radiance": {
+    "senses": [
+      {
+        "label": "amount",
+        "probe": "glow"
+      },
+      {
+        "label": "being",
+        "probe": "brightness"
+      }
+    ]
+  },
+  "radiate": {
+    "senses": [
+      {
+        "label": "send",
+        "probe": "emit"
+      },
+      {
+        "label": "have",
+        "probe": "glow"
+      },
+      {
+        "label": "experience",
+        "probe": "beam"
+      },
+      {
+        "label": "arranged",
+        "probe": "radial"
+      }
+    ]
+  },
+  "radiated": {
+    "senses": [
+      {
+        "label": "send",
+        "probe": "radiate"
+      },
+      {
+        "label": "send",
+        "probe": "emit"
+      },
+      {
+        "label": "have",
+        "probe": "glow"
+      },
+      {
+        "label": "experience",
+        "probe": "beam"
+      }
+    ]
+  },
+  "radiates": {
+    "senses": [
+      {
+        "label": "send",
+        "probe": "radiate"
+      },
+      {
+        "label": "send",
+        "probe": "emit"
+      },
+      {
+        "label": "have",
+        "probe": "glow"
+      },
+      {
+        "label": "experience",
+        "probe": "beam"
+      }
+    ]
+  },
+  "radiating": {
+    "senses": [
+      {
+        "label": "send",
+        "probe": "radiate"
+      },
+      {
+        "label": "send",
+        "probe": "emit"
+      },
+      {
+        "label": "have",
+        "probe": "glow"
+      },
+      {
+        "label": "experience",
+        "probe": "beam"
+      }
+    ]
+  },
+  "radiation": {
+    "senses": [
+      {
+        "label": "spreading",
+        "probe": "emission"
+      },
+      {
+        "label": "spontaneous",
+        "probe": "radioactivity"
+      },
+      {
+        "label": "radial",
+        "probe": "radial"
+      },
+      {
+        "label": "treatment",
+        "probe": "radiotherapy"
+      }
+    ]
+  },
+  "radiations": {
+    "senses": [
+      {
+        "label": "energy",
+        "probe": "radiation"
+      },
+      {
+        "label": "spreading",
+        "probe": "emission"
+      },
+      {
+        "label": "spontaneous",
+        "probe": "radioactivity"
+      },
+      {
+        "label": "radial",
+        "probe": "radial"
+      },
+      {
+        "label": "treatment",
+        "probe": "radiotherapy"
+      }
+    ]
+  },
+  "radii": {
+    "senses": [
+      {
+        "label": "length",
+        "probe": "radius"
+      },
+      {
+        "label": "outer",
+        "probe": "outer"
+      }
+    ]
+  },
+  "rat": {
+    "senses": [
+      {
+        "label": "various",
+        "probe": "rodent"
+      },
+      {
+        "label": "deemed",
+        "probe": "skunk"
+      }
+    ]
+  },
+  "rats": {
+    "senses": [
+      {
+        "label": "various",
+        "probe": "rat"
+      },
+      {
+        "label": "deemed",
+        "probe": "skunk"
+      }
+    ]
+  },
+  "raven": {
+    "senses": [
+      {
+        "label": "prey",
+        "probe": "prey"
+      },
+      {
+        "label": "greedily",
+        "probe": "devour"
+      }
+    ]
+  },
+  "reactivity": {
+    "senses": [
+      {
+        "label": "responsive",
+        "probe": "sensibility"
+      },
+      {
+        "label": "ready",
+        "probe": "susceptibility"
+      }
+    ]
+  },
+  "reckoning": {
+    "senses": [
+      {
+        "label": "problem",
+        "probe": "computation"
+      },
+      {
+        "label": "deem",
+        "probe": "conceive"
+      }
+    ]
+  },
+  "reconstruct": {
+    "senses": [
+      {
+        "label": "reassemble",
+        "probe": "theorize"
+      },
+      {
+        "label": "return",
+        "probe": "regenerate"
+      }
+    ]
+  },
+  "reconstructing": {
+    "senses": [
+      {
+        "label": "reassemble",
+        "probe": "reconstruct"
+      },
+      {
+        "label": "return",
+        "probe": "regenerate"
+      }
+    ]
+  },
+  "recreated": {
+    "senses": [
+      {
+        "label": "give",
+        "probe": "animate"
+      },
+      {
+        "label": "engage",
+        "probe": "recreate"
+      }
+    ]
+  },
+  "recreating": {
+    "senses": [
+      {
+        "label": "give",
+        "probe": "animate"
+      },
+      {
+        "label": "engage",
+        "probe": "recreate"
+      }
+    ]
+  },
+  "refinement": {
+    "senses": [
+      {
+        "label": "subtle",
+        "probe": "subtlety"
+      },
+      {
+        "label": "excellence",
+        "probe": "civilisation"
+      }
+    ]
+  },
+  "reflections": {
+    "senses": [
+      {
+        "label": "calm",
+        "probe": "contemplation"
+      },
+      {
+        "label": "expression",
+        "probe": "manifestation"
+      },
+      {
+        "label": "ability",
+        "probe": "reflectivity"
+      }
+    ]
+  },
+  "regress": {
+    "senses": [
+      {
+        "label": "returning",
+        "probe": "regression"
+      },
+      {
+        "label": "worse",
+        "probe": "retrograde"
+      }
+    ]
+  },
+  "regression": {
+    "senses": [
+      {
+        "label": "abnormal",
+        "probe": "fixation"
+      },
+      {
+        "label": "returning",
+        "probe": "regress"
+      }
+    ]
+  },
+  "repelling": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "repel"
+      },
+      {
+        "label": "repellent",
+        "probe": "repellent"
+      },
+      {
+        "label": "highly",
+        "probe": "wicked"
+      }
+    ]
+  },
+  "resonance": {
+    "senses": [
+      {
+        "label": "vibration",
+        "probe": "vibration"
+      },
+      {
+        "label": "imparted",
+        "probe": "imparted"
+      }
+    ]
+  },
+  "resonances": {
+    "senses": [
+      {
+        "label": "excited",
+        "probe": "resonance"
+      },
+      {
+        "label": "vibration",
+        "probe": "vibration"
+      },
+      {
+        "label": "imparted",
+        "probe": "imparted"
+      }
+    ]
+  },
+  "retrograde": {
+    "senses": [
+      {
+        "label": "move",
+        "probe": "orb"
+      },
+      {
+        "label": "worse",
+        "probe": "regress"
+      },
+      {
+        "label": "amnesia",
+        "probe": "amnesia"
+      },
+      {
+        "label": "going",
+        "probe": "regressive"
+      }
+    ]
+  },
+  "reverie": {
+    "senses": [
+      {
+        "label": "absentminded",
+        "probe": "daydream"
+      },
+      {
+        "label": "abstracted",
+        "probe": "abstraction"
+      }
+    ]
+  },
+  "reversion": {
+    "senses": [
+      {
+        "label": "return",
+        "probe": "mutation"
+      },
+      {
+        "label": "reappearance",
+        "probe": "reappearance"
+      },
+      {
+        "label": "returning",
+        "probe": "regression"
+      }
+    ]
+  },
+  "ripples": {
+    "senses": [
+      {
+        "label": "small",
+        "probe": "wavelet"
+      },
+      {
+        "label": "oscillation",
+        "probe": "oscillation"
+      },
+      {
+        "label": "stir",
+        "probe": "flux"
+      }
+    ]
+  },
+  "rods": {
+    "senses": [
+      {
+        "label": "shaped",
+        "probe": "bacterium"
+      },
+      {
+        "label": "linear",
+        "probe": "linear"
+      }
+    ]
+  },
+  "roving": {
+    "senses": [
+      {
+        "label": "travelling",
+        "probe": "wandering"
+      },
+      {
+        "label": "move",
+        "probe": "wander"
+      }
+    ]
+  },
+  "sails": {
+    "senses": [
+      {
+        "label": "ocean",
+        "probe": "voyage"
+      },
+      {
+        "label": "traverse",
+        "probe": "traverse"
+      }
+    ]
+  },
+  "salamanders": {
+    "senses": [
+      {
+        "label": "various",
+        "probe": "amphibian"
+      },
+      {
+        "label": "reptilian",
+        "probe": "reptilian"
+      }
+    ]
+  },
+  "satellites": {
+    "senses": [
+      {
+        "label": "made",
+        "probe": "orbiter"
+      },
+      {
+        "label": "follows",
+        "probe": "planet"
+      },
+      {
+        "label": "celestial",
+        "probe": "celestial"
+      },
+      {
+        "label": "broadcast",
+        "probe": "beam"
+      }
+    ]
+  },
+  "scanners": {
+    "senses": [
+      {
+        "label": "scans",
+        "probe": "scans"
+      },
+      {
+        "label": "radar",
+        "probe": "saucer"
+      },
+      {
+        "label": "radio",
+        "probe": "detector"
+      }
+    ]
+  },
+  "scatter": {
+    "senses": [
+      {
+        "label": "haphazard",
+        "probe": "dispersion"
+      },
+      {
+        "label": "scattering",
+        "probe": "scattering"
+      },
+      {
+        "label": "cause",
+        "probe": "dissipate"
+      },
+      {
+        "label": "distribute",
+        "probe": "dust"
+      }
+    ]
+  },
+  "scattering": {
+    "senses": [
+      {
+        "label": "spreading",
+        "probe": "dispersion"
+      },
+      {
+        "label": "scattering",
+        "probe": "scatter"
+      },
+      {
+        "label": "cause",
+        "probe": "dissipate"
+      },
+      {
+        "label": "distribute",
+        "probe": "dust"
+      }
+    ]
+  },
+  "scavenger": {
+    "senses": [
+      {
+        "label": "collects",
+        "probe": "magpie"
+      },
+      {
+        "label": "that",
+        "probe": "beast"
+      }
+    ]
+  },
+  "scavengers": {
+    "senses": [
+      {
+        "label": "chemical",
+        "probe": "scavenger"
+      },
+      {
+        "label": "collects",
+        "probe": "magpie"
+      },
+      {
+        "label": "that",
+        "probe": "beast"
+      }
+    ]
+  },
+  "scepter": {
+    "senses": [
+      {
+        "label": "imperial",
+        "probe": "sceptre"
+      },
+      {
+        "label": "ceremonial",
+        "probe": "wand"
+      }
+    ]
+  },
+  "sceptre": {
+    "senses": [
+      {
+        "label": "imperial",
+        "probe": "scepter"
+      },
+      {
+        "label": "ceremonial",
+        "probe": "wand"
+      }
+    ]
+  },
+  "scopes": {
+    "senses": [
+      {
+        "label": "area",
+        "probe": "orbit"
+      },
+      {
+        "label": "magnifier",
+        "probe": "telescope"
+      }
+    ]
+  },
+  "screw": {
+    "senses": [
+      {
+        "label": "propeller",
+        "probe": "propeller"
+      },
+      {
+        "label": "turn",
+        "probe": "revolve"
+      },
+      {
+        "label": "defeat",
+        "probe": "shaft"
+      }
+    ]
+  },
+  "searchers": {
+    "senses": [
+      {
+        "label": "making",
+        "probe": "seeker"
+      },
+      {
+        "label": "customs",
+        "probe": "searcher"
+      }
+    ]
+  },
+  "seeker": {
+    "senses": [
+      {
+        "label": "making",
+        "probe": "searcher"
+      },
+      {
+        "label": "missile",
+        "probe": "projectile"
+      }
+    ]
+  },
+  "sensations": {
+    "senses": [
+      {
+        "label": "widespread",
+        "probe": "excitation"
+      },
+      {
+        "label": "faculty",
+        "probe": "sentience"
+      }
+    ]
+  },
+  "senses": {
+    "senses": [
+      {
+        "label": "faculty",
+        "probe": "sentience"
+      },
+      {
+        "label": "street",
+        "probe": "skunk"
+      },
+      {
+        "label": "detect",
+        "probe": "detect"
+      }
+    ]
+  },
+  "sensing": {
+    "senses": [
+      {
+        "label": "perception",
+        "probe": "detection"
+      },
+      {
+        "label": "detect",
+        "probe": "detect"
+      }
+    ]
+  },
+  "serpents": {
+    "senses": [
+      {
+        "label": "limbless",
+        "probe": "snake"
+      },
+      {
+        "label": "firework",
+        "probe": "serpent"
+      }
+    ]
+  },
+  "shadows": {
+    "senses": [
+      {
+        "label": "unilluminated",
+        "probe": "darkness"
+      },
+      {
+        "label": "existing",
+        "probe": "apparition"
+      },
+      {
+        "label": "premonition",
+        "probe": "premonition"
+      },
+      {
+        "label": "employed",
+        "probe": "tail"
+      },
+      {
+        "label": "inseparable",
+        "probe": "inseparable"
+      },
+      {
+        "label": "make",
+        "probe": "dwarf"
+      }
+    ]
+  },
+  "shaft": {
+    "senses": [
+      {
+        "label": "column",
+        "probe": "beam"
+      },
+      {
+        "label": "obscene",
+        "probe": "cock"
+      },
+      {
+        "label": "long",
+        "probe": "spear"
+      },
+      {
+        "label": "vertical",
+        "probe": "vertical"
+      },
+      {
+        "label": "defeat",
+        "probe": "screw"
+      }
+    ]
+  },
+  "shafts": {
+    "senses": [
+      {
+        "label": "line",
+        "probe": "shaft"
+      },
+      {
+        "label": "column",
+        "probe": "beam"
+      },
+      {
+        "label": "obscene",
+        "probe": "cock"
+      },
+      {
+        "label": "long",
+        "probe": "spear"
+      },
+      {
+        "label": "vertical",
+        "probe": "vertical"
+      },
+      {
+        "label": "defeat",
+        "probe": "screw"
+      }
+    ]
+  },
+  "shears": {
+    "senses": [
+      {
+        "label": "large",
+        "probe": "scissors"
+      },
+      {
+        "label": "deformation",
+        "probe": "shear"
+      }
+    ]
+  },
+  "shimmering": {
+    "senses": [
+      {
+        "label": "shine",
+        "probe": "beam"
+      },
+      {
+        "label": "give",
+        "probe": "glint"
+      }
+    ]
+  },
+  "simulated": {
+    "senses": [
+      {
+        "label": "reproduce",
+        "probe": "imitate"
+      },
+      {
+        "label": "create",
+        "probe": "simulate"
+      },
+      {
+        "label": "genuine",
+        "probe": "imitation"
+      }
+    ]
+  },
+  "simulates": {
+    "senses": [
+      {
+        "label": "reproduce",
+        "probe": "imitate"
+      },
+      {
+        "label": "create",
+        "probe": "simulate"
+      }
+    ]
+  },
+  "simulating": {
+    "senses": [
+      {
+        "label": "reproduce",
+        "probe": "imitate"
+      },
+      {
+        "label": "create",
+        "probe": "simulate"
+      }
+    ]
+  },
+  "sinful": {
+    "senses": [
+      {
+        "label": "characterized",
+        "probe": "wicked"
+      },
+      {
+        "label": "having",
+        "probe": "unholy"
+      }
+    ]
+  },
+  "singularities": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "singularity"
+      },
+      {
+        "label": "strangeness",
+        "probe": "strangeness"
+      }
+    ]
+  },
+  "sleuthing": {
+    "senses": [
+      {
+        "label": "police",
+        "probe": "detection"
+      },
+      {
+        "label": "watch",
+        "probe": "sleuth"
+      }
+    ]
+  },
+  "smashers": {
+    "senses": [
+      {
+        "label": "smashes",
+        "probe": "smasher"
+      },
+      {
+        "label": "very",
+        "probe": "stunner"
+      }
+    ]
+  },
+  "snake": {
+    "senses": [
+      {
+        "label": "limbless",
+        "probe": "serpent"
+      },
+      {
+        "label": "long",
+        "probe": "hydra"
+      },
+      {
+        "label": "move",
+        "probe": "glide"
+      }
+    ]
+  },
+  "snakes": {
+    "senses": [
+      {
+        "label": "limbless",
+        "probe": "snake"
+      },
+      {
+        "label": "long",
+        "probe": "hydra"
+      },
+      {
+        "label": "move",
+        "probe": "glide"
+      }
+    ]
+  },
+  "snorkel": {
+    "senses": [
+      {
+        "label": "breathing",
+        "probe": "ventilator"
+      },
+      {
+        "label": "passage",
+        "probe": "airway"
+      }
+    ]
+  },
+  "sockets": {
+    "senses": [
+      {
+        "label": "bony",
+        "probe": "bony"
+      },
+      {
+        "label": "receptacle",
+        "probe": "receptacle"
+      }
+    ]
+  },
+  "solitary": {
+    "senses": [
+      {
+        "label": "confinement",
+        "probe": "confinement"
+      },
+      {
+        "label": "lives",
+        "probe": "hermit"
+      },
+      {
+        "label": "devoid",
+        "probe": "uninhabited"
+      }
+    ]
+  },
+  "souls": {
+    "senses": [
+      {
+        "label": "immaterial",
+        "probe": "psyche"
+      },
+      {
+        "label": "human",
+        "probe": "mortal"
+      },
+      {
+        "label": "human",
+        "probe": "embodiment"
+      }
+    ]
+  },
+  "speck": {
+    "senses": [
+      {
+        "label": "very",
+        "probe": "speckle"
+      },
+      {
+        "label": "tiny",
+        "probe": "atom"
+      },
+      {
+        "label": "slight",
+        "probe": "mite"
+      }
+    ]
+  },
+  "specks": {
+    "senses": [
+      {
+        "label": "very",
+        "probe": "speck"
+      },
+      {
+        "label": "tiny",
+        "probe": "atom"
+      },
+      {
+        "label": "slight",
+        "probe": "mite"
+      }
+    ]
+  },
+  "spewed": {
+    "senses": [
+      {
+        "label": "eject",
+        "probe": "eject"
+      },
+      {
+        "label": "eject",
+        "probe": "vomit"
+      }
+    ]
+  },
+  "sphere": {
+    "senses": [
+      {
+        "label": "particular",
+        "probe": "orbit"
+      },
+      {
+        "label": "spherically",
+        "probe": "artifact"
+      },
+      {
+        "label": "apparent",
+        "probe": "heavens"
+      }
+    ]
+  },
+  "spheres": {
+    "senses": [
+      {
+        "label": "particular",
+        "probe": "sphere"
+      },
+      {
+        "label": "spherically",
+        "probe": "artifact"
+      },
+      {
+        "label": "apparent",
+        "probe": "heavens"
+      }
+    ]
+  },
+  "spiders": {
+    "senses": [
+      {
+        "label": "predatory",
+        "probe": "spider"
+      },
+      {
+        "label": "computer",
+        "probe": "wanderer"
+      }
+    ]
+  },
+  "spines": {
+    "senses": [
+      {
+        "label": "series",
+        "probe": "spine"
+      },
+      {
+        "label": "sharp",
+        "probe": "appendage"
+      },
+      {
+        "label": "revolve",
+        "probe": "whirl"
+      }
+    ]
+  },
+  "spins": {
+    "senses": [
+      {
+        "label": "rotating",
+        "probe": "whirl"
+      },
+      {
+        "label": "revolve",
+        "probe": "revolve"
+      }
+    ]
+  },
+  "spiral": {
+    "senses": [
+      {
+        "label": "curve",
+        "probe": "helix"
+      },
+      {
+        "label": "structure",
+        "probe": "coil"
+      },
+      {
+        "label": "move",
+        "probe": "corkscrew"
+      },
+      {
+        "label": "shape",
+        "probe": "helical"
+      }
+    ]
+  },
+  "spiraled": {
+    "senses": [
+      {
+        "label": "wind",
+        "probe": "spiral"
+      },
+      {
+        "label": "move",
+        "probe": "corkscrew"
+      }
+    ]
+  },
+  "spirals": {
+    "senses": [
+      {
+        "label": "plane",
+        "probe": "spiral"
+      },
+      {
+        "label": "curve",
+        "probe": "helix"
+      },
+      {
+        "label": "structure",
+        "probe": "coil"
+      },
+      {
+        "label": "move",
+        "probe": "corkscrew"
+      }
+    ]
+  },
+  "splendors": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "brightness"
+      },
+      {
+        "label": "being",
+        "probe": "grandeur"
+      }
+    ]
+  },
+  "spontaneous": {
+    "senses": [
+      {
+        "label": "happening",
+        "probe": "impulsive"
+      },
+      {
+        "label": "said",
+        "probe": "unscripted"
+      }
+    ]
+  },
+  "spotlights": {
+    "senses": [
+      {
+        "label": "move",
+        "probe": "foreground"
+      },
+      {
+        "label": "illuminate",
+        "probe": "illuminate"
+      }
+    ]
+  },
+  "spotting": {
+    "senses": [
+      {
+        "label": "detecting",
+        "probe": "detection"
+      },
+      {
+        "label": "detect",
+        "probe": "detect"
+      },
+      {
+        "label": "make",
+        "probe": "blob"
+      }
+    ]
+  },
+  "sprays": {
+    "senses": [
+      {
+        "label": "dispenser",
+        "probe": "nebulizer"
+      },
+      {
+        "label": "vapor",
+        "probe": "vapor"
+      },
+      {
+        "label": "discharged",
+        "probe": "scatter"
+      },
+      {
+        "label": "scatter",
+        "probe": "dust"
+      }
+    ]
+  },
+  "sprites": {
+    "senses": [
+      {
+        "label": "atmospheric",
+        "probe": "atmospheric"
+      },
+      {
+        "label": "small",
+        "probe": "fairy"
+      }
+    ]
+  },
+  "stalkers": {
+    "senses": [
+      {
+        "label": "walks",
+        "probe": "stalker"
+      },
+      {
+        "label": "prowls",
+        "probe": "prowler"
+      }
+    ]
+  },
+  "stares": {
+    "senses": [
+      {
+        "label": "fixed",
+        "probe": "stare"
+      },
+      {
+        "label": "look",
+        "probe": "gaze"
+      }
+    ]
+  },
+  "stargazing": {
+    "senses": [
+      {
+        "label": "observe",
+        "probe": "gaze"
+      },
+      {
+        "label": "have",
+        "probe": "daydream"
+      }
+    ]
+  },
+  "strands": {
+    "senses": [
+      {
+        "label": "necklace",
+        "probe": "necklace"
+      },
+      {
+        "label": "very",
+        "probe": "filament"
+      }
+    ]
+  },
+  "stratagem": {
+    "senses": [
+      {
+        "label": "maneuver",
+        "probe": "manoeuvre"
+      },
+      {
+        "label": "elaborate",
+        "probe": "contrivance"
+      }
+    ]
+  },
+  "stray": {
+    "senses": [
+      {
+        "label": "move",
+        "probe": "wander"
+      },
+      {
+        "label": "wander",
+        "probe": "drift"
+      }
+    ]
+  },
+  "strays": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "stray"
+      },
+      {
+        "label": "move",
+        "probe": "wander"
+      },
+      {
+        "label": "wander",
+        "probe": "drift"
+      }
+    ]
+  },
+  "sublime": {
+    "senses": [
+      {
+        "label": "vaporize",
+        "probe": "vaporize"
+      },
+      {
+        "label": "high",
+        "probe": "exalted"
+      }
+    ]
+  },
+  "submarines": {
+    "senses": [
+      {
+        "label": "submersible",
+        "probe": "submersible"
+      },
+      {
+        "label": "large",
+        "probe": "torpedo"
+      }
+    ]
+  },
+  "subtler": {
+    "senses": [
+      {
+        "label": "able",
+        "probe": "perceptive"
+      },
+      {
+        "label": "working",
+        "probe": "insidious"
+      }
+    ]
+  },
+  "sucks": {
+    "senses": [
+      {
+        "label": "sucking",
+        "probe": "sucking"
+      },
+      {
+        "label": "draw",
+        "probe": "suck"
+      }
+    ]
+  },
+  "sunken": {
+    "senses": [
+      {
+        "label": "under",
+        "probe": "descend"
+      },
+      {
+        "label": "embed",
+        "probe": "implant"
+      }
+    ]
+  },
+  "supernatural": {
+    "senses": [
+      {
+        "label": "supernatural",
+        "probe": "occult"
+      },
+      {
+        "label": "existing",
+        "probe": "eerie"
+      }
+    ]
+  },
+  "surfaces": {
+    "senses": [
+      {
+        "label": "outer",
+        "probe": "outer"
+      },
+      {
+        "label": "outermost",
+        "probe": "outermost"
+      },
+      {
+        "label": "superficial",
+        "probe": "superficial"
+      }
+    ]
+  },
+  "surreal": {
+    "senses": [
+      {
+        "label": "characterized",
+        "probe": "surrealistic"
+      },
+      {
+        "label": "resembling",
+        "probe": "dreamlike"
+      }
+    ]
+  },
+  "swarms": {
+    "senses": [
+      {
+        "label": "moving",
+        "probe": "horde"
+      },
+      {
+        "label": "many",
+        "probe": "swarm"
+      }
+    ]
+  },
+  "symmetries": {
+    "senses": [
+      {
+        "label": "attribute",
+        "probe": "symmetry"
+      },
+      {
+        "label": "balance",
+        "probe": "equilibrium"
+      }
+    ]
+  },
+  "synthetic": {
+    "senses": [
+      {
+        "label": "natural",
+        "probe": "unreal"
+      },
+      {
+        "label": "artificial",
+        "probe": "celluloid"
+      }
+    ]
+  },
+  "tails": {
+    "senses": [
+      {
+        "label": "posterior",
+        "probe": "tail"
+      },
+      {
+        "label": "fleshy",
+        "probe": "posterior"
+      }
+    ]
+  },
+  "takeoff": {
+    "senses": [
+      {
+        "label": "composition",
+        "probe": "imitation"
+      },
+      {
+        "label": "humorous",
+        "probe": "mimicry"
+      }
+    ]
+  },
+  "telescopes": {
+    "senses": [
+      {
+        "label": "magnifier",
+        "probe": "telescope"
+      },
+      {
+        "label": "make",
+        "probe": "condense"
+      }
+    ]
+  },
+  "temporal": {
+    "senses": [
+      {
+        "label": "eternal",
+        "probe": "eternal"
+      },
+      {
+        "label": "characteristic",
+        "probe": "worldly"
+      },
+      {
+        "label": "this",
+        "probe": "earthly"
+      }
+    ]
+  },
+  "terrestrial": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "planetary"
+      },
+      {
+        "label": "concerned",
+        "probe": "worldly"
+      },
+      {
+        "label": "this",
+        "probe": "earthly"
+      }
+    ]
+  },
+  "thrusters": {
+    "senses": [
+      {
+        "label": "intrudes",
+        "probe": "pusher"
+      },
+      {
+        "label": "small",
+        "probe": "thruster"
+      }
+    ]
+  },
+  "thrusts": {
+    "senses": [
+      {
+        "label": "applying",
+        "probe": "propulsion"
+      },
+      {
+        "label": "sharp",
+        "probe": "thrusting"
+      }
+    ]
+  },
+  "titan": {
+    "senses": [
+      {
+        "label": "exceptional",
+        "probe": "colossus"
+      },
+      {
+        "label": "primordial",
+        "probe": "primordial"
+      }
+    ]
+  },
+  "titania": {
+    "senses": [
+      {
+        "label": "white",
+        "probe": "pigment"
+      },
+      {
+        "label": "queen",
+        "probe": "fairy"
+      }
+    ]
+  },
+  "topology": {
+    "senses": [
+      {
+        "label": "topographic",
+        "probe": "topography"
+      },
+      {
+        "label": "study",
+        "probe": "anatomy"
+      },
+      {
+        "label": "configuration",
+        "probe": "constellation"
+      }
+    ]
+  },
+  "torpedoes": {
+    "senses": [
+      {
+        "label": "professional",
+        "probe": "hitman"
+      },
+      {
+        "label": "large",
+        "probe": "torpedo"
+      }
+    ]
+  },
+  "tracers": {
+    "senses": [
+      {
+        "label": "investigator",
+        "probe": "tracer"
+      },
+      {
+        "label": "radioactive",
+        "probe": "radioactive"
+      }
+    ]
+  },
+  "tracing": {
+    "senses": [
+      {
+        "label": "pursue",
+        "probe": "hound"
+      },
+      {
+        "label": "discover",
+        "probe": "detect"
+      }
+    ]
+  },
+  "tramp": {
+    "senses": [
+      {
+        "label": "disreputable",
+        "probe": "drifter"
+      },
+      {
+        "label": "foot",
+        "probe": "hiker"
+      },
+      {
+        "label": "cross",
+        "probe": "traverse"
+      },
+      {
+        "label": "move",
+        "probe": "wander"
+      }
+    ]
+  },
+  "trances": {
+    "senses": [
+      {
+        "label": "psychological",
+        "probe": "enchantment"
+      },
+      {
+        "label": "mind",
+        "probe": "unconsciousness"
+      }
+    ]
+  },
+  "transient": {
+    "senses": [
+      {
+        "label": "short",
+        "probe": "oscillation"
+      },
+      {
+        "label": "lasting",
+        "probe": "ephemeral"
+      }
+    ]
+  },
+  "transitions": {
+    "senses": [
+      {
+        "label": "event",
+        "probe": "transmutation"
+      },
+      {
+        "label": "musical",
+        "probe": "modulation"
+      }
+    ]
+  },
+  "transits": {
+    "senses": [
+      {
+        "label": "journey",
+        "probe": "journeying"
+      },
+      {
+        "label": "revolve",
+        "probe": "revolve"
+      }
+    ]
+  },
+  "transports": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "conveyance"
+      },
+      {
+        "label": "exchange",
+        "probe": "diffusion"
+      }
+    ]
+  },
+  "trespass": {
+    "senses": [
+      {
+        "label": "entry",
+        "probe": "encroachment"
+      },
+      {
+        "label": "enter",
+        "probe": "intrude"
+      }
+    ]
+  },
+  "tube": {
+    "senses": [
+      {
+        "label": "conduit",
+        "probe": "tubing"
+      },
+      {
+        "label": "hollow",
+        "probe": "cylinder"
+      }
+    ]
+  },
+  "tubes": {
+    "senses": [
+      {
+        "label": "conduit",
+        "probe": "tube"
+      },
+      {
+        "label": "hollow",
+        "probe": "cylinder"
+      }
+    ]
+  },
+  "twinkle": {
+    "senses": [
+      {
+        "label": "gleam",
+        "probe": "blink"
+      },
+      {
+        "label": "emit",
+        "probe": "emit"
+      }
+    ]
+  },
+  "twinkling": {
+    "senses": [
+      {
+        "label": "very",
+        "probe": "heartbeat"
+      },
+      {
+        "label": "gleam",
+        "probe": "blink"
+      },
+      {
+        "label": "emit",
+        "probe": "twinkle"
+      }
+    ]
+  },
+  "twisted": {
+    "senses": [
+      {
+        "label": "twist",
+        "probe": "wrench"
+      },
+      {
+        "label": "having",
+        "probe": "perverted"
+      }
+    ]
+  },
+  "ultraviolet": {
+    "senses": [
+      {
+        "label": "radiation",
+        "probe": "uv"
+      },
+      {
+        "label": "having",
+        "probe": "invisible"
+      }
+    ]
+  },
+  "unbound": {
+    "senses": [
+      {
+        "label": "untie",
+        "probe": "detach"
+      },
+      {
+        "label": "restrained",
+        "probe": "untethered"
+      }
+    ]
+  },
+  "unconnected": {
+    "senses": [
+      {
+        "label": "joined",
+        "probe": "detached"
+      },
+      {
+        "label": "lacking",
+        "probe": "disordered"
+      }
+    ]
+  },
+  "underbelly": {
+    "senses": [
+      {
+        "label": "lower",
+        "probe": "underside"
+      },
+      {
+        "label": "soft",
+        "probe": "abdomen"
+      }
+    ]
+  },
+  "undetectable": {
+    "senses": [
+      {
+        "label": "easily",
+        "probe": "invisible"
+      },
+      {
+        "label": "barely",
+        "probe": "imperceptible"
+      }
+    ]
+  },
+  "undiscovered": {
+    "senses": [
+      {
+        "label": "discovered",
+        "probe": "undetected"
+      },
+      {
+        "label": "discovered",
+        "probe": "unexplored"
+      }
+    ]
+  },
+  "unholy": {
+    "senses": [
+      {
+        "label": "extremely",
+        "probe": "demonic"
+      },
+      {
+        "label": "having",
+        "probe": "sinful"
+      }
+    ]
+  },
+  "universe": {
+    "senses": [
+      {
+        "label": "everything",
+        "probe": "cosmos"
+      },
+      {
+        "label": "entire",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "universes": {
+    "senses": [
+      {
+        "label": "everything",
+        "probe": "universe"
+      },
+      {
+        "label": "entire",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "unknowns": {
+    "senses": [
+      {
+        "label": "does",
+        "probe": "alien"
+      },
+      {
+        "label": "variable",
+        "probe": "variable"
+      }
+    ]
+  },
+  "unreal": {
+    "senses": [
+      {
+        "label": "lacking",
+        "probe": "illusory"
+      },
+      {
+        "label": "actually",
+        "probe": "dreamlike"
+      },
+      {
+        "label": "contrived",
+        "probe": "contrived"
+      },
+      {
+        "label": "lacking",
+        "probe": "airy"
+      }
+    ]
+  },
+  "vagabond": {
+    "senses": [
+      {
+        "label": "wanderer",
+        "probe": "drifter"
+      },
+      {
+        "label": "move",
+        "probe": "wander"
+      },
+      {
+        "label": "wandering",
+        "probe": "wandering"
+      },
+      {
+        "label": "continually",
+        "probe": "aimless"
+      }
+    ]
+  },
+  "vanishes": {
+    "senses": [
+      {
+        "label": "lost",
+        "probe": "vanish"
+      },
+      {
+        "label": "decrease",
+        "probe": "vaporize"
+      }
+    ]
+  },
+  "vanishing": {
+    "senses": [
+      {
+        "label": "lost",
+        "probe": "vanish"
+      },
+      {
+        "label": "decrease",
+        "probe": "vaporize"
+      }
+    ]
+  },
+  "vaporized": {
+    "senses": [
+      {
+        "label": "kill",
+        "probe": "vaporize"
+      },
+      {
+        "label": "decrease",
+        "probe": "vanish"
+      },
+      {
+        "label": "converted",
+        "probe": "gaseous"
+      }
+    ]
+  },
+  "vapors": {
+    "senses": [
+      {
+        "label": "visible",
+        "probe": "vapor"
+      },
+      {
+        "label": "becoming",
+        "probe": "evaporation"
+      }
+    ]
+  },
+  "variable": {
+    "senses": [
+      {
+        "label": "liable",
+        "probe": "multivariate"
+      },
+      {
+        "label": "designed",
+        "probe": "adaptable"
+      }
+    ]
+  },
+  "varmint": {
+    "senses": [
+      {
+        "label": "irritating",
+        "probe": "vermin"
+      },
+      {
+        "label": "usually",
+        "probe": "beast"
+      }
+    ]
+  },
+  "vibration": {
+    "senses": [
+      {
+        "label": "vibrating",
+        "probe": "vibrating"
+      },
+      {
+        "label": "regular",
+        "probe": "oscillation"
+      },
+      {
+        "label": "distinctive",
+        "probe": "aura"
+      }
+    ]
+  },
+  "vibrations": {
+    "senses": [
+      {
+        "label": "vibrating",
+        "probe": "vibration"
+      },
+      {
+        "label": "regular",
+        "probe": "oscillation"
+      },
+      {
+        "label": "distinctive",
+        "probe": "aura"
+      }
+    ]
+  },
+  "visions": {
+    "senses": [
+      {
+        "label": "vivid",
+        "probe": "imaging"
+      },
+      {
+        "label": "perceptual",
+        "probe": "perceptual"
+      }
+    ]
+  },
+  "visualized": {
+    "senses": [
+      {
+        "label": "imagine",
+        "probe": "visualize"
+      },
+      {
+        "label": "seen",
+        "probe": "unreal"
+      }
+    ]
+  },
+  "vomit": {
+    "senses": [
+      {
+        "label": "matter",
+        "probe": "excreta"
+      },
+      {
+        "label": "medicine",
+        "probe": "therapeutic"
+      },
+      {
+        "label": "reflex",
+        "probe": "reflex"
+      },
+      {
+        "label": "eject",
+        "probe": "eject"
+      }
+    ]
+  },
+  "vortex": {
+    "senses": [
+      {
+        "label": "shape",
+        "probe": "whirl"
+      },
+      {
+        "label": "powerful",
+        "probe": "maelstrom"
+      }
+    ]
+  },
+  "vortices": {
+    "senses": [
+      {
+        "label": "shape",
+        "probe": "whirl"
+      },
+      {
+        "label": "powerful",
+        "probe": "vortex"
+      }
+    ]
+  },
+  "voyages": {
+    "senses": [
+      {
+        "label": "traveling",
+        "probe": "voyage"
+      },
+      {
+        "label": "journey",
+        "probe": "journeying"
+      }
+    ]
+  },
+  "wanderer": {
+    "senses": [
+      {
+        "label": "leads",
+        "probe": "rover"
+      },
+      {
+        "label": "computer",
+        "probe": "spider"
+      }
+    ]
+  },
+  "wandering": {
+    "senses": [
+      {
+        "label": "travelling",
+        "probe": "roving"
+      },
+      {
+        "label": "move",
+        "probe": "wander"
+      },
+      {
+        "label": "lose",
+        "probe": "stray"
+      },
+      {
+        "label": "having",
+        "probe": "planetary"
+      }
+    ]
+  },
+  "wanders": {
+    "senses": [
+      {
+        "label": "move",
+        "probe": "wander"
+      },
+      {
+        "label": "lose",
+        "probe": "stray"
+      }
+    ]
+  },
+  "wands": {
+    "senses": [
+      {
+        "label": "used",
+        "probe": "wand"
+      },
+      {
+        "label": "ceremonial",
+        "probe": "scepter"
+      }
+    ]
+  },
+  "warp": {
+    "senses": [
+      {
+        "label": "twist",
+        "probe": "deflection"
+      },
+      {
+        "label": "moral",
+        "probe": "warping"
+      }
+    ]
+  },
+  "warps": {
+    "senses": [
+      {
+        "label": "twist",
+        "probe": "deflection"
+      },
+      {
+        "label": "shape",
+        "probe": "warp"
+      },
+      {
+        "label": "moral",
+        "probe": "warping"
+      }
+    ]
+  },
+  "wastes": {
+    "senses": [
+      {
+        "label": "useless",
+        "probe": "dissipation"
+      },
+      {
+        "label": "uninhabited",
+        "probe": "wasteland"
+      },
+      {
+        "label": "become",
+        "probe": "degenerate"
+      }
+    ]
+  },
+  "waxing": {
+    "senses": [
+      {
+        "label": "application",
+        "probe": "coating"
+      },
+      {
+        "label": "cover",
+        "probe": "wax"
+      }
+    ]
+  },
+  "whirl": {
+    "senses": [
+      {
+        "label": "shape",
+        "probe": "vortex"
+      },
+      {
+        "label": "turn",
+        "probe": "revolve"
+      }
+    ]
+  },
+  "whirled": {
+    "senses": [
+      {
+        "label": "turn",
+        "probe": "whirl"
+      },
+      {
+        "label": "revolve",
+        "probe": "revolve"
+      }
+    ]
+  },
+  "whirling": {
+    "senses": [
+      {
+        "label": "turn",
+        "probe": "whirl"
+      },
+      {
+        "label": "revolve",
+        "probe": "revolve"
+      }
+    ]
+  },
+  "wicked": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "sinful"
+      },
+      {
+        "label": "naughtily",
+        "probe": "mischievous"
+      },
+      {
+        "label": "highly",
+        "probe": "repellent"
+      }
+    ]
+  },
+  "wickedness": {
+    "senses": [
+      {
+        "label": "morally",
+        "probe": "transgression"
+      },
+      {
+        "label": "absence",
+        "probe": "darkness"
+      },
+      {
+        "label": "being",
+        "probe": "ugliness"
+      }
+    ]
+  },
+  "wimps": {
+    "senses": [
+      {
+        "label": "lacks",
+        "probe": "wimp"
+      },
+      {
+        "label": "hypothetical",
+        "probe": "hypothetical"
+      }
+    ]
+  },
+  "wonderland": {
+    "senses": [
+      {
+        "label": "scene",
+        "probe": "earth"
+      },
+      {
+        "label": "imaginary",
+        "probe": "imaginary"
+      }
+    ]
+  },
+  "zigzag": {
+    "senses": [
+      {
+        "label": "angular",
+        "probe": "angular"
+      },
+      {
+        "label": "travel",
+        "probe": "crank"
+      }
+    ]
+  },
+  "zombie": {
+    "senses": [
+      {
+        "label": "voodoo",
+        "probe": "voodoo"
+      },
+      {
+        "label": "acts",
+        "probe": "automaton"
+      }
+    ]
+  },
+  "zombies": {
+    "senses": [
+      {
+        "label": "dead",
+        "probe": "zombie"
+      },
+      {
+        "label": "voodoo",
+        "probe": "voodoo"
+      },
+      {
+        "label": "acts",
+        "probe": "automaton"
+      }
+    ]
+  }
+}

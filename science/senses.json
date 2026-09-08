@@ -1,0 +1,7494 @@
+{
+  "aberrant": {
+    "senses": [
+      {
+        "label": "whose",
+        "probe": "anomaly"
+      },
+      {
+        "label": "markedly",
+        "probe": "abnormal"
+      }
+    ]
+  },
+  "abnormalities": {
+    "senses": [
+      {
+        "label": "abnormal",
+        "probe": "abnormality"
+      },
+      {
+        "label": "retardation",
+        "probe": "retardation"
+      },
+      {
+        "label": "marked",
+        "probe": "strangeness"
+      }
+    ]
+  },
+  "abnormality": {
+    "senses": [
+      {
+        "label": "abnormal",
+        "probe": "abnormal"
+      },
+      {
+        "label": "retardation",
+        "probe": "retardation"
+      },
+      {
+        "label": "marked",
+        "probe": "strangeness"
+      }
+    ]
+  },
+  "absorption": {
+    "senses": [
+      {
+        "label": "social",
+        "probe": "assimilation"
+      },
+      {
+        "label": "complete",
+        "probe": "concentration"
+      }
+    ]
+  },
+  "abstract": {
+    "senses": [
+      {
+        "label": "concept",
+        "probe": "abstraction"
+      },
+      {
+        "label": "give",
+        "probe": "summarize"
+      },
+      {
+        "label": "existing",
+        "probe": "conceptual"
+      },
+      {
+        "label": "dealing",
+        "probe": "theoretical"
+      }
+    ]
+  },
+  "abstracted": {
+    "senses": [
+      {
+        "label": "consider",
+        "probe": "abstract"
+      },
+      {
+        "label": "give",
+        "probe": "summarize"
+      }
+    ]
+  },
+  "abstraction": {
+    "senses": [
+      {
+        "label": "concept",
+        "probe": "abstract"
+      },
+      {
+        "label": "formulating",
+        "probe": "generalization"
+      },
+      {
+        "label": "preoccupation",
+        "probe": "absorption"
+      }
+    ]
+  },
+  "abstractions": {
+    "senses": [
+      {
+        "label": "concept",
+        "probe": "abstraction"
+      },
+      {
+        "label": "formulating",
+        "probe": "generalization"
+      },
+      {
+        "label": "abstract",
+        "probe": "abstract"
+      },
+      {
+        "label": "preoccupation",
+        "probe": "absorption"
+      }
+    ]
+  },
+  "abstracts": {
+    "senses": [
+      {
+        "label": "concept",
+        "probe": "abstraction"
+      },
+      {
+        "label": "sketchy",
+        "probe": "abstract"
+      },
+      {
+        "label": "give",
+        "probe": "summarize"
+      }
+    ]
+  },
+  "academicians": {
+    "senses": [
+      {
+        "label": "elected",
+        "probe": "academician"
+      },
+      {
+        "label": "educator",
+        "probe": "pedagogue"
+      }
+    ]
+  },
+  "accelerator": {
+    "senses": [
+      {
+        "label": "valve",
+        "probe": "valve"
+      },
+      {
+        "label": "scientific",
+        "probe": "scientific"
+      }
+    ]
+  },
+  "accelerators": {
+    "senses": [
+      {
+        "label": "pedal",
+        "probe": "accelerator"
+      },
+      {
+        "label": "valve",
+        "probe": "valve"
+      },
+      {
+        "label": "scientific",
+        "probe": "scientific"
+      }
+    ]
+  },
+  "acculturation": {
+    "senses": [
+      {
+        "label": "adoption",
+        "probe": "socialization"
+      },
+      {
+        "label": "assimilating",
+        "probe": "assimilation"
+      }
+    ]
+  },
+  "acid": {
+    "senses": [
+      {
+        "label": "street",
+        "probe": "dose"
+      },
+      {
+        "label": "harsh",
+        "probe": "caustic"
+      },
+      {
+        "label": "being",
+        "probe": "acidic"
+      }
+    ]
+  },
+  "acids": {
+    "senses": [
+      {
+        "label": "various",
+        "probe": "acid"
+      },
+      {
+        "label": "street",
+        "probe": "dose"
+      }
+    ]
+  },
+  "acoustics": {
+    "senses": [
+      {
+        "label": "study",
+        "probe": "physics"
+      },
+      {
+        "label": "remedy",
+        "probe": "therapeutic"
+      }
+    ]
+  },
+  "acrylic": {
+    "senses": [
+      {
+        "label": "used",
+        "probe": "pigment"
+      },
+      {
+        "label": "synthetic",
+        "probe": "synthetic"
+      }
+    ]
+  },
+  "adhesion": {
+    "senses": [
+      {
+        "label": "abnormal",
+        "probe": "abnormal"
+      },
+      {
+        "label": "fibrous",
+        "probe": "fibrous"
+      }
+    ]
+  },
+  "aesthetics": {
+    "senses": [
+      {
+        "label": "branch",
+        "probe": "esthetics"
+      },
+      {
+        "label": "philosophical",
+        "probe": "aesthetic"
+      }
+    ]
+  },
+  "affinities": {
+    "senses": [
+      {
+        "label": "attraction",
+        "probe": "affinity"
+      },
+      {
+        "label": "kinship",
+        "probe": "kinship"
+      }
+    ]
+  },
+  "airy": {
+    "senses": [
+      {
+        "label": "practical",
+        "probe": "utopian"
+      },
+      {
+        "label": "characterized",
+        "probe": "ethereal"
+      }
+    ]
+  },
+  "alchemy": {
+    "senses": [
+      {
+        "label": "individuals",
+        "probe": "chemistry"
+      },
+      {
+        "label": "pseudoscientific",
+        "probe": "pseudoscientific"
+      }
+    ]
+  },
+  "allegory": {
+    "senses": [
+      {
+        "label": "short",
+        "probe": "parable"
+      },
+      {
+        "label": "expressive",
+        "probe": "expressive"
+      }
+    ]
+  },
+  "alloys": {
+    "senses": [
+      {
+        "label": "impairing",
+        "probe": "admixture"
+      },
+      {
+        "label": "make",
+        "probe": "flux"
+      }
+    ]
+  },
+  "alterations": {
+    "senses": [
+      {
+        "label": "event",
+        "probe": "alteration"
+      },
+      {
+        "label": "making",
+        "probe": "modification"
+      }
+    ]
+  },
+  "amphibian": {
+    "senses": [
+      {
+        "label": "airplane",
+        "probe": "aeroplane"
+      },
+      {
+        "label": "cold",
+        "probe": "vertebrate"
+      }
+    ]
+  },
+  "amphibians": {
+    "senses": [
+      {
+        "label": "flat",
+        "probe": "amphibian"
+      },
+      {
+        "label": "airplane",
+        "probe": "aeroplane"
+      },
+      {
+        "label": "cold",
+        "probe": "vertebrate"
+      }
+    ]
+  },
+  "amplitude": {
+    "senses": [
+      {
+        "label": "maximum",
+        "probe": "displacement"
+      },
+      {
+        "label": "property",
+        "probe": "abundance"
+      }
+    ]
+  },
+  "amplitudes": {
+    "senses": [
+      {
+        "label": "maximum",
+        "probe": "amplitude"
+      },
+      {
+        "label": "property",
+        "probe": "abundance"
+      }
+    ]
+  },
+  "amyloid": {
+    "senses": [
+      {
+        "label": "nitrogenous",
+        "probe": "starch"
+      },
+      {
+        "label": "waxy",
+        "probe": "protein"
+      }
+    ]
+  },
+  "analysed": {
+    "senses": [
+      {
+        "label": "consider",
+        "probe": "analyze"
+      },
+      {
+        "label": "make",
+        "probe": "dissect"
+      }
+    ]
+  },
+  "analyses": {
+    "senses": [
+      {
+        "label": "abstract",
+        "probe": "abstract"
+      },
+      {
+        "label": "branch",
+        "probe": "calculus"
+      },
+      {
+        "label": "techniques",
+        "probe": "psychoanalysis"
+      },
+      {
+        "label": "consider",
+        "probe": "analyze"
+      },
+      {
+        "label": "make",
+        "probe": "dissect"
+      }
+    ]
+  },
+  "analysing": {
+    "senses": [
+      {
+        "label": "consider",
+        "probe": "analyze"
+      },
+      {
+        "label": "make",
+        "probe": "dissect"
+      }
+    ]
+  },
+  "analyzed": {
+    "senses": [
+      {
+        "label": "consider",
+        "probe": "analyze"
+      },
+      {
+        "label": "make",
+        "probe": "dissect"
+      }
+    ]
+  },
+  "analyzes": {
+    "senses": [
+      {
+        "label": "consider",
+        "probe": "analyze"
+      },
+      {
+        "label": "make",
+        "probe": "dissect"
+      }
+    ]
+  },
+  "analyzing": {
+    "senses": [
+      {
+        "label": "consider",
+        "probe": "analyze"
+      },
+      {
+        "label": "make",
+        "probe": "dissect"
+      }
+    ]
+  },
+  "anemia": {
+    "senses": [
+      {
+        "label": "deficiency",
+        "probe": "deficiency"
+      },
+      {
+        "label": "genus",
+        "probe": "genus"
+      }
+    ]
+  },
+  "approximation": {
+    "senses": [
+      {
+        "label": "approximate",
+        "probe": "estimation"
+      },
+      {
+        "label": "coming",
+        "probe": "similarity"
+      },
+      {
+        "label": "imprecise",
+        "probe": "imprecise"
+      }
+    ]
+  },
+  "approximations": {
+    "senses": [
+      {
+        "label": "approximate",
+        "probe": "estimation"
+      },
+      {
+        "label": "coming",
+        "probe": "approximation"
+      },
+      {
+        "label": "imprecise",
+        "probe": "imprecise"
+      }
+    ]
+  },
+  "aroma": {
+    "senses": [
+      {
+        "label": "property",
+        "probe": "smell"
+      },
+      {
+        "label": "distinctive",
+        "probe": "odor"
+      }
+    ]
+  },
+  "assay": {
+    "senses": [
+      {
+        "label": "quantitative",
+        "probe": "quantitative"
+      },
+      {
+        "label": "analyze",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "assays": {
+    "senses": [
+      {
+        "label": "appraisal",
+        "probe": "assay"
+      },
+      {
+        "label": "quantitative",
+        "probe": "quantitative"
+      },
+      {
+        "label": "analyze",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "assemblages": {
+    "senses": [
+      {
+        "label": "persons",
+        "probe": "assemblage"
+      },
+      {
+        "label": "several",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "assimilation": {
+    "senses": [
+      {
+        "label": "social",
+        "probe": "absorption"
+      },
+      {
+        "label": "linguistic",
+        "probe": "linguistic"
+      },
+      {
+        "label": "assimilating",
+        "probe": "acculturation"
+      },
+      {
+        "label": "theories",
+        "probe": "theories"
+      }
+    ]
+  },
+  "atoms": {
+    "senses": [
+      {
+        "label": "smallest",
+        "probe": "atom"
+      },
+      {
+        "label": "tiny",
+        "probe": "molecule"
+      }
+    ]
+  },
+  "authorship": {
+    "senses": [
+      {
+        "label": "creating",
+        "probe": "composition"
+      },
+      {
+        "label": "initiating",
+        "probe": "paternity"
+      }
+    ]
+  },
+  "bachelors": {
+    "senses": [
+      {
+        "label": "never",
+        "probe": "bachelor"
+      },
+      {
+        "label": "lead",
+        "probe": "bach"
+      }
+    ]
+  },
+  "ballistics": {
+    "senses": [
+      {
+        "label": "trajectory",
+        "probe": "trajectory"
+      },
+      {
+        "label": "science",
+        "probe": "science"
+      }
+    ]
+  },
+  "batches": {
+    "senses": [
+      {
+        "label": "loaves",
+        "probe": "accumulation"
+      },
+      {
+        "label": "collection",
+        "probe": "assemblage"
+      }
+    ]
+  },
+  "bearings": {
+    "senses": [
+      {
+        "label": "relevant",
+        "probe": "relatedness"
+      },
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      },
+      {
+        "label": "heraldry",
+        "probe": "heraldry"
+      }
+    ]
+  },
+  "bifurcation": {
+    "senses": [
+      {
+        "label": "bifurcating",
+        "probe": "ramification"
+      },
+      {
+        "label": "splitting",
+        "probe": "branching"
+      }
+    ]
+  },
+  "biology": {
+    "senses": [
+      {
+        "label": "science",
+        "probe": "science"
+      },
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      },
+      {
+        "label": "life",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "blends": {
+    "senses": [
+      {
+        "label": "occurrence",
+        "probe": "occurrence"
+      },
+      {
+        "label": "blending",
+        "probe": "blending"
+      },
+      {
+        "label": "together",
+        "probe": "flux"
+      }
+    ]
+  },
+  "blooms": {
+    "senses": [
+      {
+        "label": "organic",
+        "probe": "organic"
+      },
+      {
+        "label": "reproductive",
+        "probe": "reproductive"
+      },
+      {
+        "label": "powdery",
+        "probe": "crystallization"
+      }
+    ]
+  },
+  "boiling": {
+    "senses": [
+      {
+        "label": "application",
+        "probe": "vapor"
+      },
+      {
+        "label": "cooking",
+        "probe": "cookery"
+      }
+    ]
+  },
+  "botany": {
+    "senses": [
+      {
+        "label": "life",
+        "probe": "flora"
+      },
+      {
+        "label": "branch",
+        "probe": "biology"
+      }
+    ]
+  },
+  "brain": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "cognition"
+      },
+      {
+        "label": "exceptional",
+        "probe": "einstein"
+      }
+    ]
+  },
+  "brains": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "brain"
+      },
+      {
+        "label": "that",
+        "probe": "cognition"
+      },
+      {
+        "label": "exceptional",
+        "probe": "einstein"
+      }
+    ]
+  },
+  "branching": {
+    "senses": [
+      {
+        "label": "branching",
+        "probe": "ramification"
+      },
+      {
+        "label": "resembling",
+        "probe": "divergent"
+      }
+    ]
+  },
+  "breeding": {
+    "senses": [
+      {
+        "label": "helping",
+        "probe": "rearing"
+      },
+      {
+        "label": "sexual",
+        "probe": "reproduction"
+      },
+      {
+        "label": "producing",
+        "probe": "fruitful"
+      }
+    ]
+  },
+  "buoyancy": {
+    "senses": [
+      {
+        "label": "property",
+        "probe": "weightlessness"
+      },
+      {
+        "label": "tendency",
+        "probe": "inclination"
+      }
+    ]
+  },
+  "businesslike": {
+    "senses": [
+      {
+        "label": "exhibiting",
+        "probe": "exhibiting"
+      },
+      {
+        "label": "distracted",
+        "probe": "purposeful"
+      }
+    ]
+  },
+  "cancers": {
+    "senses": [
+      {
+        "label": "malignant",
+        "probe": "malignant"
+      },
+      {
+        "label": "genus",
+        "probe": "genus"
+      }
+    ]
+  },
+  "capacitance": {
+    "senses": [
+      {
+        "label": "electrical",
+        "probe": "electrical"
+      },
+      {
+        "label": "electrical",
+        "probe": "capacitor"
+      }
+    ]
+  },
+  "capsule": {
+    "senses": [
+      {
+        "label": "shortened",
+        "probe": "condensation"
+      },
+      {
+        "label": "spacecraft",
+        "probe": "spacecraft"
+      },
+      {
+        "label": "short",
+        "probe": "condense"
+      }
+    ]
+  },
+  "caustic": {
+    "senses": [
+      {
+        "label": "chemical",
+        "probe": "chemical"
+      },
+      {
+        "label": "harsh",
+        "probe": "acid"
+      },
+      {
+        "label": "especially",
+        "probe": "corrosive"
+      }
+    ]
+  },
+  "cavities": {
+    "senses": [
+      {
+        "label": "sizeable",
+        "probe": "cavity"
+      },
+      {
+        "label": "soft",
+        "probe": "caries"
+      }
+    ]
+  },
+  "characteristic": {
+    "senses": [
+      {
+        "label": "distinguishing",
+        "probe": "distinguishing"
+      },
+      {
+        "label": "measurable",
+        "probe": "measurable"
+      }
+    ]
+  },
+  "characteristics": {
+    "senses": [
+      {
+        "label": "prominent",
+        "probe": "characteristic"
+      },
+      {
+        "label": "distinguishing",
+        "probe": "distinguishing"
+      },
+      {
+        "label": "measurable",
+        "probe": "measurable"
+      }
+    ]
+  },
+  "characterizes": {
+    "senses": [
+      {
+        "label": "describe",
+        "probe": "characterize"
+      },
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      }
+    ]
+  },
+  "chemist": {
+    "senses": [
+      {
+        "label": "scientist",
+        "probe": "scientist"
+      },
+      {
+        "label": "health",
+        "probe": "pharmacist"
+      }
+    ]
+  },
+  "chemistry": {
+    "senses": [
+      {
+        "label": "science",
+        "probe": "science"
+      },
+      {
+        "label": "chemical",
+        "probe": "chemical"
+      },
+      {
+        "label": "individuals",
+        "probe": "alchemy"
+      }
+    ]
+  },
+  "chemists": {
+    "senses": [
+      {
+        "label": "scientist",
+        "probe": "chemist"
+      },
+      {
+        "label": "health",
+        "probe": "pharmacist"
+      }
+    ]
+  },
+  "ciphers": {
+    "senses": [
+      {
+        "label": "mathematical",
+        "probe": "mathematical"
+      },
+      {
+        "label": "quantity",
+        "probe": "quantity"
+      }
+    ]
+  },
+  "civilizations": {
+    "senses": [
+      {
+        "label": "society",
+        "probe": "civilisation"
+      },
+      {
+        "label": "excellence",
+        "probe": "refinement"
+      }
+    ]
+  },
+  "classifications": {
+    "senses": [
+      {
+        "label": "distributing",
+        "probe": "categorization"
+      },
+      {
+        "label": "restriction",
+        "probe": "confinement"
+      }
+    ]
+  },
+  "clotting": {
+    "senses": [
+      {
+        "label": "forming",
+        "probe": "coagulation"
+      },
+      {
+        "label": "change",
+        "probe": "clot"
+      }
+    ]
+  },
+  "coatings": {
+    "senses": [
+      {
+        "label": "thin",
+        "probe": "coating"
+      },
+      {
+        "label": "decorative",
+        "probe": "decorative"
+      }
+    ]
+  },
+  "coils": {
+    "senses": [
+      {
+        "label": "structure",
+        "probe": "helix"
+      },
+      {
+        "label": "transformer",
+        "probe": "transformer"
+      },
+      {
+        "label": "contraceptive",
+        "probe": "preventative"
+      },
+      {
+        "label": "reactor",
+        "probe": "reactor"
+      }
+    ]
+  },
+  "collages": {
+    "senses": [
+      {
+        "label": "paste",
+        "probe": "collage"
+      },
+      {
+        "label": "collection",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "coma": {
+    "senses": [
+      {
+        "label": "deep",
+        "probe": "unconsciousness"
+      },
+      {
+        "label": "luminous",
+        "probe": "luminous"
+      }
+    ]
+  },
+  "communicable": {
+    "senses": [
+      {
+        "label": "capable",
+        "probe": "contagious"
+      },
+      {
+        "label": "readily",
+        "probe": "communicative"
+      }
+    ]
+  },
+  "complication": {
+    "senses": [
+      {
+        "label": "development",
+        "probe": "ramification"
+      },
+      {
+        "label": "puzzling",
+        "probe": "puzzling"
+      }
+    ]
+  },
+  "composition": {
+    "senses": [
+      {
+        "label": "spatial",
+        "probe": "spatial"
+      },
+      {
+        "label": "creating",
+        "probe": "authorship"
+      },
+      {
+        "label": "technique",
+        "probe": "typography"
+      }
+    ]
+  },
+  "compositions": {
+    "senses": [
+      {
+        "label": "spatial",
+        "probe": "composition"
+      },
+      {
+        "label": "creating",
+        "probe": "authorship"
+      },
+      {
+        "label": "technique",
+        "probe": "typography"
+      }
+    ]
+  },
+  "concentrates": {
+    "senses": [
+      {
+        "label": "concentrated",
+        "probe": "foodstuff"
+      },
+      {
+        "label": "concentrated",
+        "probe": "paradigm"
+      },
+      {
+        "label": "make",
+        "probe": "condense"
+      }
+    ]
+  },
+  "concentration": {
+    "senses": [
+      {
+        "label": "spatial",
+        "probe": "density"
+      },
+      {
+        "label": "complete",
+        "probe": "absorption"
+      },
+      {
+        "label": "bringing",
+        "probe": "assemblage"
+      },
+      {
+        "label": "great",
+        "probe": "diligence"
+      }
+    ]
+  },
+  "concentrations": {
+    "senses": [
+      {
+        "label": "strength",
+        "probe": "concentration"
+      },
+      {
+        "label": "spatial",
+        "probe": "density"
+      },
+      {
+        "label": "complete",
+        "probe": "absorption"
+      },
+      {
+        "label": "bringing",
+        "probe": "assemblage"
+      },
+      {
+        "label": "great",
+        "probe": "diligence"
+      }
+    ]
+  },
+  "conception": {
+    "senses": [
+      {
+        "label": "abstract",
+        "probe": "abstract"
+      },
+      {
+        "label": "creation",
+        "probe": "invention"
+      }
+    ]
+  },
+  "conceptions": {
+    "senses": [
+      {
+        "label": "abstract",
+        "probe": "conception"
+      },
+      {
+        "label": "creation",
+        "probe": "invention"
+      }
+    ]
+  },
+  "conceptualization": {
+    "senses": [
+      {
+        "label": "inventing",
+        "probe": "formulation"
+      },
+      {
+        "label": "elaborated",
+        "probe": "elaborated"
+      }
+    ]
+  },
+  "concoction": {
+    "senses": [
+      {
+        "label": "foodstuff",
+        "probe": "foodstuff"
+      },
+      {
+        "label": "occurrence",
+        "probe": "occurrence"
+      },
+      {
+        "label": "invention",
+        "probe": "invention"
+      }
+    ]
+  },
+  "condensate": {
+    "senses": [
+      {
+        "label": "product",
+        "probe": "freshwater"
+      },
+      {
+        "label": "atmospheric",
+        "probe": "condensation"
+      }
+    ]
+  },
+  "condensation": {
+    "senses": [
+      {
+        "label": "atmospheric",
+        "probe": "condensate"
+      },
+      {
+        "label": "result",
+        "probe": "shrinkage"
+      },
+      {
+        "label": "shortened",
+        "probe": "capsule"
+      },
+      {
+        "label": "increasing",
+        "probe": "condensing"
+      }
+    ]
+  },
+  "condensing": {
+    "senses": [
+      {
+        "label": "increasing",
+        "probe": "condensation"
+      },
+      {
+        "label": "undergo",
+        "probe": "condense"
+      }
+    ]
+  },
+  "conformation": {
+    "senses": [
+      {
+        "label": "symmetrical",
+        "probe": "equilibrium"
+      },
+      {
+        "label": "spatial",
+        "probe": "contour"
+      },
+      {
+        "label": "acting",
+        "probe": "conformity"
+      }
+    ]
+  },
+  "conformity": {
+    "senses": [
+      {
+        "label": "correspondence",
+        "probe": "conformance"
+      },
+      {
+        "label": "acting",
+        "probe": "conformation"
+      }
+    ]
+  },
+  "conjecture": {
+    "senses": [
+      {
+        "label": "hypothesis",
+        "probe": "hypothesis"
+      },
+      {
+        "label": "reasoning",
+        "probe": "reasoning"
+      },
+      {
+        "label": "believe",
+        "probe": "theorize"
+      }
+    ]
+  },
+  "conservatories": {
+    "senses": [
+      {
+        "label": "faculty",
+        "probe": "conservatory"
+      },
+      {
+        "label": "schoolhouse",
+        "probe": "conservatoire"
+      },
+      {
+        "label": "greenhouse",
+        "probe": "hothouse"
+      }
+    ]
+  },
+  "conservatory": {
+    "senses": [
+      {
+        "label": "schoolhouse",
+        "probe": "conservatoire"
+      },
+      {
+        "label": "greenhouse",
+        "probe": "hothouse"
+      }
+    ]
+  },
+  "constructions": {
+    "senses": [
+      {
+        "label": "constructing",
+        "probe": "constructing"
+      },
+      {
+        "label": "constructed",
+        "probe": "artifact"
+      }
+    ]
+  },
+  "constructs": {
+    "senses": [
+      {
+        "label": "abstract",
+        "probe": "conception"
+      },
+      {
+        "label": "reassemble",
+        "probe": "theorize"
+      }
+    ]
+  },
+  "contagious": {
+    "senses": [
+      {
+        "label": "easily",
+        "probe": "infectious"
+      },
+      {
+        "label": "capable",
+        "probe": "communicable"
+      }
+    ]
+  },
+  "contaminated": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "contaminate"
+      },
+      {
+        "label": "rendered",
+        "probe": "impure"
+      }
+    ]
+  },
+  "contamination": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "impurity"
+      },
+      {
+        "label": "that",
+        "probe": "contaminant"
+      }
+    ]
+  },
+  "contour": {
+    "senses": [
+      {
+        "label": "spatial",
+        "probe": "conformation"
+      },
+      {
+        "label": "feature",
+        "probe": "characteristic"
+      }
+    ]
+  },
+  "cores": {
+    "senses": [
+      {
+        "label": "small",
+        "probe": "nucleus"
+      },
+      {
+        "label": "choicest",
+        "probe": "gist"
+      },
+      {
+        "label": "cylindrical",
+        "probe": "cylindrical"
+      },
+      {
+        "label": "tiny",
+        "probe": "torus"
+      },
+      {
+        "label": "magnetic",
+        "probe": "magnetic"
+      }
+    ]
+  },
+  "correlate": {
+    "senses": [
+      {
+        "label": "bear",
+        "probe": "correspond"
+      },
+      {
+        "label": "mutually",
+        "probe": "correlated"
+      }
+    ]
+  },
+  "correlates": {
+    "senses": [
+      {
+        "label": "either",
+        "probe": "correlate"
+      },
+      {
+        "label": "bear",
+        "probe": "correspond"
+      }
+    ]
+  },
+  "correspondences": {
+    "senses": [
+      {
+        "label": "attribute",
+        "probe": "symmetry"
+      },
+      {
+        "label": "similarity",
+        "probe": "similarity"
+      }
+    ]
+  },
+  "cosmology": {
+    "senses": [
+      {
+        "label": "metaphysical",
+        "probe": "metaphysical"
+      },
+      {
+        "label": "branch",
+        "probe": "astrophysics"
+      }
+    ]
+  },
+  "creep": {
+    "senses": [
+      {
+        "label": "slow",
+        "probe": "locomotion"
+      },
+      {
+        "label": "grow",
+        "probe": "diffuse"
+      }
+    ]
+  },
+  "crossbreeding": {
+    "senses": [
+      {
+        "label": "mixing",
+        "probe": "hybridization"
+      },
+      {
+        "label": "reproduction",
+        "probe": "reproduction"
+      }
+    ]
+  },
+  "cryptography": {
+    "senses": [
+      {
+        "label": "science",
+        "probe": "cryptanalysis"
+      },
+      {
+        "label": "writing",
+        "probe": "coding"
+      }
+    ]
+  },
+  "crystals": {
+    "senses": [
+      {
+        "label": "crystalline",
+        "probe": "crystalline"
+      },
+      {
+        "label": "rock",
+        "probe": "crystallization"
+      },
+      {
+        "label": "colorless",
+        "probe": "colorless"
+      },
+      {
+        "label": "glassware",
+        "probe": "glassware"
+      }
+    ]
+  },
+  "cultivated": {
+    "senses": [
+      {
+        "label": "teach",
+        "probe": "refine"
+      },
+      {
+        "label": "marked",
+        "probe": "cultured"
+      }
+    ]
+  },
+  "cultures": {
+    "senses": [
+      {
+        "label": "particular",
+        "probe": "civilisation"
+      },
+      {
+        "label": "knowledge",
+        "probe": "acculturation"
+      },
+      {
+        "label": "growing",
+        "probe": "maturation"
+      },
+      {
+        "label": "highly",
+        "probe": "refinement"
+      }
+    ]
+  },
+  "curiosities": {
+    "senses": [
+      {
+        "label": "which",
+        "probe": "curiosity"
+      },
+      {
+        "label": "unusual",
+        "probe": "oddity"
+      }
+    ]
+  },
+  "curvature": {
+    "senses": [
+      {
+        "label": "rate",
+        "probe": "derivative"
+      },
+      {
+        "label": "property",
+        "probe": "contour"
+      }
+    ]
+  },
+  "curves": {
+    "senses": [
+      {
+        "label": "property",
+        "probe": "curvature"
+      },
+      {
+        "label": "arch",
+        "probe": "arc"
+      }
+    ]
+  },
+  "cycles": {
+    "senses": [
+      {
+        "label": "interval",
+        "probe": "interval"
+      },
+      {
+        "label": "single",
+        "probe": "oscillation"
+      }
+    ]
+  },
+  "decay": {
+    "senses": [
+      {
+        "label": "organic",
+        "probe": "decomposition"
+      },
+      {
+        "label": "spontaneous",
+        "probe": "spontaneous"
+      },
+      {
+        "label": "lose",
+        "probe": "decompose"
+      }
+    ]
+  },
+  "decays": {
+    "senses": [
+      {
+        "label": "gradually",
+        "probe": "decay"
+      },
+      {
+        "label": "organic",
+        "probe": "decomposition"
+      },
+      {
+        "label": "spontaneous",
+        "probe": "spontaneous"
+      },
+      {
+        "label": "lose",
+        "probe": "decompose"
+      }
+    ]
+  },
+  "decompose": {
+    "senses": [
+      {
+        "label": "lose",
+        "probe": "decay"
+      },
+      {
+        "label": "break",
+        "probe": "rot"
+      }
+    ]
+  },
+  "decomposed": {
+    "senses": [
+      {
+        "label": "separate",
+        "probe": "decompose"
+      },
+      {
+        "label": "lose",
+        "probe": "decay"
+      },
+      {
+        "label": "break",
+        "probe": "rot"
+      }
+    ]
+  },
+  "decomposes": {
+    "senses": [
+      {
+        "label": "separate",
+        "probe": "decompose"
+      },
+      {
+        "label": "lose",
+        "probe": "decay"
+      },
+      {
+        "label": "break",
+        "probe": "rot"
+      }
+    ]
+  },
+  "decomposing": {
+    "senses": [
+      {
+        "label": "separate",
+        "probe": "decompose"
+      },
+      {
+        "label": "lose",
+        "probe": "decay"
+      },
+      {
+        "label": "break",
+        "probe": "rot"
+      }
+    ]
+  },
+  "decomposition": {
+    "senses": [
+      {
+        "label": "decomposed",
+        "probe": "decomposed"
+      },
+      {
+        "label": "decay",
+        "probe": "rot"
+      },
+      {
+        "label": "organic",
+        "probe": "decay"
+      }
+    ]
+  },
+  "deduced": {
+    "senses": [
+      {
+        "label": "reason",
+        "probe": "deduce"
+      },
+      {
+        "label": "conclude",
+        "probe": "infer"
+      }
+    ]
+  },
+  "degeneration": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "degeneracy"
+      },
+      {
+        "label": "passing",
+        "probe": "transmutation"
+      }
+    ]
+  },
+  "dehydration": {
+    "senses": [
+      {
+        "label": "depletion",
+        "probe": "depletion"
+      },
+      {
+        "label": "extracting",
+        "probe": "evaporation"
+      }
+    ]
+  },
+  "densities": {
+    "senses": [
+      {
+        "label": "amount",
+        "probe": "density"
+      },
+      {
+        "label": "spatial",
+        "probe": "concentration"
+      }
+    ]
+  },
+  "depths": {
+    "senses": [
+      {
+        "label": "psychological",
+        "probe": "psychological"
+      },
+      {
+        "label": "moral",
+        "probe": "degradation"
+      }
+    ]
+  },
+  "derivation": {
+    "senses": [
+      {
+        "label": "explanation",
+        "probe": "deriving"
+      },
+      {
+        "label": "line",
+        "probe": "inference"
+      },
+      {
+        "label": "inherited",
+        "probe": "lineage"
+      }
+    ]
+  },
+  "derivative": {
+    "senses": [
+      {
+        "label": "result",
+        "probe": "differential"
+      },
+      {
+        "label": "resulting",
+        "probe": "derived"
+      }
+    ]
+  },
+  "derived": {
+    "senses": [
+      {
+        "label": "reason",
+        "probe": "deduce"
+      },
+      {
+        "label": "obtain",
+        "probe": "derive"
+      },
+      {
+        "label": "formed",
+        "probe": "derivative"
+      }
+    ]
+  },
+  "deriving": {
+    "senses": [
+      {
+        "label": "explanation",
+        "probe": "derivation"
+      },
+      {
+        "label": "reason",
+        "probe": "deduce"
+      },
+      {
+        "label": "obtain",
+        "probe": "derive"
+      }
+    ]
+  },
+  "detachment": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "insulation"
+      },
+      {
+        "label": "coming",
+        "probe": "alteration"
+      }
+    ]
+  },
+  "detection": {
+    "senses": [
+      {
+        "label": "detecting",
+        "probe": "detecting"
+      },
+      {
+        "label": "police",
+        "probe": "sleuthing"
+      }
+    ]
+  },
+  "deviance": {
+    "senses": [
+      {
+        "label": "condition",
+        "probe": "abnormality"
+      },
+      {
+        "label": "deviate",
+        "probe": "deviation"
+      }
+    ]
+  },
+  "deviation": {
+    "senses": [
+      {
+        "label": "variation",
+        "probe": "divergence"
+      },
+      {
+        "label": "deviate",
+        "probe": "deviance"
+      }
+    ]
+  },
+  "deviations": {
+    "senses": [
+      {
+        "label": "variation",
+        "probe": "deviation"
+      },
+      {
+        "label": "deviate",
+        "probe": "deviance"
+      }
+    ]
+  },
+  "diagnoses": {
+    "senses": [
+      {
+        "label": "identifying",
+        "probe": "diagnosis"
+      },
+      {
+        "label": "determine",
+        "probe": "diagnose"
+      },
+      {
+        "label": "subject",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "diagnosing": {
+    "senses": [
+      {
+        "label": "identifying",
+        "probe": "diagnosis"
+      },
+      {
+        "label": "determine",
+        "probe": "diagnose"
+      },
+      {
+        "label": "subject",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "dialectic": {
+    "senses": [
+      {
+        "label": "formal",
+        "probe": "philosophy"
+      },
+      {
+        "label": "relating",
+        "probe": "dialectical"
+      }
+    ]
+  },
+  "differentiated": {
+    "senses": [
+      {
+        "label": "distinctive",
+        "probe": "characterize"
+      },
+      {
+        "label": "evolve",
+        "probe": "specialise"
+      },
+      {
+        "label": "exhibiting",
+        "probe": "exhibiting"
+      }
+    ]
+  },
+  "differentiation": {
+    "senses": [
+      {
+        "label": "mathematical",
+        "probe": "mathematical"
+      },
+      {
+        "label": "structural",
+        "probe": "specialization"
+      }
+    ]
+  },
+  "diffuse": {
+    "senses": [
+      {
+        "label": "spread",
+        "probe": "permeate"
+      },
+      {
+        "label": "cause",
+        "probe": "propagate"
+      }
+    ]
+  },
+  "diffusion": {
+    "senses": [
+      {
+        "label": "property",
+        "probe": "dissemination"
+      },
+      {
+        "label": "dispersing",
+        "probe": "dispersion"
+      }
+    ]
+  },
+  "digestion": {
+    "senses": [
+      {
+        "label": "decomposing",
+        "probe": "decomposing"
+      },
+      {
+        "label": "organic",
+        "probe": "organic"
+      }
+    ]
+  },
+  "discharges": {
+    "senses": [
+      {
+        "label": "sudden",
+        "probe": "occurrence"
+      },
+      {
+        "label": "venting",
+        "probe": "emission"
+      },
+      {
+        "label": "electrical",
+        "probe": "arc"
+      }
+    ]
+  },
+  "dispersion": {
+    "senses": [
+      {
+        "label": "spreading",
+        "probe": "scattering"
+      },
+      {
+        "label": "spatial",
+        "probe": "spatial"
+      },
+      {
+        "label": "dispersing",
+        "probe": "dissemination"
+      }
+    ]
+  },
+  "dissected": {
+    "senses": [
+      {
+        "label": "open",
+        "probe": "dissect"
+      },
+      {
+        "label": "make",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "dissecting": {
+    "senses": [
+      {
+        "label": "open",
+        "probe": "dissect"
+      },
+      {
+        "label": "make",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "dissemination": {
+    "senses": [
+      {
+        "label": "property",
+        "probe": "diffusion"
+      },
+      {
+        "label": "dispersing",
+        "probe": "dispersion"
+      }
+    ]
+  },
+  "distillation": {
+    "senses": [
+      {
+        "label": "purifying",
+        "probe": "purifying"
+      },
+      {
+        "label": "purified",
+        "probe": "distillate"
+      }
+    ]
+  },
+  "distilling": {
+    "senses": [
+      {
+        "label": "undergo",
+        "probe": "condense"
+      },
+      {
+        "label": "extract",
+        "probe": "extract"
+      }
+    ]
+  },
+  "divergence": {
+    "senses": [
+      {
+        "label": "variation",
+        "probe": "deviation"
+      },
+      {
+        "label": "infinite",
+        "probe": "infinite"
+      },
+      {
+        "label": "difference",
+        "probe": "variance"
+      }
+    ]
+  },
+  "divination": {
+    "senses": [
+      {
+        "label": "successful",
+        "probe": "conjecture"
+      },
+      {
+        "label": "prediction",
+        "probe": "prophecy"
+      }
+    ]
+  },
+  "dosage": {
+    "senses": [
+      {
+        "label": "quantity",
+        "probe": "dose"
+      },
+      {
+        "label": "measured",
+        "probe": "medicine"
+      }
+    ]
+  },
+  "dosages": {
+    "senses": [
+      {
+        "label": "quantity",
+        "probe": "dose"
+      },
+      {
+        "label": "measured",
+        "probe": "dosage"
+      }
+    ]
+  },
+  "dose": {
+    "senses": [
+      {
+        "label": "measured",
+        "probe": "dosage"
+      },
+      {
+        "label": "quantity",
+        "probe": "quantity"
+      },
+      {
+        "label": "communicable",
+        "probe": "communicable"
+      },
+      {
+        "label": "street",
+        "probe": "acid"
+      },
+      {
+        "label": "administer",
+        "probe": "medicine"
+      }
+    ]
+  },
+  "doses": {
+    "senses": [
+      {
+        "label": "measured",
+        "probe": "dose"
+      },
+      {
+        "label": "quantity",
+        "probe": "dosage"
+      },
+      {
+        "label": "communicable",
+        "probe": "communicable"
+      },
+      {
+        "label": "street",
+        "probe": "acid"
+      },
+      {
+        "label": "administer",
+        "probe": "medicine"
+      }
+    ]
+  },
+  "dosing": {
+    "senses": [
+      {
+        "label": "treat",
+        "probe": "dose"
+      },
+      {
+        "label": "administer",
+        "probe": "medicine"
+      }
+    ]
+  },
+  "drift": {
+    "senses": [
+      {
+        "label": "linguistic",
+        "probe": "linguistic"
+      },
+      {
+        "label": "general",
+        "probe": "inclination"
+      }
+    ]
+  },
+  "dyeing": {
+    "senses": [
+      {
+        "label": "change",
+        "probe": "coloring"
+      },
+      {
+        "label": "color",
+        "probe": "dye"
+      }
+    ]
+  },
+  "edible": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "nutrient"
+      },
+      {
+        "label": "suitable",
+        "probe": "nontoxic"
+      }
+    ]
+  },
+  "educations": {
+    "senses": [
+      {
+        "label": "activities",
+        "probe": "pedagogy"
+      },
+      {
+        "label": "result",
+        "probe": "breeding"
+      }
+    ]
+  },
+  "einstein": {
+    "senses": [
+      {
+        "label": "physicist",
+        "probe": "physicist"
+      },
+      {
+        "label": "exceptional",
+        "probe": "brain"
+      }
+    ]
+  },
+  "elaborated": {
+    "senses": [
+      {
+        "label": "details",
+        "probe": "elucidate"
+      },
+      {
+        "label": "make",
+        "probe": "refine"
+      }
+    ]
+  },
+  "elaboration": {
+    "senses": [
+      {
+        "label": "addition",
+        "probe": "amplification"
+      },
+      {
+        "label": "result",
+        "probe": "refinement"
+      },
+      {
+        "label": "discussion",
+        "probe": "discourse"
+      },
+      {
+        "label": "marked",
+        "probe": "complexity"
+      }
+    ]
+  },
+  "electromagnetism": {
+    "senses": [
+      {
+        "label": "magnetism",
+        "probe": "magnetism"
+      },
+      {
+        "label": "branch",
+        "probe": "electromagnetics"
+      }
+    ]
+  },
+  "elicit": {
+    "senses": [
+      {
+        "label": "deduce",
+        "probe": "extract"
+      },
+      {
+        "label": "derive",
+        "probe": "derive"
+      }
+    ]
+  },
+  "elixir": {
+    "senses": [
+      {
+        "label": "hypothetical",
+        "probe": "hypothetical"
+      },
+      {
+        "label": "believed",
+        "probe": "potion"
+      }
+    ]
+  },
+  "elliptic": {
+    "senses": [
+      {
+        "label": "rounded",
+        "probe": "elliptical"
+      },
+      {
+        "label": "characterized",
+        "probe": "concise"
+      }
+    ]
+  },
+  "elliptical": {
+    "senses": [
+      {
+        "label": "rounded",
+        "probe": "elliptic"
+      },
+      {
+        "label": "characterized",
+        "probe": "concise"
+      }
+    ]
+  },
+  "elucidated": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "elucidate"
+      },
+      {
+        "label": "make",
+        "probe": "illuminate"
+      }
+    ]
+  },
+  "elucidating": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "elucidate"
+      },
+      {
+        "label": "make",
+        "probe": "illuminate"
+      }
+    ]
+  },
+  "embryo": {
+    "senses": [
+      {
+        "label": "minute",
+        "probe": "flora"
+      },
+      {
+        "label": "organism",
+        "probe": "organism"
+      }
+    ]
+  },
+  "embryos": {
+    "senses": [
+      {
+        "label": "minute",
+        "probe": "embryo"
+      },
+      {
+        "label": "organism",
+        "probe": "organism"
+      }
+    ]
+  },
+  "emission": {
+    "senses": [
+      {
+        "label": "emitting",
+        "probe": "emitting"
+      },
+      {
+        "label": "occurrence",
+        "probe": "occurrence"
+      }
+    ]
+  },
+  "emulsion": {
+    "senses": [
+      {
+        "label": "colloid",
+        "probe": "colloid"
+      },
+      {
+        "label": "light",
+        "probe": "coating"
+      }
+    ]
+  },
+  "enamel": {
+    "senses": [
+      {
+        "label": "paint",
+        "probe": "pigment"
+      },
+      {
+        "label": "smooth",
+        "probe": "coating"
+      }
+    ]
+  },
+  "endocrine": {
+    "senses": [
+      {
+        "label": "secretion",
+        "probe": "hormone"
+      },
+      {
+        "label": "glands",
+        "probe": "gland"
+      }
+    ]
+  },
+  "engravings": {
+    "senses": [
+      {
+        "label": "print",
+        "probe": "engraving"
+      },
+      {
+        "label": "making",
+        "probe": "etching"
+      }
+    ]
+  },
+  "entropy": {
+    "senses": [
+      {
+        "label": "numerical",
+        "probe": "numerical"
+      },
+      {
+        "label": "thermodynamic",
+        "probe": "randomness"
+      }
+    ]
+  },
+  "ephemeral": {
+    "senses": [
+      {
+        "label": "short",
+        "probe": "insect"
+      },
+      {
+        "label": "lasting",
+        "probe": "transient"
+      }
+    ]
+  },
+  "equation": {
+    "senses": [
+      {
+        "label": "mathematical",
+        "probe": "mathematical"
+      },
+      {
+        "label": "being",
+        "probe": "equivalence"
+      }
+    ]
+  },
+  "equations": {
+    "senses": [
+      {
+        "label": "mathematical",
+        "probe": "equation"
+      },
+      {
+        "label": "being",
+        "probe": "equivalence"
+      }
+    ]
+  },
+  "equilibrium": {
+    "senses": [
+      {
+        "label": "chemical",
+        "probe": "chemical"
+      },
+      {
+        "label": "sensory",
+        "probe": "sensory"
+      }
+    ]
+  },
+  "essays": {
+    "senses": [
+      {
+        "label": "analytic",
+        "probe": "analytic"
+      },
+      {
+        "label": "make",
+        "probe": "assay"
+      }
+    ]
+  },
+  "esthetics": {
+    "senses": [
+      {
+        "label": "branch",
+        "probe": "aesthetics"
+      },
+      {
+        "label": "philosophical",
+        "probe": "aesthetic"
+      }
+    ]
+  },
+  "etching": {
+    "senses": [
+      {
+        "label": "impression",
+        "probe": "engraving"
+      },
+      {
+        "label": "making",
+        "probe": "printmaking"
+      }
+    ]
+  },
+  "etchings": {
+    "senses": [
+      {
+        "label": "impression",
+        "probe": "etching"
+      },
+      {
+        "label": "etched",
+        "probe": "engraving"
+      },
+      {
+        "label": "making",
+        "probe": "printmaking"
+      }
+    ]
+  },
+  "ether": {
+    "senses": [
+      {
+        "label": "fifth",
+        "probe": "quintessence"
+      },
+      {
+        "label": "medium",
+        "probe": "aether"
+      },
+      {
+        "label": "colorless",
+        "probe": "colorless"
+      }
+    ]
+  },
+  "ethereal": {
+    "senses": [
+      {
+        "label": "characterized",
+        "probe": "airy"
+      },
+      {
+        "label": "heaven",
+        "probe": "celestial"
+      }
+    ]
+  },
+  "evaporation": {
+    "senses": [
+      {
+        "label": "becoming",
+        "probe": "vapor"
+      },
+      {
+        "label": "extracting",
+        "probe": "dehydration"
+      }
+    ]
+  },
+  "excavation": {
+    "senses": [
+      {
+        "label": "hole",
+        "probe": "artifact"
+      },
+      {
+        "label": "extracting",
+        "probe": "extracting"
+      }
+    ]
+  },
+  "excavations": {
+    "senses": [
+      {
+        "label": "digging",
+        "probe": "excavation"
+      },
+      {
+        "label": "hole",
+        "probe": "artifact"
+      },
+      {
+        "label": "extracting",
+        "probe": "extracting"
+      }
+    ]
+  },
+  "excitation": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "inflammation"
+      },
+      {
+        "label": "neural",
+        "probe": "neural"
+      },
+      {
+        "label": "that",
+        "probe": "arousal"
+      }
+    ]
+  },
+  "excitations": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "excitation"
+      },
+      {
+        "label": "neural",
+        "probe": "neural"
+      },
+      {
+        "label": "that",
+        "probe": "arousal"
+      }
+    ]
+  },
+  "experiment": {
+    "senses": [
+      {
+        "label": "conducting",
+        "probe": "experimentation"
+      },
+      {
+        "label": "testing",
+        "probe": "research"
+      }
+    ]
+  },
+  "experimental": {
+    "senses": [
+      {
+        "label": "relying",
+        "probe": "observational"
+      },
+      {
+        "label": "nature",
+        "probe": "empirical"
+      }
+    ]
+  },
+  "experiments": {
+    "senses": [
+      {
+        "label": "conducting",
+        "probe": "experiment"
+      },
+      {
+        "label": "testing",
+        "probe": "experimentation"
+      }
+    ]
+  },
+  "explorations": {
+    "senses": [
+      {
+        "label": "travel",
+        "probe": "exploration"
+      },
+      {
+        "label": "systematic",
+        "probe": "systematic"
+      }
+    ]
+  },
+  "explored": {
+    "senses": [
+      {
+        "label": "inquire",
+        "probe": "research"
+      },
+      {
+        "label": "examine",
+        "probe": "diagnose"
+      }
+    ]
+  },
+  "explores": {
+    "senses": [
+      {
+        "label": "inquire",
+        "probe": "research"
+      },
+      {
+        "label": "examine",
+        "probe": "diagnose"
+      }
+    ]
+  },
+  "exponent": {
+    "senses": [
+      {
+        "label": "expounds",
+        "probe": "intellect"
+      },
+      {
+        "label": "mathematical",
+        "probe": "mathematical"
+      }
+    ]
+  },
+  "exponents": {
+    "senses": [
+      {
+        "label": "pleads",
+        "probe": "exponent"
+      },
+      {
+        "label": "expounds",
+        "probe": "intellect"
+      },
+      {
+        "label": "mathematical",
+        "probe": "mathematical"
+      }
+    ]
+  },
+  "expositions": {
+    "senses": [
+      {
+        "label": "systematic",
+        "probe": "systematic"
+      },
+      {
+        "label": "collection",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "extracted": {
+    "senses": [
+      {
+        "label": "remove",
+        "probe": "extract"
+      },
+      {
+        "label": "deduce",
+        "probe": "elicit"
+      }
+    ]
+  },
+  "extracting": {
+    "senses": [
+      {
+        "label": "remove",
+        "probe": "extract"
+      },
+      {
+        "label": "deduce",
+        "probe": "elicit"
+      }
+    ]
+  },
+  "extracts": {
+    "senses": [
+      {
+        "label": "solution",
+        "probe": "extract"
+      },
+      {
+        "label": "deduce",
+        "probe": "elicit"
+      }
+    ]
+  },
+  "extrapolated": {
+    "senses": [
+      {
+        "label": "draw",
+        "probe": "generalize"
+      },
+      {
+        "label": "gain",
+        "probe": "deduce"
+      }
+    ]
+  },
+  "fabrication": {
+    "senses": [
+      {
+        "label": "writing",
+        "probe": "authorship"
+      },
+      {
+        "label": "constructing",
+        "probe": "constructing"
+      }
+    ]
+  },
+  "fauna": {
+    "senses": [
+      {
+        "label": "life",
+        "probe": "zoology"
+      },
+      {
+        "label": "living",
+        "probe": "organism"
+      }
+    ]
+  },
+  "fertilisation": {
+    "senses": [
+      {
+        "label": "creation",
+        "probe": "fertilization"
+      },
+      {
+        "label": "making",
+        "probe": "enrichment"
+      }
+    ]
+  },
+  "fertilization": {
+    "senses": [
+      {
+        "label": "creation",
+        "probe": "fertilisation"
+      },
+      {
+        "label": "making",
+        "probe": "enrichment"
+      }
+    ]
+  },
+  "fibers": {
+    "senses": [
+      {
+        "label": "coarse",
+        "probe": "foodstuff"
+      },
+      {
+        "label": "inherent",
+        "probe": "trait"
+      }
+    ]
+  },
+  "flora": {
+    "senses": [
+      {
+        "label": "life",
+        "probe": "botany"
+      },
+      {
+        "label": "living",
+        "probe": "organism"
+      }
+    ]
+  },
+  "flowering": {
+    "senses": [
+      {
+        "label": "time",
+        "probe": "inflorescence"
+      },
+      {
+        "label": "developmental",
+        "probe": "developmental"
+      }
+    ]
+  },
+  "flux": {
+    "senses": [
+      {
+        "label": "added",
+        "probe": "chemical"
+      },
+      {
+        "label": "excessive",
+        "probe": "pathology"
+      },
+      {
+        "label": "number",
+        "probe": "density"
+      },
+      {
+        "label": "together",
+        "probe": "fuse"
+      }
+    ]
+  },
+  "fluxes": {
+    "senses": [
+      {
+        "label": "rate",
+        "probe": "flux"
+      },
+      {
+        "label": "added",
+        "probe": "chemical"
+      },
+      {
+        "label": "excessive",
+        "probe": "pathology"
+      },
+      {
+        "label": "number",
+        "probe": "density"
+      },
+      {
+        "label": "together",
+        "probe": "fuse"
+      }
+    ]
+  },
+  "foodstuffs": {
+    "senses": [
+      {
+        "label": "consumer",
+        "probe": "foodstuff"
+      },
+      {
+        "label": "that",
+        "probe": "nutrient"
+      }
+    ]
+  },
+  "formalism": {
+    "senses": [
+      {
+        "label": "doctrine",
+        "probe": "philosophy"
+      },
+      {
+        "label": "philosophical",
+        "probe": "philosophical"
+      }
+    ]
+  },
+  "formulations": {
+    "senses": [
+      {
+        "label": "prepared",
+        "probe": "formulation"
+      },
+      {
+        "label": "inventing",
+        "probe": "conceptualization"
+      }
+    ]
+  },
+  "fractions": {
+    "senses": [
+      {
+        "label": "component",
+        "probe": "chemical"
+      },
+      {
+        "label": "quotient",
+        "probe": "quotient"
+      }
+    ]
+  },
+  "fragmentation": {
+    "senses": [
+      {
+        "label": "disintegration",
+        "probe": "decomposition"
+      },
+      {
+        "label": "scattering",
+        "probe": "scattering"
+      }
+    ]
+  },
+  "freemasonry": {
+    "senses": [
+      {
+        "label": "natural",
+        "probe": "fellowship"
+      },
+      {
+        "label": "freemasons",
+        "probe": "masonry"
+      }
+    ]
+  },
+  "fumes": {
+    "senses": [
+      {
+        "label": "gases",
+        "probe": "gases"
+      },
+      {
+        "label": "cloud",
+        "probe": "aerosol"
+      }
+    ]
+  },
+  "functional": {
+    "senses": [
+      {
+        "label": "designed",
+        "probe": "structural"
+      },
+      {
+        "label": "ready",
+        "probe": "usable"
+      }
+    ]
+  },
+  "functionalism": {
+    "senses": [
+      {
+        "label": "psychology",
+        "probe": "psychology"
+      },
+      {
+        "label": "doctrine",
+        "probe": "philosophy"
+      }
+    ]
+  },
+  "fungi": {
+    "senses": [
+      {
+        "label": "taxonomic",
+        "probe": "taxonomic"
+      },
+      {
+        "label": "organism",
+        "probe": "fungus"
+      }
+    ]
+  },
+  "fuse": {
+    "senses": [
+      {
+        "label": "electrical",
+        "probe": "electrical"
+      },
+      {
+        "label": "igniter",
+        "probe": "primer"
+      },
+      {
+        "label": "together",
+        "probe": "flux"
+      },
+      {
+        "label": "make",
+        "probe": "melt"
+      }
+    ]
+  },
+  "fused": {
+    "senses": [
+      {
+        "label": "together",
+        "probe": "flux"
+      },
+      {
+        "label": "become",
+        "probe": "fuse"
+      },
+      {
+        "label": "make",
+        "probe": "melt"
+      }
+    ]
+  },
+  "fuses": {
+    "senses": [
+      {
+        "label": "electrical",
+        "probe": "fuse"
+      },
+      {
+        "label": "igniter",
+        "probe": "primer"
+      },
+      {
+        "label": "together",
+        "probe": "flux"
+      },
+      {
+        "label": "make",
+        "probe": "melt"
+      }
+    ]
+  },
+  "fusing": {
+    "senses": [
+      {
+        "label": "together",
+        "probe": "flux"
+      },
+      {
+        "label": "become",
+        "probe": "fuse"
+      },
+      {
+        "label": "make",
+        "probe": "melt"
+      }
+    ]
+  },
+  "fusion": {
+    "senses": [
+      {
+        "label": "occurrence",
+        "probe": "occurrence"
+      },
+      {
+        "label": "fusing",
+        "probe": "fusing"
+      }
+    ]
+  },
+  "galaxies": {
+    "senses": [
+      {
+        "label": "splendid",
+        "probe": "accumulation"
+      },
+      {
+        "label": "collection",
+        "probe": "assemblage"
+      }
+    ]
+  },
+  "gangrene": {
+    "senses": [
+      {
+        "label": "necrotic",
+        "probe": "pathology"
+      },
+      {
+        "label": "undergo",
+        "probe": "rot"
+      }
+    ]
+  },
+  "gases": {
+    "senses": [
+      {
+        "label": "fluid",
+        "probe": "fluid"
+      },
+      {
+        "label": "pedal",
+        "probe": "accelerator"
+      },
+      {
+        "label": "fossil",
+        "probe": "fossil"
+      }
+    ]
+  },
+  "gasses": {
+    "senses": [
+      {
+        "label": "fluid",
+        "probe": "fluid"
+      },
+      {
+        "label": "pedal",
+        "probe": "accelerator"
+      },
+      {
+        "label": "fossil",
+        "probe": "fossil"
+      }
+    ]
+  },
+  "gel": {
+    "senses": [
+      {
+        "label": "colloid",
+        "probe": "colloid"
+      },
+      {
+        "label": "thin",
+        "probe": "membrane"
+      }
+    ]
+  },
+  "genera": {
+    "senses": [
+      {
+        "label": "general",
+        "probe": "genus"
+      },
+      {
+        "label": "taxonomic",
+        "probe": "taxonomic"
+      }
+    ]
+  },
+  "generalization": {
+    "senses": [
+      {
+        "label": "reasoning",
+        "probe": "reasoning"
+      },
+      {
+        "label": "formulating",
+        "probe": "abstraction"
+      }
+    ]
+  },
+  "generalizations": {
+    "senses": [
+      {
+        "label": "reasoning",
+        "probe": "generalization"
+      },
+      {
+        "label": "formulating",
+        "probe": "abstraction"
+      }
+    ]
+  },
+  "generalized": {
+    "senses": [
+      {
+        "label": "draw",
+        "probe": "generalize"
+      },
+      {
+        "label": "biologically",
+        "probe": "biologically"
+      }
+    ]
+  },
+  "germs": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "germ"
+      },
+      {
+        "label": "minute",
+        "probe": "microbe"
+      }
+    ]
+  },
+  "gouache": {
+    "senses": [
+      {
+        "label": "opaque",
+        "probe": "watercolor"
+      },
+      {
+        "label": "watercolor",
+        "probe": "watercolour"
+      }
+    ]
+  },
+  "grains": {
+    "senses": [
+      {
+        "label": "relatively",
+        "probe": "atom"
+      },
+      {
+        "label": "foodstuff",
+        "probe": "foodstuff"
+      },
+      {
+        "label": "direction",
+        "probe": "texture"
+      },
+      {
+        "label": "physical",
+        "probe": "composition"
+      }
+    ]
+  },
+  "graphing": {
+    "senses": [
+      {
+        "label": "represent",
+        "probe": "graph"
+      },
+      {
+        "label": "plot",
+        "probe": "diagram"
+      }
+    ]
+  },
+  "graphs": {
+    "senses": [
+      {
+        "label": "visual",
+        "probe": "graph"
+      },
+      {
+        "label": "plot",
+        "probe": "diagram"
+      }
+    ]
+  },
+  "gravitation": {
+    "senses": [
+      {
+        "label": "force",
+        "probe": "gravity"
+      },
+      {
+        "label": "figurative",
+        "probe": "figurative"
+      }
+    ]
+  },
+  "gravity": {
+    "senses": [
+      {
+        "label": "force",
+        "probe": "gravitation"
+      },
+      {
+        "label": "manner",
+        "probe": "sobriety"
+      }
+    ]
+  },
+  "guesses": {
+    "senses": [
+      {
+        "label": "message",
+        "probe": "conjecture"
+      },
+      {
+        "label": "estimate",
+        "probe": "guesswork"
+      },
+      {
+        "label": "guess",
+        "probe": "infer"
+      }
+    ]
+  },
+  "hairs": {
+    "senses": [
+      {
+        "label": "cylindrical",
+        "probe": "cylindrical"
+      },
+      {
+        "label": "filamentous",
+        "probe": "outgrowth"
+      }
+    ]
+  },
+  "hallucination": {
+    "senses": [
+      {
+        "label": "illusory",
+        "probe": "illusory"
+      },
+      {
+        "label": "mistaken",
+        "probe": "delusion"
+      }
+    ]
+  },
+  "hallucinations": {
+    "senses": [
+      {
+        "label": "illusory",
+        "probe": "hallucination"
+      },
+      {
+        "label": "mistaken",
+        "probe": "delusion"
+      }
+    ]
+  },
+  "harmonic": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "harmonious"
+      },
+      {
+        "label": "involving",
+        "probe": "consonant"
+      }
+    ]
+  },
+  "harmonics": {
+    "senses": [
+      {
+        "label": "study",
+        "probe": "acoustics"
+      },
+      {
+        "label": "tone",
+        "probe": "harmonic"
+      }
+    ]
+  },
+  "harmonious": {
+    "senses": [
+      {
+        "label": "musically",
+        "probe": "harmonic"
+      },
+      {
+        "label": "exhibiting",
+        "probe": "exhibiting"
+      }
+    ]
+  },
+  "herpes": {
+    "senses": [
+      {
+        "label": "viral",
+        "probe": "viral"
+      },
+      {
+        "label": "viruses",
+        "probe": "viruses"
+      }
+    ]
+  },
+  "historiography": {
+    "senses": [
+      {
+        "label": "body",
+        "probe": "literature"
+      },
+      {
+        "label": "writing",
+        "probe": "authorship"
+      }
+    ]
+  },
+  "humanities": {
+    "senses": [
+      {
+        "label": "studies",
+        "probe": "studies"
+      },
+      {
+        "label": "living",
+        "probe": "humankind"
+      }
+    ]
+  },
+  "humans": {
+    "senses": [
+      {
+        "label": "living",
+        "probe": "humankind"
+      },
+      {
+        "label": "living",
+        "probe": "homo"
+      }
+    ]
+  },
+  "hypotheses": {
+    "senses": [
+      {
+        "label": "proposal",
+        "probe": "hypothesis"
+      },
+      {
+        "label": "tentative",
+        "probe": "theory"
+      },
+      {
+        "label": "message",
+        "probe": "conjecture"
+      }
+    ]
+  },
+  "hypothesis": {
+    "senses": [
+      {
+        "label": "tentative",
+        "probe": "theory"
+      },
+      {
+        "label": "message",
+        "probe": "conjecture"
+      }
+    ]
+  },
+  "hypothetical": {
+    "senses": [
+      {
+        "label": "hypothetical",
+        "probe": "hypothesis"
+      },
+      {
+        "label": "based",
+        "probe": "theoretical"
+      }
+    ]
+  },
+  "illuminates": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "illuminate"
+      },
+      {
+        "label": "make",
+        "probe": "elucidate"
+      }
+    ]
+  },
+  "illuminating": {
+    "senses": [
+      {
+        "label": "make",
+        "probe": "illuminate"
+      },
+      {
+        "label": "make",
+        "probe": "elucidate"
+      },
+      {
+        "label": "tending",
+        "probe": "informative"
+      }
+    ]
+  },
+  "illumination": {
+    "senses": [
+      {
+        "label": "interpretation",
+        "probe": "elucidation"
+      },
+      {
+        "label": "luminous",
+        "probe": "luminous"
+      }
+    ]
+  },
+  "illustrative": {
+    "senses": [
+      {
+        "label": "clarifying",
+        "probe": "informative"
+      },
+      {
+        "label": "serving",
+        "probe": "instructive"
+      }
+    ]
+  },
+  "imaging": {
+    "senses": [
+      {
+        "label": "obtaining",
+        "probe": "tomography"
+      },
+      {
+        "label": "render",
+        "probe": "visualize"
+      }
+    ]
+  },
+  "immature": {
+    "senses": [
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      },
+      {
+        "label": "mature",
+        "probe": "embryonic"
+      }
+    ]
+  },
+  "immersion": {
+    "senses": [
+      {
+        "label": "complete",
+        "probe": "concentration"
+      },
+      {
+        "label": "baptism",
+        "probe": "baptism"
+      }
+    ]
+  },
+  "implantation": {
+    "senses": [
+      {
+        "label": "organic",
+        "probe": "organic"
+      },
+      {
+        "label": "surgical",
+        "probe": "surgical"
+      }
+    ]
+  },
+  "impulses": {
+    "senses": [
+      {
+        "label": "instinctive",
+        "probe": "instinctive"
+      },
+      {
+        "label": "electrical",
+        "probe": "electrical"
+      }
+    ]
+  },
+  "inclination": {
+    "senses": [
+      {
+        "label": "attitude",
+        "probe": "disposition"
+      },
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      },
+      {
+        "label": "inclining",
+        "probe": "motility"
+      }
+    ]
+  },
+  "incubation": {
+    "senses": [
+      {
+        "label": "maintaining",
+        "probe": "tending"
+      },
+      {
+        "label": "sitting",
+        "probe": "birthing"
+      }
+    ]
+  },
+  "inducing": {
+    "senses": [
+      {
+        "label": "bringing",
+        "probe": "causation"
+      },
+      {
+        "label": "cause",
+        "probe": "induce"
+      }
+    ]
+  },
+  "inductive": {
+    "senses": [
+      {
+        "label": "reasoning",
+        "probe": "reasoning"
+      },
+      {
+        "label": "inducing",
+        "probe": "inducing"
+      }
+    ]
+  },
+  "infection": {
+    "senses": [
+      {
+        "label": "pathological",
+        "probe": "pathological"
+      },
+      {
+        "label": "alteration",
+        "probe": "alteration"
+      }
+    ]
+  },
+  "infections": {
+    "senses": [
+      {
+        "label": "pathological",
+        "probe": "infection"
+      },
+      {
+        "label": "alteration",
+        "probe": "alteration"
+      }
+    ]
+  },
+  "infectious": {
+    "senses": [
+      {
+        "label": "caused",
+        "probe": "septic"
+      },
+      {
+        "label": "easily",
+        "probe": "contagious"
+      }
+    ]
+  },
+  "infer": {
+    "senses": [
+      {
+        "label": "reason",
+        "probe": "deduce"
+      },
+      {
+        "label": "draw",
+        "probe": "generalize"
+      }
+    ]
+  },
+  "inferred": {
+    "senses": [
+      {
+        "label": "reason",
+        "probe": "deduce"
+      },
+      {
+        "label": "draw",
+        "probe": "generalize"
+      },
+      {
+        "label": "conclude",
+        "probe": "infer"
+      }
+    ]
+  },
+  "inflammation": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "excitation"
+      },
+      {
+        "label": "arousal",
+        "probe": "arousal"
+      },
+      {
+        "label": "setting",
+        "probe": "combustion"
+      }
+    ]
+  },
+  "informative": {
+    "senses": [
+      {
+        "label": "tending",
+        "probe": "illuminating"
+      },
+      {
+        "label": "serving",
+        "probe": "instructive"
+      }
+    ]
+  },
+  "inhalation": {
+    "senses": [
+      {
+        "label": "inhaling",
+        "probe": "intake"
+      },
+      {
+        "label": "medication",
+        "probe": "medicine"
+      }
+    ]
+  },
+  "insights": {
+    "senses": [
+      {
+        "label": "feeling",
+        "probe": "sensibility"
+      },
+      {
+        "label": "grasping",
+        "probe": "intuition"
+      }
+    ]
+  },
+  "instilled": {
+    "senses": [
+      {
+        "label": "impart",
+        "probe": "impart"
+      },
+      {
+        "label": "teach",
+        "probe": "inculcate"
+      }
+    ]
+  },
+  "instrumentation": {
+    "senses": [
+      {
+        "label": "artifact",
+        "probe": "artifact"
+      },
+      {
+        "label": "arranging",
+        "probe": "orchestration"
+      }
+    ]
+  },
+  "intake": {
+    "senses": [
+      {
+        "label": "taking",
+        "probe": "ingestion"
+      },
+      {
+        "label": "opening",
+        "probe": "inlet"
+      },
+      {
+        "label": "inhaling",
+        "probe": "inhalation"
+      }
+    ]
+  },
+  "intakes": {
+    "senses": [
+      {
+        "label": "taking",
+        "probe": "ingestion"
+      },
+      {
+        "label": "opening",
+        "probe": "intake"
+      },
+      {
+        "label": "inhaling",
+        "probe": "inhalation"
+      }
+    ]
+  },
+  "intuitive": {
+    "senses": [
+      {
+        "label": "spontaneously",
+        "probe": "spontaneously"
+      },
+      {
+        "label": "obtained",
+        "probe": "visceral"
+      }
+    ]
+  },
+  "inversion": {
+    "senses": [
+      {
+        "label": "abnormal",
+        "probe": "abnormal"
+      },
+      {
+        "label": "chemical",
+        "probe": "chemical"
+      },
+      {
+        "label": "mutation",
+        "probe": "mutation"
+      },
+      {
+        "label": "variation",
+        "probe": "variation"
+      },
+      {
+        "label": "turning",
+        "probe": "motility"
+      }
+    ]
+  },
+  "invigorating": {
+    "senses": [
+      {
+        "label": "impart",
+        "probe": "impart"
+      },
+      {
+        "label": "imparting",
+        "probe": "imparting"
+      }
+    ]
+  },
+  "irradiation": {
+    "senses": [
+      {
+        "label": "elicitation",
+        "probe": "generalization"
+      },
+      {
+        "label": "treatment",
+        "probe": "radiotherapy"
+      }
+    ]
+  },
+  "jaws": {
+    "senses": [
+      {
+        "label": "skull",
+        "probe": "skull"
+      },
+      {
+        "label": "talk",
+        "probe": "discourse"
+      }
+    ]
+  },
+  "jurisprudence": {
+    "senses": [
+      {
+        "label": "branch",
+        "probe": "philosophy"
+      },
+      {
+        "label": "collection",
+        "probe": "accumulation"
+      }
+    ]
+  },
+  "kabbalah": {
+    "senses": [
+      {
+        "label": "esoteric",
+        "probe": "esoteric"
+      },
+      {
+        "label": "esoteric",
+        "probe": "theosophy"
+      }
+    ]
+  },
+  "kinship": {
+    "senses": [
+      {
+        "label": "close",
+        "probe": "affinity"
+      },
+      {
+        "label": "relatedness",
+        "probe": "relatedness"
+      }
+    ]
+  },
+  "laboratories": {
+    "senses": [
+      {
+        "label": "workplace",
+        "probe": "lab"
+      },
+      {
+        "label": "region",
+        "probe": "laboratory"
+      }
+    ]
+  },
+  "landers": {
+    "senses": [
+      {
+        "label": "town",
+        "probe": "lander"
+      },
+      {
+        "label": "space",
+        "probe": "spacecraft"
+      }
+    ]
+  },
+  "layers": {
+    "senses": [
+      {
+        "label": "single",
+        "probe": "artifact"
+      },
+      {
+        "label": "abstract",
+        "probe": "stratum"
+      }
+    ]
+  },
+  "learners": {
+    "senses": [
+      {
+        "label": "learns",
+        "probe": "learner"
+      },
+      {
+        "label": "works",
+        "probe": "beginner"
+      }
+    ]
+  },
+  "lecturer": {
+    "senses": [
+      {
+        "label": "public",
+        "probe": "pedagogue"
+      },
+      {
+        "label": "lectures",
+        "probe": "lectures"
+      }
+    ]
+  },
+  "lecturers": {
+    "senses": [
+      {
+        "label": "public",
+        "probe": "lecturer"
+      },
+      {
+        "label": "lectures",
+        "probe": "lectures"
+      }
+    ]
+  },
+  "leeches": {
+    "senses": [
+      {
+        "label": "carnivorous",
+        "probe": "carnivorous"
+      },
+      {
+        "label": "follower",
+        "probe": "parasite"
+      }
+    ]
+  },
+  "lepidoptera": {
+    "senses": [
+      {
+        "label": "moths",
+        "probe": "moths"
+      },
+      {
+        "label": "insect",
+        "probe": "insect"
+      }
+    ]
+  },
+  "lineage": {
+    "senses": [
+      {
+        "label": "descendants",
+        "probe": "parentage"
+      },
+      {
+        "label": "kinship",
+        "probe": "kinship"
+      },
+      {
+        "label": "inherited",
+        "probe": "derivation"
+      }
+    ]
+  },
+  "lineages": {
+    "senses": [
+      {
+        "label": "descendants",
+        "probe": "lineage"
+      },
+      {
+        "label": "kinship",
+        "probe": "kinship"
+      },
+      {
+        "label": "inherited",
+        "probe": "derivation"
+      }
+    ]
+  },
+  "linguistics": {
+    "senses": [
+      {
+        "label": "scientific",
+        "probe": "scientific"
+      },
+      {
+        "label": "humanistic",
+        "probe": "philology"
+      }
+    ]
+  },
+  "linkage": {
+    "senses": [
+      {
+        "label": "associative",
+        "probe": "connectedness"
+      },
+      {
+        "label": "traits",
+        "probe": "traits"
+      },
+      {
+        "label": "mechanical",
+        "probe": "mechanical"
+      }
+    ]
+  },
+  "linkages": {
+    "senses": [
+      {
+        "label": "associative",
+        "probe": "linkage"
+      },
+      {
+        "label": "traits",
+        "probe": "traits"
+      },
+      {
+        "label": "mechanical",
+        "probe": "mechanical"
+      }
+    ]
+  },
+  "liquefied": {
+    "senses": [
+      {
+        "label": "become",
+        "probe": "flux"
+      },
+      {
+        "label": "reduced",
+        "probe": "liquified"
+      },
+      {
+        "label": "reduced",
+        "probe": "molten"
+      }
+    ]
+  },
+  "liquids": {
+    "senses": [
+      {
+        "label": "that",
+        "probe": "fluid"
+      },
+      {
+        "label": "frictionless",
+        "probe": "consonant"
+      }
+    ]
+  },
+  "liquified": {
+    "senses": [
+      {
+        "label": "become",
+        "probe": "flux"
+      },
+      {
+        "label": "reduced",
+        "probe": "liquefied"
+      },
+      {
+        "label": "reduced",
+        "probe": "molten"
+      }
+    ]
+  },
+  "literatures": {
+    "senses": [
+      {
+        "label": "creative",
+        "probe": "literature"
+      },
+      {
+        "label": "humanistic",
+        "probe": "humanistic"
+      }
+    ]
+  },
+  "logics": {
+    "senses": [
+      {
+        "label": "branch",
+        "probe": "philosophy"
+      },
+      {
+        "label": "reasoned",
+        "probe": "reasoned"
+      }
+    ]
+  },
+  "lucid": {
+    "senses": [
+      {
+        "label": "capable",
+        "probe": "coherent"
+      },
+      {
+        "label": "transmitting",
+        "probe": "crystalline"
+      }
+    ]
+  },
+  "markers": {
+    "senses": [
+      {
+        "label": "some",
+        "probe": "artifact"
+      },
+      {
+        "label": "distinguishing",
+        "probe": "distinguishing"
+      }
+    ]
+  },
+  "marrow": {
+    "senses": [
+      {
+        "label": "fatty",
+        "probe": "fatty"
+      },
+      {
+        "label": "choicest",
+        "probe": "gist"
+      }
+    ]
+  },
+  "matrices": {
+    "senses": [
+      {
+        "label": "rectangular",
+        "probe": "matrix"
+      },
+      {
+        "label": "formative",
+        "probe": "formative"
+      }
+    ]
+  },
+  "mechanics": {
+    "senses": [
+      {
+        "label": "branch",
+        "probe": "physics"
+      },
+      {
+        "label": "craftsman",
+        "probe": "machinist"
+      }
+    ]
+  },
+  "mechanisms": {
+    "senses": [
+      {
+        "label": "atomic",
+        "probe": "atomic"
+      },
+      {
+        "label": "technical",
+        "probe": "mechanics"
+      },
+      {
+        "label": "philosophical",
+        "probe": "philosophical"
+      }
+    ]
+  },
+  "meditations": {
+    "senses": [
+      {
+        "label": "continuous",
+        "probe": "meditation"
+      },
+      {
+        "label": "contemplation",
+        "probe": "contemplation"
+      }
+    ]
+  },
+  "melt": {
+    "senses": [
+      {
+        "label": "whereby",
+        "probe": "melting"
+      },
+      {
+        "label": "become",
+        "probe": "flux"
+      }
+    ]
+  },
+  "melting": {
+    "senses": [
+      {
+        "label": "whereby",
+        "probe": "melt"
+      },
+      {
+        "label": "become",
+        "probe": "flux"
+      }
+    ]
+  },
+  "metabolism": {
+    "senses": [
+      {
+        "label": "marked",
+        "probe": "metamorphosis"
+      },
+      {
+        "label": "organic",
+        "probe": "organic"
+      }
+    ]
+  },
+  "metamorphosis": {
+    "senses": [
+      {
+        "label": "marked",
+        "probe": "metabolism"
+      },
+      {
+        "label": "striking",
+        "probe": "alteration"
+      }
+    ]
+  },
+  "metathesis": {
+    "senses": [
+      {
+        "label": "linguistic",
+        "probe": "linguistic"
+      },
+      {
+        "label": "chemical",
+        "probe": "chemical"
+      }
+    ]
+  },
+  "mimic": {
+    "senses": [
+      {
+        "label": "mimics",
+        "probe": "mimics"
+      },
+      {
+        "label": "imitate",
+        "probe": "simulate"
+      }
+    ]
+  },
+  "mimics": {
+    "senses": [
+      {
+        "label": "mimics",
+        "probe": "mimic"
+      },
+      {
+        "label": "imitate",
+        "probe": "simulate"
+      }
+    ]
+  },
+  "mixtures": {
+    "senses": [
+      {
+        "label": "foodstuff",
+        "probe": "concoction"
+      },
+      {
+        "label": "collection",
+        "probe": "accumulation"
+      },
+      {
+        "label": "mixing",
+        "probe": "admixture"
+      }
+    ]
+  },
+  "modalities": {
+    "senses": [
+      {
+        "label": "classification",
+        "probe": "modality"
+      },
+      {
+        "label": "verb",
+        "probe": "verb"
+      },
+      {
+        "label": "particular",
+        "probe": "sentience"
+      }
+    ]
+  },
+  "modality": {
+    "senses": [
+      {
+        "label": "verb",
+        "probe": "verb"
+      },
+      {
+        "label": "particular",
+        "probe": "sentience"
+      }
+    ]
+  },
+  "modelling": {
+    "senses": [
+      {
+        "label": "preliminary",
+        "probe": "sculpture"
+      },
+      {
+        "label": "plan",
+        "probe": "simulate"
+      }
+    ]
+  },
+  "modification": {
+    "senses": [
+      {
+        "label": "making",
+        "probe": "alteration"
+      },
+      {
+        "label": "grammatical",
+        "probe": "grammatical"
+      },
+      {
+        "label": "event",
+        "probe": "occurrence"
+      }
+    ]
+  },
+  "modules": {
+    "senses": [
+      {
+        "label": "inherent",
+        "probe": "module"
+      },
+      {
+        "label": "detachable",
+        "probe": "compartment"
+      }
+    ]
+  },
+  "molds": {
+    "senses": [
+      {
+        "label": "fungus",
+        "probe": "fungus"
+      },
+      {
+        "label": "sculpture",
+        "probe": "sculpture"
+      }
+    ]
+  },
+  "molecule": {
+    "senses": [
+      {
+        "label": "simplest",
+        "probe": "simplest"
+      },
+      {
+        "label": "tiny",
+        "probe": "atom"
+      }
+    ]
+  },
+  "molecules": {
+    "senses": [
+      {
+        "label": "simplest",
+        "probe": "molecule"
+      },
+      {
+        "label": "tiny",
+        "probe": "atom"
+      }
+    ]
+  },
+  "molten": {
+    "senses": [
+      {
+        "label": "reduce",
+        "probe": "melt"
+      },
+      {
+        "label": "become",
+        "probe": "flux"
+      },
+      {
+        "label": "reduced",
+        "probe": "liquefied"
+      }
+    ]
+  },
+  "morphological": {
+    "senses": [
+      {
+        "label": "pertaining",
+        "probe": "geomorphological"
+      },
+      {
+        "label": "relating",
+        "probe": "structural"
+      }
+    ]
+  },
+  "morphology": {
+    "senses": [
+      {
+        "label": "branch",
+        "probe": "biology"
+      },
+      {
+        "label": "studies",
+        "probe": "studies"
+      },
+      {
+        "label": "admissible",
+        "probe": "admissible"
+      },
+      {
+        "label": "branch",
+        "probe": "geomorphology"
+      }
+    ]
+  },
+  "munition": {
+    "senses": [
+      {
+        "label": "weapons",
+        "probe": "instrumentation"
+      },
+      {
+        "label": "military",
+        "probe": "ordnance"
+      }
+    ]
+  },
+  "munitions": {
+    "senses": [
+      {
+        "label": "weapons",
+        "probe": "munition"
+      },
+      {
+        "label": "military",
+        "probe": "ordnance"
+      }
+    ]
+  },
+  "mutant": {
+    "senses": [
+      {
+        "label": "organism",
+        "probe": "mutation"
+      },
+      {
+        "label": "tending",
+        "probe": "tending"
+      }
+    ]
+  },
+  "mutation": {
+    "senses": [
+      {
+        "label": "organism",
+        "probe": "mutant"
+      },
+      {
+        "label": "event",
+        "probe": "alteration"
+      },
+      {
+        "label": "change",
+        "probe": "modification"
+      }
+    ]
+  },
+  "mutations": {
+    "senses": [
+      {
+        "label": "organism",
+        "probe": "mutant"
+      },
+      {
+        "label": "event",
+        "probe": "mutation"
+      },
+      {
+        "label": "change",
+        "probe": "alteration"
+      }
+    ]
+  },
+  "naturalist": {
+    "senses": [
+      {
+        "label": "advocate",
+        "probe": "philosopher"
+      },
+      {
+        "label": "biologist",
+        "probe": "biologist"
+      }
+    ]
+  },
+  "naturalists": {
+    "senses": [
+      {
+        "label": "advocate",
+        "probe": "naturalist"
+      },
+      {
+        "label": "biologist",
+        "probe": "biologist"
+      }
+    ]
+  },
+  "notations": {
+    "senses": [
+      {
+        "label": "technical",
+        "probe": "notation"
+      },
+      {
+        "label": "comment",
+        "probe": "annotation"
+      }
+    ]
+  },
+  "nourishment": {
+    "senses": [
+      {
+        "label": "source",
+        "probe": "nutrition"
+      },
+      {
+        "label": "nourishing",
+        "probe": "tending"
+      }
+    ]
+  },
+  "numerical": {
+    "senses": [
+      {
+        "label": "measured",
+        "probe": "quantitative"
+      },
+      {
+        "label": "relating",
+        "probe": "mathematical"
+      }
+    ]
+  },
+  "nutrition": {
+    "senses": [
+      {
+        "label": "organic",
+        "probe": "organic"
+      },
+      {
+        "label": "source",
+        "probe": "nourishment"
+      },
+      {
+        "label": "scientific",
+        "probe": "scientific"
+      }
+    ]
+  },
+  "oddities": {
+    "senses": [
+      {
+        "label": "eccentricity",
+        "probe": "oddity"
+      },
+      {
+        "label": "strange",
+        "probe": "strangeness"
+      },
+      {
+        "label": "unusual",
+        "probe": "curiosity"
+      }
+    ]
+  },
+  "oddity": {
+    "senses": [
+      {
+        "label": "eccentricity",
+        "probe": "eccentricity"
+      },
+      {
+        "label": "strange",
+        "probe": "strangeness"
+      },
+      {
+        "label": "unusual",
+        "probe": "curiosity"
+      }
+    ]
+  },
+  "odors": {
+    "senses": [
+      {
+        "label": "property",
+        "probe": "smell"
+      },
+      {
+        "label": "sensation",
+        "probe": "odor"
+      }
+    ]
+  },
+  "ontologies": {
+    "senses": [
+      {
+        "label": "rigorous",
+        "probe": "ontology"
+      },
+      {
+        "label": "metaphysical",
+        "probe": "metaphysical"
+      }
+    ]
+  },
+  "ontology": {
+    "senses": [
+      {
+        "label": "rigorous",
+        "probe": "rigorous"
+      },
+      {
+        "label": "metaphysical",
+        "probe": "metaphysical"
+      }
+    ]
+  },
+  "optics": {
+    "senses": [
+      {
+        "label": "branch",
+        "probe": "physics"
+      },
+      {
+        "label": "optical",
+        "probe": "optical"
+      },
+      {
+        "label": "organ",
+        "probe": "receptor"
+      }
+    ]
+  },
+  "orbits": {
+    "senses": [
+      {
+        "label": "particular",
+        "probe": "sphere"
+      },
+      {
+        "label": "bony",
+        "probe": "cavity"
+      }
+    ]
+  },
+  "orchestration": {
+    "senses": [
+      {
+        "label": "arranging",
+        "probe": "instrumentation"
+      },
+      {
+        "label": "arrangement",
+        "probe": "transcription"
+      }
+    ]
+  },
+  "ordnance": {
+    "senses": [
+      {
+        "label": "military",
+        "probe": "munition"
+      },
+      {
+        "label": "large",
+        "probe": "armament"
+      }
+    ]
+  },
+  "ores": {
+    "senses": [
+      {
+        "label": "mineral",
+        "probe": "mineral"
+      },
+      {
+        "label": "monetary",
+        "probe": "subunit"
+      }
+    ]
+  },
+  "organic": {
+    "senses": [
+      {
+        "label": "fertilizer",
+        "probe": "fertilizer"
+      },
+      {
+        "label": "simple",
+        "probe": "healthful"
+      },
+      {
+        "label": "constitutional",
+        "probe": "constitutive"
+      }
+    ]
+  },
+  "ornamental": {
+    "senses": [
+      {
+        "label": "grown",
+        "probe": "flora"
+      },
+      {
+        "label": "serving",
+        "probe": "decorative"
+      }
+    ]
+  },
+  "oscillation": {
+    "senses": [
+      {
+        "label": "oscillating",
+        "probe": "oscillating"
+      },
+      {
+        "label": "regular",
+        "probe": "vibration"
+      }
+    ]
+  },
+  "oscillations": {
+    "senses": [
+      {
+        "label": "oscillating",
+        "probe": "oscillation"
+      },
+      {
+        "label": "regular",
+        "probe": "vibration"
+      }
+    ]
+  },
+  "parameters": {
+    "senses": [
+      {
+        "label": "constant",
+        "probe": "parameter"
+      },
+      {
+        "label": "quantity",
+        "probe": "quantity"
+      }
+    ]
+  },
+  "paranormal": {
+    "senses": [
+      {
+        "label": "seemingly",
+        "probe": "telepathic"
+      },
+      {
+        "label": "accordance",
+        "probe": "psychic"
+      }
+    ]
+  },
+  "parentage": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "adulthood"
+      },
+      {
+        "label": "kinship",
+        "probe": "kinship"
+      },
+      {
+        "label": "descendants",
+        "probe": "lineage"
+      }
+    ]
+  },
+  "particles": {
+    "senses": [
+      {
+        "label": "tiny",
+        "probe": "atom"
+      },
+      {
+        "label": "body",
+        "probe": "particle"
+      }
+    ]
+  },
+  "passages": {
+    "senses": [
+      {
+        "label": "short",
+        "probe": "composition"
+      },
+      {
+        "label": "bodily",
+        "probe": "bodily"
+      }
+    ]
+  },
+  "paternity": {
+    "senses": [
+      {
+        "label": "kinship",
+        "probe": "kinship"
+      },
+      {
+        "label": "initiating",
+        "probe": "authorship"
+      }
+    ]
+  },
+  "pathologies": {
+    "senses": [
+      {
+        "label": "branch",
+        "probe": "pathology"
+      },
+      {
+        "label": "deviation",
+        "probe": "deviation"
+      }
+    ]
+  },
+  "patterning": {
+    "senses": [
+      {
+        "label": "plan",
+        "probe": "simulate"
+      },
+      {
+        "label": "pattern",
+        "probe": "correspond"
+      }
+    ]
+  },
+  "payloads": {
+    "senses": [
+      {
+        "label": "front",
+        "probe": "warhead"
+      },
+      {
+        "label": "goods",
+        "probe": "payload"
+      }
+    ]
+  },
+  "pencils": {
+    "senses": [
+      {
+        "label": "thin",
+        "probe": "pencil"
+      },
+      {
+        "label": "graphite",
+        "probe": "graphite"
+      }
+    ]
+  },
+  "penetrating": {
+    "senses": [
+      {
+        "label": "spread",
+        "probe": "permeate"
+      },
+      {
+        "label": "having",
+        "probe": "perceptive"
+      },
+      {
+        "label": "tending",
+        "probe": "tending"
+      }
+    ]
+  },
+  "percolating": {
+    "senses": [
+      {
+        "label": "permeate",
+        "probe": "permeate"
+      },
+      {
+        "label": "spread",
+        "probe": "diffuse"
+      }
+    ]
+  },
+  "percolation": {
+    "senses": [
+      {
+        "label": "slow",
+        "probe": "filtration"
+      },
+      {
+        "label": "making",
+        "probe": "cookery"
+      }
+    ]
+  },
+  "peroxide": {
+    "senses": [
+      {
+        "label": "viscous",
+        "probe": "viscous"
+      },
+      {
+        "label": "inorganic",
+        "probe": "inorganic"
+      }
+    ]
+  },
+  "pharmaceutics": {
+    "senses": [
+      {
+        "label": "science",
+        "probe": "science"
+      },
+      {
+        "label": "drug",
+        "probe": "medicine"
+      }
+    ]
+  },
+  "physics": {
+    "senses": [
+      {
+        "label": "science",
+        "probe": "science"
+      },
+      {
+        "label": "purging",
+        "probe": "physic"
+      }
+    ]
+  },
+  "physiology": {
+    "senses": [
+      {
+        "label": "branch",
+        "probe": "biology"
+      },
+      {
+        "label": "processes",
+        "probe": "processes"
+      }
+    ]
+  },
+  "pigment": {
+    "senses": [
+      {
+        "label": "coloring",
+        "probe": "coloring"
+      },
+      {
+        "label": "used",
+        "probe": "coating"
+      }
+    ]
+  },
+  "pigments": {
+    "senses": [
+      {
+        "label": "coloring",
+        "probe": "pigment"
+      },
+      {
+        "label": "used",
+        "probe": "coating"
+      }
+    ]
+  },
+  "planetarium": {
+    "senses": [
+      {
+        "label": "optical",
+        "probe": "optical"
+      },
+      {
+        "label": "apparatus",
+        "probe": "simulation"
+      }
+    ]
+  },
+  "plasmodium": {
+    "senses": [
+      {
+        "label": "multinucleate",
+        "probe": "cytoplasm"
+      },
+      {
+        "label": "parasitic",
+        "probe": "parasitic"
+      }
+    ]
+  },
+  "pods": {
+    "senses": [
+      {
+        "label": "vessel",
+        "probe": "pod"
+      },
+      {
+        "label": "aquatic",
+        "probe": "aquatic"
+      }
+    ]
+  },
+  "poetic": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "poetical"
+      },
+      {
+        "label": "characterized",
+        "probe": "figurative"
+      },
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      }
+    ]
+  },
+  "poetical": {
+    "senses": [
+      {
+        "label": "relating",
+        "probe": "poetic"
+      },
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      }
+    ]
+  },
+  "poisoning": {
+    "senses": [
+      {
+        "label": "physiological",
+        "probe": "physiological"
+      },
+      {
+        "label": "administer",
+        "probe": "dose"
+      }
+    ]
+  },
+  "popper": {
+    "senses": [
+      {
+        "label": "british",
+        "probe": "philosopher"
+      },
+      {
+        "label": "container",
+        "probe": "cooker"
+      }
+    ]
+  },
+  "popularisation": {
+    "senses": [
+      {
+        "label": "interpretation",
+        "probe": "popularization"
+      },
+      {
+        "label": "making",
+        "probe": "degradation"
+      }
+    ]
+  },
+  "popularization": {
+    "senses": [
+      {
+        "label": "interpretation",
+        "probe": "popularisation"
+      },
+      {
+        "label": "making",
+        "probe": "degradation"
+      }
+    ]
+  },
+  "pores": {
+    "senses": [
+      {
+        "label": "small",
+        "probe": "duct"
+      },
+      {
+        "label": "minute",
+        "probe": "aperture"
+      }
+    ]
+  },
+  "posited": {
+    "senses": [
+      {
+        "label": "firmly",
+        "probe": "posit"
+      },
+      {
+        "label": "take",
+        "probe": "postulate"
+      }
+    ]
+  },
+  "positing": {
+    "senses": [
+      {
+        "label": "firmly",
+        "probe": "posit"
+      },
+      {
+        "label": "take",
+        "probe": "postulate"
+      }
+    ]
+  },
+  "posits": {
+    "senses": [
+      {
+        "label": "proposition",
+        "probe": "postulate"
+      },
+      {
+        "label": "firmly",
+        "probe": "posit"
+      }
+    ]
+  },
+  "postmortem": {
+    "senses": [
+      {
+        "label": "examination",
+        "probe": "autopsy"
+      },
+      {
+        "label": "occurring",
+        "probe": "occurring"
+      }
+    ]
+  },
+  "postulated": {
+    "senses": [
+      {
+        "label": "maintain",
+        "probe": "postulate"
+      },
+      {
+        "label": "take",
+        "probe": "posit"
+      }
+    ]
+  },
+  "postulates": {
+    "senses": [
+      {
+        "label": "proposition",
+        "probe": "postulate"
+      },
+      {
+        "label": "take",
+        "probe": "posit"
+      }
+    ]
+  },
+  "predisposition": {
+    "senses": [
+      {
+        "label": "susceptibility",
+        "probe": "sensitivity"
+      },
+      {
+        "label": "inclination",
+        "probe": "inclination"
+      },
+      {
+        "label": "disposition",
+        "probe": "disposition"
+      }
+    ]
+  },
+  "preservative": {
+    "senses": [
+      {
+        "label": "chemical",
+        "probe": "chemical"
+      },
+      {
+        "label": "tending",
+        "probe": "tending"
+      }
+    ]
+  },
+  "preventative": {
+    "senses": [
+      {
+        "label": "remedy",
+        "probe": "therapeutic"
+      },
+      {
+        "label": "tending",
+        "probe": "tending"
+      },
+      {
+        "label": "preventing",
+        "probe": "healthful"
+      }
+    ]
+  },
+  "primer": {
+    "senses": [
+      {
+        "label": "introductory",
+        "probe": "introductory"
+      },
+      {
+        "label": "igniter",
+        "probe": "fuse"
+      }
+    ]
+  },
+  "primers": {
+    "senses": [
+      {
+        "label": "introductory",
+        "probe": "primer"
+      },
+      {
+        "label": "igniter",
+        "probe": "fuse"
+      }
+    ]
+  },
+  "processes": {
+    "senses": [
+      {
+        "label": "performance",
+        "probe": "cognition"
+      },
+      {
+        "label": "natural",
+        "probe": "outgrowth"
+      }
+    ]
+  },
+  "proficiency": {
+    "senses": [
+      {
+        "label": "having",
+        "probe": "competency"
+      },
+      {
+        "label": "skillfulness",
+        "probe": "technique"
+      }
+    ]
+  },
+  "proofs": {
+    "senses": [
+      {
+        "label": "measure",
+        "probe": "quantity"
+      },
+      {
+        "label": "validating",
+        "probe": "validation"
+      }
+    ]
+  },
+  "propagated": {
+    "senses": [
+      {
+        "label": "transmit",
+        "probe": "propagate"
+      },
+      {
+        "label": "cause",
+        "probe": "diffuse"
+      }
+    ]
+  },
+  "propagation": {
+    "senses": [
+      {
+        "label": "spreading",
+        "probe": "dissemination"
+      },
+      {
+        "label": "producing",
+        "probe": "reproduction"
+      }
+    ]
+  },
+  "propensity": {
+    "senses": [
+      {
+        "label": "inclination",
+        "probe": "inclination"
+      },
+      {
+        "label": "natural",
+        "probe": "disposition"
+      }
+    ]
+  },
+  "psychic": {
+    "senses": [
+      {
+        "label": "affecting",
+        "probe": "psychical"
+      },
+      {
+        "label": "outside",
+        "probe": "paranormal"
+      }
+    ]
+  },
+  "psychical": {
+    "senses": [
+      {
+        "label": "affecting",
+        "probe": "psychic"
+      },
+      {
+        "label": "outside",
+        "probe": "paranormal"
+      }
+    ]
+  },
+  "psychopathology": {
+    "senses": [
+      {
+        "label": "branch",
+        "probe": "psychology"
+      },
+      {
+        "label": "branch",
+        "probe": "psychiatry"
+      }
+    ]
+  },
+  "psychotherapy": {
+    "senses": [
+      {
+        "label": "branch",
+        "probe": "psychiatry"
+      },
+      {
+        "label": "treatment",
+        "probe": "therapy"
+      }
+    ]
+  },
+  "quadratic": {
+    "senses": [
+      {
+        "label": "equation",
+        "probe": "equation"
+      },
+      {
+        "label": "polynomial",
+        "probe": "polynomial"
+      }
+    ]
+  },
+  "quantities": {
+    "senses": [
+      {
+        "label": "much",
+        "probe": "quantity"
+      },
+      {
+        "label": "concept",
+        "probe": "conception"
+      }
+    ]
+  },
+  "quantity": {
+    "senses": [
+      {
+        "label": "much",
+        "probe": "abstraction"
+      },
+      {
+        "label": "concept",
+        "probe": "conception"
+      }
+    ]
+  },
+  "quantum": {
+    "senses": [
+      {
+        "label": "discrete",
+        "probe": "discrete"
+      },
+      {
+        "label": "smallest",
+        "probe": "quantity"
+      }
+    ]
+  },
+  "quill": {
+    "senses": [
+      {
+        "label": "stiff",
+        "probe": "spine"
+      },
+      {
+        "label": "larger",
+        "probe": "plume"
+      }
+    ]
+  },
+  "radiation": {
+    "senses": [
+      {
+        "label": "spreading",
+        "probe": "emission"
+      },
+      {
+        "label": "spontaneous",
+        "probe": "radioactivity"
+      },
+      {
+        "label": "radial",
+        "probe": "radial"
+      },
+      {
+        "label": "treatment",
+        "probe": "radiotherapy"
+      }
+    ]
+  },
+  "ramification": {
+    "senses": [
+      {
+        "label": "branching",
+        "probe": "branching"
+      },
+      {
+        "label": "development",
+        "probe": "complication"
+      }
+    ]
+  },
+  "rat": {
+    "senses": [
+      {
+        "label": "various",
+        "probe": "rodent"
+      },
+      {
+        "label": "deemed",
+        "probe": "skunk"
+      }
+    ]
+  },
+  "rational": {
+    "senses": [
+      {
+        "label": "consistent",
+        "probe": "reasoning"
+      },
+      {
+        "label": "associated",
+        "probe": "noetic"
+      }
+    ]
+  },
+  "rationalism": {
+    "senses": [
+      {
+        "label": "theological",
+        "probe": "theological"
+      },
+      {
+        "label": "doctrine",
+        "probe": "philosophy"
+      }
+    ]
+  },
+  "rationalization": {
+    "senses": [
+      {
+        "label": "cognitive",
+        "probe": "cognitive"
+      },
+      {
+        "label": "systematic",
+        "probe": "systematic"
+      }
+    ]
+  },
+  "rats": {
+    "senses": [
+      {
+        "label": "various",
+        "probe": "rat"
+      },
+      {
+        "label": "deemed",
+        "probe": "skunk"
+      }
+    ]
+  },
+  "reactivity": {
+    "senses": [
+      {
+        "label": "responsive",
+        "probe": "sensitivity"
+      },
+      {
+        "label": "ready",
+        "probe": "susceptibility"
+      }
+    ]
+  },
+  "realism": {
+    "senses": [
+      {
+        "label": "attribute",
+        "probe": "practicality"
+      },
+      {
+        "label": "being",
+        "probe": "actuality"
+      },
+      {
+        "label": "philosophical",
+        "probe": "philosophical"
+      },
+      {
+        "label": "artistic",
+        "probe": "naturalism"
+      }
+    ]
+  },
+  "recapitulation": {
+    "senses": [
+      {
+        "label": "emergence",
+        "probe": "maturation"
+      },
+      {
+        "label": "repetition",
+        "probe": "composition"
+      }
+    ]
+  },
+  "refined": {
+    "senses": [
+      {
+        "label": "improve",
+        "probe": "refine"
+      },
+      {
+        "label": "cultivated",
+        "probe": "cultivated"
+      }
+    ]
+  },
+  "refinement": {
+    "senses": [
+      {
+        "label": "result",
+        "probe": "elaboration"
+      },
+      {
+        "label": "removing",
+        "probe": "purification"
+      },
+      {
+        "label": "subtle",
+        "probe": "subtlety"
+      },
+      {
+        "label": "excellence",
+        "probe": "civilisation"
+      }
+    ]
+  },
+  "refinements": {
+    "senses": [
+      {
+        "label": "highly",
+        "probe": "refinement"
+      },
+      {
+        "label": "result",
+        "probe": "elaboration"
+      },
+      {
+        "label": "removing",
+        "probe": "purification"
+      },
+      {
+        "label": "subtle",
+        "probe": "subtlety"
+      },
+      {
+        "label": "excellence",
+        "probe": "civilisation"
+      }
+    ]
+  },
+  "reflections": {
+    "senses": [
+      {
+        "label": "calm",
+        "probe": "contemplation"
+      },
+      {
+        "label": "expression",
+        "probe": "manifestation"
+      },
+      {
+        "label": "remark",
+        "probe": "observation"
+      },
+      {
+        "label": "ability",
+        "probe": "reflectivity"
+      }
+    ]
+  },
+  "reformatory": {
+    "senses": [
+      {
+        "label": "correctional",
+        "probe": "correctional"
+      },
+      {
+        "label": "tending",
+        "probe": "tending"
+      }
+    ]
+  },
+  "remedial": {
+    "senses": [
+      {
+        "label": "tending",
+        "probe": "tending"
+      },
+      {
+        "label": "tending",
+        "probe": "therapeutic"
+      }
+    ]
+  },
+  "repellent": {
+    "senses": [
+      {
+        "label": "chemical",
+        "probe": "chemical"
+      },
+      {
+        "label": "incapable",
+        "probe": "resistant"
+      }
+    ]
+  },
+  "replication": {
+    "senses": [
+      {
+        "label": "making",
+        "probe": "reproduction"
+      },
+      {
+        "label": "repetition",
+        "probe": "reflectivity"
+      }
+    ]
+  },
+  "reproduction": {
+    "senses": [
+      {
+        "label": "recall",
+        "probe": "recollection"
+      },
+      {
+        "label": "copy",
+        "probe": "replication"
+      },
+      {
+        "label": "sexual",
+        "probe": "breeding"
+      }
+    ]
+  },
+  "residues": {
+    "senses": [
+      {
+        "label": "matter",
+        "probe": "residue"
+      },
+      {
+        "label": "left",
+        "probe": "residual"
+      }
+    ]
+  },
+  "resiliency": {
+    "senses": [
+      {
+        "label": "occurrence",
+        "probe": "occurrence"
+      },
+      {
+        "label": "physical",
+        "probe": "elasticity"
+      }
+    ]
+  },
+  "resonance": {
+    "senses": [
+      {
+        "label": "vibration",
+        "probe": "vibration"
+      },
+      {
+        "label": "relationship",
+        "probe": "affinity"
+      },
+      {
+        "label": "imparted",
+        "probe": "imparted"
+      }
+    ]
+  },
+  "resonances": {
+    "senses": [
+      {
+        "label": "excited",
+        "probe": "resonance"
+      },
+      {
+        "label": "vibration",
+        "probe": "vibration"
+      },
+      {
+        "label": "relationship",
+        "probe": "affinity"
+      },
+      {
+        "label": "imparted",
+        "probe": "imparted"
+      }
+    ]
+  },
+  "respiration": {
+    "senses": [
+      {
+        "label": "metabolic",
+        "probe": "metabolic"
+      },
+      {
+        "label": "bodily",
+        "probe": "ventilation"
+      }
+    ]
+  },
+  "restorations": {
+    "senses": [
+      {
+        "label": "some",
+        "probe": "artifact"
+      },
+      {
+        "label": "model",
+        "probe": "simulation"
+      }
+    ]
+  },
+  "restorative": {
+    "senses": [
+      {
+        "label": "medicine",
+        "probe": "medicine"
+      },
+      {
+        "label": "tending",
+        "probe": "tending"
+      },
+      {
+        "label": "promoting",
+        "probe": "healthful"
+      }
+    ]
+  },
+  "resultant": {
+    "senses": [
+      {
+        "label": "vector",
+        "probe": "vector"
+      },
+      {
+        "label": "following",
+        "probe": "incidental"
+      }
+    ]
+  },
+  "richness": {
+    "senses": [
+      {
+        "label": "property",
+        "probe": "abundance"
+      },
+      {
+        "label": "property",
+        "probe": "fertility"
+      }
+    ]
+  },
+  "riddle": {
+    "senses": [
+      {
+        "label": "coarse",
+        "probe": "sieve"
+      },
+      {
+        "label": "spread",
+        "probe": "permeate"
+      }
+    ]
+  },
+  "rods": {
+    "senses": [
+      {
+        "label": "shaped",
+        "probe": "bacteria"
+      },
+      {
+        "label": "linear",
+        "probe": "linear"
+      }
+    ]
+  },
+  "romanticism": {
+    "senses": [
+      {
+        "label": "impractical",
+        "probe": "idealism"
+      },
+      {
+        "label": "movement",
+        "probe": "idiom"
+      }
+    ]
+  },
+  "rot": {
+    "senses": [
+      {
+        "label": "decay",
+        "probe": "decay"
+      },
+      {
+        "label": "decay",
+        "probe": "decomposition"
+      },
+      {
+        "label": "break",
+        "probe": "decompose"
+      },
+      {
+        "label": "become",
+        "probe": "degenerate"
+      }
+    ]
+  },
+  "sacs": {
+    "senses": [
+      {
+        "label": "enclosed",
+        "probe": "sac"
+      },
+      {
+        "label": "structure",
+        "probe": "cavity"
+      }
+    ]
+  },
+  "sailplane": {
+    "senses": [
+      {
+        "label": "aircraft",
+        "probe": "glider"
+      },
+      {
+        "label": "plane",
+        "probe": "glide"
+      }
+    ]
+  },
+  "schooling": {
+    "senses": [
+      {
+        "label": "teaching",
+        "probe": "pedagogy"
+      },
+      {
+        "label": "teach",
+        "probe": "refine"
+      }
+    ]
+  },
+  "secretion": {
+    "senses": [
+      {
+        "label": "organic",
+        "probe": "organic"
+      },
+      {
+        "label": "functionally",
+        "probe": "functionally"
+      }
+    ]
+  },
+  "sediments": {
+    "senses": [
+      {
+        "label": "matter",
+        "probe": "sediment"
+      },
+      {
+        "label": "deposit",
+        "probe": "posit"
+      }
+    ]
+  },
+  "seminaries": {
+    "senses": [
+      {
+        "label": "private",
+        "probe": "seminary"
+      },
+      {
+        "label": "theological",
+        "probe": "theological"
+      }
+    ]
+  },
+  "senses": {
+    "senses": [
+      {
+        "label": "general",
+        "probe": "consciousness"
+      },
+      {
+        "label": "faculty",
+        "probe": "sentience"
+      },
+      {
+        "label": "street",
+        "probe": "skunk"
+      },
+      {
+        "label": "become",
+        "probe": "smell"
+      }
+    ]
+  },
+  "sensibility": {
+    "senses": [
+      {
+        "label": "mental",
+        "probe": "consciousness"
+      },
+      {
+        "label": "refined",
+        "probe": "refined"
+      },
+      {
+        "label": "responsiveness",
+        "probe": "sensitivity"
+      }
+    ]
+  },
+  "sensitivity": {
+    "senses": [
+      {
+        "label": "responsiveness",
+        "probe": "sensibility"
+      },
+      {
+        "label": "susceptibility",
+        "probe": "predisposition"
+      }
+    ]
+  },
+  "sentience": {
+    "senses": [
+      {
+        "label": "elementary",
+        "probe": "consciousness"
+      },
+      {
+        "label": "faculty",
+        "probe": "module"
+      }
+    ]
+  },
+  "shafts": {
+    "senses": [
+      {
+        "label": "column",
+        "probe": "irradiation"
+      },
+      {
+        "label": "hollow",
+        "probe": "quill"
+      }
+    ]
+  },
+  "sieves": {
+    "senses": [
+      {
+        "label": "strainer",
+        "probe": "sieve"
+      },
+      {
+        "label": "check",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "simulation": {
+    "senses": [
+      {
+        "label": "imitating",
+        "probe": "modelling"
+      },
+      {
+        "label": "technique",
+        "probe": "technique"
+      }
+    ]
+  },
+  "simulations": {
+    "senses": [
+      {
+        "label": "imitating",
+        "probe": "simulation"
+      },
+      {
+        "label": "technique",
+        "probe": "technique"
+      }
+    ]
+  },
+  "singularities": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "singularity"
+      },
+      {
+        "label": "strangeness",
+        "probe": "strangeness"
+      }
+    ]
+  },
+  "singularity": {
+    "senses": [
+      {
+        "label": "being",
+        "probe": "uniqueness"
+      },
+      {
+        "label": "strangeness",
+        "probe": "strangeness"
+      }
+    ]
+  },
+  "skunk": {
+    "senses": [
+      {
+        "label": "deemed",
+        "probe": "rat"
+      },
+      {
+        "label": "street",
+        "probe": "cannabis"
+      }
+    ]
+  },
+  "smell": {
+    "senses": [
+      {
+        "label": "sensation",
+        "probe": "odor"
+      },
+      {
+        "label": "property",
+        "probe": "aroma"
+      },
+      {
+        "label": "faculty",
+        "probe": "olfaction"
+      },
+      {
+        "label": "perceiving",
+        "probe": "smelling"
+      }
+    ]
+  },
+  "solitary": {
+    "senses": [
+      {
+        "label": "confinement",
+        "probe": "confinement"
+      },
+      {
+        "label": "lives",
+        "probe": "loner"
+      }
+    ]
+  },
+  "sophistication": {
+    "senses": [
+      {
+        "label": "uplifting",
+        "probe": "enlightenment"
+      },
+      {
+        "label": "deliberately",
+        "probe": "fallacy"
+      }
+    ]
+  },
+  "specialisation": {
+    "senses": [
+      {
+        "label": "structural",
+        "probe": "specialization"
+      },
+      {
+        "label": "special",
+        "probe": "vocation"
+      }
+    ]
+  },
+  "specialisms": {
+    "senses": [
+      {
+        "label": "concentration",
+        "probe": "concentration"
+      },
+      {
+        "label": "special",
+        "probe": "specialization"
+      }
+    ]
+  },
+  "specialities": {
+    "senses": [
+      {
+        "label": "distinguishing",
+        "probe": "distinguishing"
+      },
+      {
+        "label": "special",
+        "probe": "specialization"
+      }
+    ]
+  },
+  "specialization": {
+    "senses": [
+      {
+        "label": "specializing",
+        "probe": "specialisation"
+      },
+      {
+        "label": "special",
+        "probe": "vocation"
+      },
+      {
+        "label": "structural",
+        "probe": "differentiation"
+      }
+    ]
+  },
+  "specializations": {
+    "senses": [
+      {
+        "label": "specializing",
+        "probe": "specialization"
+      },
+      {
+        "label": "special",
+        "probe": "specialisation"
+      },
+      {
+        "label": "structural",
+        "probe": "differentiation"
+      }
+    ]
+  },
+  "specialties": {
+    "senses": [
+      {
+        "label": "distinguishing",
+        "probe": "distinguishing"
+      },
+      {
+        "label": "special",
+        "probe": "specialization"
+      }
+    ]
+  },
+  "specimens": {
+    "senses": [
+      {
+        "label": "example",
+        "probe": "specimen"
+      },
+      {
+        "label": "tissue",
+        "probe": "tissue"
+      }
+    ]
+  },
+  "spheres": {
+    "senses": [
+      {
+        "label": "particular",
+        "probe": "sphere"
+      },
+      {
+        "label": "spherically",
+        "probe": "artifact"
+      }
+    ]
+  },
+  "spines": {
+    "senses": [
+      {
+        "label": "series",
+        "probe": "spine"
+      },
+      {
+        "label": "sharp",
+        "probe": "outgrowth"
+      }
+    ]
+  },
+  "sponges": {
+    "senses": [
+      {
+        "label": "able",
+        "probe": "learner"
+      },
+      {
+        "label": "follower",
+        "probe": "parasite"
+      },
+      {
+        "label": "primitive",
+        "probe": "primitive"
+      }
+    ]
+  },
+  "sprays": {
+    "senses": [
+      {
+        "label": "pesticide",
+        "probe": "pesticide"
+      },
+      {
+        "label": "quantity",
+        "probe": "quantity"
+      },
+      {
+        "label": "vapor",
+        "probe": "vapor"
+      }
+    ]
+  },
+  "staining": {
+    "senses": [
+      {
+        "label": "color",
+        "probe": "dyeing"
+      },
+      {
+        "label": "color",
+        "probe": "dye"
+      },
+      {
+        "label": "make",
+        "probe": "blob"
+      }
+    ]
+  },
+  "standardisation": {
+    "senses": [
+      {
+        "label": "condition",
+        "probe": "standardization"
+      },
+      {
+        "label": "checking",
+        "probe": "calibration"
+      }
+    ]
+  },
+  "standardization": {
+    "senses": [
+      {
+        "label": "condition",
+        "probe": "standardisation"
+      },
+      {
+        "label": "checking",
+        "probe": "calibration"
+      }
+    ]
+  },
+  "statistician": {
+    "senses": [
+      {
+        "label": "mathematician",
+        "probe": "mathematician"
+      },
+      {
+        "label": "versed",
+        "probe": "versed"
+      }
+    ]
+  },
+  "statisticians": {
+    "senses": [
+      {
+        "label": "mathematician",
+        "probe": "statistician"
+      },
+      {
+        "label": "versed",
+        "probe": "versed"
+      }
+    ]
+  },
+  "sterile": {
+    "senses": [
+      {
+        "label": "incapable",
+        "probe": "unfertilized"
+      },
+      {
+        "label": "deficient",
+        "probe": "deficient"
+      }
+    ]
+  },
+  "stimulated": {
+    "senses": [
+      {
+        "label": "cause",
+        "probe": "induce"
+      },
+      {
+        "label": "stir",
+        "probe": "elicit"
+      }
+    ]
+  },
+  "stool": {
+    "senses": [
+      {
+        "label": "solid",
+        "probe": "feces"
+      },
+      {
+        "label": "plumbing",
+        "probe": "potty"
+      }
+    ]
+  },
+  "strains": {
+    "senses": [
+      {
+        "label": "deformation",
+        "probe": "deformation"
+      },
+      {
+        "label": "organisms",
+        "probe": "organisms"
+      },
+      {
+        "label": "separate",
+        "probe": "sieve"
+      }
+    ]
+  },
+  "strand": {
+    "senses": [
+      {
+        "label": "very",
+        "probe": "filament"
+      },
+      {
+        "label": "poetic",
+        "probe": "poetic"
+      }
+    ]
+  },
+  "strands": {
+    "senses": [
+      {
+        "label": "pattern",
+        "probe": "strand"
+      },
+      {
+        "label": "very",
+        "probe": "filament"
+      },
+      {
+        "label": "poetic",
+        "probe": "poetic"
+      }
+    ]
+  },
+  "strata": {
+    "senses": [
+      {
+        "label": "several",
+        "probe": "stratum"
+      },
+      {
+        "label": "abstract",
+        "probe": "abstract"
+      }
+    ]
+  },
+  "stratification": {
+    "senses": [
+      {
+        "label": "arranging",
+        "probe": "categorization"
+      },
+      {
+        "label": "layered",
+        "probe": "layered"
+      }
+    ]
+  },
+  "structural": {
+    "senses": [
+      {
+        "label": "affecting",
+        "probe": "functional"
+      },
+      {
+        "label": "pertaining",
+        "probe": "geomorphological"
+      },
+      {
+        "label": "relating",
+        "probe": "morphological"
+      }
+    ]
+  },
+  "structuralism": {
+    "senses": [
+      {
+        "label": "linguistics",
+        "probe": "linguistics"
+      },
+      {
+        "label": "anthropological",
+        "probe": "anthropological"
+      },
+      {
+        "label": "sociological",
+        "probe": "sociological"
+      }
+    ]
+  },
+  "studies": {
+    "senses": [
+      {
+        "label": "deep",
+        "probe": "concentration"
+      },
+      {
+        "label": "attentive",
+        "probe": "contemplation"
+      },
+      {
+        "label": "composition",
+        "probe": "composition"
+      },
+      {
+        "label": "consider",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "subgroups": {
+    "senses": [
+      {
+        "label": "distinct",
+        "probe": "subgroup"
+      },
+      {
+        "label": "subset",
+        "probe": "subset"
+      }
+    ]
+  },
+  "sublimation": {
+    "senses": [
+      {
+        "label": "change",
+        "probe": "transmutation"
+      },
+      {
+        "label": "modifying",
+        "probe": "alteration"
+      }
+    ]
+  },
+  "summation": {
+    "senses": [
+      {
+        "label": "final",
+        "probe": "accumulation"
+      },
+      {
+        "label": "arithmetic",
+        "probe": "arithmetic"
+      }
+    ]
+  },
+  "surfaces": {
+    "senses": [
+      {
+        "label": "outer",
+        "probe": "artifact"
+      },
+      {
+        "label": "superficial",
+        "probe": "superficial"
+      }
+    ]
+  },
+  "surveying": {
+    "senses": [
+      {
+        "label": "practice",
+        "probe": "measurement"
+      },
+      {
+        "label": "consider",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "surveyor": {
+    "senses": [
+      {
+        "label": "engineer",
+        "probe": "technologist"
+      },
+      {
+        "label": "conducts",
+        "probe": "statistician"
+      }
+    ]
+  },
+  "surveyors": {
+    "senses": [
+      {
+        "label": "engineer",
+        "probe": "surveyor"
+      },
+      {
+        "label": "conducts",
+        "probe": "statistician"
+      }
+    ]
+  },
+  "symmetries": {
+    "senses": [
+      {
+        "label": "attribute",
+        "probe": "symmetry"
+      },
+      {
+        "label": "balance",
+        "probe": "equilibrium"
+      }
+    ]
+  },
+  "syntax": {
+    "senses": [
+      {
+        "label": "grammatical",
+        "probe": "grammatical"
+      },
+      {
+        "label": "systematic",
+        "probe": "systematic"
+      },
+      {
+        "label": "studies",
+        "probe": "studies"
+      }
+    ]
+  },
+  "syntheses": {
+    "senses": [
+      {
+        "label": "producing",
+        "probe": "synthesis"
+      },
+      {
+        "label": "combination",
+        "probe": "reasoning"
+      }
+    ]
+  },
+  "taxonomy": {
+    "senses": [
+      {
+        "label": "study",
+        "probe": "systematics"
+      },
+      {
+        "label": "practice",
+        "probe": "categorization"
+      }
+    ]
+  },
+  "teachings": {
+    "senses": [
+      {
+        "label": "profession",
+        "probe": "pedagogy"
+      },
+      {
+        "label": "doctrine",
+        "probe": "philosophy"
+      }
+    ]
+  },
+  "techniques": {
+    "senses": [
+      {
+        "label": "practical",
+        "probe": "technique"
+      },
+      {
+        "label": "skillfulness",
+        "probe": "proficiency"
+      }
+    ]
+  },
+  "tectonics": {
+    "senses": [
+      {
+        "label": "science",
+        "probe": "science"
+      },
+      {
+        "label": "branch",
+        "probe": "morphology"
+      }
+    ]
+  },
+  "telescopes": {
+    "senses": [
+      {
+        "label": "magnifier",
+        "probe": "telescope"
+      },
+      {
+        "label": "make",
+        "probe": "condense"
+      }
+    ]
+  },
+  "temporal": {
+    "senses": [
+      {
+        "label": "semantic",
+        "probe": "semantic"
+      },
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      },
+      {
+        "label": "this",
+        "probe": "earthly"
+      }
+    ]
+  },
+  "texture": {
+    "senses": [
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      },
+      {
+        "label": "physical",
+        "probe": "composition"
+      }
+    ]
+  },
+  "textures": {
+    "senses": [
+      {
+        "label": "feel",
+        "probe": "texture"
+      },
+      {
+        "label": "characteristic",
+        "probe": "characteristic"
+      },
+      {
+        "label": "physical",
+        "probe": "composition"
+      }
+    ]
+  },
+  "theoretical": {
+    "senses": [
+      {
+        "label": "concerned",
+        "probe": "theoretic"
+      },
+      {
+        "label": "concerned",
+        "probe": "abstract"
+      }
+    ]
+  },
+  "theories": {
+    "senses": [
+      {
+        "label": "well",
+        "probe": "theory"
+      },
+      {
+        "label": "tentative",
+        "probe": "hypothesis"
+      }
+    ]
+  },
+  "therapeutic": {
+    "senses": [
+      {
+        "label": "medicine",
+        "probe": "medicine"
+      },
+      {
+        "label": "tending",
+        "probe": "remedial"
+      }
+    ]
+  },
+  "therapeutics": {
+    "senses": [
+      {
+        "label": "branch",
+        "probe": "medicine"
+      },
+      {
+        "label": "medicine",
+        "probe": "therapeutic"
+      }
+    ]
+  },
+  "theses": {
+    "senses": [
+      {
+        "label": "unproved",
+        "probe": "thesis"
+      },
+      {
+        "label": "treatise",
+        "probe": "dissertation"
+      }
+    ]
+  },
+  "thinkers": {
+    "senses": [
+      {
+        "label": "important",
+        "probe": "thinker"
+      },
+      {
+        "label": "exercises",
+        "probe": "intellect"
+      }
+    ]
+  },
+  "tolerances": {
+    "senses": [
+      {
+        "label": "disposition",
+        "probe": "disposition"
+      },
+      {
+        "label": "permissible",
+        "probe": "divergence"
+      }
+    ]
+  },
+  "topography": {
+    "senses": [
+      {
+        "label": "configuration",
+        "probe": "contour"
+      },
+      {
+        "label": "precise",
+        "probe": "geography"
+      }
+    ]
+  },
+  "topology": {
+    "senses": [
+      {
+        "label": "topographic",
+        "probe": "topographic"
+      },
+      {
+        "label": "study",
+        "probe": "anatomy"
+      }
+    ]
+  },
+  "traces": {
+    "senses": [
+      {
+        "label": "drawing",
+        "probe": "tracing"
+      },
+      {
+        "label": "follow",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "tracing": {
+    "senses": [
+      {
+        "label": "discovery",
+        "probe": "uncovering"
+      },
+      {
+        "label": "follow",
+        "probe": "analyze"
+      }
+    ]
+  },
+  "transcription": {
+    "senses": [
+      {
+        "label": "organic",
+        "probe": "organic"
+      },
+      {
+        "label": "arranging",
+        "probe": "composition"
+      }
+    ]
+  },
+  "transformations": {
+    "senses": [
+      {
+        "label": "qualitative",
+        "probe": "transmutation"
+      },
+      {
+        "label": "modification",
+        "probe": "modification"
+      }
+    ]
+  },
+  "transient": {
+    "senses": [
+      {
+        "label": "short",
+        "probe": "oscillation"
+      },
+      {
+        "label": "lasting",
+        "probe": "ephemeral"
+      }
+    ]
+  },
+  "transmissible": {
+    "senses": [
+      {
+        "label": "capable",
+        "probe": "communicable"
+      },
+      {
+        "label": "occurring",
+        "probe": "familial"
+      }
+    ]
+  },
+  "transmutation": {
+    "senses": [
+      {
+        "label": "qualitative",
+        "probe": "qualitative"
+      },
+      {
+        "label": "change",
+        "probe": "alteration"
+      }
+    ]
+  },
+  "transplants": {
+    "senses": [
+      {
+        "label": "tissue",
+        "probe": "tissue"
+      },
+      {
+        "label": "operation",
+        "probe": "transplantation"
+      },
+      {
+        "label": "removing",
+        "probe": "transplanting"
+      }
+    ]
+  },
+  "treatments": {
+    "senses": [
+      {
+        "label": "care",
+        "probe": "tending"
+      },
+      {
+        "label": "manner",
+        "probe": "idiom"
+      },
+      {
+        "label": "extended",
+        "probe": "discourse"
+      }
+    ]
+  },
+  "triangulation": {
+    "senses": [
+      {
+        "label": "trigonometric",
+        "probe": "trigonometry"
+      },
+      {
+        "label": "method",
+        "probe": "surveying"
+      }
+    ]
+  },
+  "understandings": {
+    "senses": [
+      {
+        "label": "cognitive",
+        "probe": "cognitive"
+      },
+      {
+        "label": "inclination",
+        "probe": "inclination"
+      },
+      {
+        "label": "capacity",
+        "probe": "intellect"
+      }
+    ]
+  },
+  "undiscovered": {
+    "senses": [
+      {
+        "label": "discovered",
+        "probe": "undetected"
+      },
+      {
+        "label": "discovered",
+        "probe": "unexplored"
+      }
+    ]
+  },
+  "universals": {
+    "senses": [
+      {
+        "label": "grammatical",
+        "probe": "grammatical"
+      },
+      {
+        "label": "behavioral",
+        "probe": "behavioral"
+      },
+      {
+        "label": "coupling",
+        "probe": "coupling"
+      }
+    ]
+  },
+  "vapor": {
+    "senses": [
+      {
+        "label": "visible",
+        "probe": "vapour"
+      },
+      {
+        "label": "becoming",
+        "probe": "evaporation"
+      }
+    ]
+  },
+  "vapors": {
+    "senses": [
+      {
+        "label": "visible",
+        "probe": "vapor"
+      },
+      {
+        "label": "becoming",
+        "probe": "vapour"
+      }
+    ]
+  },
+  "vapour": {
+    "senses": [
+      {
+        "label": "visible",
+        "probe": "vapor"
+      },
+      {
+        "label": "becoming",
+        "probe": "evaporation"
+      }
+    ]
+  },
+  "variance": {
+    "senses": [
+      {
+        "label": "event",
+        "probe": "deviation"
+      },
+      {
+        "label": "difference",
+        "probe": "divergence"
+      },
+      {
+        "label": "being",
+        "probe": "variability"
+      },
+      {
+        "label": "activity",
+        "probe": "variation"
+      }
+    ]
+  },
+  "variation": {
+    "senses": [
+      {
+        "label": "instance",
+        "probe": "fluctuation"
+      },
+      {
+        "label": "activity",
+        "probe": "variance"
+      },
+      {
+        "label": "artifact",
+        "probe": "artifact"
+      },
+      {
+        "label": "perturbation",
+        "probe": "perturbation"
+      },
+      {
+        "label": "organism",
+        "probe": "mutant"
+      }
+    ]
+  },
+  "variations": {
+    "senses": [
+      {
+        "label": "instance",
+        "probe": "variation"
+      },
+      {
+        "label": "activity",
+        "probe": "variance"
+      },
+      {
+        "label": "artifact",
+        "probe": "artifact"
+      },
+      {
+        "label": "perturbation",
+        "probe": "perturbation"
+      },
+      {
+        "label": "organism",
+        "probe": "mutant"
+      }
+    ]
+  },
+  "varieties": {
+    "senses": [
+      {
+        "label": "collection",
+        "probe": "accumulation"
+      },
+      {
+        "label": "noticeable",
+        "probe": "heterogeneity"
+      },
+      {
+        "label": "taxonomic",
+        "probe": "taxonomic"
+      }
+    ]
+  },
+  "ventilation": {
+    "senses": [
+      {
+        "label": "mechanical",
+        "probe": "mechanical"
+      },
+      {
+        "label": "bodily",
+        "probe": "respiration"
+      }
+    ]
+  },
+  "vibration": {
+    "senses": [
+      {
+        "label": "vibrating",
+        "probe": "motility"
+      },
+      {
+        "label": "regular",
+        "probe": "oscillation"
+      }
+    ]
+  },
+  "vibrations": {
+    "senses": [
+      {
+        "label": "vibrating",
+        "probe": "vibration"
+      },
+      {
+        "label": "regular",
+        "probe": "oscillation"
+      }
+    ]
+  },
+  "wastes": {
+    "senses": [
+      {
+        "label": "trait",
+        "probe": "trait"
+      },
+      {
+        "label": "become",
+        "probe": "rot"
+      }
+    ]
+  },
+  "watercolor": {
+    "senses": [
+      {
+        "label": "painting",
+        "probe": "watercolour"
+      },
+      {
+        "label": "water",
+        "probe": "pigment"
+      },
+      {
+        "label": "technique",
+        "probe": "technique"
+      }
+    ]
+  },
+  "watercolors": {
+    "senses": [
+      {
+        "label": "painting",
+        "probe": "watercolor"
+      },
+      {
+        "label": "water",
+        "probe": "watercolour"
+      },
+      {
+        "label": "water",
+        "probe": "pigment"
+      },
+      {
+        "label": "technique",
+        "probe": "technique"
+      }
+    ]
+  },
+  "watercolour": {
+    "senses": [
+      {
+        "label": "water",
+        "probe": "watercolor"
+      },
+      {
+        "label": "technique",
+        "probe": "technique"
+      }
+    ]
+  },
+  "watercolours": {
+    "senses": [
+      {
+        "label": "water",
+        "probe": "watercolor"
+      },
+      {
+        "label": "water",
+        "probe": "watercolour"
+      },
+      {
+        "label": "technique",
+        "probe": "technique"
+      }
+    ]
+  },
+  "worms": {
+    "senses": [
+      {
+        "label": "numerous",
+        "probe": "invertebrate"
+      },
+      {
+        "label": "nasty",
+        "probe": "insect"
+      }
+    ]
+  },
+  "zoology": {
+    "senses": [
+      {
+        "label": "life",
+        "probe": "fauna"
+      },
+      {
+        "label": "branch",
+        "probe": "biology"
+      }
+    ]
+  }
+}
